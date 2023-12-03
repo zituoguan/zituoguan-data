@@ -1,5 +1,5 @@
-name: Backup
-description: '[Backup](https://en.wikipedia.org/wiki/Backup) software.'
+name: 备份
+description: '[备份](https://en.wikipedia.org/wiki/Backup)软件。'
 redirect:
   - title: awesome-sysadmin/Backups
     url: https://github.com/awesome-foss/awesome-sysadmin#backups

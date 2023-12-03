@@ -1,2 +1,5 @@
-name: Communication - Custom Communication Systems
-description: '[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols.'
+name: 商务
+description: '[商务](https://en.wikipedia.org/wiki/Business)是指在交易、生产和分配商品和服务的过程中所涉及的各种活动。商务软件通常用于管理企业的各个方面，包括财务、销售、供应链等。'
+related_tags:
+  - 企业资源规划（ERP）
+  - 财务管理

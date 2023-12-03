@@ -1,5 +1,5 @@
-name: Federated Identity & Authentication
-description: '[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.'
+name: 联邦身份和认证
+description: '[联邦身份](https://en.wikipedia.org/wiki/Federated_identity)和[认证](https://en.wikipedia.org/wiki/Electronic_authentication)软件。'
 redirect:
-  - title: awesome-sysadmin/Identity Management
+  - title: awesome-sysadmin/身份管理
     url: https://github.com/awesome-foss/awesome-sysadmin#identity-management

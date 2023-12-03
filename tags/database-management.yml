@@ -1,8 +1,8 @@
-name: Database Management
-description: Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management. Includes tools for database analytics and visualization.
+name: 数据库管理
+description: [数据库](https://en.wikipedia.org/wiki/Database)管理的Web界面。包括用于数据库分析和可视化的工具。
 external_links:
-  - title: dbdb.io - Database of Databases
+  - title: dbdb.io - 数据库之数据库
     url: https://dbdb.io/
 related_tags:
-  - Analytics
-  - Automation
+  - 分析
+  - 自动化

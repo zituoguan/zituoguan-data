@@ -1,5 +1,5 @@
-name: Maps and Global Positioning System (GPS)
-description: '[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.'
+name: 地图和全球定位系统（GPS）
+description: '[地图](https://en.wikipedia.org/wiki/Map)、[制图学](https://en.wikipedia.org/wiki/Cartography)、[地理信息系统（GIS）](https://en.wikipedia.org/wiki/Geographic_information_system)和[全球定位系统（GPS）](https://en.wikipedia.org/wiki/Global_Positioning_System)软件。'
 external_links:
   - title: awesome-openstreetmap
     url: https://github.com/osmlab/awesome-openstreetmap

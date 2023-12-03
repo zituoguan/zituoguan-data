@@ -1,5 +1,5 @@
-name: Automation
-description: '[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.'
+name: 自动化
+description: '[自动化](https://en.wikipedia.org/wiki/Automation)软件，旨在减少人类在流程中的干预。
 related_tags:
-  - Internet of Things (IoT)
-  - Software Development - Continuous Integration & Deployment
+  - 物联网（IoT）
+  - 软件开发 - 持续集成与部署

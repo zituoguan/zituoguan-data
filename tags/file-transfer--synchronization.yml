@@ -1,4 +1,4 @@
-name: File Transfer & Synchronization
-description: '[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.'
+name: 文件传输与同步
+description: '[文件传输](https://en.wikipedia.org/wiki/File_transfer)、[共享](https://en.wikipedia.org/wiki/File_sharing)和[同步软件](https://en.wikipedia.org/wiki/File_synchronization)。'
 related_tags:
-  - Groupware
+  - 协同办公

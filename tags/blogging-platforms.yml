@@ -1,8 +1,8 @@
-name: Blogging Platforms
-description: A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts).
+name: 博客平台
+description: [博客](https://en.wikipedia.org/wiki/Blog)是由离散的、类日记式的文本条目（帖子）组成的讨论或信息性网站。
 external_links:
   - title: WeblogMatrix
     url: https://www.weblogmatrix.org/
 related_tags:
-  - Static Site Generators
-  - Content Management Systems (CMS)
+  - 静态网站生成器
+  - 内容管理系统（CMS）

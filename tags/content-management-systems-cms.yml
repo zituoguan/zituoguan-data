@@ -1,6 +1,6 @@
-name: Content Management Systems (CMS)
-description: '[Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.'
+name: 内容管理系统（CMS）
+description: '[内容管理系统](https://en.wikipedia.org/wiki/Content_management_system)提供了一种实用的方式来设置具有许多功能的网站，使用第三方插件、主题和易于添加和定制的功能。'
 related_tags:
-  - Blogging Platforms
-  - Static Site Generators
-  - Photo and Video Galleries
+  - 博客平台
+  - 静态网站生成器
+  - 照片和视频库

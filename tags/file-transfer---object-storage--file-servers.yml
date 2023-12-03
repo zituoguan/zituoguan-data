@@ -1,2 +1,2 @@
-name: File Transfer - Object Storage & File Servers
-description: '[Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.'
+name: 文件传输 - 对象存储和文件服务器
+description: '[对象存储](https://en.wikipedia.org/wiki/Object_storage)是一种将数据管理为对象的计算机数据存储方式，与其他存储架构（如文件系统，将数据管理为文件层次结构，以及块存储，将数据管理为扇区和磁道内的块）相对立。'

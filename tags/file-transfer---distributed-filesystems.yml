@@ -1,5 +1,5 @@
-name: File Transfer - Distributed Filesystems
-description: Network distributed filesystems.
+name: 文件传输 - 分布式文件系统
+description: 网络分布式文件系统。
 redirect:
-  - title: awesome-sysadmin/Distributed Filesystems
+  - title: awesome-sysadmin/分布式文件系统
     url: https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems

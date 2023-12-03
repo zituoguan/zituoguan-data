@@ -1,5 +1,5 @@
-name: Analytics
-description: '[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.'
+name: 分析
+description: '[分析](https://en.wikipedia.org/wiki/Analytics)'是对数据或统计信息进行系统计算分析的过程。它用于发现、解释和传达数据中的有意义的模式。
 related_tags:
-  - Database Management
-  - Personal Dashboards
+  - 数据库管理
+  - 个人仪表板

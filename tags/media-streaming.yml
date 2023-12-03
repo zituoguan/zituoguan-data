@@ -1,14 +1,14 @@
-name: Media Streaming
-description: '[Streaming media](https://en.wikipedia.org/wiki/Streaming_media) is multimedia that is delivered and consumed in a continuous manner from a source, with little or no intermediate storage in network elements.'
+name: 媒体流媒体
+description: '[流媒体](https://en.wikipedia.org/wiki/Streaming_media)是以连续的方式从源头传递和消费的多媒体，网络元素中几乎没有或没有中间存储。'
 external_links:
-  - title: List of streaming media systems - Wikipedia
+  - title: 流媒体系统列表 - Wikipedia
     url: https://en.wikipedia.org/wiki/List_of_streaming_media_systems
-  - title: Comparison of streaming media systems - Wikipedia
+  - title: 流媒体系统比较 - Wikipedia
     url: https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems
 redirect:
-  - title: Media streaming - Audio Streaming
+  - title: 媒体流媒体 - 音频流媒体
     url: '#media-streaming---audio-streaming'
-  - title: Media streaming - Multimedia Streaming
+  - title: 媒体流媒体 - 多媒体流媒体
     url: '#media-streaming---multimedia-streaming'
-  - title: Media streaming - Video Streaming
+  - title: 媒体流媒体 - 视频流媒体
     url: '#media-streaming---video-streaming'

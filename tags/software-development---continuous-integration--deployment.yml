@@ -1,7 +1,7 @@
-name: Software Development - Continuous Integration & Deployment
-description: '[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.'
+name: 软件开发 - 持续集成与部署
+description: '[持续集成](https://en.wikipedia.org/wiki/Continuous_integration)和[持续部署](https://en.wikipedia.org/wiki/Continuous_deployment)的软件和工具。'
 redirect:
-  - title: awesome-sysadmin/Continuous Integration & Continuous Deployment
+  - title: awesome-sysadmin/持续集成与持续部署
     url: https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment
 related_tags:
-  - Automation
+  - 自动化

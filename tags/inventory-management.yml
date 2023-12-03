@@ -1,8 +1,8 @@
-name: Inventory Management
-description: '[Inventory management software](https://en.wikipedia.org/wiki/Inventory_management_software).'
+name: 库存管理
+description: '[库存管理软件](https://en.wikipedia.org/wiki/Inventory_management_software)。'
 external_links:
-  - title: awesome-sysadmin/IT Asset Management
+  - title: awesome-sysadmin/IT资产管理
     url: https://github.com/awesome-foss/awesome-sysadmin#it-asset-management
 related_tags:
-  - Money, Budgeting & Management
-  - Resource Planning
+  - 财务、预算和管理
+  - 资源规划
