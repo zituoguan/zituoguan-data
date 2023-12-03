@@ -1,107 +1,111 @@
-# Contributing
+# 贡献
 
-Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), [`fix`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Afix) and [`curation`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration).
+不知道从哪里开始？查看标记为 [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)、[`fix`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Afix) 和 [`curation`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration) 的问题。
 
-### Curation
+### 策展
 
-- Software with no development activity for 6-12 months may be removed from the list
-- Unmaintained software without an active community and/or persistent security issues may be removed from the list
-- Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
+- 超过 6-12 个月没有开发活动的软件可能会从列表中删除
+- 没有活跃社区和/或存在持久安全问题的未维护软件可能会从列表中删除
+- 问题应该被自动报告: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
-### Add software to the list
+### 添加软件到列表
 
-- [Create a new `software/software-name.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md). Please use [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) for file naming, for example `my-awesome-software.yml`.
-- Remove comments and unused optional fields
-- Enter a descriptive commit message (such as `add My Awesome software`)
-- Select `Create a new branch for this commit and start a pull request`
-- Click `Propose new file`
-- Click `Create pull request`
+- [根据 [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md) 中的模板，创建一个新的 `software/software-name.yml` 文件](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software)。请使用 [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) 作为文件命名，例如 `my-awesome-software.yml`。
+- 删除注释和未使用的可选字段
+- 输入描述性的提交消息（例如 `add My Awesome software`）
+- 选择 `为此提交创建新分支并开始拉取请求`
+- 点击 `提议新文件`
+- 点击 `创建拉取请求`
 
-If you are not comfortable sending a pull request, please open a new [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues).
+如果您不愿意发送拉取请求，请打开一个新的 [问题](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)。
 
-In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) the software will only appear under the first category in its `tags` list, so choose wisely.
+在 [单页模式](https://github.com/awesome-selfhosted/awesome-selfhosted) 中，软件将只显示在其 `tags` 列表中的第一个类别下，所以要明智选择。
 
 
-### Add a tag/category
+### 添加标签/分类
 
-Tags represent functional categories/features of the software, and must be added to `tags/tag-name.yml` (use [existing tags](tags/) as example). Any tag must have a minimum of 3 software projects referencing it. The [`Miscellaneous`](tags/miscellaneous.yml) tag can be used for software not matching any existing category.
+标签表示软件的功能类别/特性，并且必须添加到 `tags/tag-name.yml`（使用 [existing tags](tags/) 作为示例）。任何标签必须至少有 3 个软件项目引用它。[`Miscellaneous`](tags/miscellaneous.yml) 标签可用于与任何现有类别不匹配的软件。
+
 
 ```yaml
-# project name
-name: Project Management
-# description of what this tag/category is about (markdown allowed)
-description: '[Project management](https://en.wikipedia.org/wiki/Project_management) is the process of leading the work of a team to achieve all project goals within the given constraints.'
-# (optional) list of related tags, by name
+# 项目名称
+name: 项目管理
+# 此标签/分类内容的描述（允许使用 markdown）
+description: '[项目管理](https://en.wikipedia.org/wiki/Project_management) 是引导团队完成给定约束下的所有项目目标的过程。'
+# (可选) 相关标签的名称列表
 related_tags:
-  - Ticketing
-  - Task management & To-do lists
-# (optional) external links
+  - 票务
+  - 任务管理与待办事项列表
+# (可选) 外部链接
 external_links:
   - title: awesome-sysadmin/Code Review
     url: https://github.com/awesome-foss/awesome-sysadmin#code-review
-# (optional) if this is set, no software items will be allowed to reference this tag, and the page will display a block asking to visit these links instead
+# (可选) 如果设置，将不允许软件项目引用此标签，并且页面将显示一个块，要求访问这些链接
 redirect:
   - title: awesome-sysadmin/Continuous Integration & Continuous Deployment
     url: https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment
-
 ```
 
-### Add a license
 
-[Free and Open-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) software licenses (preferably [SPDX identifier](https://spdx.org/licenses/), or custom licenses, must be added to `licenses.yml` (use [existing licenses](licenses.yml) as example):
+### 添加许可证
+
+[自由和开源](https://en.wikipedia.org/wiki/Free_and_open-source_software) 软件许可证（最好使用 [SPDX 标识符](https://spdx.org/licenses/) 或自定义许可证）必须添加到 `licenses.yml`（使用 [现有许可证](licenses.yml) 作为示例）：
+
 
 ```yaml
-  # short license identifier
+  # 许可证简称
 - identifier: ZPL-1.2
-  # full license name
+  # 完整许可证名称
   name: Zope Public License 1.2
-  # link to the full license text
+  # 完整许可证文本链接
   url: http://zpl.pub/page/zplv12
 ```
 
-### Add a language/platform
+### 添加语言/平台
 
-Languages/requirements/technologies used to run or build the software should be listed in `platforms/platform-name.yml` (use [existing platforms](platforms/) as example):
+用于运行或构建软件的语言/要求/技术应列在 `platforms/platform-name.yml` 中（可以使用[现有平台](platforms/)作为示例）：
 
 ```yaml
-# language/platform name
+# 语言/平台名称
 name: Java
-# general description of the programming language or deployment platform (markdown allowed)
-description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+# 编程语言或部署平台的一般描述（允许使用Markdown）
+description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 是一种高级的、基于类的、面向对象的编程语言，旨在尽可能减少实现依赖关系。"
 ```
 
-### Remove software from the list
 
-Simply delete the appropriate file under `software/` and submit a Pull Request.
-To do this from Github's web interface:
-- use the [go to file](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) feature to open the appropriate file (e.g. [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml))
-- Click the `...` button at the top right of the file view, click `Delete file`
-- In the `Commit changes` dialog, enter `Remove SOFTWARE_NAME (reason)` as your commit message, additional context in the `extended description` field, select `Create a new branch for this commit and start a pull request.`, and click `Commit Changes`
+### 从列表中移除软件
 
-
-### Domain name costs
-
-You can help cover domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
+只需删除 `software/` 目录下的相应文件并提交 Pull Request。
+通过 Github 的网页界面进行操作：
+- 使用 [go to file](https://github.com/r3f/zituoguan-data?search=1) 功能打开相应的文件（例如 [`software/redash.yml`](https://github.com/r3f/zituoguan-data/blob/master/software/redash.yml)）
+- 点击文件视图右上角的 `...` 按钮，选择 `Delete file`
+- 在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (reason)` 作为您的提交消息，在 `extended description` 字段中提供额外的上下文信息，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
 
 
-### Other
+### 域名费用
 
-**Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.
+您可以通过各种方式捐赠我们。
 
-**Automated tasks:**
+
+### 其他
+
+**重命名标签/类别：** 必须在相应的 `tags/mytag.yml` 文件中将标签重命名。必须在 `tags/*.yml` 和 `software/*.yml` 中更新所有对它的引用。
+
+**自动化任务：**
+
 
 ```bash
 $ make help
-install             install build tools in a virtualenv
-import              import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
-update_metadata     update metadata from project repositories/API
-awesome_lint        check data against awesome-selfhosted guidelines
-export_markdown     render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
-export_html         render HTML export from YAML data (https://awesome-selfhosted.net)
-push_markdown       commit and push changes to the markdown repository
-push_html           commit and push changes to the HTML site repository (amend previous commit and force-push)
-url_check           check URLs for dead links or other connection problems
-authors             update the AUTHORS file
-clean               clean files generated by automated tasks
-help                generate list of targets with descriptions
+install             在虚拟环境中安装构建工具
+import              从 https://github.com/r3f/zituoguan 上导入原始列表数据
+update_metadata     从项目存储库/API更新元数据
+awesome_lint        根据 awesome-selfhosted 指南检查数据
+export_markdown     从 YAML 数据中渲染出 Markdown 导出（https://github.com/r3f/zituoguan）
+export_html         从 YAML 数据中渲染出 HTML 导出（https://zituoguan.com）
+push_markdown       提交并推送到 Markdown 存储库
+push_html           提交并推送到 HTML 网站存储库（修改先前的提交并强制推送）
+url_check           检查 URL 是否存在死链或其他连接问题
+authors             更新 AUTHORS 文件
+clean               清理由自动化任务生成的文件
+help                生成带有描述的目标列表
 ```
