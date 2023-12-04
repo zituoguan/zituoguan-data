@@ -2,7 +2,7 @@
 
 不知道从哪里开始？查看标记为 [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)、[`fix`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Afix) 和 [`curation`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration) 的问题。
 
-请在(awesome-selfhosted-data)[https://github.com/awesome-selfhosted/awesome-selfhosted-data]提交，本项目仅用于中文翻译和输出
+请在[awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)提交，本项目仅用于中文翻译和输出
 
 ### 策展
 
