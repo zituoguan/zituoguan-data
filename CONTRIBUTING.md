@@ -21,7 +21,7 @@
 
 如果您不愿意发送拉取请求，请打开一个新的 [问题](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)。
 
-在 [单页模式](https://github.com/awesome-selfhosted/awesome-selfhosted) 中，软件将只显示在其 `tags` 列表中的第一个类别下，所以要明智选择。
+在 [单页模式](https://github.com/r3f/zituoguan) 中，软件将只显示在其 `tags` 列表中的第一个类别下，所以要明智选择。
 
 
 ### 添加标签/分类
