@@ -1,4 +1,4 @@
-name: Status / Uptime pages
-description: '[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available. '
+name: 状态/正常运行页面
+description: '[正常运行时间](https://en.wikipedia.org/wiki/Uptime)是系统可靠性的度量，表示计算机或其他机器正常工作并可用的时间百分比。'
 related_tags:
-  - Monitoring
+  - 监控

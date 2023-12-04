@@ -1,19 +1,19 @@
-name: Software Development
-description: '[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.'
+name: 软件开发
+description: '[软件开发](https://en.wikipedia.org/wiki/Software_development)是涉及构思、规范、设计、编程、文档编制、测试和修复错误的过程，用于创建和维护应用程序、框架或其他软件组件。'
 redirect:
-  - title: Software Development - API Management
+  - title: 软件开发 - API 管理
     url: '#software-development---api-management'
-  - title: Software Development - Continuous Integration & Deployment
+  - title: 软件开发 - 持续集成与部署
     url: '#software-development---continuous-integration--deployment'
-  - title: Software Development - FaaS & Serverless
+  - title: 软件开发 - FaaS 与无服务器
     url: '#software-development---faas--serverless'
-  - title: Software Development - IDE & Tools
+  - title: 软件开发 - IDE 与工具
     url: '#software-development---ide--tools'
-  - title: Software Development - Localization
+  - title: 软件开发 - 本地化
     url: '#software-development---localization'
-  - title: Software Development - Low Code
+  - title: 软件开发 - 低代码
     url: '#software-development---low-code'
-  - title: Software Development - Project Management
+  - title: 软件开发 - 项目管理
     url: '#software-development---project-management'
-  - title: Software Development - Testing
+  - title: 软件开发 - 测试
     url: '#software-development---testing'

@@ -1,11 +1,11 @@
 name: Wikis
-description: A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.
+description: '[Wiki](https://en.wikipedia.org/wiki/Wiki) 是一种由其观众直接使用 Web 浏览器协作编辑和管理的出版物。'
 external_links:
   - title: Wikimatrix
     url: https://www.wikimatrix.org/
-  - title: List of wiki software - Wikipedia
+  - title: wiki软件清单 - Wikipedia
     url: https://en.wikipedia.org/wiki/List_of_wiki_software
-  - title: Comparison of wiki software - Wikipedia
+  - title: wiki软件比较 - Wikipedia
     url: https://en.wikipedia.org/wiki/Comparison_of_wiki_software
 related_tags:
-  - Static Site Generators
+  - 静态站点生成器
