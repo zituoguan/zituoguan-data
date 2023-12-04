@@ -1,12 +1,12 @@
 name: Ampache
 website_url: https://ampache.org/
-description: Web based audio/video streaming application.
+description: Web 基础的音频/视频流应用。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Media Streaming - Audio Streaming
+  - 媒体流 - 音频流
 source_code_url: https://github.com/ampache/ampache
 demo_url: https://play.dogmazic.net/
 stargazers_count: 3353

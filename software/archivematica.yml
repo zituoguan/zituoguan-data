@@ -1,12 +1,12 @@
 name: Archivematica
 website_url: https://www.archivematica.org/en/
-description: Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects.
+description: 成熟的数字保存系统，旨在维护符合标准的数字对象集的长期访问。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 存档与数字保存（DP）
 source_code_url: https://github.com/artefactual/archivematica
 demo_url: https://sandbox.archivematica.org/administration/accounts/login/
 stargazers_count: 388

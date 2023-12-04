@@ -1,2 +1,2 @@
 name: Docker
-description: "[Docker](https://en.wikipedia.org/wiki/Docker_(software)) is a tool that automates the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation."
+description: "[Docker](https://en.wikipedia.org/wiki/Docker_(software)) 是一种工具，它自动化应用程序在轻量级容器中的部署，使应用程序能够在隔离的不同环境中高效运行。"

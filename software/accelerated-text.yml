@@ -1,12 +1,12 @@
 name: Accelerated Text
 website_url: https://github.com/accelerated-text/accelerated-text
-description: Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+description: 自动生成在措辞和结构上有所变化的数据的多个自然语言描述。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/accelerated-text/accelerated-text
 stargazers_count: 769
 updated_at: '2022-12-29'

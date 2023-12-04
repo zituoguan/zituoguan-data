@@ -1,12 +1,12 @@
 name: ARRCON
 website_url: https://github.com/radj307/ARRCON
-description: Terminal-based RCON client compatible with any game servers using the Source RCON Protocol.
+description: 使用 Source RCON 协议，与任何使用该协议的游戏服务器兼容的终端 RCON 客户端。
 licenses:
   - GPL-3.0
 platforms:
   - C++
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具与控制面板
 source_code_url: https://github.com/radj307/ARRCON
 stargazers_count: 38
 updated_at: '2023-11-20'

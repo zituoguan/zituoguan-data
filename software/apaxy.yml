@@ -1,12 +1,12 @@
 name: Apaxy
 website_url: https://oupala.github.io/apaxy/
-description: Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing.
+description: 一款旨在提升浏览 Web 目录体验的主题，使用 mod_autoindex Apache 模块和一些 CSS 来覆盖目录列表的默认样式。
 licenses:
   - GPL-3.0
 platforms:
   - Javascript
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/oupala/apaxy
 stargazers_count: 1823
 updated_at: '2023-01-11'

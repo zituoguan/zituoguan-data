@@ -1,10 +1,10 @@
 name: 3CX
 website_url: https://www.3cx.com/pbx/
-description: Full-featured PABX system, with call queues, built-in web conferencing, live chat and social media messaging all on one system.
+description: 全功能PABX系统，具备呼叫队列、内置网络会议、实时聊天和社交媒体消息，一体化管理。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://www.3cx.com/pbx/

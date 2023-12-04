@@ -1,12 +1,12 @@
 name: ArchivesSpace
 website_url: https://archivesspace.org/
-description: Archives information management application for managing and providing Web access to archives, manuscripts and digital objects.
+description: 用于管理和提供对档案、手稿和数字对象的 Web 访问的档案信息管理应用程序。
 licenses:
   - ECL-2.0
 platforms:
   - Ruby
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 存档与数字保存（DP）
 source_code_url: https://github.com/archivesspace/archivesspace
 demo_url: https://archivesspace.org/application/demo
 stargazers_count: 306

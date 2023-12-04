@@ -1,12 +1,12 @@
 name: A Dark Room
 website_url: https://github.com/doublespeakgames/adarkroom
-description: Minimalist text adventure game for your browser.
+description: 适用于浏览器的极简主义文本冒险游戏。
 licenses:
   - MPL-2.0
 platforms:
   - Javascript
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/doublespeakgames/adarkroom
 demo_url: https://adarkroom.doublespeakgames.com/
 stargazers_count: 6750

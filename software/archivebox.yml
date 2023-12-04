@@ -1,13 +1,13 @@
 name: ArchiveBox
 website_url: https://archivebox.io/
-description: Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources.
+description: 自托管的“时光机”工具，可以从书签、浏览历史、RSS 订阅或其他来源创建网站的 HTML 和截图存档。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 存档与数字保存（DP）
 source_code_url: https://github.com/ArchiveBox/ArchiveBox
 stargazers_count: 17376
 updated_at: '2023-11-20'

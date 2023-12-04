@@ -1,13 +1,13 @@
 name: Atheos
 website_url: https://www.atheos.io
-description: Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad.
+description: 一个基于Web的 IDE 框架，占用空间小、要求最低，是 Codiad 的延续。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/Atheos/Atheos
 stargazers_count: 411
 updated_at: '2023-03-26'

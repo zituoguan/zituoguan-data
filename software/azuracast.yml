@@ -1,12 +1,12 @@
 name: AzuraCast
 website_url: https://www.azuracast.com/
-description: A modern and accessible self-hosted web radio management suite.
+description: 一套现代、易用的自托管网络广播管理套件。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Media Streaming - Audio Streaming
+  - 媒体流 - 音频流
 source_code_url: https://github.com/AzuraCast/AzuraCast
 stargazers_count: 2593
 updated_at: '2023-12-01'

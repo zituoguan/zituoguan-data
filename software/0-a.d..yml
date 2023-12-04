@@ -1,6 +1,6 @@
 name: 0 A.D.
 website_url: https://play0ad.com/
-description: A free, open-source game of ancient warfare.
+description: 一款古代战争的免费、开源游戏。
 licenses:
   - MIT
   - GPL-2.0
@@ -10,7 +10,7 @@ platforms:
   - C
   - deb
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/0ad/0ad
 stargazers_count: 2532
 updated_at: '2023-12-01'

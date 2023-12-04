@@ -1,13 +1,13 @@
 name: Apache Airflow
 website_url: https://airflow.apache.org/
-description: Airflow is a platform to programmatically author, schedule, and monitor workflows.
+description: Airflow 是一个用于以编程方式编写、调度和监视工作流的平台。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/apache/airflow/
 stargazers_count: 32576
 updated_at: '2023-12-02'

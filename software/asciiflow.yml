@@ -1,12 +1,12 @@
 name: asciiflow
 website_url: https://asciiflow.com/
-description: Flow Diagram Drawing Tool.
+description: 流程图绘制工具。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/lewish/asciiflow
 stargazers_count: 4123
 updated_at: '2022-01-15'

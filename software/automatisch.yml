@@ -1,12 +1,12 @@
 name: Automatisch
 website_url: https://automatisch.io
-description: Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier).
+description: 业务自动化工具，可连接不同的服务，如Twitter、Slack等，以自动化业务流程（类似于Zapier的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/automatisch/automatisch
 stargazers_count: 3245
 updated_at: '2023-11-30'

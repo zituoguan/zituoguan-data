@@ -1,6 +1,6 @@
 name: Appsmith
 website_url: https://www.appsmith.com/
-description: Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster.
+description: 云端或自托管的开源平台，用于构建管理面板、CRUD 应用程序和工作流。快速构建所需的一切，提高效率 10 倍。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/appsmithorg/appsmith
 stargazers_count: 29901
 updated_at: '2023-12-01'

@@ -1,13 +1,13 @@
 name: Answer
 website_url: https://answer.dev/
-description: An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+description: 一款开源的基于知识的社区软件。您可以使用它快速构建用于产品技术支持、客户支持、用户交流等的问答社区。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Go
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/answerdev/answer
 stargazers_count: 9057
 updated_at: '2023-11-30'

@@ -1,2 +1,2 @@
 name: Nix
-description: "[Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) is a cross-platform package manager that uses a deployment model where software is installed into unique directories generated through cryptographic hashes. It is also the name of the tool's programming language."
+description: "[Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) 是一个跨平台的包管理器，采用一种部署模型，将软件安装到通过加密哈希生成的唯一目录中。它也是该工具的编程语言的名称。"

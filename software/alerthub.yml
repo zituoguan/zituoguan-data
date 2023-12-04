@@ -1,13 +1,13 @@
 name: AlertHub
 website_url: https://github.com/Ardakilic/alerthub
-description: AlertHub is a simple tool to get alerted from GitHub releases.
+description: AlertHub 是一个简单的工具，用于从 GitHub 发布中接收警报。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/Ardakilic/alerthub
 depends_3rdparty: true
 stargazers_count: 168

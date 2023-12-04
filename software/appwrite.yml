@@ -1,12 +1,12 @@
 name: Appwrite
 website_url: https://appwrite.io
-description: End to end backend server for web, native, and mobile developers 🚀.
+description: 为 Web、本地和移动开发人员提供的端到端后端服务器 🚀。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
 tags:
-  - Software Development - FaaS & Serverless
+  - 软件开发 - FaaS 和无服务器
 source_code_url: https://github.com/appwrite/appwrite
 stargazers_count: 38228
 updated_at: '2023-11-16'

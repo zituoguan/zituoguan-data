@@ -1,13 +1,13 @@
 name: Ansible-NAS
 website_url: https://github.com/DaveStephens/ansible-nas
-description: Build a full-featured home server with this playbook and an Ubuntu box.
+description: 使用这个 playbook 和一个 Ubuntu 服务器构建功能齐全的家庭服务器。
 licenses:
   - MIT
 platforms:
   - Ansible
   - Docker
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/DaveStephens/ansible-nas
 stargazers_count: 2733
 updated_at: '2023-11-19'

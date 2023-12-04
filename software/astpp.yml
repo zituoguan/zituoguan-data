@@ -1,12 +1,12 @@
 name: ASTPP
 website_url: https://www.astppbilling.org/
-description: VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features.
+description: Freeswitch 的 VoIP 计费解决方案。它支持预付费和后付费计费，具有通话评级和信用控制。还提供许多其他功能。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/iNextrix/ASTPP
 stargazers_count: 145
 updated_at: '2023-10-18'

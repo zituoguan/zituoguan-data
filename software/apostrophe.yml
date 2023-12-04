@@ -1,12 +1,12 @@
 name: Apostrophe
 website_url: https://apostrophecms.com/
-description: CMS with a focus on extensible in-context editing tools.
+description: 一款注重可扩展的现场编辑工具的内容管理系统 (CMS)。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统 (CMS)
 source_code_url: https://github.com/apostrophecms/apostrophe
 demo_url: https://apostrophecms.com/demo
 stargazers_count: 4175

@@ -1,12 +1,12 @@
 name: AWStats
 website_url: http://www.awstats.org/
-description: Generate statistics from web, streaming, ftp or mail server logfiles.
+description: 从 web、流媒体、FTP 或邮件服务器的日志文件生成统计信息。
 licenses:
   - GPL-3.0
 platforms:
   - Perl
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/eldy/awstats
 stargazers_count: 328
 updated_at: '2023-09-02'

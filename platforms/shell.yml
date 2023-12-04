@@ -1,2 +1,2 @@
 name: Shell
-description: "A [Unix shell](https://en.wikipedia.org/wiki/Unix_shell) is a command-line interpreter that provides a command-line user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts."
+description: "[Unix shell](https://en.wikipedia.org/wiki/Unix_shell) 是一个命令行解释器，为类Unix操作系统提供命令行用户界面。Shell 既是一种交互式命令语言，也是一种脚本语言，被操作系统用于通过 shell 脚本控制系统的执行。"

@@ -1,12 +1,12 @@
 name: Anchr
 website_url: https://anchr.io
-description: Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads.
+description: Anchr 是一个用于处理互联网上小任务的工具箱，包括书签集、URL 缩短和（加密的）图像上传。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/muety/anchr
 stargazers_count: 218
 updated_at: '2023-09-19'

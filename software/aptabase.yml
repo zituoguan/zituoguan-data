@@ -1,12 +1,12 @@
 name: Aptabase
 website_url: https://aptabase.com/
-description: Open source, privacy first and simple analytics for mobile and desktop apps.
+description: 面向移动和桌面应用的开源、隐私第一的简易分析工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/aptabase/aptabase
 stargazers_count: 347
 updated_at: '2023-11-27'

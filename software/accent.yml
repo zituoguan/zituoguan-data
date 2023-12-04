@@ -1,13 +1,13 @@
 name: Accent
 website_url: https://www.accent.reviews/
-description: Open-source, self-hosted, developer-oriented translation tool.
+description: 开源、自托管的、面向开发者的翻译工具。
 licenses:
   - BSD-3-Clause
 platforms:
   - Elixir
   - Docker
 tags:
-  - Software Development - Localization
+  - 软件开发 - 本地化
 source_code_url: https://github.com/mirego/accent
 stargazers_count: 1050
 updated_at: '2023-11-23'

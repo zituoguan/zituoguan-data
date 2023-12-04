@@ -1,12 +1,12 @@
 name: Antville
 website_url: https://antville.org
-description: Free, open source project aimed at the development of a high performance, feature rich weblog hosting software.
+description: 一个旨在开发高性能、功能丰富的博客托管软件的免费、开源项目。
 licenses:
   - Apache-2.0
 platforms:
   - Javascript
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/antville/antville
 stargazers_count: 68
 updated_at: '2023-08-28'

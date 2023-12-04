@@ -1,13 +1,13 @@
 name: Actual
 website_url: https://actualbudget.github.io/docs/
-description: Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks.
+description: Actual 是一个基于零和预算的本地优先个人财务工具。它支持设备间同步、自定义规则、手动导入交易（从 QIF、OFX 和 QFX 文件）、以及可选与多家银行进行自动同步。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 金融、预算与管理
 source_code_url: https://github.com/actualbudget/actual-server
 stargazers_count: 2114
 updated_at: '2023-12-02'

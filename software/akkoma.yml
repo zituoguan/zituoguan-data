@@ -1,11 +1,11 @@
 name: Akkoma
 website_url: https://akkoma.social/
-description: Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility.
+description: 基于 Mastodon、GNU social 和 ActivityPub 兼容性的联邦微博服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Elixir
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://akkoma.dev/AkkomaGang/akkoma

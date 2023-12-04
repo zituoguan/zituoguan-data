@@ -1,13 +1,13 @@
 name: Adminer
 website_url: https://www.adminer.org/
-description: Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others.
+description: 在一个单独的 PHP 文件中进行数据库管理。支持 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL、Oracle、Elasticsearch、MongoDB 等数据库。
 licenses:
   - Apache-2.0
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/vrana/adminer/
 stargazers_count: 5888
 updated_at: '2021-05-23'

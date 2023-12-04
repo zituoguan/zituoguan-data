@@ -1,12 +1,12 @@
 name: ActivityWatch
 website_url: https://activitywatch.net
-description: An app that automatically tracks how you spend time on your devices.
+description: 一款自动跟踪您在设备上花费时间的应用。
 licenses:
   - MPL-2.0
 platforms:
   - Python
 tags:
-  - Time Tracking
+  - 时间跟踪
 source_code_url: https://github.com/ActivityWatch/activitywatch
 stargazers_count: 9842
 updated_at: '2023-11-27'

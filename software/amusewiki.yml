@@ -1,6 +1,6 @@
 name: AmuseWiki
 website_url: https://amusewiki.org/
-description: Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site.
+description: Amusewiki 基于 Emacs Muse 标记语言，基本上与原始实现保持兼容。它可以作为只读站点、作为经过审核的维基，或者作为完全开放的维基，甚至作为私有站点使用。
 licenses:
   - GPL-1.0
 platforms:

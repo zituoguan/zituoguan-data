@@ -1,13 +1,13 @@
 name: Asterisk
 website_url: https://www.asterisk.org/
-description: Easy to use but advanced IP PBX system, VoIP gateway and conference server.
+description: 易于使用但先进的 IP PBX 系统、VoIP 网关和会议服务器。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/asterisk/asterisk
 stargazers_count: 1714
 updated_at: '2023-11-28'
