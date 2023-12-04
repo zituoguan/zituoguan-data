@@ -79,7 +79,7 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 
 只需删除 `software/` 目录下的相应文件并提交 Pull Request。
 通过 Github 的网页界面进行操作：
-- 使用 [go to file](https://github.com/r3f/zituoguan-data?search=1) 功能打开相应的文件（例如 [`software/redash.yml`](https://github.com/r3f/zituoguan-data/blob/master/software/redash.yml)）
+- 使用 [go to file](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) 功能打开相应的文件（例如 [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml)）
 - 点击文件视图右上角的 `...` 按钮，选择 `Delete file`
 - 在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (reason)` 作为您的提交消息，在 `extended description` 字段中提供额外的上下文信息，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
 
