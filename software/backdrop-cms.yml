@@ -1,12 +1,12 @@
 name: Backdrop CMS
 website_url: https://backdropcms.org/
-description: Comprehensive CMS for small to medium sized businesses and non-profits.
+description: 面向中小型企业和非营利组织的综合性 CMS。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统 (CMS)
 source_code_url: https://github.com/backdrop/backdrop
 stargazers_count: 939
 updated_at: '2023-12-01'

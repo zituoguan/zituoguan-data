@@ -1,10 +1,10 @@
 name: Baserow
 website_url: https://baserow.io/
-description: Create your own database without technical experience (alternative to Airtable).
+description: 在没有技术经验的情况下创建自己的数据库（与Airtable类似的替代品）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://gitlab.com/bramw/baserow
