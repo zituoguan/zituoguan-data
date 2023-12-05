@@ -1,12 +1,12 @@
 name: Evidence
 website_url: https://evidence.dev
-description: Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website.
+description: Evidence是一个基于代码的商业智能工具。使用SQL和Markdown编写报告，它们会呈现为一个网站。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/evidence-dev/evidence
 stargazers_count: 2595
 updated_at: '2023-12-01'

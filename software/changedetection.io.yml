@@ -1,13 +1,13 @@
 name: changedetection.io
 website_url: https://github.com/dgtlmoon/changedetection.io
-description: Self-hosted tool for staying up-to-date with web-site content changes.
+description: 自托管工具，用于保持与网站内容变化的最新状态。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/dgtlmoon/changedetection.io
 stargazers_count: 13323
 updated_at: '2023-12-03'

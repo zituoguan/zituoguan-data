@@ -1,12 +1,12 @@
 name: eLabFTW
 website_url: https://www.elabftw.net
-description: Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….
+description: 用于研究实验室的在线实验笔记本。存储实验数据，使用数据库查找试剂或协议，使用受信任的时间戳对实验进行法律时间戳，导出为PDF或ZIP归档文件，与合作者共享……。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/elabftw/elabftw
 demo_url: https://demo.elabftw.net
 stargazers_count: 835

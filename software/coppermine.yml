@@ -1,12 +1,12 @@
 name: Coppermine
 website_url: https://coppermine-gallery.net/
-description: Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums.
+description: 多语言相册，与各种论坛集成。包括上传审批和密码保护的相册。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Photo and Video Galleries
+  - 照片和视频相册
 source_code_url: https://github.com/coppermine-gallery/cpg1.6.x
 demo_url: https://coppermine-gallery.net/demo/cpg15x/
 stargazers_count: 62

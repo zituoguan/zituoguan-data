@@ -1,12 +1,12 @@
 name: Evergreen
 website_url: https://evergreen-ils.org
-description: Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials.
+description: 面向图书馆的高度可扩展软件，帮助图书馆用户查找图书馆材料，并帮助图书馆管理、编目和流通这些材料。
 licenses:
   - GPL-2.0
 platforms:
   - PLpgSQL
 tags:
-  - Document Management - Integrated Library Systems (ILS)
+  - 文档管理 - 集成图书馆系统（ILS）
 source_code_url: https://github.com/evergreen-library-system/Evergreen
 stargazers_count: 117
 updated_at: '2023-12-01'

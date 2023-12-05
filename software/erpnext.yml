@@ -1,13 +1,13 @@
 name: ERPNext
 website_url: https://erpnext.com
-description: Free open source ERP system.
+description: 自由开源的ERP系统。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Resource Planning
+  - 资源规划
 source_code_url: https://github.com/frappe/erpnext
 stargazers_count: 15423
 updated_at: '2023-12-03'

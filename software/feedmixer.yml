@@ -1,12 +1,12 @@
 name: feedmixer
 website_url: https://github.com/cristoper/feedmixer
-description: FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON).
+description: FeedMixer是一个WSGI（Python3）微型Web服务，接受一组feed URL并返回由每个给定feed的最新n个条目组成的新feed（返回Atom、RSS或JSON）。
 licenses:
   - WTFPL
 platforms:
   - Python
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/cristoper/feedmixer
 demo_url: https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1
 stargazers_count: 135

@@ -1,10 +1,10 @@
 name: Dovel
 website_url: https://dovel.email
-description: SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails.
+description: 根据简单的配置文件发送和接收电子邮件的 SMTP 服务器，可选择提供用于浏览电子邮件的 Web 界面。
 licenses:
   - LGPL-3.0
 platforms:
   - Go
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://dovel.email/server/tree.html

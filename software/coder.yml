@@ -1,6 +1,6 @@
 name: Coder
 website_url: https://coder.com/
-description: Remote development machines on your own infrastructure.
+description: 在您自己的基础设施上进行远程开发机器。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - deb
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE和工具
 source_code_url: https://github.com/coder/coder
 stargazers_count: 5803
 updated_at: '2023-12-03'

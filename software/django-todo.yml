@@ -1,13 +1,13 @@
 name: django-todo
 website_url: http://django-todo.org/
-description: Pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project.
+description: 可插拔、多用户、多组、多列表的待办事项和工单系统 - 一个可重用的应用程序，旨在嵌入到任何现有的Django项目中。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
   - Django
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/shacker/django-todo
 stargazers_count: 786
 updated_at: '2022-11-03'

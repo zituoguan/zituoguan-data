@@ -1,10 +1,10 @@
 name: edX
 website_url: https://www.edx.org/
-description: The Open edX platform is open-source code that powers edX.org.
+description: Open edX平台是edX.org的开源代码。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - Learning and Courses
+  - 学习与课程
 source_code_url: https://github.com/edx/

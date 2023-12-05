@@ -1,11 +1,11 @@
 name: Deluge
 website_url: https://deluge-torrent.org/
-description: Lightweight, cross-platform BitTorrent client.
+description: 轻量级、跨平台的 BitTorrent 客户端。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 source_code_url: https://git.deluge-torrent.org/deluge/tree/?h=develop

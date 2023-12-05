@@ -1,10 +1,10 @@
 name: Cozy Cloud
 website_url: https://cozy.io/
-description: Personal cloud where you can manage and sync your contact, files and calendars, and manage your budget with an app store full of community contributions.
+description: 个人云，您可以在其中管理和同步联系人、文件和日历，并通过一个充满社区贡献的应用商店管理预算。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Groupware
+  - 团队协作
 source_code_url: https://github.com/cozy/

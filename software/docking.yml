@@ -1,6 +1,6 @@
 name: DocKing
 website_url: https://docking.shipsaas.tech
-description: Document management service/microservice that handles templates and renders them in PDF format, all in one place.
+description: '文档管理服务/微服务，处理模板并在一个地方以 PDF 格式呈现它们。'
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://github.com/shipsaas/docking
 demo_url: https://docking-demo.shipsaas.tech/console
 stargazers_count: 87

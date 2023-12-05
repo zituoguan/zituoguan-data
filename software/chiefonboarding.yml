@@ -1,12 +1,12 @@
 name: ChiefOnboarding
 website_url: https://chiefonboarding.com
-description: Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot.
+description: 员工入职平台，允许您分配用户帐户并创建包含待办事项、资源、文本/电子邮件/Slack消息等的序列！可作为Web门户和Slack机器人使用。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/chiefonboarding/ChiefOnboarding
 stargazers_count: 512
 updated_at: '2023-11-30'

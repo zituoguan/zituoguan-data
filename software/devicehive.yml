@@ -1,6 +1,6 @@
 name: DeviceHive
 website_url: https://www.devicehive.com/
-description: Open Source IoT Platform with a wide range of integration options.
+description: 具有广泛集成选项的开源物联网平台。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Internet of Things (IoT)
+  - 物联网 (IoT)
 source_code_url: https://github.com/devicehive/devicehive-java-server
 demo_url: https://playground.devicehive.com/
 stargazers_count: 331

@@ -1,10 +1,10 @@
 name: Deskpro
 website_url: https://www.deskpro.com/
-description: On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API.
+description: 基于本地的帮助台软件，包括电子邮件、聊天、语音和帮助中心发布。具有完全可见的源代码和API。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://www.deskpro.com/

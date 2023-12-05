@@ -1,13 +1,13 @@
 name: Eqivo
 website_url: https://eqivo.org/
-description: Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc.
+description: Eqivo在FreeSWITCH之上实现了一个API层，促进了Web应用程序与语音/视频启用的端点（如传统电话线（PSTN）、VoIP电话、WebRTC客户端等）之间的集成。
 licenses:
   - MIT
 platforms:
   - Docker
   - PHP
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/rtckit/eqivo
 stargazers_count: 59
 updated_at: '2023-11-28'

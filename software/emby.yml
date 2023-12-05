@@ -1,10 +1,10 @@
 name: Emby
 website_url: https://emby.media/
-description: Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box.
+description: 家庭媒体服务器，支持即插即用的DLNA和DIAL（Chromecast）设备。
 licenses:
   - ⊘ Proprietary
 platforms:
   - C#
 tags:
-  - Media Streaming - Video Streaming
+  - 流媒体 - 视频流媒体
 source_code_url: https://emby.media/

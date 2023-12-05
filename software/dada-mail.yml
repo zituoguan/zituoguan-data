@@ -1,12 +1,12 @@
 name: Dada Mail
 website_url: https://dadamailproject.com/
-description: Web-based list management system that can be used for announcement lists and/or discussion lists.
+description: 基于Web的列表管理系统，可用于公告列表和/或讨论列表。
 licenses:
   - GPL-2.0
 platforms:
   - Perl
 tags:
-  - Communication - Email - Mailing Lists and Newsletters
+  - 通信 - 电子邮件 - 邮件列表和通讯
 source_code_url: https://github.com/justingit/dada-mail
 stargazers_count: 161
 updated_at: '2023-11-06'

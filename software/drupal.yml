@@ -1,10 +1,10 @@
 name: Drupal
 website_url: https://www.drupal.org/
-description: Advanced open source content management platform.
+description: 先进的开源内容管理平台。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统 (CMS)
 source_code_url: https://git.drupalcode.org/project/drupal

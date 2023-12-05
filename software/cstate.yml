@@ -1,12 +1,12 @@
 name: cState
 website_url: https://cstate.netlify.app/
-description: Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker.
+description: 用于超快速Hugo的静态状态页面。清晰的设计，最小化的JS，超轻的HTML/CSS，高度可定制，可选的管理面板，只读API，支持IE8+。最适用于Netlify、Docker。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Status / Uptime pages
+  - 状态 / 运行时间页面
 source_code_url: https://github.com/cstate/cstate
 demo_url: https://cstate.mnts.lt/
 stargazers_count: 2200

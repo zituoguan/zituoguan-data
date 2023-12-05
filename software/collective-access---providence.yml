@@ -1,12 +1,12 @@
 name: Collective Access - Providence
 website_url: https://collectiveaccess.org/
-description: Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats.
+description: 高度可配置的基于Web的框架，用于管理、描述和发现数字和物理收藏，支持各种元数据标准、数据类型和媒体格式。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/collectiveaccess/providence
 stargazers_count: 268
 updated_at: '2023-11-02'

@@ -1,12 +1,12 @@
 name: Easy!Appointments
 website_url: https://easyappointments.org/
-description: A highly customizable web application that allows your customers to book appointments with you via the web.
+description: 一个高度可定制的 Web 应用，允许您的客户通过网络预约与您的见面。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Booking and Scheduling
+  - 预定和日程安排
 source_code_url: https://github.com/alextselegidis/easyappointments
 demo_url: https://easyappointments.org/demo/
 stargazers_count: 2882

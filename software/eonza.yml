@@ -1,12 +1,12 @@
 name: Eonza
 website_url: https://www.eonza.org
-description: Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device.
+description: Eonza用于在服务器或VPS主机上创建脚本并自动化任务。可以从任何设备上的任何浏览器管理服务器。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/gentee/eonza
 stargazers_count: 130
 updated_at: '2023-06-11'

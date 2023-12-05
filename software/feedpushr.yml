@@ -1,13 +1,13 @@
 name: Feedpushr
 website_url: https://github.com/ncarlier/feedpushr
-description: Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins.
+description: 强大的RSS聚合器，能够转换并将文章发送到多个输出。单个二进制文件，可通过插件进行扩展。
 licenses:
   - GPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/ncarlier/feedpushr
 stargazers_count: 294
 updated_at: '2023-10-05'

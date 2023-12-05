@@ -1,13 +1,13 @@
 name: Etherpad
 website_url: https://etherpad.org/
-description: Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.
+description: Etherpad是一个高度可定制的开源在线编辑器，提供实时协作编辑。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Office Suites
+  - 办公套件
 source_code_url: https://github.com/ether/etherpad-lite
 demo_url: https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60
 stargazers_count: 15112

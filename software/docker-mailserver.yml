@@ -1,12 +1,12 @@
 name: docker-mailserver
 website_url: https://docker-mailserver.github.io/docker-mailserver/edge/
-description: Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database.
+description: '在容器中运行的生产就绪的全栈但简单的邮件服务器（SMTP、IMAP、LDAP、Antispam、Antivirus等）。仅配置文件，没有 SQL 数据库。'
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/docker-mailserver/docker-mailserver
 stargazers_count: 12320
 updated_at: '2023-12-03'

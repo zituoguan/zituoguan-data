@@ -1,13 +1,13 @@
 name: DOCAT
 website_url: https://github.com/docat-org/docat
-description: Host your docs. Simple. Versioned. Fancy.
+description: '托管您的文档。简单。有版本。时尚。'
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://github.com/docat-org/docat
 stargazers_count: 667
 updated_at: '2023-11-22'

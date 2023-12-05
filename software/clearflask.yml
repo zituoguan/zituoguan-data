@@ -1,12 +1,12 @@
 name: ClearFlask
 website_url: https://clearflask.com
-description: Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty).
+description: 用于管理反馈并优先处理公共路线图的社区反馈工具（替代Canny、UserVoice、Upvoty）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/clearflask/clearflask
 demo_url: https://product.clearflask.com
 stargazers_count: 218

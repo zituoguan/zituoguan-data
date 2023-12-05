@@ -1,13 +1,13 @@
 name: code-server
 website_url: https://github.com/coder/code-server
-description: VS Code in the browser, hosted on a remote server.
+description: 在浏览器中运行的VS Code，托管在远程服务器上。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE和工具
 source_code_url: https://github.com/coder/code-server
 stargazers_count: 63209
 updated_at: '2023-11-29'

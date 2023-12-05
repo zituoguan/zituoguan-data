@@ -1,13 +1,13 @@
 name: Chevereto
 website_url: https://chevereto.com/
-description: Ultimate image sharing software. Create your very own personal image hosting website in just minutes.
+description: 终极图片分享软件。在短短几分钟内创建您自己的个人图像托管网站。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/chevereto/chevereto
 stargazers_count: 244
 updated_at: '2023-08-29'

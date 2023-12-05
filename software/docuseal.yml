@@ -1,13 +1,13 @@
 name: Docuseal
 website_url: https://www.docuseal.co
 source_code_url: https://github.com/docusealco/docuseal
-description: Create, fill, and sign digital documents (alternative to DocuSign).
+description: 创建、填写和签署数字文档（DocuSign 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 demo_url: https://demo.docuseal.tech/
 stargazers_count: 3772
 updated_at: '2023-12-03'

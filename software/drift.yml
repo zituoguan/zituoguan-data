@@ -1,12 +1,12 @@
 name: Drift
 website_url: https://github.com/MaxLeiter/drift
-description: Self-hosted Github Gist clone.
+description: 自托管的 GitHub Gist 克隆。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/MaxLeiter/drift
 demo_url: https://drift.maxleiter.com/
 stargazers_count: 1251

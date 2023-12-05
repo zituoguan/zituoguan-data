@@ -1,13 +1,13 @@
 name: CommaFeed
 website_url: https://www.commafeed.com/
-description: Google Reader inspired self-hosted RSS reader.
+description: 受Google Reader启发的自托管RSS阅读器。
 licenses:
   - Apache-2.0
 platforms:
   - Java
   - Docker
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/Athou/commafeed
 stargazers_count: 2299
 updated_at: '2023-11-24'

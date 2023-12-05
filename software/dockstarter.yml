@@ -1,12 +1,12 @@
 name: DockSTARTer
 website_url: https://dockstarter.com/
-description: DockSTARTer helps you get started with home server apps running in Docker.
+description: 'DockSTARTer 帮助您开始在 Docker 中运行的家庭服务器应用。'
 licenses:
   - MIT
 platforms:
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/GhostWriters/DockSTARTer
 stargazers_count: 2043
 updated_at: '2023-11-30'

@@ -1,12 +1,12 @@
 name: CyberChef
 website_url: https://github.com/gchq/CyberChef
-description: Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more.
+description: 在Web浏览器中执行各种操作，如AES、DES和Blowfish加密和解密，创建十六进制转储，计算哈希等等。
 licenses:
   - Apache-2.0
 platforms:
   - Javascript
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/gchq/CyberChef
 demo_url: https://gchq.github.io/CyberChef
 stargazers_count: 23426

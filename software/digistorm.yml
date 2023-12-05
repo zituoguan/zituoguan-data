@@ -1,12 +1,13 @@
-name: "Digistorm"
-website_url: "https://digistorm.app/"
-source_code_url: "https://codeberg.org/ladigitale/digistorm"
-description: "Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French)."
+name: Digiscreen
+website_url: https://ladigitale.dev/digiscreen/
+description: 课堂交互式白板/墙纸，支持远程和面对面教学（法语文档）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - PHP
 tags:
-  - Groupware
-  - Polls and Events
-demo_url: "https://digistorm.app/"
+  - 学习和课程
+  - 协同办公
+source_code_url: https://codeberg.org/ladigitale/digiscreen
+demo_url: https://ladigitale.dev/digiscreen/

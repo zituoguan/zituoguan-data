@@ -1,11 +1,11 @@
 name: elixire
 website_url: https://elixi.re
-description: Simple yet advanced screenshot uploading and link shortening service.
+description: 简单而先进的截图上传和链接缩短服务。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://gitlab.com/elixire/elixire
 related_software_url: https://gitlab.com/elixire/elixiremanager

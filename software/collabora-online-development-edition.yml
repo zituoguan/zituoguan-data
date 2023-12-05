@@ -1,10 +1,10 @@
 name: Collabora Online Development Edition
 website_url: https://www.collaboraoffice.com/code
-description: Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure.
+description: Collabora Online Development Edition (CODE) 是一个基于LibreOffice的强大的在线办公套件，支持所有主要的文档、电子表格和演示文件格式，可以集成到您自己的基础设施中。
 licenses:
   - MPL-2.0
 platforms:
   - C++
 tags:
-  - Office Suites
+  - 办公套件
 source_code_url: https://cgit.freedesktop.org/libreoffice/online/

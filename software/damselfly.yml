@@ -1,6 +1,6 @@
 name: Damselfly
 website_url: https://damselfly.info
-description: Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows.
+description: 针对大量图像集合的快速服务器端照片管理系统。包括人脸检测、人脸和物体识别、强大的搜索和 EXIF 关键字标记。支持 Linux、MacOS 和 Windows。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - C#
   - .NET
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/webreaper/damselfly
 stargazers_count: 1099
 updated_at: '2023-10-07'

@@ -1,6 +1,6 @@
 name: Enigma 1/2 BBS
 website_url: https://nuskooler.github.io/enigma-bbs/
-description: Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support.
+description: Enigma 1/2是一个现代的、跨平台的BBS引擎，支持无限数量的“呼叫者”并提供对传统的DOS门户游戏的支持。
 licenses:
   - BSD-2-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - Nodejs
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/NuSkooler/enigma-bbs
 demo_url: https://l33t.codes/xibalba-bbs/
 stargazers_count: 499

@@ -1,12 +1,12 @@
 name: Digibuzzer
 website_url: https://digibuzzer.app/
-description: Create a virtual game room around a connected buzzer (documentation in French).
+description: 在连接的蜂鸣器周围创建虚拟游戏房间（法语文档）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Games
-  - Groupware
+  - 游戏
+  - 团队协作
 source_code_url: https://codeberg.org/ladigitale/digibuzzer
 demo_url: https://digibuzzer.app/

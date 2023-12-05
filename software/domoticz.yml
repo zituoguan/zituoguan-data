@@ -1,6 +1,6 @@
 name: Domoticz
 website_url: https://www.domoticz.com/
-description: 'Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.'
+description: '家庭自动化系统，可让您监视和配置各种设备，如：灯光、开关、各种传感器/仪表，如温度、雨量、风速、紫外线、电、气体、水等等。'
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
   - Shell
 tags:
-  - Internet of Things (IoT)
+  - 物联网 (IoT)
 source_code_url: https://github.com/domoticz/domoticz
 related_software_url: https://github.com/domoticz/domoticz-android
 stargazers_count: 3349

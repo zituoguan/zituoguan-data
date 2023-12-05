@@ -1,12 +1,12 @@
 name: Discourse
 website_url: https://www.discourse.org/
-description: Advanced forum / community solution based on Ruby and JS.
+description: 基于Ruby和JS的高级论坛/社区解决方案。
 licenses:
   - GPL-2.0
 platforms:
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
 stargazers_count: 39187

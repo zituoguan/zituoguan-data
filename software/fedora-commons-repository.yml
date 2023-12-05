@@ -1,12 +1,12 @@
 name: Fedora Commons Repository
 website_url: https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home
-description: Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation.
+description: 用于管理和传播数字内容的强大而模块化的仓库系统，特别适用于数字图书馆和档案馆，既用于访问又用于保存。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Document Management - Institutional Repository and Digital Library Software
+  - 文档管理 - 机构知识库和数字图书馆软件
 source_code_url: https://github.com/fcrepo/fcrepo
 stargazers_count: 192
 updated_at: '2023-11-16'

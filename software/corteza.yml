@@ -1,12 +1,12 @@
 name: Corteza
 website_url: https://cortezaproject.org
-description: CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions.
+description: 包括统一工作区、企业消息和低代码环境的CRM，用于快速安全地提供基于记录的管理解决方案。
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
-  - Groupware
+  - 团队协作
 source_code_url: https://github.com/cortezaproject/corteza
 demo_url: https://latest.cortezaproject.org
 stargazers_count: 1031

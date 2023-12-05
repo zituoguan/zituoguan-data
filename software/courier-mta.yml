@@ -1,11 +1,11 @@
 name: Courier MTA
 website_url: https://www.courier-mta.org/
-description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
+description: 快速、可扩展的企业邮件/协作服务器，提供ESMTP、IMAP、POP3、Webmail、邮件列表、基本的基于Web的日历和调度服务。
 licenses:
   - GPL-3.0
 platforms:
   - C
   - deb
 tags:
-  - Communication - Email - Mail Transfer Agents
+  - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: https://www.courier-mta.org/repo.html

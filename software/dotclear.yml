@@ -1,10 +1,10 @@
 name: Dotclear
 website_url: https://dotclear.org/
-description: Take control over your blog.
+description: 在博客上拥有更多控制权。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://git.dotclear.org/dev/dotclear

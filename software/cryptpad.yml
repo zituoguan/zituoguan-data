@@ -1,13 +1,13 @@
 name: CryptPad
 website_url: https://cryptpad.org
-description: CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time.
+description: CryptPad是一个端到端加密和开源的协作套件。它旨在实现协作，实时同步文档的更改。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Office Suites
+  - 办公套件
 source_code_url: https://github.com/cryptpad/cryptpad
 stargazers_count: 4758
 updated_at: '2023-11-29'

@@ -1,13 +1,13 @@
 name: farmOS
 website_url: https://farmos.org/
-description: Web-based farm record keeping application.
+description: 基于Web的农场记录管理应用程序。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Resource Planning
+  - 资源规划
 source_code_url: https://github.com/farmOS/farmOS
 demo_url: https://farmos-demo.rootedsolutions.io/
 stargazers_count: 819

@@ -1,12 +1,12 @@
 name: Cypht
 website_url: https://cypht.org
-description: Feed reader for your email accounts.
+description: 用于您的电子邮件帐户的Feed阅读器。
 licenses:
   - LGPL-2.1
 platforms:
   - PHP
 tags:
-  - Communication - Email - Webmail Clients
+  - 通讯 - 电子邮件 - Web邮件客户端
 source_code_url: https://github.com/cypht-org/cypht
 stargazers_count: 861
 updated_at: '2023-12-01'

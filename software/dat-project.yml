@@ -1,10 +1,10 @@
 name: Dat Project
 website_url: https://dat-ecosystem.org/
-description: Powerful decentralized file sharing applications built from a large ecosystem of modules.
+description: 由庞大的模块生态系统构建的强大的去中心化文件共享应用程序。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 source_code_url: https://github.com/datproject

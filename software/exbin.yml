@@ -1,12 +1,12 @@
 name: ExBin
 website_url: https://github.com/m1dnight/exbin
-description: A pastebin with public/private snippets and netcat server.
+description: 一个具有公共/私有片段和netcat服务器的pastebin。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/m1dnight/exbin
 stargazers_count: 71
 updated_at: '2023-05-18'

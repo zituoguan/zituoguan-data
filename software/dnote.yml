@@ -1,12 +1,12 @@
 name: Dnote
 website_url: https://www.getdnote.com
-description: A simple command line notebook with multi-device sync and web interface.
+description: '具有多设备同步和Web界面的简单命令行笔记本。'
 licenses:
   - AGPL-3.0
 platforms:
   - Go
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/dnote/dnote
 stargazers_count: 2605
 updated_at: '2023-05-27'

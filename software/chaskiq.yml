@@ -1,13 +1,13 @@
 name: Chaskiq
 website_url: https://chaskiq.io
-description: Full featured live chat, help center and CRM as an alternative to Intercom & Drift, Crisp and others.
+description: 全功能的在线聊天、帮助中心和CRM，作为Intercom和Drift、Crisp等的替代方案。
 licenses:
   - AGPL-3.0
   - Commons-Clause
 platforms:
   - Ruby
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/chaskiq/chaskiq
 stargazers_count: 2720
 updated_at: '2023-11-03'

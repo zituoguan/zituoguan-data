@@ -1,13 +1,13 @@
 name: Datasette
 website_url: https://datasette.io/
-description: An open source multi-tool for exploring and publishing data, easy import and export and database management.
+description: 一个用于探索和发布数据的开源多功能工具，支持轻松导入和导出以及数据库管理。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/simonw/datasette
 demo_url: https://global-power-plants.datasettes.com/global-power-plants/global-power-plants
 stargazers_count: 8501

@@ -1,12 +1,12 @@
 name: Element
 website_url: https://element.io
-description: Fully-featured Matrix client for Web, iOS & Android.
+description: 用于Web、iOS和Android的功能齐全的Matrix客户端。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/vector-im/element-web
 stargazers_count: 10268
 updated_at: '2023-11-29'

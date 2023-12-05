@@ -1,12 +1,12 @@
 name: DePay
 website_url: https://depay.com
-description: Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source.
+description: 直接将 Web3 支付接入您的钱包。点对点、免费、自托管和开源。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/depayfi/widgets
 demo_url: https://depay.com/products/payments
 stargazers_count: 75

@@ -1,10 +1,10 @@
 name: Conduit
 website_url: https://conduit.rs/
-description: A simple, fast, and reliable chat server powered by Matrix.
+description: 由Matrix支持的简单、快速且可靠的聊天服务器。
 licenses:
   - Apache-2.0
 platforms:
   - Rust
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://gitlab.com/famedly/conduit

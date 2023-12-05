@@ -1,10 +1,10 @@
 name: Dalton Plan
 website_url: https://daltonplan.com
-description: Dalton Plan is a modern adoption of a free teaching method developed by Helen Parkhurst in the 20th century.
+description: Dalton Plan 是 20 世纪 Helen Parkhurst 开发的自由教学方法的现代采用。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://git.io/daltonplan

@@ -1,12 +1,12 @@
 name: Chitchatter
 website_url: https://chitchatter.im/
-description: A peer-to-peer chat app that is serverless, decentralized, and ephemeral.
+description: 一款无服务器、去中心化且短暂的点对点聊天应用。
 licenses:
   - GPL-2.0
 platforms:
   - Nodejs
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/jeremyckahn/chitchatter
 stargazers_count: 1220
 updated_at: '2023-12-01'

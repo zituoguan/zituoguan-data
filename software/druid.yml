@@ -1,13 +1,13 @@
 name: Druid
 website_url: http://druid.io/
-description: Distributed, column-oriented, real-time analytics data store.
+description: 分布式、面向列、实时分析数据存储。
 licenses:
   - Apache-2.0
 platforms:
   - Java
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/apache/druid
 stargazers_count: 12985
 updated_at: '2023-12-03'

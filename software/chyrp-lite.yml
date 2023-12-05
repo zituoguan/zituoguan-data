@@ -1,12 +1,12 @@
 name: Chyrp Lite
 website_url: https://chyrplite.net
-description: Extra-awesome, extra-lightweight blog engine.
+description: 额外强大、额外轻量级的博客引擎。
 licenses:
   - BSD-3-Clause
 platforms:
   - PHP
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/xenocrat/chyrp-lite
 stargazers_count: 257
 updated_at: '2023-11-12'

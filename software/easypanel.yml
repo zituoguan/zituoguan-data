@@ -1,10 +1,10 @@
 name: Easypanel
 website_url: https://easypanel.io
-description: Modern server control panel powered by Docker.
+description: 由 Docker 驱动的现代服务器控制面板。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Docker
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://easypanel.io

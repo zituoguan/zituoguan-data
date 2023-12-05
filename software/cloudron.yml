@@ -1,12 +1,12 @@
 name: Cloudron
 website_url: https://www.cloudron.io/
-description: Open-core software allowing you to effortlessly self-host web apps on your server.
+description: 开放核心软件，让您轻松自托管Web应用程序在您的服务器上。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://git.cloudron.io/groups/cloudron
 demo_url: https://my.demo.cloudron.io/

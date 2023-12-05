@@ -1,11 +1,11 @@
 name: Duet
 website_url: https://duetapp.com/
-description: Invoicing and project management with an integrated client portal.
+description: 发票和项目管理，带有集成的客户门户。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://duetapp.com/
 demo_url: https://duetapp.com/start-demo

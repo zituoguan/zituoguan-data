@@ -1,13 +1,13 @@
 name: Convos
 website_url: https://convos.chat/
-description: Always online web IRC client.
+description: 始终在线的Web IRC客户端。
 licenses:
   - Artistic-2.0
 platforms:
   - Perl
   - Docker
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/convos-chat/convos
 demo_url: https://convos.chat/#instant-demo
 stargazers_count: 973

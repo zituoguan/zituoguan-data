@@ -1,6 +1,6 @@
-name: dillinger
+name: Dillinger
 website_url: https://dillinger.io/
-description: The last Markdown editor, ever.
+description: 最后的Markdown编辑器。
 licenses:
   - MIT
 platforms:

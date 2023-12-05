@@ -1,12 +1,12 @@
-name: ElasticSearch
+name: Elasticsearch
 website_url: https://www.elastic.co/elasticsearch/
-description: Distributed, RESTful search and analytics engine.
+description: 分布式的、RESTful的搜索和分析引擎。
 licenses:
   - SSPL-1.0
 platforms:
   - Java
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/elastic/elasticsearch
 stargazers_count: 65972
 updated_at: '2023-12-03'

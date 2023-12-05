@@ -1,12 +1,12 @@
 name: Espial
 website_url: https://github.com/jonschoning/espial
-description: An open-source, web-based bookmarking server.
+description: 一个开源的、基于Web的书签服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Haskell
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/jonschoning/espial
 stargazers_count: 707
 updated_at: '2023-10-02'

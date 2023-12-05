@@ -1,12 +1,12 @@
 name: Databunker
 website_url: https://databunker.org/
-description: Network-based, self-hosted, GDPR compliant, secure database for personal data or PII.
+description: 网络化、自托管、符合 GDPR 标准的安全数据库，用于存储个人数据或 PII。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/securitybunker/databunker
 stargazers_count: 1143
 updated_at: '2023-10-13'

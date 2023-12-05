@@ -1,11 +1,11 @@
 name: Crafty Controller
 website_url: https://craftycontrol.com/
-description: Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface.
+description: Crafty Controller是一个免费且开源的Minecraft启动器和管理器，允许用户从用户友好的界面启动和管理Minecraft服务器。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理实用工具和控制面板
 source_code_url: https://gitlab.com/crafty-controller/crafty-4

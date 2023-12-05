@@ -1,6 +1,6 @@
 name: DreamFactory
 website_url: https://www.dreamfactory.com/
-description: Turns any SQL/NoSQL/Structured data into Restful API.
+description: 将任何 SQL/NoSQL/结构化数据转换为 Restful API。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/dreamfactorysoftware/dreamfactory
 stargazers_count: 1437
 updated_at: '2023-11-30'

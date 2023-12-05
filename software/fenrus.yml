@@ -1,13 +1,13 @@
 name: Fenrus
 website_url: https://github.com/revenz/fenrus
-description: A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps.
+description: 一个自托管的个人主页，允许多用户、访客访问和每个用户的多个仪表板。还有“智能应用”显示这些应用的实时数据。
 licenses:
   - GPL-3.0
 platforms:
   - .NET
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/revenz/fenrus
 stargazers_count: 351
 updated_at: '2023-10-03'

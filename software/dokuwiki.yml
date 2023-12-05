@@ -1,12 +1,12 @@
-name: Dokuwiki
+name: DokuWiki
 website_url: https://www.dokuwiki.org/DokuWiki
-description: Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required.
+description: 易于使用、轻量级、符合标准的维基引擎，具有简单的语法，允许在维基之外阅读数据。所有数据都存储在纯文本文件中，因此不需要数据库。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/dokuwiki/dokuwiki
 stargazers_count: 3868
 updated_at: '2023-12-03'

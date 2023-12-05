@@ -1,12 +1,12 @@
 name: Darkwire.io
 website_url: https://github.com/darkwire/darkwire.io
-description: End-to-end encrypted instant web chat.
+description: 端到端加密的即时网络聊天。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/darkwire/darkwire.io
 stargazers_count: 839
 updated_at: '2022-12-30'

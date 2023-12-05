@@ -1,12 +1,12 @@
 name: EPrints
 website_url: https://www.eprints.org/
-description: Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions.
+description: 数字文档管理系统，具有灵活的元数据和工作流模型，主要面向学术机构。
 licenses:
   - GPL-3.0
 platforms:
   - Perl
 tags:
-  - Document Management - Institutional Repository and Digital Library Software
+  - 文档管理 - 机构知识库和数字图书馆软件
 source_code_url: https://github.com/eprints/eprints
 demo_url: http://tryme.demo.eprints-hosting.org/
 stargazers_count: 64

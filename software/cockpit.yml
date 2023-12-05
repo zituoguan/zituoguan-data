@@ -1,12 +1,12 @@
 name: Cockpit
 website_url: https://getcockpit.com
-description: Simple Content Platform to manage any structured content.
+description: 用于管理任何结构化内容的简单内容平台。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/Cockpit-HQ/Cockpit
 stargazers_count: 275
 updated_at: '2023-12-02'

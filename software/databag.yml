@@ -1,12 +1,12 @@
 name: Databag
 website_url: https://github.com/balzack/databag
-description: Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls.
+description: 面向 Web、iOS 和 Android 的联合、端到端加密的消息服务，支持文本、照片、视频以及 WebRTC 视频和音频通话。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/balzack/databag
 demo_url: https://databag.coredb.org/#/create
 stargazers_count: 599

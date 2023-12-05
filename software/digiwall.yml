@@ -1,10 +1,10 @@
 name: Digiwall
 website_url: https://digiwall.app/
-description: Create multimedia collaborative walls for in-person or remote work (documentation in French).
+description: 为面对面或远程工作创建多媒体协作墙（法语文档）.
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Groupware
+  - 团队协作
 source_code_url: https://codeberg.org/ladigitale/digiwall

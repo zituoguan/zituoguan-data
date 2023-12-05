@@ -1,6 +1,6 @@
 name: Easyshortener
 website_url: https://github.com/easypanel-community/easyshortener
-description: A simple URL shortener.
+description: 一个简单的 URL 缩短工具。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/easypanel-community/easyshortener
 stargazers_count: 69
 updated_at: '2023-07-04'

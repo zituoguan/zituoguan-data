@@ -1,6 +1,6 @@
 name: "Cluster Control"
 website_url: "https://severalnines.com/clustercontrol/"
-description: "Setup many databases in few clicks with monitoring, load balancing and more."
+description: "用监控、负载均衡等功能在几次点击中设置多个数据库。"
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -9,5 +9,5 @@ platforms:
   - Shell
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: "https://severalnines.com/clustercontrol/"

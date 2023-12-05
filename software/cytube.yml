@@ -1,12 +1,12 @@
 name: CyTube
 website_url: https://github.com/calzoneman/sync
-description: CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels.
+description: CyTube是一个Web应用程序，为任意数量的频道提供媒体同步、聊天等功能。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Media Streaming - Video Streaming
+  - 流媒体 - 视频流媒体
 source_code_url: https://github.com/calzoneman/sync
 demo_url: https://cytu.be
 stargazers_count: 1388

@@ -1,12 +1,12 @@
 name: diaspora*
 website_url: https://diasporafoundation.org/
-description: Distributed social networking server.
+description: 分布式社交网络服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络与论坛
 source_code_url: https://github.com/diaspora/diaspora
 stargazers_count: 13308
 updated_at: '2023-11-13'

@@ -1,12 +1,12 @@
 name: Dim
 website_url: https://github.com/Dusk-Labs/dim
-description: Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+description: Dim是一个由黑暗力量驱动的自托管媒体管理器。通过最小的设置，Dim将组织和美化您的媒体收藏，让您随时随地访问和播放。
 licenses:
   - GPL-2.0
 platforms:
   - Rust
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/Dusk-Labs/dim
 stargazers_count: 3519
 updated_at: '2023-11-29'

@@ -1,13 +1,13 @@
 name: DebOps
 website_url: https://docs.debops.org/
-description: Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts.
+description: 将基于 Debian 的数据中心装在一个盒子里。一组通用的 Ansible 角色，可用于管理 Debian 或 Ubuntu 主机。
 licenses:
   - GPL-3.0
 platforms:
   - Ansible
   - Python
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/debops/debops
 stargazers_count: 1123
 updated_at: '2023-11-29'

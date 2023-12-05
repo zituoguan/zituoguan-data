@@ -1,11 +1,11 @@
 name: Digiface
 website_url: https://ladigitale.dev/digiface/
-description: Create avatars using the Avataaars library (documentation in French).
+description: 使用 Avataaars 库创建头像（法语文档）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/ladigitale/digiface
 demo_url: https://ladigitale.dev/digiface/

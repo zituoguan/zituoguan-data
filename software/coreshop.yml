@@ -1,12 +1,12 @@
 name: CoreShop
 website_url: https://www.coreshop.org
-description: CoreShop is a e-commerce plugin for Pimcore.
+description: CoreShop是Pimcore的电子商务插件。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/coreshop/CoreShop
 stargazers_count: 256
 updated_at: '2023-12-01'

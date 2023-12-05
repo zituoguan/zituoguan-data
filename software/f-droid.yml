@@ -1,6 +1,6 @@
 name: F-Droid
 website_url: https://f-droid.org
-description: Server tools for maintaining an F-Droid repository system.
+description: 用于维护F-Droid存储库系统的服务器工具。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,5 +8,5 @@ platforms:
   - Docker
   - deb
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://gitlab.com/fdroid/fdroidserver

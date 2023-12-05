@@ -1,13 +1,13 @@
 name: Dashpress
 website_url: https://github.com/dashpresshq/dashpress
-description: Generate fully functional admin apps in seconds from your database information, with a single command.
+description: 通过单个命令从数据库信息中在几秒钟内生成功能齐全的管理应用。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/dashpresshq/dashpress
 demo_url: https://demo.dashpress.io/auth
 stargazers_count: 543

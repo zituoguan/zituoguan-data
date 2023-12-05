@@ -1,13 +1,13 @@
 name: Etebase (EteSync)
 website_url: https://www.etebase.com/
-description: End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients.
+description: 端到端加密和日志记录的个人信息服务器，支持日历和联系人数据，并提供自己的客户端。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Django
 tags:
-  - Calendar & Contacts
+  - 日历和联系人
 source_code_url: https://github.com/etesync/server
 stargazers_count: 1407
 updated_at: '2023-10-20'

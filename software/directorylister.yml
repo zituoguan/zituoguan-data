@@ -1,12 +1,12 @@
 name: DirectoryLister
 website_url: https://www.directorylister.com/
-description: Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within.
+description: 简单的基于PHP的目录列表器，列出一个目录及其所有子目录，并允许您在其中导航。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/DirectoryLister/DirectoryLister
 stargazers_count: 2020
 updated_at: '2023-09-26'

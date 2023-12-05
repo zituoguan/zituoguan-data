@@ -1,13 +1,13 @@
 name: Fess
 website_url: https://fess.codelibs.org/
-description: Fess is a very powerful and easily deployable Enterprise Search Server.
+description: Fess是一个非常强大且易于部署的企业搜索服务器。
 licenses:
   - Apache-2.0
 platforms:
   - Java
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/codelibs/fess
 demo_url: https://search.n2sm.co.jp/
 stargazers_count: 928

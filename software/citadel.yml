@@ -1,6 +1,6 @@
 name: Citadel
 website_url: https://www.citadel.org/
-description: Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more.
+description: 包括电子邮件、日历/日程安排、通讯簿、论坛、邮件列表、即时消息、维基和博客引擎、RSS聚合等的团队协作软件。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,5 +8,5 @@ platforms:
   - Docker
   - Shell
 tags:
-  - Groupware
+  - 团队协作软件
 source_code_url: https://www.citadel.org/source.html
