@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 内容管理系统 (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/bolt/core
 stargazers_count: 513
 updated_at: '2023-11-24'

@@ -7,7 +7,7 @@ platforms:
   - Python
   - deb
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/bepasty/bepasty-server
 stargazers_count: 163
 updated_at: '2023-11-27'
