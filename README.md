@@ -1,8 +1,8 @@
 # zituoguan-data
 
-该存储库保存用于生成 [https://zituoguan.com](https://zituoguan.com) 和 [https://github.com/r3f/zituoguan](https://github.com/r3f/zituoguan) 的数据。
+该存储库保存用于生成 [https://zituoguan.com](https://zituoguan.com) 和 [https://github.com/zituoguan/zituoguan](https://github.com/zituoguan/zituoguan) 的数据。
 
-[![](https://github.com/r3f/zituoguan-data/actions/workflows/build.yml/badge.svg)](https://github.com/r3f/zituoguan-data/actions/workflows/build.yml) [![](https://github.com/r3f/zituoguan-data/actions/workflows/daily-update-metadata.yml/badge.svg)](https://github.com/r3f/zituoguan-data/actions/workflows/daily-update-metadata.yml) [![](https://github.com/r3f/zituoguan-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/r3f/zituoguan-data/issues/1) [![](https://github.com/r3f/zituoguan-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/r3f/zituoguan-data/issues/1)
+[![](https://github.com/zituoguan/zituoguan-data/actions/workflows/build.yml/badge.svg)](https://github.com/zituoguan/zituoguan-data/actions/workflows/build.yml) [![](https://github.com/zituoguan/zituoguan-data/actions/workflows/daily-update-metadata.yml/badge.svg)](https://github.com/zituoguan/zituoguan-data/actions/workflows/daily-update-metadata.yml) [![](https://github.com/zituoguan/zituoguan-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/zituoguan/zituoguan-data/issues/1) [![](https://github.com/zituoguan/zituoguan-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/zituoguan/zituoguan-data/issues/1)
 
 由[Awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted-data)社区提供的原始数据，基于[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)许可。
 

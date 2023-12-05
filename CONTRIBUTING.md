@@ -21,12 +21,12 @@
 
 如果您不愿意发送拉取请求，请打开一个新的 [问题](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)。
 
-在 [单页模式](https://github.com/r3f/zituoguan) 中，软件将只显示在其 `tags` 列表中的第一个类别下，所以要明智选择。
+在 [单页模式](https://github.com/zituoguan/zituoguan) 中，软件将只显示在其 `tags` 列表中的第一个类别下，所以要明智选择。
 
 
 ### 添加标签/分类
 
-标签表示软件的功能类别/特性，并且必须添加到 `tags/tag-name.yml`（使用 [existing tags](https://github.com/r3f/zituoguan-data/blob/master/tags) 作为示例）。任何标签必须至少有 3 个软件项目引用它。[`Miscellaneous`](https://github.com/r3f/zituoguan-data/blob/master/tags/miscellaneous.yml) 标签可用于与任何现有类别不匹配的软件。
+标签表示软件的功能类别/特性，并且必须添加到 `tags/tag-name.yml`（使用 [existing tags](https://github.com/zituoguan/zituoguan-data/blob/master/tags) 作为示例）。任何标签必须至少有 3 个软件项目引用它。[`Miscellaneous`](https://github.com/zituoguan/zituoguan-data/blob/master/tags/miscellaneous.yml) 标签可用于与任何现有类别不匹配的软件。
 
 
 ```yaml

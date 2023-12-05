@@ -1,4 +1,4 @@
-name: build
+name: 构建
 
 on:
   push:
@@ -10,23 +10,23 @@ concurrency:
   group: build-${{ github.ref }}
   cancel-in-progress: true
 
-# This job requires deploy keys to be added to target repositories (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
-# Generate deploy keys locally:
-# $ ssh-keygen -t rsa -f awesome-selfhosted-deploy-key -C awesome-selfhosted-deploy-key
-# $ ssh-keygen -t rsa -f awesome-selfhosted-html-deploy-key -C awesome-selfhosted-html-deploy-key
-# Paste the contents of awesome-selfhosted-deploy-key.pub to https://github.com/awesome-selfhosted/awesome-selfhosted/settings/keys/new, name: awesome-selfhosted-deploy-key, allow write access
-# Paste the contents of awesome-selfhosted-html-deploy-key.pub to https://github.com/awesome-selfhosted/awesome-selfhosted-html/settings/keys/new, name: awesome-selfhosted-html-deploy-key, allow write access
-# Access https://github.com/awesome-selfhosted/awesome-selfhosted-data/settings/environments, create new environment with name: production
-#   - deployment branches: selected branches
-#   - add deployment branch rule: branch name pattern: master
-#   - environment secrets: add secret with name: SSH_MARKDOWN_DEPLOY_KEY, and value: paste the contents of awesome-selfhosted-deploy-key
-#   - environment secrets: add secret with name: SSH_HTML_DEPLOY_KEY, and value: paste the contents of awesome-selfhosted-html-deploy-key
+# 该任务需要在目标仓库添加部署密钥（https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys）
+# 在本地生成部署密钥:
+# $ ssh-keygen -t rsa -f zituoguan-deploy-key -C zituoguan-deploy-key
+# $ ssh-keygen -t rsa -f zituoguan-html-deploy-key -C zituoguan-html-deploy-key
+# 将zituoguan-deploy-key.pub的内容粘贴到 https://github.com/zituoguan/zituoguan/settings/keys/new，命名为: zituoguan-deploy-key，允许写入权限
+# 将zituoguan-html-deploy-key.pub的内容粘贴到 https://github.com/zituoguan/zituoguan-html/settings/keys/new，命名为: zituoguan-html-deploy-key，允许写入权限
+# 访问 https://github.com/zituoguan/zituoguan-data/settings/environments，创建一个名为: production 的新环境
+#   - 部署分支: 选择的分支
+#   - 添加部署分支规则: 分支名称模式: master
+#   - 环境秘密: 添加一个名为: SSH_MARKDOWN_DEPLOY_KEY 的秘密，并将值设置为: 粘贴zituoguan-deploy-key的内容
+#   - 环境秘密: 添加一个名为: SSH_HTML_DEPLOY_KEY 的秘密，并将值设置为: 粘贴zituoguan-html-deploy-key的内容
 
 jobs:
   build-markdown:
     environment:
       name: production
-      url: https://github.com/awesome-selfhosted/awesome-selfhosted
+      url: https://github.com/zituoguan/zituoguan
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -35,7 +35,7 @@ jobs:
       - run: make install
       - run: make awesome_lint
       - run: make export_markdown
-      - name: setup markdown repository SSH deploy key
+      - name: 设置Markdown仓库SSH部署密钥
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_MARKDOWN_DEPLOY_KEY }}" > ~/.ssh/id_rsa
@@ -45,7 +45,7 @@ jobs:
   build-html:
     environment:
       name: production
-      url: https://github.com/awesome-selfhosted/awesome-selfhosted-html
+      url: https://github.com/zituoguan/zituoguan-html
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -54,7 +54,7 @@ jobs:
       - run: make install
       - run: make awesome_lint
       - run: make export_html
-      - name: setup HTML repository SSH deploy key
+      - name: 设置HTML仓库SSH部署密钥
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_HTML_DEPLOY_KEY }}" > ~/.ssh/id_rsa
