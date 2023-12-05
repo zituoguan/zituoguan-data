@@ -1,5 +1,5 @@
-name: Wikis
-description: '[Wiki](https://en.wikipedia.org/wiki/Wiki) 是一种由其观众直接使用 Web 浏览器协作编辑和管理的出版物。'
+name: 维基
+description: '[维基](https://en.wikipedia.org/wiki/Wiki) 是一种由其观众直接使用 Web 浏览器协作编辑和管理的出版物。'
 external_links:
   - title: Wikimatrix
     url: https://www.wikimatrix.org/
@@ -8,4 +8,4 @@ external_links:
   - title: wiki软件比较 - Wikipedia
     url: https://en.wikipedia.org/wiki/Comparison_of_wiki_software
 related_tags:
-  - 静态站点生成器
+  - 静态网站生成器
