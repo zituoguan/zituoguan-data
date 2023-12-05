@@ -1,5 +1,5 @@
 name: 数据库管理
-description: [数据库](https://en.wikipedia.org/wiki/Database)管理的Web界面。包括用于数据库分析和可视化的工具。
+description: '[数据库](https://en.wikipedia.org/wiki/Database)管理的Web界面。包括用于数据库分析和可视化的工具。'
 external_links:
   - title: dbdb.io - 数据库之数据库
     url: https://dbdb.io/
