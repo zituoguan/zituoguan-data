@@ -1,5 +1,5 @@
 name: DNS
-description: '[DNS](https://en.wikipedia.org/wiki/Domain_Name_System)服务器和带有广告屏蔽功能的管理工具，主要针对家庭或小型网络。
+description: '[DNS](https://en.wikipedia.org/wiki/Domain_Name_System)服务器和带有广告屏蔽功能的管理工具，主要针对家庭或小型网络。'
 external_links:
   - title: awesome-sysadmin/DNS - 服务器
     url: https://github.com/awesome-foss/awesome-sysadmin#dns---servers
