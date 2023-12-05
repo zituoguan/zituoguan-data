@@ -17,10 +17,12 @@ concurrency:
 # 将zituoguan-deploy-key.pub的内容粘贴到 https://github.com/zituoguan/zituoguan/settings/keys/new，命名为: zituoguan-deploy-key，允许写入权限
 # 将zituoguan-html-deploy-key.pub的内容粘贴到 https://github.com/zituoguan/zituoguan-html/settings/keys/new，命名为: zituoguan-html-deploy-key，允许写入权限
 # 访问 https://github.com/zituoguan/zituoguan-data/settings/environments，创建一个名为: production 的新环境
-#   - 部署分支: 选择的分支
-#   - 添加部署分支规则: 分支名称模式: master
-#   - 环境秘密: 添加一个名为: SSH_MARKDOWN_DEPLOY_KEY 的秘密，并将值设置为: 粘贴zituoguan-deploy-key的内容
-#   - 环境秘密: 添加一个名为: SSH_HTML_DEPLOY_KEY 的秘密，并将值设置为: 粘贴zituoguan-html-deploy-key的内容
+#   - deployment branches: selected branches and tags
+#   - add deployment branch or tag rule: branch name pattern: master
+#   - environment secrets: 添加一个名为: SSH_MARKDOWN_DEPLOY_KEY 的私钥，并将值设置为: 粘贴zituoguan-deploy-key的内容
+#   - environment secrets: 添加一个名为: SSH_HTML_DEPLOY_KEY 的私钥，并将值设置为: 粘贴zituoguan-html-deploy-key的内容
+
+
 
 jobs:
   build-markdown:

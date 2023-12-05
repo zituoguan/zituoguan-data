@@ -1,22 +1,10 @@
 name: Axigen
 website_url: https://www.axigen.com/mail-server/free/
-description: Turnkey messaging solution for small & micro businesses, integration projects or test environments.
-licenses:
-  - ⊘ Proprietary
-platforms:
-  - Unknown
-tags:
-  - Self-hosting Solutions
-source_code_url: https://www.axigen.com/mail-server/free/
-
-
-name: Axigen
-website_url: https://www.axigen.com/mail-server/free/
 description: 面向小型和微型企业、集成项目或测试环境的即插即用的消息解决方案。
 licenses:
   - ⊘ Proprietary
 platforms:
-  - 未知
+  - Unknown
 tags:
   - 自托管解决方案
 source_code_url: https://www.axigen.com/mail-server/free/
