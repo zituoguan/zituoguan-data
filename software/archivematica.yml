@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 存档与数字保存（DP）
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/artefactual/archivematica
 demo_url: https://sandbox.archivematica.org/administration/accounts/login/
 stargazers_count: 388

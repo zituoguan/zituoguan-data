@@ -7,7 +7,7 @@ platforms:
   - Perl
   - Docker
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/melmothx/amusewiki
 demo_url: https://sandbox.amusewiki.org
 stargazers_count: 152

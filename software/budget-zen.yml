@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Deno
 tags:
-  - 财务、预算与管理
+  - 财务、预算和管理
 source_code_url: https://github.com/BrunoBernardino/budgetzen-web
 demo_url: https://app.budgetzen.net
 stargazers_count: 44

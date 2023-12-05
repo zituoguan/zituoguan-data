@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Rust
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/w4/bin
 stargazers_count: 280
 updated_at: '2023-11-27'

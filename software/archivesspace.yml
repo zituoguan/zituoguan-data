@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 存档与数字保存（DP）
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/archivesspace/archivesspace
 demo_url: https://archivesspace.org/application/demo
 stargazers_count: 306

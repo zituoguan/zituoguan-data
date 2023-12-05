@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - 通讯 - 自定义通讯系统
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/centrifugal/centrifugo
 demo_url: https://github.com/centrifugal/centrifugo#demo
 stargazers_count: 7528
