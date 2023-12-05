@@ -1,6 +1,6 @@
 name: bepasty
 website_url: https://bepasty-server.readthedocs.io/en/latest/
-description: A pastebin for all kinds of files.
+description: 适用于各种文件的粘贴板。
 licenses:
   - BSD-2-Clause
 platforms:

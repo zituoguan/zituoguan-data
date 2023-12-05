@@ -1,14 +1,14 @@
 name: Bracket
 website_url: https://evroon.github.io/bracket
 source_code_url: https://github.com/evroon/bracket
-description: Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public.
+description: Bracket 是一个灵活的锦标赛系统，可构建锦标赛设置，添加团队，安排比赛，跟踪比分，并实时向公众展示排名。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 37
 updated_at: '2023-12-03'
 archived: false

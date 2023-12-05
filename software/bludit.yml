@@ -1,12 +1,12 @@
 name: Bludit
 website_url: https://www.bludit.com/
-description: Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages.
+description: 在几秒钟内构建站点或博客的简单应用程序。Bludit使用平面文件（JSON格式的文本文件）来存储帖子和页面。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/bludit/bludit
 demo_url: https://demo.bludit.com/
 depends_3rdparty: true

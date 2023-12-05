@@ -1,12 +1,12 @@
 name: Bigcapital
 website_url: https://bigcapital.ly
-description: A self-hosted financial accounting and inventory management software for small to medium businesses.
+description: 适用于中小型企业的自托管财务会计和库存管理软件。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/bigcapitalhq/bigcapital
 stargazers_count: 1816
 updated_at: '2023-11-30'

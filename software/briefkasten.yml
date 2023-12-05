@@ -1,13 +1,13 @@
 name: Briefkasten
 website_url: https://github.com/ndom91/briefkasten
-description: Modern app for saving and managing your own bookmarks. Includes a browser extension.
+description: 一款用于保存和管理个人书签的现代应用程序，包含浏览器扩展。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/ndom91/briefkasten
 demo_url: https://briefkastenhq.com/auth/signin
 stargazers_count: 639

@@ -1,7 +1,7 @@
 name: Cerbos
 website_url: https://cerbos.dev
 source_code_url: https://github.com/cerbos/cerbos
-description: A self-hosted, open source user authorization layer for your applications.
+description: 一个自托管的、开源的用户授权层，适用于您的应用程序。
 licenses:
   - Apache-2.0
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://play.cerbos.dev
 stargazers_count: 2092
 updated_at: '2023-11-30'

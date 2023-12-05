@@ -1,13 +1,13 @@
 name: betanin
 website_url: https://github.com/sentriz/betanin
-description: Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr.
+description: 音乐组织中间人，位于您的种子客户端和音乐播放器之间。基于beets.io，类似于Sonarr和Radarr。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/sentriz/betanin
 stargazers_count: 275
 updated_at: '2023-12-03'

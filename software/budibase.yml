@@ -1,6 +1,6 @@
 name: Budibase
 website_url: https://www.budibase.com
-description: Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian).
+description: 在几分钟内构建和自动化内部工具、管理面板、仪表板、CRUD 应用等（与 Outsystems、Retool、Mendix、Appian 等类似）。
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/Budibase/budibase
 stargazers_count: 19495
 updated_at: '2023-12-01'

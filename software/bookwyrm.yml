@@ -1,12 +1,12 @@
 name: Bookwyrm
 website_url: https://joinbookwyrm.com/
-description: Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next.
+description: Bookwyrm 是一个社交网络，用于追踪阅读、讨论图书、撰写书评，并发现下一本要读的书。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Python
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 source_code_url: https://github.com/bookwyrm-social/bookwyrm
 stargazers_count: 2014
 updated_at: '2023-11-29'

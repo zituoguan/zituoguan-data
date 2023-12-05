@@ -1,10 +1,10 @@
 name: Bugzilla
 website_url: https://www.bugzilla.org/
-description: General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+description: 通用缺陷跟踪器和测试工具，最初由Mozilla项目开发和使用。
 licenses:
   - MPL-2.0
 platforms:
   - Perl
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://www.bugzilla.org/

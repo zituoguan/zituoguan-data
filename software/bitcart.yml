@@ -1,6 +1,6 @@
 name: Bitcart
 website_url: https://bitcart.ai
-description: A self-hosted cryptocurrencies payment processor and development platform.
+description: 一个自托管的加密货币支付处理器和开发平台。
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,6 @@ platforms:
   - Python
   - Nodejs
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/bitcart
 demo_url: https://admin.bitcart.ai

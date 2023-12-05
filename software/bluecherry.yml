@@ -1,12 +1,12 @@
 name: Bluecherry
 website_url: https://www.bluecherrydvr.com/
-description: Closed-circuit television (CCTV) software application which supports IP and Analog cameras.
+description: 支持IP和模拟摄像机的闭路电视（CCTV）软件应用程序。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Video Surveillance
+  - 视频监控
 source_code_url: https://github.com/bluecherrydvr/bluecherry-apps
 stargazers_count: 169
 updated_at: '2023-11-28'

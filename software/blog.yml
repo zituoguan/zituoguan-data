@@ -1,12 +1,12 @@
 name: Blog
 website_url: https://github.com/m1k1o/blog
-description: Facebook-styled blog. Free, extremely lightweight, single-user and easy to install.
+description: Facebook风格的博客。免费、极轻量级、单用户且易于安装。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/m1k1o/blog
 stargazers_count: 287
 updated_at: '2023-01-24'

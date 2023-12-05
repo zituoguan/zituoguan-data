@@ -1,13 +1,13 @@
 name: CapRover
 website_url: https://caprover.com/
-description: Build your own PaaS in a few minutes.
+description: 在几分钟内构建你自己的平台即服务（PaaS）。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/caprover/caprover
 demo_url: https://captain.server.demo.caprover.com/#/login
 stargazers_count: 11371

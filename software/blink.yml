@@ -1,13 +1,13 @@
 name: Blink
 website_url: https://docs.blink.rest
-description: Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams.
+description: 为团队提供易于托管、集成SSO、由CDN支持的链接缩短器（+分离的分析）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - URL Shorteners
+  - URL缩短器
 source_code_url: https://github.com/JaneJeon/blink
 stargazers_count: 216
 updated_at: '2023-08-31'

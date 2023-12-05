@@ -1,6 +1,6 @@
 name: Centrifugo
 website_url: https://centrifugal.dev/
-description: Language-agnostic real-time messaging (Websocket or SockJS) server.
+description: 语言无关的实时消息（Websocket或SockJS）服务器。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Communication - Custom Communication Systems
+  - 通讯 - 自定义通讯系统
 source_code_url: https://github.com/centrifugal/centrifugo
 demo_url: https://github.com/centrifugal/centrifugo#demo
 stargazers_count: 7528

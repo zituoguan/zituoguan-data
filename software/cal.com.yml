@@ -1,12 +1,12 @@
 name: Cal.com
 website_url: https://cal.com/
-description: The open-source online appointment scheduling system.
+description: 开源的在线预约系统。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Booking and Scheduling
+  - 预订和日程安排
 source_code_url: https://github.com/calcom/cal.com
 demo_url: https://app.cal.com/bailey
 stargazers_count: 25258

@@ -1,13 +1,13 @@
 name: Bitwarden
 website_url: https://bitwarden.com/
-description: Password manager with webapp, browser extension, and mobile app.
+description: 具有Web应用程序、浏览器扩展和移动应用程序的密码管理器。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - C#
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/bitwarden/server
 depends_3rdparty: true
 stargazers_count: 13599

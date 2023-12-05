@@ -1,12 +1,12 @@
 name: BigTree CMS
 website_url: https://www.bigtreecms.org/
-description: Straightforward, well documented, and capable written with PHP and MySQL.
+description: 直观、文档完善、使用PHP和MySQL编写的CMS。
 licenses:
   - LGPL-2.1
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/bigtreecms/BigTree-CMS
 stargazers_count: 209
 updated_at: '2023-10-08'

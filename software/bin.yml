@@ -1,6 +1,6 @@
 name: bin
 website_url: https://github.com/w4/bin
-description: A paste bin that's actually minimalist.
+description: 实际上是极简主义的粘贴板。
 licenses:
   - WTFPL
   - 0BSD

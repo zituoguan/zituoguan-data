@@ -1,13 +1,13 @@
 name: Bitpoll
 website_url: https://github.com/fsinfuhh/Bitpoll
-description: A web application for scheduling meetings and general polling.
+description: 用于安排会议和一般投票的Web应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/fsinfuhh/Bitpoll
 demo_url: https://bitpoll.de/
 stargazers_count: 203

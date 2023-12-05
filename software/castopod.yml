@@ -1,11 +1,11 @@
 name: Castopod
 website_url: https://castopod.org
-description: A podcast management hosting platform that includes the latest podcast 2.0 standards, an automated Fediverse feed, analytics, an embeddable player, and more.
+description: 一个包括最新的播客2.0标准、自动化Fediverse订阅、分析、可嵌入播放器等功能的播客管理托管平台。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://code.castopod.org/adaures/castopod

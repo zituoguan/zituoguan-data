@@ -1,13 +1,13 @@
 name: Buku
 website_url: https://github.com/jarun/Buku
-description: A powerful bookmark manager and a personal textual mini-web.
+description: 一个功能强大的书签管理器和个人纯文本迷你网络。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/jarun/Buku
 stargazers_count: 5913
 updated_at: '2023-10-20'

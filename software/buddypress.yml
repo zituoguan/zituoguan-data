@@ -1,12 +1,12 @@
 name: BuddyPress
 website_url: https://buddypress.org/about/
-description: Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+description: 强大的插件，通过用户配置文件、活动流、用户组等社交网络功能，将您的 WordPress.org 强大的站点超越博客。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/buddypress/BuddyPress
 stargazers_count: 216
 updated_at: '2023-12-02'

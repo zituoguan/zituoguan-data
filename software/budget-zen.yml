@@ -1,12 +1,12 @@
 name: Budget Zen
 website_url: https://budgetzen.net
-description: End-to-end encrypted and simple expense manager.
+description: 全程加密的简易开支管理器。
 licenses:
   - AGPL-3.0
 platforms:
   - Deno
 tags:
-  - Money, Budgeting & Management
+  - 财务、预算与管理
 source_code_url: https://github.com/BrunoBernardino/budgetzen-web
 demo_url: https://app.budgetzen.net
 stargazers_count: 44

@@ -1,12 +1,12 @@
 name: Bolt CMS
 website_url: https://boltcms.io/
-description: Open source Content Management Tool, which strives to be as simple and straightforward as possible.
+description: 一款开源的内容管理工具，致力于尽可能简单和直观。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统 (CMS)
 source_code_url: https://github.com/bolt/core
 stargazers_count: 513
 updated_at: '2023-11-24'

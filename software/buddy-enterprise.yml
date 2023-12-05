@@ -1,11 +1,11 @@
 name: Buddy Enterprise
 website_url: https://buddy.works/
-description: Git and Continuous Integration/Delivery Platform.
+description: Git 和持续集成/交付平台。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Nodejs
   - Java
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://buddy.works/

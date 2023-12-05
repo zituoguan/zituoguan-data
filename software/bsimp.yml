@@ -1,12 +1,12 @@
 name: Bsimp
 website_url: https://github.com/akrylysov/bsimp
-description: Minimalistic S3-backed audio library.
+description: 极简的基于S3的音频库。
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/akrylysov/bsimp
 stargazers_count: 42
 updated_at: '2023-11-11'

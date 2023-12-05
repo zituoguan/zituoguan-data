@@ -1,13 +1,13 @@
 name: Benotes
 website_url: https://benotes.org/
-description: An open source self hosted notes and bookmarks taking web app.
+description: 一个开源的自托管笔记和书签管理的Web应用。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/fr0tt/benotes
 stargazers_count: 593
 updated_at: '2023-11-04'

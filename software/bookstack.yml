@@ -1,13 +1,13 @@
 name: BookStack
 website_url: https://www.bookstackapp.com/
-description: BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion.
+description: BookStack 是一个简单、自托管且易于使用的平台，用于组织和存储信息。它允许以书籍的形式存储文档。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/BookStackApp/BookStack
 demo_url: https://www.bookstackapp.com/#demo
 stargazers_count: 12682
