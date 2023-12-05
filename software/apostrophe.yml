@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Nodejs
 tags:
-  - 内容管理系统 (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/apostrophecms/apostrophe
 demo_url: https://apostrophecms.com/demo
 stargazers_count: 4175

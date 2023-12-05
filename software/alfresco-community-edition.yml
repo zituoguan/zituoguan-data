@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - 内容管理系统 (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/Alfresco/alfresco-community-repo
 stargazers_count: 104
 updated_at: '2023-12-03'

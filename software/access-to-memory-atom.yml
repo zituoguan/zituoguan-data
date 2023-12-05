@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 存档和数字保存（DP）
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/artefactual/atom
 demo_url: https://demo.accesstomemory.org/
 stargazers_count: 228

@@ -1,4 +1,4 @@
-name: 日历与联系人
+name: 日历和联系人
 description: '[CalDAV](https://en.wikipedia.org/wiki/CalDAV)和[CardDAV](https://en.wikipedia.org/wiki/CardDAV)协议服务器以及用于[电子日历](https://en.wikipedia.org/wiki/Calendaring_software)、[地址簿](https://en.wikipedia.org/wiki/Address_book)和[联系人管理](https://en.wikipedia.org/wiki/Contact_manager)的网络客户端/界面。'
 external_links:
   - title: CalDAV和CardDAV实现比较 - 维基百科

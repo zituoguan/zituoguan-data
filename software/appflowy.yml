@@ -8,7 +8,7 @@ platforms:
   - Dart
   - Docker
 tags:
-  - 任务管理和待办事项列表
+  - 任务管理和待办清单
 source_code_url: https://github.com/AppFlowy-IO/appflowy
 stargazers_count: 42614
 updated_at: '2023-12-03'

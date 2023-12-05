@@ -8,7 +8,7 @@ platforms:
   - deb
   - Nodejs
 tags:
-  - 媒体流 - 音频流
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/advplyr/audiobookshelf
 related_software_url: https://github.com/advplyr/audiobookshelf-app
 stargazers_count: 3984

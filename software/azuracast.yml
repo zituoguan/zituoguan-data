@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 媒体流 - 音频流
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/AzuraCast/AzuraCast
 stargazers_count: 2593
 updated_at: '2023-12-01'

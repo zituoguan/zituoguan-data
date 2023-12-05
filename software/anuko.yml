@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 时间跟踪
+  - 时间追踪
 source_code_url: https://github.com/anuko/timetracker
 stargazers_count: 179
 updated_at: '2023-11-11'
