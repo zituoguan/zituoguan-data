@@ -1,12 +1,12 @@
 name: form.io
 website_url: https://form.io
-description: A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version.
+description: 一种利用拖放表单构建器的 REST API 构建平台，应用框架无关。包含开源和企业版本。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/formio
 demo_url: https://portal.form.io

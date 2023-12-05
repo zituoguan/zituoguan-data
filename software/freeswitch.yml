@@ -1,12 +1,12 @@
 name: FreeSWITCH
 website_url: https://freeswitch.org/
-description: Scalable open source cross-platform telephony platform.
+description: 可扩展的开源跨平台电话平台。
 licenses:
   - MPL-2.0
 platforms:
   - C
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/signalwire/freeswitch
 stargazers_count: 2707
 updated_at: '2023-11-07'

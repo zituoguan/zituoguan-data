@@ -1,13 +1,13 @@
 name: Flagsmith
 website_url: https://flagsmith.com
-description: Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly).
+description: Flagsmith 提供仪表板、API 和 SDK，用于向应用程序添加功能标志（与 LaunchDarkly 的替代方案）。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
   - K8S
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/flagsmith/flagsmith
 stargazers_count: 3313
 updated_at: '2023-12-01'

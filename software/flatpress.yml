@@ -1,12 +1,12 @@
 name: FlatPress
 website_url: https://flatpress.org/
-description: A lightweight, easy-to-set-up flat-file blogging engine.
+description: 一款轻量、易于设置的平面文件博客引擎。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/flatpressblog/flatpress
 stargazers_count: 162
 updated_at: '2023-12-01'

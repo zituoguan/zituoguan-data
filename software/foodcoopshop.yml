@@ -1,13 +1,13 @@
 name: FoodCoopShop
 website_url: https://www.foodcoopshop.com/
-description: User-friendly open source software for food-coops.
+description: 面向食品合作社的用户友好开源软件。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Community-Supported Agriculture (CSA)
+  - 社区支持农业（CSA）
 source_code_url: https://github.com/foodcoopshop/foodcoopshop
 stargazers_count: 73
 updated_at: '2023-11-29'

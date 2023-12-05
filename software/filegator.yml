@@ -1,13 +1,13 @@
 name: FileGator
 website_url: https://filegator.io/
-description: FileGator is a powerful multi-user file manager with a single page front-end.
+description: FileGator 是一个强大的多用户文件管理器，具有单页面前端。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/filegator/filegator
 demo_url: https://demo.filegator.io
 stargazers_count: 1693

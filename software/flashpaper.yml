@@ -1,13 +1,13 @@
 name: FlashPaper
 website_url: https://github.com/AndrewPaglusch/FlashPaper
-description: A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required.
+description: 一次性加密的零知识密码/秘密共享应用，专注于简单性和安全性。无需数据库或复杂的设置。
 licenses:
   - MIT
 platforms:
   - Docker
   - PHP
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/AndrewPaglusch/FlashPaper
 demo_url: https://flashpaper.io
 stargazers_count: 264

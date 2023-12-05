@@ -1,7 +1,7 @@
 name: Flipt
 website_url: https://flipt.io
 source_code_url: https://github.com/flipt-io/flipt
-description: Feature flag solution with support for multiple data backends (alternative to LaunchDarkly).
+description: 具有多个数据后端支持的功能标志解决方案（与 LaunchDarkly 的替代方案）。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://try.flipt.io
 stargazers_count: 2997
 updated_at: '2023-12-03'

@@ -1,12 +1,12 @@
 name: filebrowser
 website_url: https://filebrowser.org/
-description: Web File Browser with a Material Design web interface.
+description: 带有 Material Design Web 界面的 Web 文件浏览器。
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/filebrowser/filebrowser
 stargazers_count: 21607
 updated_at: '2023-11-25'

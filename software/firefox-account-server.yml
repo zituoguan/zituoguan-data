@@ -1,13 +1,13 @@
 name: Firefox Account Server
 website_url: https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html
-description: This allows you to host your own Firefox accounts server.
+description: 允许您托管自己的 Firefox 帐户服务器。
 licenses:
   - MPL-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Java
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接共享
 source_code_url: https://github.com/mozilla/fxa
 stargazers_count: 539
 updated_at: '2023-12-01'

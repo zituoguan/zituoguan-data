@@ -1,12 +1,12 @@
 name: Galene
 website_url: https://galene.org/
-description: Galène (or Galene) is a videoconference server (an “SFU”) that is easy to deploy and that requires moderate server resources.
+description: Galène（或 Galene）是一个易于部署且需要中等服务器资源的视频会议服务器（“SFU”）。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Communication - Video Conferencing
+  - 通信 - 视频会议
 source_code_url: https://github.com/jech/galene
 stargazers_count: 804
 updated_at: '2023-11-25'

@@ -1,6 +1,6 @@
 name: Frigate
 website_url: https://frigate.video/
-description: Monitor your security cameras with locally processed AI.
+description: 使用本地处理的人工智能监控您的安全摄像头。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Python
   - Nodejs
 tags:
-  - Video Surveillance
+  - 视频监控
 source_code_url: https://github.com/blakeblackshear/frigate
 stargazers_count: 12008
 updated_at: '2023-12-03'

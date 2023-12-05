@@ -1,12 +1,12 @@
 name: Fider
 website_url: https://fider.io
-description: Open platform to collect and prioritize feedback (alternative to UserVoice).
+description: 开放平台，用于收集和优先处理反馈（与UserVoice的替代方案）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
 stargazers_count: 2460

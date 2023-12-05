@@ -1,13 +1,13 @@
 name: Flexisip
 website_url: https://www.linphone.org/technical-corner/flexisip/
-description: A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground.
+description: 一款完整、模块化和可扩展的 SIP 服务器，包括一个推送网关，用于在移动设备平台上传递 SIP 来电或文本消息，在这些平台上，需要推送通知以在应用程序不活动在前台时接收信息。
 licenses:
   - AGPL-3.0
 platforms:
   - C
   - Docker
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/BelledonneCommunications/flexisip
 stargazers_count: 127
 updated_at: '2023-11-29'

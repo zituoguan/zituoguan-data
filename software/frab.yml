@@ -1,13 +1,13 @@
 name: frab
 website_url: https://frab.github.io/frab/
-description: Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule.
+description: 基于Web的会议规划和管理系统。它有助于收集提交，管理演讲和演讲者，并创建日程表。
 licenses:
   - MIT
 platforms:
   - Ruby
   - Docker
 tags:
-  - Conference Management
+  - 会议管理
 source_code_url: https://github.com/frab/frab
 stargazers_count: 670
 updated_at: '2023-11-03'

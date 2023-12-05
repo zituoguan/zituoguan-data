@@ -1,13 +1,13 @@
 name: FileShelter
 website_url: https://github.com/epoupon/fileshelter
-description: FileShelter is a self-hosted software that allows you to easily share files over the Internet.
+description: FileShelter 是一个自托管软件，使您能够轻松在互联网上共享文件。
 licenses:
   - GPL-3.0
 platforms:
   - C++
   - deb
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/epoupon/fileshelter
 stargazers_count: 382
 updated_at: '2023-07-20'

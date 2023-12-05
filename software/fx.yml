@@ -1,12 +1,12 @@
 name: fx
 website_url: https://github.com/metrue/fx
-description: A tool to help you do Function as a Service with painless on your own servers.
+description: 一款帮助您在自己的服务器上轻松实现函数即服务（FaaS）的工具。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Software Development - FaaS & Serverless
+  - 软件开发 - FaaS 与无服务器
 source_code_url: https://github.com/metrue/fx
 stargazers_count: 2051
 updated_at: '2023-10-24'

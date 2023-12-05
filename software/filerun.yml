@@ -1,11 +1,11 @@
 name: FileRun
 website_url: https://www.filerun.com/
-description: Complete solution for your files with integration with Google and Office.
+description: 与 Google 和 Office 集成的文件的完整解决方案。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://www.filerun.com/
 demo_url: https://www.filerun.com/demo

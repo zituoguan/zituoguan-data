@@ -1,12 +1,12 @@
 name: Friendica
 website_url: https://friendi.ca/
-description: Social Communication Server.
+description: 社交通讯服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络与论坛
 source_code_url: https://github.com/friendica/friendica
 stargazers_count: 1277
 updated_at: '2023-12-03'

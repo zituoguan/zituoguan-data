@@ -1,13 +1,13 @@
 name: Gatus
 website_url: https://github.com/TwiN/gatus
-description: Automated service health dashboard.
+description: 自动化服务健康仪表板。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - K8S
 tags:
-  - Status / Uptime pages
+  - 状态/正常运行页面
 source_code_url: https://github.com/TwiN/gatus
 demo_url: https://status.twin.sh
 stargazers_count: 4228

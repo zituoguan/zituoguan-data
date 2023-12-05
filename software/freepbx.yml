@@ -1,10 +1,10 @@
-name: Freepbx
+name: FreePBX
 website_url: https://www.freepbx.org
-description: Web-based open source GUI that controls and manages Asterisk.
+description: 基于Web的开源图形用户界面，用于控制和管理Asterisk。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://git.freepbx.org/projects/FREEPBX

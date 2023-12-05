@@ -1,12 +1,12 @@
 name: GeneWeb
 website_url: https://geneweb.tuxfamily.org/wiki/GeneWeb
-description: Genealogy software. It comes with a Web interface and can be used off-line or as a Web service.
+description: 家谱学软件。它配备了一个Web界面，可脱机使用或作为Web服务使用。
 licenses:
   - GPL-2.0
 platforms:
   - OCaml
 tags:
-  - Genealogy
+  - 族谱学
 source_code_url: https://github.com/geneweb/geneweb
 demo_url: https://demo.geneweb.tuxfamily.org/gw7/
 stargazers_count: 271

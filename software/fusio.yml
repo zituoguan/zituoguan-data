@@ -1,13 +1,13 @@
 name: Fusio
 website_url: https://www.fusio-project.org/
-description: Open-source API management platform which helps to build and manage REST APIs.
+description: 开源的API管理平台，帮助构建和管理REST API。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/apioo/fusio
 demo_url: https://fusio-project.org/demo
 stargazers_count: 1613

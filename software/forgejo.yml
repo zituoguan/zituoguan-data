@@ -1,14 +1,14 @@
 name: Forgejo
 website_url: https://forgejo.org
 source_code_url: https://codeberg.org/forgejo/forgejo/
-description: A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea).
+description: 一款专注于扩展、联邦和隐私的轻量级软件锻造工具（基于 Gitea 的分支）。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Software Development - Project Management
-  - Ticketing
+  - 软件开发 - 项目管理
+  - 票务管理
 demo_url: https://next.forgejo.org
 related_software_url: https://codeberg.org/forgejo-contrib/delightful-forgejo

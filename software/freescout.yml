@@ -1,13 +1,13 @@
 name: FreeScout
 website_url: https://github.com/freescout-helpdesk/freescout
-description: 'Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox.'
+description: 'Help Scout 的开源克隆版：基于电子邮件的客户支持应用、帮助台和共享邮箱。'
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/freescout-helpdesk/freescout
 stargazers_count: 2346
 updated_at: '2023-12-02'

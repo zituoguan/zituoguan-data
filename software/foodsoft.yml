@@ -1,13 +1,13 @@
 name: Foodsoft
 website_url: https://foodcoops.net/
-description: Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
+description: 基于Web的软件，用于管理非营利性食品合作社（产品目录、订购、会计、工作安排）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Ruby
 tags:
-  - Community-Supported Agriculture (CSA)
+  - 社区支持农业（CSA）
 source_code_url: https://github.com/foodcoops/foodsoft
 stargazers_count: 300
 updated_at: '2023-11-13'

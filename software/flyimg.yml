@@ -1,13 +1,13 @@
 name: Flyimg
 website_url: https://flyimg.io
 source_code_url: https://github.com/flyimg/flyimg
-description: Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
+description: 实时调整和裁剪图像。使用ImageMagick、高效的缓存系统，获得经过MozJPEG、WebP或PNG优化的图像。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://demo.flyimg.io
 stargazers_count: 842
 updated_at: '2023-11-29'

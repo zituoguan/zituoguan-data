@@ -1,13 +1,13 @@
 name: Firefly III
 website_url: https://firefly-iii.org/
-description: Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks.
+description: Firefly III 是一款现代财务管理软件。它帮助您追踪您的资金并进行预算预测。支持信用卡，具有先进的规则引擎，并可从许多银行导入数据。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
 stargazers_count: 11806

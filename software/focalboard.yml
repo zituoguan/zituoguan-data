@@ -1,6 +1,6 @@
 name: Focalboard
 website_url: https://www.focalboard.com/
-description: Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana).
+description: 定义、组织、跟踪和管理个人和团队的工作（Trello、Notion 和 Asana 的替代品）。
 licenses:
   - MIT
   - AGPL-3.0
@@ -10,7 +10,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/mattermost/focalboard
 related_software_url: https://www.focalboard.com/download/personal-edition/desktop/
 stargazers_count: 17431

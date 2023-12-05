@@ -1,13 +1,13 @@
 name: Geo2tz
 website_url: https://github.com/noandrea/geo2tz
-description: Get the timezone from geo coordinates (lat, lon).
+description: 通过地理坐标（纬度、经度）获取时区。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/noandrea/geo2tz
 stargazers_count: 59
 updated_at: '2023-06-24'

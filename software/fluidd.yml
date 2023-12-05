@@ -1,13 +1,13 @@
 name: Fluidd
 website_url: https://docs.fluidd.xyz/
-description: Lightweight & responsive user interface for Klipper, the 3D printer firmware.
+description: 用于Klipper 3D打印机固件的轻量且响应灵敏的用户界面。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Manufacturing
+  - 制造业
 source_code_url: https://github.com/fluidd-core/fluidd
 stargazers_count: 1126
 updated_at: '2023-12-01'

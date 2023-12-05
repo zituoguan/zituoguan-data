@@ -1,13 +1,13 @@
 name: FOSSBilling
 website_url: https://fossbilling.org/
-description: Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible.
+description: 免费且开源的主机和计费自动化工具。与WHM、CWP、cPanel和HestiaCP集成。具备完整的API和易于扩展。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算与管理
 source_code_url: https://github.com/FOSSBilling/FOSSBilling
 demo_url: https://fossbilling.org/demo
 stargazers_count: 547

@@ -1,12 +1,12 @@
 name: Filestash
 website_url: https://www.filestash.app/
-description: 'A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .'
+description: '一个 Web 文件管理器，可让您管理数据的任何位置：FTP、SFTP、WebDAV、Git、S3、Minio、Dropbox 或 Google Drive。'
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/mickael-kerjean/filestash
 demo_url: https://demo.filestash.app/
 stargazers_count: 8707

@@ -1,12 +1,12 @@
 name: Flarum
 website_url: https://flarum.org
-description: Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again.
+description: 愉悦简单的论坛。Flarum 是下一代论坛软件，让在线讨论再次变得有趣。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/flarum/flarum
 stargazers_count: 14507
 updated_at: '2023-05-20'
