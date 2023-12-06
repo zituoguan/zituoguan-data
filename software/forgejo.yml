@@ -9,6 +9,6 @@ platforms:
   - Go
 tags:
   - 软件开发 - 项目管理
-  - 票务管理
+  - 工单
 demo_url: https://next.forgejo.org
 related_software_url: https://codeberg.org/forgejo-contrib/delightful-forgejo

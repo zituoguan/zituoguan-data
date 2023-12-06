@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 票务
+  - 工单
 source_code_url: https://github.com/erxes/erxes
 stargazers_count: 3296
 updated_at: '2023-11-29'

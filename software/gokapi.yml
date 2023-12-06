@@ -7,7 +7,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 文件传输 - 单击上传和拖放上传
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/Forceu/gokapi
 stargazers_count: 836
 updated_at: '2023-11-29'

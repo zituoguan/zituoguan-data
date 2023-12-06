@@ -7,7 +7,7 @@ platforms:
   - PHP
   - Docker
 tags:
-  - 资金、预算与管理
+  - 资金、预算和管理
 source_code_url: https://github.com/FOSSBilling/FOSSBilling
 demo_url: https://fossbilling.org/demo
 stargazers_count: 547

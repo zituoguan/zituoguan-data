@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Scala
 tags:
-  - 资金、预算与管理
+  - 资金、预算和管理
 source_code_url: https://github.com/nymanjens/facto
 stargazers_count: 160
 updated_at: '2023-11-23'

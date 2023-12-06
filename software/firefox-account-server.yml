@@ -7,7 +7,7 @@ platforms:
   - Node.js
   - Java
 tags:
-  - 书签和链接共享
+  - 书签和链接分享
 source_code_url: https://github.com/mozilla/fxa
 stargazers_count: 539
 updated_at: '2023-12-01'

@@ -1,4 +1,4 @@
-name: 状态/运行事件页面
+name: 状态/运行时间页面
 description: '[正常运行时间](https://en.wikipedia.org/wiki/Uptime)是系统可靠性的度量，表示计算机或其他机器正常工作并可用的时间百分比。'
 related_tags:
   - 监控

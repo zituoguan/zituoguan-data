@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 文件传输 - 单击上传和拖放上传
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/Depado/goploader
 stargazers_count: 262
 updated_at: '2023-10-17'

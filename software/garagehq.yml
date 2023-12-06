@@ -7,5 +7,5 @@ platforms:
   - Docker
   - Rust
 tags:
-  - 文件传输 - 对象存储与文件服务器
+  - 文件传输 - 对象存储和文件服务器
 source_code_url: https://git.deuxfleurs.fr/Deuxfleurs/garage

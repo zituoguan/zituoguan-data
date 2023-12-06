@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Javascript
 tags:
-  - 通信 - XMPP - Web客户端
+  - 通信 - XMPP - Web 客户端
 source_code_url: https://github.com/conversejs/converse.js
 stargazers_count: 2976
 updated_at: '2023-11-03'
