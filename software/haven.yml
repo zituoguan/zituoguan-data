@@ -1,12 +1,12 @@
 name: Haven
 website_url: https://havenweb.org/
-description: Private blogging system with markdown editing and built in RSS reader.
+description: 具有Markdown编辑和内置RSS阅读器的私人博客系统。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/havenweb/haven
 demo_url: https://havenweb.org/demo.html
 stargazers_count: 562

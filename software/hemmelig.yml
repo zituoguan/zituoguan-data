@@ -1,13 +1,13 @@
 name: Hemmelig
 website_url: https://hemmelig.app
-description: Share encrypted secrets cross organizations, or as private persons.
+description: 跨组织或私人共享加密的秘密。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/HemmeligOrg/Hemmelig.app
 stargazers_count: 554
 updated_at: '2023-12-01'

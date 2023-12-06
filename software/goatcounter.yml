@@ -1,12 +1,12 @@
 name: GoatCounter
 website_url: https://www.goatcounter.com
-description: Easy web statistics without tracking of personal data.
+description: 无需跟踪个人数据的简易网络统计工具。
 licenses:
   - EUPL-1.2
 platforms:
   - Go
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/arp242/goatcounter
 stargazers_count: 3713
 updated_at: '2023-09-03'

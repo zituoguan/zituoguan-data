@@ -1,12 +1,12 @@
 name: Gollum
 website_url: https://github.com/gollum/gollum
-description: Simple, Git-powered wiki with a sweet API and local frontend.
+description: 简单的、由Git驱动的维基，具有友好的API和本地前端。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/gollum/gollum
 stargazers_count: 13370
 updated_at: '2023-10-30'

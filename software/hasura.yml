@@ -1,6 +1,6 @@
 name: Hasura
 website_url: https://hasura.io
-description: Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+description: 在Postgres上快速、即时的实时GraphQL API，具有细粒度的访问控制，还可在数据库事件上触发Webhooks。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/hasura/graphql-engine
 stargazers_count: 30508
 updated_at: '2023-12-01'

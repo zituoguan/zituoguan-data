@@ -1,12 +1,12 @@
 name: Haraka
 website_url: https://haraka.github.io/
-description: High-performance, pluginable SMTP server written in Javascript.
+description: 用Javascript编写的高性能、可插件化的SMTP服务器。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Communication - Email - Mail Transfer Agents
+  - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: https://github.com/haraka/Haraka
 stargazers_count: 4627
 updated_at: '2023-12-03'

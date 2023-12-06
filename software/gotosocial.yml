@@ -1,13 +1,13 @@
 name: GoToSocial
 website_url: https://github.com/superseriousbusiness/gotosocial
-description: ActivityPub federated social network server implementing the Mastodon client API.
+description: 实现Mastodon客户端API的ActivityPub联合社交网络服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/superseriousbusiness/gotosocial
 stargazers_count: 3159
 updated_at: '2023-12-01'

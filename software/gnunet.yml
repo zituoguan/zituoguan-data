@@ -1,10 +1,10 @@
 name: GNUnet
 website_url: https://gnunet.org/
-description: Free software framework for decentralized, peer-to-peer networking.
+description: 用于去中心化的对等网络的自由软件框架。
 licenses:
   - GPL-3.0
 platforms:
   - C
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://gnunet.org/git/

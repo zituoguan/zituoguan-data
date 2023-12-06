@@ -1,10 +1,10 @@
 name: Groupboard
 website_url: https://www.groupboard.com/products/
-description: Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
+description: 在线白板、音频/视频会议、屏幕共享、共享代码编辑和可选的会话录制/回放。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://www.groupboard.com/products/

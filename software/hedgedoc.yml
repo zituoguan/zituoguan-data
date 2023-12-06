@@ -1,13 +1,13 @@
 name: HedgeDoc
 website_url: https://demo.hedgedoc.org/
-description: Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE.
+description: 跨所有平台的实时协作Markdown笔记，以前被称为CodiMD和HackMD CE。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/hedgedoc/hedgedoc
 stargazers_count: 4328
 updated_at: '2023-12-03'

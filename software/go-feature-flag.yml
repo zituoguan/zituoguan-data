@@ -1,12 +1,12 @@
 name: GO Feature Flag
 website_url: https://gofeatureflag.org
-description: Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly).
+description: 简单、完整且轻量级的功能标志解决方案（与LaunchDarkly的替代品）。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
 stargazers_count: 882
 updated_at: '2023-11-30'

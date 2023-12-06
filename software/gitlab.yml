@@ -1,6 +1,6 @@
 name: GitLab
 website_url: https://about.gitlab.com
-description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
+description: 自托管的Git仓库管理、代码审查、问题追踪、活动订阅和维基工具。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://gitlab.com/gitlab-org/gitlab-foss
 demo_url: https://gitlab.com/

@@ -1,12 +1,12 @@
 name: Graphweaver
 website_url: https://graphweaver.com/
-description: Turn multiple data sources into a single GraphQL API.
+description: 将多个数据源转换为单一的GraphQL API。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/exogee-technology/graphweaver
 stargazers_count: 401
 updated_at: '2023-11-29'

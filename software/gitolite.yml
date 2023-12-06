@@ -1,12 +1,12 @@
 name: Gitolite
 website_url: https://gitolite.com/gitolite/index.html
-description: Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
+description: Gitolite允许您在中央服务器上设置git托管，具有细粒度的访问控制和许多其他强大的功能。
 licenses:
   - GPL-2.0
 platforms:
   - Perl
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/sitaramc/gitolite
 stargazers_count: 8263
 updated_at: '2023-11-03'

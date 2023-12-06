@@ -1,12 +1,12 @@
 name: Gitit
 website_url: https://github.com/jgm/gitit
-description: Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface.
+description: 存储页面和上传文件于Git存储库的维基程序，可以使用VCS命令行工具或维基的Web界面进行修改。
 licenses:
   - GPL-2.0
 platforms:
   - Haskell
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/jgm/gitit
 stargazers_count: 2109
 updated_at: '2023-09-28'

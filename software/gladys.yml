@@ -1,13 +1,13 @@
 name: Gladys
 website_url: https://gladysassistant.com/
-description: Gladys is a privacy-first, open-source home assistant.
+description: Gladys是一款以隐私为先的开源家庭助手。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/GladysAssistant/Gladys
 stargazers_count: 2410
 updated_at: '2023-12-01'

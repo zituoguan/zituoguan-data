@@ -1,6 +1,6 @@
 name: GlitchTip
 website_url: https://glitchtip.com
-description: Open source error-tracking app. GlitchTip collects errors reported by your app.
+description: 开源错误跟踪应用。GlitchTip收集您的应用报告的错误。
 licenses:
   - MIT
 platforms:
@@ -8,5 +8,5 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://gitlab.com/glitchtip/glitchtip

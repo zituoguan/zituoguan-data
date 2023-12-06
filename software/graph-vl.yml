@@ -1,6 +1,6 @@
 name: graph-vl
 website_url: https://github.com/verifid/graph-vl
-description: Identity document verification using Machine Learning and GraphQL.
+description: 使用机器学习和GraphQL进行身份文件验证。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/verifid/graph-vl
 stargazers_count: 48
 updated_at: '2023-05-17'

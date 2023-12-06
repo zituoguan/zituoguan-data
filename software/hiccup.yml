@@ -1,13 +1,13 @@
 name: Hiccup
 website_url: https://designedbyashw.in/test/hiccup/
-description: A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page.
+description: 一个漂亮的静态主页，快速访问您的链接和服务。具有内置搜索、编辑、PWA支持和本地存储缓存，轻松组织起始页。
 licenses:
   - MIT
 platforms:
   - Javascript
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/ashwin-pc/hiccup
 stargazers_count: 115
 updated_at: '2023-06-01'

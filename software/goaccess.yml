@@ -1,12 +1,12 @@
 name: GoAccess
 website_url: http://goaccess.io/
-description: Real-time web log analyzer and interactive viewer that runs in a terminal.
+description: 实时网络日志分析器和交互式查看器，可在终端中运行。
 licenses:
   - GPL-2.0
 platforms:
   - C
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/allinurl/goaccess
 stargazers_count: 16915
 updated_at: '2023-12-02'

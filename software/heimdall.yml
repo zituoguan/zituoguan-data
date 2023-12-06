@@ -1,12 +1,12 @@
 name: Heimdall
 website_url: https://heimdall.site/
-description: Heimdall is an elegant solution to organise all your web applications.
+description: Heimdall是一个优雅的解决方案，用于组织所有您的Web应用程序。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/linuxserver/Heimdall
 stargazers_count: 6730
 updated_at: '2023-11-11'

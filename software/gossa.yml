@@ -1,12 +1,12 @@
 name: Gossa
 website_url: https://github.com/pldubouilh/gossa
-description: Gossa is a light and simple webserver for your files.
+description: Gossa是一个轻量简单的文件Web服务器。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/pldubouilh/gossa
 stargazers_count: 788
 updated_at: '2023-07-08'

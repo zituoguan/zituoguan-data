@@ -1,12 +1,12 @@
 name: Gitblit
 website_url: https://www.gitblit.com/
-description: Pure Java stack for managing, viewing, and serving Git repositories.
+description: 用于管理、查看和提供Git存储库的纯Java堆栈。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/gitblit-org/gitblit
 stargazers_count: 2214
 updated_at: '2023-10-31'

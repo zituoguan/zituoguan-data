@@ -1,12 +1,12 @@
 name: goploader
 website_url: https://github.com/Depado/goploader
-description: Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+description: 使用服务器端加密的简便文件共享，兼容curl/httpie/wget。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击上传和拖放上传
 source_code_url: https://github.com/Depado/goploader
 stargazers_count: 262
 updated_at: '2023-10-17'

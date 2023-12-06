@@ -1,12 +1,12 @@
 name: Hakatime
 website_url: https://github.com/mujx/hakatime
-description: WakaTime server implementation with analytics dashboard.
+description: 具有分析仪表板的WakaTime服务器实现。
 licenses:
   - Unlicense
 platforms:
   - Haskell
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/mujx/hakatime
 stargazers_count: 524
 updated_at: '2023-07-31'

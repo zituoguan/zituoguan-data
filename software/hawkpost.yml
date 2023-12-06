@@ -1,13 +1,13 @@
-name: Hawkpost
+name: HawkPost
 website_url: https://hawkpost.co
-description: HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address.
+description: HawkPost是一个Web应用程序，允许您创建独特的链接，您可以与希望向您发送重要信息但不知道如何加密的人共享。消息在其浏览器中加密，然后发送到您的电子邮件地址。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/whitesmith/hawkpost
 stargazers_count: 931
 updated_at: '2023-05-14'

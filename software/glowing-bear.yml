@@ -1,12 +1,12 @@
 name: Glowing Bear
 website_url: https://github.com/glowing-bear/glowing-bear
-description: A web frontend for WeeChat.
+description: WeeChat的Web前端。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/glowing-bear/glowing-bear
 demo_url: https://www.glowing-bear.org
 stargazers_count: 918

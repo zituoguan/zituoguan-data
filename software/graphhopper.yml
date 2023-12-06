@@ -1,12 +1,12 @@
 name: GraphHopper
 website_url: https://graphhopper.com/
-description: Fast routing library and server using OpenStreetMap.
+description: 使用OpenStreetMap的快速路由库和服务器。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/graphhopper/graphhopper
 stargazers_count: 4460
 updated_at: '2023-12-01'

@@ -1,12 +1,12 @@
 name: google-webfonts-helper
 website_url: https://github.com/majodev/google-webfonts-helper
-description: Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets.
+description: 无麻烦地自托管Google字体的方式。获取eot、ttf、svg、woff和woff2文件 + CSS片段。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/majodev/google-webfonts-helper
 demo_url: https://gwfh.mranftl.com/fonts
 depends_3rdparty: true
