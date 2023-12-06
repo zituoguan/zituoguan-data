@@ -1,13 +1,13 @@
 name: Homarr
 website_url: https://homarr.dev
-description: Sleek, modern dashboard with many integrations and web-based config.
+description: 时尚、现代的仪表板，集成了许多功能，支持基于Web的配置。
 licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/ajnart/homarr
 demo_url: https://demo.homarr.dev
 stargazers_count: 3969

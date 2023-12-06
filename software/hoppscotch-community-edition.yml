@@ -1,13 +1,13 @@
 name: Hoppscotch Community Edition
 website_url: https://hoppscotch.io
-description: A free, fast and beautiful API request builder.
+description: 一个免费、快速且美观的API请求构建工具。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/hoppscotch/hoppscotch
 stargazers_count: 56932
 updated_at: '2023-11-14'

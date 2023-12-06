@@ -1,13 +1,13 @@
 name: Iguana
 website_url: https://github.com/iguana-project/iguana
-description: Iguana is an open source issue management system with a kanban board.
+description: Iguana是一个带有看板板的开源问题管理系统。
 licenses:
   - CC-BY-SA-4.0
 platforms:
   - Python
   - Docker
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/iguana-project/iguana
 stargazers_count: 61
 updated_at: '2023-07-30'

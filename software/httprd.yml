@@ -1,12 +1,12 @@
 name: httprd
 website_url: https://github.com/bitrate16/httprd
-description: Single-script remote desktop via web browser.
+description: 通过Web浏览器的单脚本远程桌面。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Remote Access
+  - 远程访问
 source_code_url: https://github.com/bitrate16/httprd
 stargazers_count: 36
 updated_at: '2023-06-08'

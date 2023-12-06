@@ -1,12 +1,12 @@
 name: Hyphanet
 website_url: https://hyphanet.org/
-description: Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums.
+description: 匿名分享文件，浏览和发布_freesites_（仅通过Hyphanet访问的网站）并在论坛上聊天。
 licenses:
   - GPL-2.0
 platforms:
   - Java
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/hyphanet/fred
 stargazers_count: 951
 updated_at: '2023-11-26'

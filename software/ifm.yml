@@ -1,12 +1,12 @@
 name: IFM
 website_url: https://github.com/misterunknown/ifm
-description: Single script file manager.
+description: 单脚本文件管理器。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/misterunknown/ifm
 stargazers_count: 308
 updated_at: '2023-11-23'

@@ -1,12 +1,12 @@
 name: HttPlaceholder
 website_url: https://github.com/dukeofharen/httplaceholder
-description: Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned.
+description: 使用 HttPlaceholder 快速模拟任何Web服务。HttPlaceholder 允许您指定请求的样式以及需要返回的响应。
 licenses:
   - MIT
 platforms:
   - C#
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/dukeofharen/httplaceholder
 stargazers_count: 85
 updated_at: '2023-11-26'

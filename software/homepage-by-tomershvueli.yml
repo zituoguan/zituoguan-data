@@ -1,12 +1,12 @@
 name: Homepage by tomershvueli
 website_url: https://github.com/tomershvueli/homepage
-description: Simple, standalone, self-hosted PHP page that is your window to your server and the web.
+description: 简单、独立、自托管的PHP页面，是您访问服务器和互联网的窗口。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/tomershvueli/homepage
 stargazers_count: 294
 updated_at: '2021-05-09'

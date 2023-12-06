@@ -1,12 +1,12 @@
 name: HRConvert2
 website_url: https://github.com/zelon88/HRConvert2
-description: Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability.
+description: 拖放文件转换服务器，支持基于会话的身份验证、自动临时文件维护和日志记录功能。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/zelon88/HRConvert2
 stargazers_count: 761
 updated_at: '2023-10-31'

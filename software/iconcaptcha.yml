@@ -1,12 +1,12 @@
 name: IconCaptcha
 website_url: https://www.fabianwennink.nl/projects/IconCaptcha/
-description: IconCaptcha is a self-hosted, fast, simple and user-friendly captcha for PHP.
+description: IconCaptcha是一个用于PHP的自托管、快速、简单且用户友好的验证码。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/fabianwennink/IconCaptcha-Plugin-jQuery-PHP
 stargazers_count: 95
 updated_at: '2023-11-05'

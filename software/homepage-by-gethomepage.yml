@@ -1,13 +1,13 @@
 name: Homepage by gethomepage
 website_url: https://github.com/gethomepage/homepage
-description: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+description: 一个高度可定制的首页（或起始页/应用程序仪表板），具有Docker和服务API集成。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/gethomepage/homepage
 stargazers_count: 11156
 updated_at: '2023-12-03'

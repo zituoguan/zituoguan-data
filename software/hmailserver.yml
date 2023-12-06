@@ -1,14 +1,13 @@
 name: hMailServer
 website_url: https://www.hmailserver.com
-description: Open-source e-mail server for Microsoft Windows.
+description: 用于 Microsoft Windows 的开源电子邮件服务器。
 licenses:
   - ⊘ Proprietary
 platforms:
   - C++
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/hmailserver/hmailserver
 stargazers_count: 838
 updated_at: '2023-11-02'
 archived: false
-

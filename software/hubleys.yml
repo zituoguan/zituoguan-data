@@ -1,12 +1,12 @@
 name: Hubleys
 website_url: https://github.com/knrdl/hubleys-dashboard
-description: Self-hosted personal dashboards to organize links for multiple users via a central yaml config.
+description: 自托管的个人仪表板，通过中央的yaml配置为多个用户组织链接。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/knrdl/hubleys-dashboard
 stargazers_count: 31
 updated_at: '2023-11-27'

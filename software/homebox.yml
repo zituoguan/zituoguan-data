@@ -1,12 +1,12 @@
 name: homebox
 website_url: https://github.com/progmaticltd/homebox
-description: Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security.
+description: Ansible脚本套件，用于在Debian上部署一个完全功能的邮件服务器。尽可能不显眼和自动化，专注于稳定性和安全性。
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/progmaticltd/homebox
 stargazers_count: 407
 updated_at: '2023-05-04'

@@ -1,12 +1,12 @@
 name: HumHub
 website_url: https://www.humhub.org/
-description: Flexible kit for private social networks.
+description: 用于私人社交网络的灵活工具包。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/humhub/humhub
 stargazers_count: 6163
 updated_at: '2023-11-28'

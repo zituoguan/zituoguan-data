@@ -1,10 +1,10 @@
 name: Hubzilla
 website_url: https://hubzilla.org
-description: Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform.
+description: 分布式身份、隐私、发布、共享、云存储和通讯/社交平台。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://framagit.org/hubzilla/core

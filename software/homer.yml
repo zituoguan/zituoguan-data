@@ -1,14 +1,14 @@
 name: Homer
 website_url: https://github.com/bastienwirtz/homer
-description: A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check.
+description: 一个非常简单的静态主页，用于展示您的服务器服务，具有简单的YAML配置和连接性检查。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - K8S
-  - Nodejs
+  - Node.js
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/bastienwirtz/homer
 stargazers_count: 8072
 updated_at: '2023-10-21'

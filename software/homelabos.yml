@@ -1,10 +1,10 @@
 name: HomelabOS
 website_url: https://homelabos.com
-description: Your very own offline-first privacy-centric open-source data-center. Deploy over 100 services with a few commands.
+description: 拥有您自己的离线优先、注重隐私的开源数据中心。通过简单的命令部署超过100个服务。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://gitlab.com/NickBusey/HomelabOS

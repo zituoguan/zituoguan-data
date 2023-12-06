@@ -1,13 +1,13 @@
 name: Hound
 website_url: https://github.com/hound-search/hound
-description: Lightning fast code searching made easy.
+description: 极速的代码搜索，轻松实现。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/hound-search/hound
 stargazers_count: 5474
 updated_at: '2023-07-14'

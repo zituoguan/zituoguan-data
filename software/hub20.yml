@@ -1,11 +1,11 @@
 name: Hub20
 website_url: https://hub20.io/
-description: A self-hosted payment processor for Ethereum and ERC20 Tokens.
+description: 一个用于以太坊和ERC20代币的自托管支付处理器。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://gitlab.com/mushroomlabs/hub20/

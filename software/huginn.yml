@@ -1,12 +1,12 @@
 name: Huginn
 website_url: https://github.com/huginn/huginn
-description: Allows you to build agents that monitor and act on your behalf.
+description: 允许您构建代理程序，监视并代表您采取行动。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/huginn/huginn
 stargazers_count: 39896
 updated_at: '2023-11-20'

@@ -1,13 +1,13 @@
 name: HyperSwitch
 website_url: https://hyperswitch.io/
-description: HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration.
+description: HyperSwitch是一个开源的金融交换平台，可以使支付变得快速、可靠和经济实惠。它允许您连接多个支付处理器并轻松路由流量，一切都可以通过单一的API集成完成。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Rust
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/juspay/hyperswitch
 depends_3rdparty: true
 stargazers_count: 8641

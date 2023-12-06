@@ -1,13 +1,13 @@
 name: Home Assistant
 website_url: https://home-assistant.io/
-description: Open-source home automation platform.
+description: 开源的家庭自动化平台。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - Docker
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/home-assistant/core
 demo_url: https://home-assistant.io/demo/
 stargazers_count: 64386
