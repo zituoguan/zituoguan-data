@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - 物联网 (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/devicehive/devicehive-java-server
 demo_url: https://playground.devicehive.com/
 stargazers_count: 331

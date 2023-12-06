@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 团队协作
+  - 协同办公
 source_code_url: https://github.com/cortezaproject/corteza
 demo_url: https://latest.cortezaproject.org
 stargazers_count: 1031
