@@ -1,12 +1,12 @@
 name: ioBroker
 website_url: https://www.iobroker.net/
-description: Integration platform for the Internet of Things, focused on building automation, smart metering, ambient assisted living, process automation, visualization and data logging.
+description: 面向物联网的集成平台，专注于建筑自动化、智能计量、环境辅助生活、过程自动化、可视化和数据记录。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/ioBroker/ioBroker
 stargazers_count: 1170
 updated_at: '2023-11-16'

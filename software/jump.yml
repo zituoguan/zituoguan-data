@@ -1,13 +1,13 @@
 name: Jump
 website_url: https://github.com/daledavies/jump
-description: Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.
+description: 又一个为服务器设计的自托管起始页，简单、时尚、快速且安全。
 licenses:
   - MIT
 platforms:
   - Docker
   - PHP
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/daledavies/jump
 stargazers_count: 451
 updated_at: '2023-04-19'

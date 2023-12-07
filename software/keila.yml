@@ -1,12 +1,12 @@
 name: Keila
 website_url: https://www.keila.io
-description: Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue).
+description: 自托管的可靠且易于使用的新闻通讯工具（替代Mailchimp或Sendinblue）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Communication - Email - Mailing Lists and Newsletters
+  - 通信 - 电子邮件 - 邮件列表和新闻通讯
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
 stargazers_count: 1024

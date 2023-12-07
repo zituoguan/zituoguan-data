@@ -1,12 +1,12 @@
 name: Kanbana
 website_url: https://github.com/SrGMC/kanbana
-description: Create boards to track users and projects from flat markdown files (fork of Crepido).
+description: 从平面Markdown文件创建看板以跟踪用户和项目（Crepido的分支）。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/SrGMC/kanbana
 stargazers_count: 59
 updated_at: '2023-06-07'

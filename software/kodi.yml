@@ -1,13 +1,13 @@
 name: Kodi
 website_url: https://kodi.tv/
-description: Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows.
+description: 多媒体/娱乐中心，以前被称为 XBMC。适用于 Android、BSD、Linux、macOS、iOS 和 Windows。
 licenses:
   - GPL-2.0
 platforms:
   - C++
   - deb
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/xbmc/xbmc
 stargazers_count: 16596
 updated_at: '2023-12-03'

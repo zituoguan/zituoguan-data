@@ -1,11 +1,11 @@
 name: Jitbit Helpdesk
 website_url: https://www.jitbit.com/helpdesk/
-description: Self-hosted help desk software - simple but powerful.
+description: 自托管的帮助台软件 - 简单而强大。
 licenses:
   - ⊘ Proprietary
 platforms:
   - .NET
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://www.jitbit.com/helpdesk/
 demo_url: https://www.jitbit.com/saas-helpdesk/trial/

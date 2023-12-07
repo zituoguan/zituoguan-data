@@ -1,11 +1,11 @@
 name: Karaoke Eternal
 website_url: https://www.karaoke-eternal.com
-description: Host awesome karaoke parties where everyone can easily find and queue songs from their phone's browser. The player is also fully browser-based with support for MP3+G, MP4 and WebGL visualizations.
+description: 举办令人惊叹的卡拉OK派对，每个人都可以轻松地从手机浏览器中查找并排队歌曲。播放器也完全基于浏览器，支持MP3+G、MP4和WebGL可视化。
 licenses:
   - ISC
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://www.karaoke-eternal.com/repo

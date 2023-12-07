@@ -1,12 +1,12 @@
 name: Kiwi IRC
 website_url: https://kiwiirc.com/
-description: Responsive web IRC client with theming support.
+description: 支持主题的响应式 Web IRC 客户端。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/kiwiirc/kiwiirc
 demo_url: https://kiwiirc.com/nextclient/
 stargazers_count: 791

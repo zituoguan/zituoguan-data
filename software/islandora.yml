@@ -1,12 +1,12 @@
 name: Islandora
 website_url: https://www.islandora.ca/
-description: Drupal module for browsing and managing Fedora-based digital repositories.
+description: 用于浏览和管理基于Fedora的数字存储库的Drupal模块。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Document Management - Institutional Repository and Digital Library Software
+  - 文档管理 - 机构知识库和数字图书馆软件
 source_code_url: https://github.com/Islandora/islandora
 demo_url: https://sandbox.islandora.ca/
 stargazers_count: 152

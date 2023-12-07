@@ -1,12 +1,12 @@
 name: Kanboard
 website_url: https://kanboard.org/
-description: Simple and open source visual task board.
+description: 简单且开源的可视化任务板。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/kanboard/kanboard
 stargazers_count: 7866
 updated_at: '2023-12-02'

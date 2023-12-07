@@ -1,12 +1,12 @@
 name: Kirby
 website_url: https://getkirby.com/
-description: File-based CMS. Easy to setup. Easy to use. Flexible as hell.
+description: 基于文件的CMS。易于设置。易于使用。非常灵活。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/getkirby/kirby
 stargazers_count: 1111
 updated_at: '2023-11-30'

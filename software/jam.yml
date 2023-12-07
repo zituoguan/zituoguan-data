@@ -1,13 +1,13 @@
 name: Jam
 website_url: https://jamshelf.com/
-description: Private audio chat rooms to talk to friends and family (alternative to Clubhouse).
+description: 私人音频聊天室，与朋友和家人交流（类似Clubhouse的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/jam-systems/jam
 demo_url: https://jam.systems/
 stargazers_count: 1221

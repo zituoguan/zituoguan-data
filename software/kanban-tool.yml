@@ -1,10 +1,10 @@
 name: Kanban Tool
 website_url: https://kanbantool.com/kanban-tool-on-site
-description: Advanced Kanban boards with time tracking.
+description: 具有时间跟踪功能的高级看板工具。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Ruby
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://kanbantool.com/kanban-tool-on-site

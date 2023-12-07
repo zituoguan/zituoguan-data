@@ -1,12 +1,12 @@
 name: kiwix-serve
 website_url: https://www.kiwix.org/en/downloads/kiwix-serve/
-description: HTTP daemon for serving wikis from ZIM files.
+description: 从 ZIM 文件提供维基的 HTTP 守护进程。
 licenses:
   - GPL-3.0
 platforms:
   - C++
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/kiwix/kiwix-tools
 stargazers_count: 314
 updated_at: '2023-11-19'

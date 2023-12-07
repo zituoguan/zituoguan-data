@@ -1,13 +1,13 @@
 name: Kavita
 website_url: https://www.kavitareader.com/
-description: Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support.
+description: 跨平台的电子书/漫画/漫画/PDF服务器和Web阅读器，具有用户管理、评分和评论以及元数据支持。
 licenses:
   - GPL-3.0
 platforms:
   - .NET
   - Docker
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 source_code_url: https://github.com/Kareadita/Kavita
 demo_url: https://wiki.kavitareader.com/en/kavita-demo
 stargazers_count: 3672

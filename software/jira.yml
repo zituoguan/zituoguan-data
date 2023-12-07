@@ -1,10 +1,10 @@
 name: JIRA
 website_url: https://www.atlassian.com/software/jira
-description: Professional and extensible issue tracker.
+description: 专业且可扩展的问题跟踪器。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Java
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://www.atlassian.com/software/jira

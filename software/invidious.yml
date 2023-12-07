@@ -1,13 +1,13 @@
 name: Invidious
 website_url: https://github.com/iv-org/invidious
-description: Alternative YouTube front-end.
+description: 替代YouTube前端。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Crystal
 tags:
-  - Media Streaming - Video Streaming
+  - 流媒体 - 视频流媒体
 source_code_url: https://github.com/iv-org/invidious
 demo_url: https://docs.invidious.io/instances/
 depends_3rdparty: true

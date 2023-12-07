@@ -1,13 +1,13 @@
 name: Kamailio
 website_url: https://www.kamailio.org/w/
-description: Modular SIP server (registrar/proxy/router/etc).
+description: 模块化的SIP服务器（注册/代理/路由器等）。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/kamailio/kamailio
 stargazers_count: 2008
 updated_at: '2023-12-01'

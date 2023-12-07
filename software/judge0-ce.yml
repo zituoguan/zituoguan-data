@@ -1,12 +1,12 @@
 name: Judge0 CE
 website_url: https://judge0.com
-description: Open source API to compile and run source code.
+description: 用于编译和运行源代码的开源API。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/judge0/judge0
 stargazers_count: 1762
 updated_at: '2023-09-14'

@@ -1,6 +1,6 @@
 name: Jitsi Meet
 website_url: https://jitsi.org/Projects/JitsiMeet
-description: Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences.
+description: Jitsi Meet是一个使用Jitsi Videobridge提供高质量、可扩展视频会议的开源（MIT）WebRTC JavaScript应用。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - Communication - Video Conferencing
+  - 通信 - 视频会议
 source_code_url: https://github.com/jitsi/jitsi-meet
 stargazers_count: 20708
 updated_at: '2023-12-01'

@@ -1,12 +1,12 @@
 name: Inventaire
 website_url: https://inventaire.io/welcome
-description: Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs.
+description: 协作资源映射项目，目前仅专注于使用Wikidata和ISBN探索图书映射。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Inventory Management
+  - 库存管理
 source_code_url: https://github.com/inventaire/inventaire
 stargazers_count: 397
 updated_at: '2023-12-03'

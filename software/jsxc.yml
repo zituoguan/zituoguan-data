@@ -1,12 +1,12 @@
 name: JSXC
 website_url: https://jsxc.org
-description: Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo.
+description: 实时XMPP网络聊天应用，支持视频通话、文件传输和加密通信。还有适用于Nextcloud/Owncloud和SOGo的版本。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Communication - XMPP - Web Clients
+  - 通信 - XMPP - Web 客户端
 source_code_url: https://github.com/jsxc/jsxc
 stargazers_count: 693
 updated_at: '2023-08-03'

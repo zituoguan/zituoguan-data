@@ -1,12 +1,12 @@
 name: KChat
 website_url: https://github.com/php-kchat/kchat
-description: PHP Based Live Chat Application.
+description: 基于PHP的实时聊天应用。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/php-kchat/kchat
 stargazers_count: 122
 updated_at: '2023-09-05'

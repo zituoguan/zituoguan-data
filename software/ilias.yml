@@ -1,12 +1,12 @@
 name: ILIAS
 website_url: https://www.ilias.de
-description: ILIAS is the Learning Management System that can cope with anything you throw at it.
+description: ILIAS是一个能够应对任何挑战的学习管理系统。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://github.com/ILIAS-eLearning/ILIAS
 demo_url: https://demo.ilias.de
 stargazers_count: 353

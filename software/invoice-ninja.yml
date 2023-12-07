@@ -1,6 +1,6 @@
 name: Invoice Ninja
 website_url: https://www.invoiceninja.org/
-description: Powerful tool to invoice clients online.
+description: 在线向客户开具发票的强大工具。
 licenses:
   - AAL
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/invoiceninja/invoiceninja
 demo_url: https://app.invoiceninja.com/invoices/create
 stargazers_count: 7418

@@ -1,11 +1,11 @@
 name: Kasm Workspaces
 website_url: https://kasmweb.com/
-description: Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc.
+description: 将容器化的应用程序和桌面流式传输给终端用户。示例包括在浏览器中运行的Ubuntu，或者仅运行Chrome、OpenOffice、Gimp、Filezilla等单个应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/kasmtech
 demo_url: https://www.kasmweb.com/#demo

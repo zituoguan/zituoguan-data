@@ -1,12 +1,12 @@
 name: KeystoneJS
 website_url: https://keystonejs.com/
-description: CMS and Web Application Platform.
+description: CMS和Web应用程序平台。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/keystonejs/keystone
 stargazers_count: 8496
 updated_at: '2023-12-03'

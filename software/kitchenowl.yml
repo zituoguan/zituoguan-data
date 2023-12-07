@@ -1,13 +1,13 @@
 name: KitchenOwl
 website_url: https://tombursch.github.io/kitchenowl/
-description: A cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language.
+description: 一款跨平台的购物清单、食谱存储、费用跟踪和餐饮计划应用，遵循 Material Design 设计语言。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - deb
 tags:
-  - Recipe Management
+  - 食谱管理
 source_code_url: https://github.com/TomBursch/kitchenowl
 stargazers_count: 729
 updated_at: '2023-12-01'

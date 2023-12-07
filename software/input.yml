@@ -1,6 +1,6 @@
 name: Input
 website_url: https://getinput.co
-description: A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency.
+description: 一个以隐私为重点的、无代码、开源的表单构建器，旨在简单和品牌一致性设计。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/deck9/input
 stargazers_count: 76
 updated_at: '2023-11-30'

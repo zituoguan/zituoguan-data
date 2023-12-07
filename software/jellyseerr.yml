@@ -1,13 +1,13 @@
 name: Jellyseerr
 website_url: https://github.com/Fallenbagel/jellyseerr
-description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr).
+description: 管理媒体库的请求，支持Plex、Jellyfin和Emby媒体服务器（是Overseerr的分支）。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/Fallenbagel/jellyseerr
 stargazers_count: 2127
 updated_at: '2023-12-03'

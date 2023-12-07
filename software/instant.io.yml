@@ -1,12 +1,12 @@
 name: instant.io
 website_url: https://github.com/webtorrent/instant.io
-description: Streaming file transfer over WebTorrent.
+description: 通过WebTorrent进行的流式文件传输。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 source_code_url: https://github.com/webtorrent/instant.io
 demo_url: https://instant.io
 stargazers_count: 3327

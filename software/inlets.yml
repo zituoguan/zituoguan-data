@@ -1,13 +1,13 @@
 name: inlets
 website_url: https://inlets.dev/
-description: Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available.
+description: 将本地端点暴露到互联网上 - 集成了Kubernetes，提供Docker镜像和CLI工具。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Go
   - Docker
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://github.com/inlets/inlets-pro
 stargazers_count: 503
 updated_at: '2023-04-25'

@@ -1,12 +1,12 @@
 name: Inboxen
 website_url: https://inboxen.org
-description: Inboxen is a service that provides you with an infinite number of unique inboxes.
+description: Inboxen是一个为您提供无限数量独特收件箱的服务。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/Inboxen/Inboxen
 stargazers_count: 262
 updated_at: '2023-11-27'

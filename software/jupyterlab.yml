@@ -1,13 +1,13 @@
 name: JupyterLab
 website_url: https://jupyterlab.readthedocs.io/en/stable/
-description: Web-based environment for interactive and reproducible computing.
+description: 基于Web的交互式和可重现计算环境。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/jupyterlab/jupyterlab/
 demo_url: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
 stargazers_count: 13442

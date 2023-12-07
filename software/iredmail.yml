@@ -1,12 +1,12 @@
 name: iRedMail
 website_url: https://www.iredmail.org/
-description: Full-featured mail server solution based on Postfix and Dovecot.
+description: 基于Postfix和Dovecot的功能齐全的邮件服务器解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/iredmail/iRedMail
 stargazers_count: 1214
 updated_at: '2023-11-27'

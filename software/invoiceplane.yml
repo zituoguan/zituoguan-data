@@ -1,12 +1,12 @@
 name: InvoicePlane
 website_url: https://github.com/InvoicePlane/InvoicePlane
-description: Manage quotes, invoices, payments and customers for your small business.
+description: 为您的小型企业管理报价、发票、付款和客户。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/InvoicePlane/InvoicePlane
 stargazers_count: 2338
 updated_at: '2023-11-05'

@@ -1,13 +1,13 @@
 name: InspIRCd
 website_url: https://www.inspircd.org/
-description: Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
+description: 用于Linux、BSD、Windows和macOS的用C++编写的模块化IRC服务器。
 licenses:
   - GPL-2.0
 platforms:
   - C++
   - Docker
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/inspircd/inspircd
 stargazers_count: 1101
 updated_at: '2023-11-23'

@@ -1,6 +1,6 @@
 name: kbin
 website_url: https://kbin.pub/
-description: Federated content aggregator and microblogging platform.
+description: 联合内容聚合器和微博平台。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/ernestwisniewski/kbin
 stargazers_count: 722
 updated_at: '2023-12-03'

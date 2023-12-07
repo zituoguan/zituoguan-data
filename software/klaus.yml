@@ -1,13 +1,13 @@
 name: Klaus
 website_url: https://github.com/jonashaag/klaus
-description: Simple, easy-to-set-up Git web viewer that Just Works.
+description: 简单、易于设置的 Git Web 查看器，一切都能正常运作。
 licenses:
   - ISC
 platforms:
   - Python
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/jonashaag/klaus
 stargazers_count: 661
 updated_at: '2023-11-27'

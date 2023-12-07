@@ -1,12 +1,12 @@
 name: juntagrico
 website_url: https://juntagrico.org/
-description: Management platform for community gardens and vegetable cooperatives.
+description: 社区花园和蔬菜合作社的管理平台。
 licenses:
   - LGPL-3.0
 platforms:
   - Python
 tags:
-  - Community-Supported Agriculture (CSA)
+  - 社区支持农业（CSA）
 source_code_url: https://github.com/juntagrico/juntagrico
 stargazers_count: 42
 updated_at: '2023-11-12'

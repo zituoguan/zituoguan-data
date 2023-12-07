@@ -1,12 +1,12 @@
 name: Known
 website_url: https://withknown.com/
-description: A collaborative social publishing platform.
+description: 一款协作式社交发布平台。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/idno/known
 stargazers_count: 1010
 updated_at: '2023-11-15'

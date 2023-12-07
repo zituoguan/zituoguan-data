@@ -1,6 +1,6 @@
 name: imgproxy
 website_url: https://imgproxy.net/
-description: Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes.
+description: 用于调整大小和转换远程图像的快速且安全的独立服务器。当您需要即时调整多个图像的大小，而无需准备大量缓存的调整大小图像或每次设计更改时都重新执行时，它非常有效。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://github.com/imgproxy/imgproxy
 stargazers_count: 7759
 updated_at: '2023-12-03'
