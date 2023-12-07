@@ -1,13 +1,13 @@
 name: LedgerSMB
 website_url: https://ledgersmb.org/
-description: Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more.
+description: 面向小型和中型企业的集成会计和企业资源规划（ERP）系统，具有复式会计、预算、发票、报价、项目、订单和库存管理、运输等功能。
 licenses:
   - GPL-2.0
 platforms:
   - Docker
   - Perl
 tags:
-  - Resource Planning
+  - 资源规划
 source_code_url: https://github.com/ledgersmb/LedgerSMB
 demo_url: https://demo.cloud.efficito.com/erp/1.5/login.pl
 stargazers_count: 346

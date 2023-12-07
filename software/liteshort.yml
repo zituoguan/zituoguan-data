@@ -1,11 +1,11 @@
 name: liteshort
 website_url: https://git.ikl.sh/132ikl/liteshort
-description: User-friendly, actually lightweight, and configurable URL shortener.
+description: 用户友好、真正轻量且可配置的URL缩短服务。
 licenses:
   - MIT
 platforms:
   - Python
   - deb
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://git.ikl.sh/132ikl/liteshort

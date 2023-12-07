@@ -1,12 +1,12 @@
 name: koel
 website_url: https://koel.dev/
-description: Personal music streaming server that works.
+description: 个人音乐流媒体服务器，运行良好。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/koel/koel
 demo_url: https://demo.koel.dev/
 stargazers_count: 15148

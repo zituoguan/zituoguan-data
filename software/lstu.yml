@@ -1,13 +1,13 @@
 name: Lstu
 website_url: https://github.com/ldidry/lstu
-description: Lightweight URL shortener.
+description: 轻量级URL缩短服务。
 licenses:
   - WTFPL
 platforms:
   - Perl
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/ldidry/lstu
 stargazers_count: 197
 updated_at: '2023-01-11'

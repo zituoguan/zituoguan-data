@@ -1,10 +1,10 @@
 name: Local Food Nodes
 website_url: https://localfoodnodes.org/
-description: Your open source platform for peoples driven local food markets and CSA.
+description: 民众主导的本地食品市场和CSA的开源平台。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Community-Supported Agriculture (CSA)
+  - 社区支持农业（CSA）
 source_code_url: https://gitlab.com/localfoodnodes/localfoodnodes

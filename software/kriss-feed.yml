@@ -1,12 +1,12 @@
 name: Kriss Feed
 website_url: https://github.com/tontof/kriss_feed
-description: Simple and smart (or stupid) feed reader.
+description: 简单而智能（或愚蠢）的Feed阅读器。
 licenses:
   - CC0-1.0
 platforms:
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/tontof/kriss_feed
 stargazers_count: 275
 updated_at: '2023-07-04'

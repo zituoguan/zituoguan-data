@@ -1,11 +1,11 @@
 name: lufi
 website_url: https://framagit.org/fiat-tux/hat-softwares/lufi
-description: Let's Upload that FIle, client-side encrypted.
+description: 让我们上传那个文件，客户端加密。
 licenses:
   - AGPL-3.0
 platforms:
   - Perl
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master
 demo_url: https://demo.lufi.io

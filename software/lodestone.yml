@@ -1,13 +1,13 @@
 name: Lodestone
 website_url: https://github.com/Lodestone-Team/lodestone
-description: A free, open source server hosting tool for Minecraft and other multiplayers.
+description: 用于Minecraft和其他多人游戏的免费、开源的服务器托管工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Rust
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/Lodestone-Team/lodestone
 stargazers_count: 579
 updated_at: '2023-08-10'

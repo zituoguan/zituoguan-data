@@ -1,12 +1,12 @@
 name: Leon
 website_url: https://getleon.ai
-description: Open-source personal assistant who can live on your server.
+description: 开源个人助手，可以运行在您的服务器上。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/leon-ai/leon
 stargazers_count: 13839
 updated_at: '2023-11-15'

@@ -1,12 +1,12 @@
 name: LimeSurvey
 website_url: https://www.limesurvey.org
-description: Feature-rich Open Source web based polling software. Supports extensive survey logic.
+description: 功能丰富的开源基于Web的调查软件。支持广泛的调查逻辑。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/LimeSurvey/LimeSurvey
 demo_url: https://demo.limesurvey.org
 stargazers_count: 2420

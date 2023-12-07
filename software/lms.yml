@@ -1,6 +1,6 @@
 name: LMS
 website_url: https://github.com/epoupon/lms
-description: Access your self-hosted music using a web interface.
+description: 通过Web界面访问您的自托管音乐。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
   - C++
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/epoupon/lms
 stargazers_count: 888
 updated_at: '2023-12-01'

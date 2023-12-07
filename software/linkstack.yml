@@ -1,13 +1,13 @@
 name: LinkStack
 website_url: https://linkstack.org/
-description: Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink).
+description: 将您所有的社交媒体平台链接集中在一个页面上，通过直观、易于使用的用户/管理界面进行定制（是Linktree和Manylink的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/LinkStackOrg/LinkStack
 demo_url: https://linksta.cc/
 stargazers_count: 1436

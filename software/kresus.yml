@@ -1,13 +1,13 @@
 name: Kresus
 website_url: https://kresus.org/
-description: Open source personal finance manager.
+description: 开源个人财务管理软件。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/kresusapp/kresus
 demo_url: https://kresus.org/en/demo.html
 stargazers_count: 277

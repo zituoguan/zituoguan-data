@@ -1,12 +1,12 @@
 name: Lago
 website_url: https://www.getlago.com/
-description: Open-source metering and usage-based billing.
+description: 开源的计量和基于使用情况的计费系统。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/getlago/lago
 stargazers_count: 4836
 updated_at: '2023-11-30'

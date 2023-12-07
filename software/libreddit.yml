@@ -1,12 +1,12 @@
 name: Libreddit
 website_url: https://github.com/libreddit/libreddit
-description: Private front-end for Reddit written in Rust.
+description: 使用Rust编写的Reddit的私有前端。
 licenses:
   - AGPL-3.0
 platforms:
   - Rust
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/libreddit/libreddit
 depends_3rdparty: true
 stargazers_count: 4910

@@ -1,12 +1,12 @@
 name: Lura
 website_url: https://luraproject.org/
-description: Open source High-Performance API Gateway.
+description: 开源高性能API网关。
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/luraproject/lura
 stargazers_count: 5823
 updated_at: '2023-11-20'

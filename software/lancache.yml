@@ -1,13 +1,13 @@
 name: Lancache
 website_url: https://lancache.net
-description: LAN Party game caching made easy.
+description: 简化的局域网派对游戏缓存工具。
 licenses:
   - MIT
 platforms:
   - Docker
   - Shell
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/lancachenet/monolithic
 depends_3rdparty: true
 stargazers_count: 635

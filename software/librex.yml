@@ -1,13 +1,13 @@
 name: LibreX
 website_url: https://github.com/hnhx/librex
-description: Framework and javascript free privacy respecting meta search engine.
+description: 框架和 JavaScript-free 的隐私尊重的元搜索引擎。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/hnhx/librex
 depends_3rdparty: true
 stargazers_count: 724

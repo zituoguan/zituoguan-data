@@ -1,13 +1,13 @@
 name: Lemmy
 website_url: https://join-lemmy.org/
-description: A link aggregator / reddit clone for the fediverse (alternative to Reddit).
+description: 一个面向联合网络的链接聚合器/Reddit克隆（作为Reddit的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Rust
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/LemmyNet/lemmy
 stargazers_count: 12321
 updated_at: '2023-12-01'

@@ -1,13 +1,13 @@
 name: Lynx
 website_url: https://getlynx.dev
-description: URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface.
+description: 具有多账户、ShareX支持以及引人注目但简单的界面等多功能的URL缩短服务。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/Lynx-Shortener/Lynx
 demo_url: https://demo.getlynx.dev
 stargazers_count: 99

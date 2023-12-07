@@ -1,6 +1,6 @@
 name: LiveStreamDVR
 website_url: https://github.com/MrBrax/LiveStreamDVR
-description: An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata.
+description: 一款自动的Twitch录制工具，能够捕获直播流、聊天消息和流元数据。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/MrBrax/LiveStreamDVR
 depends_3rdparty: true
 stargazers_count: 264

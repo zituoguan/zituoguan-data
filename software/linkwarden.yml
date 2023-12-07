@@ -1,13 +1,13 @@
 name: LinkWarden
 website_url: https://linkwarden.app/
-description: A self-hosted bookmark + archive manager to store your useful links.
+description: 一个自托管的书签+存档管理器，用于存储您的有用链接。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/linkwarden/linkwarden
 stargazers_count: 3331
 updated_at: '2023-11-24'

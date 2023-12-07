@@ -1,13 +1,13 @@
 name: Lychee
 website_url: https://lycheeorg.github.io/
-description: Open source grid and album based photo-management-system.
+description: 开源的基于网格和相册的照片管理系统。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/LycheeOrg/Lychee
 stargazers_count: 2860
 updated_at: '2023-12-03'

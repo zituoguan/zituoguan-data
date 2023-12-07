@@ -1,12 +1,12 @@
 name: Loggit
 website_url: https://loggit.net
-description: End-to-end encrypted and simple life tracking & logging.
+description: 端到端加密的简单生活追踪和日志记录。
 licenses:
   - AGPL-3.0
 platforms:
   - Deno
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/BrunoBernardino/loggit-web
 demo_url: https://app.loggit.net
 stargazers_count: 15

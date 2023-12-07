@@ -1,13 +1,13 @@
 name: LibrePhotos
 website_url: https://github.com/LibrePhotos/librephotos
-description: Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.
+description: 自托管的仿Google Photos的应用，略带一些酷炫图表的关注点。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/LibrePhotos/librephotos
 stargazers_count: 6171
 updated_at: '2023-12-02'

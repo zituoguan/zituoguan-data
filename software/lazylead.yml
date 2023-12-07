@@ -1,13 +1,13 @@
 name: Lazylead
 website_url: https://lazylead.org
-description: Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar.
+description: 简化工单系统（Jira、GitHub、Trello）中的烦人工作。允许自动化日常操作，如工单字段验证、JQL/GQL邮件通知、向您（或团队成员）的日历发送会议请求。
 licenses:
   - MIT
 platforms:
   - Ruby
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/dgroup/lazylead
 depends_3rdparty: true
 stargazers_count: 61

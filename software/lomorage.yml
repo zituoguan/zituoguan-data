@@ -1,12 +1,12 @@
 name: Lomorage
 website_url: https://lomorage.com/
-description: 'Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux.'
+description: 通过简单的自托管软件实现的谷歌相册替代方案。支持的客户端有：iOS、Android、Web、MAC/Windows。后端可在Raspberry Pi、Armbian、MAC/Windows/Linux上运行。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Go
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/lomorage/homepage
 stargazers_count: 175
 updated_at: '2023-11-20'

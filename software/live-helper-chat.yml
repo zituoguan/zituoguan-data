@@ -1,12 +1,12 @@
 name: Live Helper Chat
 website_url: https://livehelperchat.com/
-description: Live Support chat for your website.
+description: 用于网站的实时支持聊天。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/LiveHelperChat/livehelperchat
 stargazers_count: 1835
 updated_at: '2023-11-30'

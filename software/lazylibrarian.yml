@@ -1,11 +1,11 @@
 name: LazyLibrarian
 website_url: https://gitlab.com/LazyLibrarian/LazyLibrarian
-description: LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info.
+description: LazyLibrarian是一个用于追踪作者并获取所有数字阅读需求的元数据的程序。它使用Goodreads、Librarything和可选的GoogleBooks作为作者信息和图书信息的来源。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://gitlab.com/LazyLibrarian/LazyLibrarian
 depends_3rdparty: true

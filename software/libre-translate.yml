@@ -1,13 +1,13 @@
 name: Libre Translate
 website_url: https://libretranslate.com/
-description: Free and Open Source Machine Translation API, entirely self-hosted.
+description: 免费且开源的机器翻译API，完全自托管。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/LibreTranslate/LibreTranslate
 stargazers_count: 5513
 updated_at: '2023-11-26'

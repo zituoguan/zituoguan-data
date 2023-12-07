@@ -1,12 +1,12 @@
 name: Librum
 website_url: https://librumreader.com
-description: A modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity.
+description: 一款现代的电子书阅读器和图书馆管理器，支持大多数主要的图书格式，可在所有设备上运行，并提供出色的工具来提高生产力。
 licenses:
   - GPL-3.0
 platforms:
   - C++
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 source_code_url: https://github.com/Librum-Reader/Librum
 stargazers_count: 1429
 updated_at: '2023-11-20'

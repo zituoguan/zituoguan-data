@@ -1,13 +1,13 @@
 name: LibreTime
 website_url: https://libretime.org
-description: Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).
+description: 一个简单的、开源的平台，让您可以在Web上广播流媒体电台（是[Airtime](https://github.com/sourcefabric/Airtime)的分支）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - PHP
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/LibreTime/libretime
 stargazers_count: 711
 updated_at: '2023-11-30'

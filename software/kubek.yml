@@ -1,12 +1,12 @@
 name: Kubek
 website_url: https://kubek.seeroy.ru
-description: Web management panel for Minecraft servers.
+description: 用于Minecraft服务器的Web管理面板。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/seeroy/kubek-minecraft-dashboard
 stargazers_count: 53
 updated_at: '2023-08-19'

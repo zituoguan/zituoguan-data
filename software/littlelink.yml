@@ -1,12 +1,12 @@
 name: LittleLink
 website_url: https://github.com/sethcottle/littlelink/
-description: A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree).
+description: 一个简单的个人主页链接方案，包含100+品牌按钮（是Linktree的替代品）。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/sethcottle/littlelink
 demo_url: https://littlelink.io/
 stargazers_count: 1153

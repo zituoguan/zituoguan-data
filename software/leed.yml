@@ -1,12 +1,12 @@
 name: Leed
 website_url: https://github.com/LeedRSS/Leed
-description: Leed (for Light Feed) is a Free and minimalist RSS aggregator.
+description: Leed（Light Feed的缩写）是一个免费且极简的RSS聚合器。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/LeedRSS/Leed
 stargazers_count: 199
 updated_at: '2023-07-16'

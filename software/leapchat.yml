@@ -1,6 +1,6 @@
 name: LeapChat
 website_url: https://www.leapchat.org/
-description: Ephemeral, encrypted, in-browser chat rooms.
+description: 一次性、加密的、基于浏览器的聊天室。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Shell
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/cryptag/leapchat
 stargazers_count: 175
 updated_at: '2023-09-06'
