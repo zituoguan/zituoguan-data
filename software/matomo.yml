@@ -1,12 +1,12 @@
 name: Matomo
 website_url: https://matomo.org/
-description: Google Analytics alternative that protects your data and your customers' privacy.
+description: Google Analytics的替代品，保护您的数据和客户的隐私。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/matomo-org/matomo
 stargazers_count: 18467
 updated_at: '2023-12-01'

@@ -1,13 +1,13 @@
 name: MailForm
 website_url: https://github.com/Feuerhamster/mailform
-description: Lightweight self-hosted email service for contact forms and more (alternative to Formspree and SendGrid).
+description: 用于联系表单等的轻量级自托管电子邮件服务（Formspree和SendGrid的替代品）。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Email - Mail Delivery Agents
+  - 通信 - 电子邮件 - 邮件投递代理
 source_code_url: https://github.com/Feuerhamster/mailform
 stargazers_count: 92
 updated_at: '2023-02-16'

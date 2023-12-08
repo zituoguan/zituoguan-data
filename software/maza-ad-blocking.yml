@@ -1,6 +1,6 @@
 name: Maza ad blocking
 website_url: https://maza-ad-blocking.andros.dev/
-description: Local ad blocker. Like Pi-hole but local and using your operating system.
+description: 本地广告拦截器。类似于Pi-hole，但是在本地运行并使用您的操作系统。
 licenses:
   - Apache-2.0
 platforms:

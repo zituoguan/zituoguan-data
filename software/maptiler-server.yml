@@ -1,10 +1,10 @@
 name: MapTiler Server
 website_url: https://www.maptiler.com/server/
-description: Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database.
+description: 用于自托管OpenStreetMap矢量瓦片、卫星图像、自有地理数据和PostGIS数据库数据的软件。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图与全球定位系统（GPS）
 source_code_url: https://www.maptiler.com/server/

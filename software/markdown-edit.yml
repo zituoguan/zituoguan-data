@@ -1,12 +1,12 @@
 name: Markdown Edit
 website_url: https://github.com/georgeOsdDev/markdown-edit/
-description: Online markdown editor/viewer.
+description: 在线Markdown编辑器/查看器。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/georgeOsdDev/markdown-edit/
 stargazers_count: 207
 updated_at: '2021-12-29'

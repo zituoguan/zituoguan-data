@@ -1,12 +1,12 @@
-name: Magento Open Source
+name: Magento开源版
 website_url: https://github.com/magento/magento2
-description: Leading provider of open omnichannel innovation.
+description: 领先的开放式全渠道创新提供商。
 licenses:
   - OSL-3.0
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/magento/magento2
 stargazers_count: 10992
 updated_at: '2023-12-01'

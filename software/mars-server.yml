@@ -1,12 +1,12 @@
 name: Mars Server
 website_url: https://github.com/borjapazr/mars-server
-description: Managed home server with Docker, Docker Compose, Make and Bash.
+description: 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/borjapazr/mars-server
 stargazers_count: 61
 updated_at: '2023-11-23'

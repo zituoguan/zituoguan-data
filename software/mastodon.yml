@@ -1,14 +1,13 @@
-name: Mastodon
-website_url: https://joinmastodon.org/
-description: Federated microblogging server.
+name: Mars服务器
+website_url: https://github.com/borjapazr/mars-server
+description: 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。
 licenses:
-  - AGPL-3.0
+  - MIT
 platforms:
-  - Ruby
+  - Docker
 tags:
-  - Communication - Social Networks and Forums
-source_code_url: https://github.com/mastodon/mastodon
-related_software_url: https://github.com/hyperupcall/awesome-mastodon
-stargazers_count: 44713
-updated_at: '2023-12-01'
+  - 自托管解决方案
+source_code_url: https://github.com/borjapazr/mars-server
+stargazers_count: 61
+updated_at: '2023-11-23'
 archived: false

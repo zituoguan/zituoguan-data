@@ -1,10 +1,13 @@
-name: Mayan EDMS
-website_url: https://www.mayan-edms.com
-description: Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features.
+name: Mautic
+website_url: https://www.mautic.org/
+description: Mautic是一款营销自动化软件（电子邮件、社交等）。
 licenses:
-  - Apache-2.0
+  - GPL-3.0
 platforms:
-  - Python
+  - PHP
 tags:
-  - Document Management
-source_code_url: https://gitlab.com/mayan-edms/mayan-edms
+  - 通信 - 电子邮件 - 邮件列表和通讯
+source_code_url: https://github.com/mautic/mautic
+stargazers_count: 6304
+updated_at: '2023-12-01'
+archived: false

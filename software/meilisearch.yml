@@ -1,6 +1,6 @@
 name: MeiliSearch
 website_url: https://www.meilisearch.com
-description: Ultra relevant, instant and typo-tolerant full-text search API.
+description: 极其相关、即时且容错的全文搜索API。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/meilisearch/MeiliSearch
 stargazers_count: 40092
 updated_at: '2023-11-29'

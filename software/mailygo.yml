@@ -1,10 +1,10 @@
 name: MailyGo
 website_url: https://codeberg.org/jlelse/MailyGo
-description: MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email.
+description: MailyGo是一个用Go编写的小工具，允许通过电子邮件发送HTML表单，例如从没有动态后端的静态网站。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/jlelse/MailyGo

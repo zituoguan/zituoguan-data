@@ -1,12 +1,12 @@
 name: Meetable
 website_url: https://events.indieweb.org
-description: A minimal events aggregator.
+description: 一个极简的事件聚合器。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Polls and Events
+  - 投票和事件
 source_code_url: https://github.com/aaronpk/Meetable
 stargazers_count: 79
 updated_at: '2023-11-24'

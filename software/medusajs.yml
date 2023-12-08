@@ -1,12 +1,12 @@
 name: MedusaJs
 website_url: https://medusajs.com/
-description: Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+description: Medusa是一款开源的无头商业引擎，使开发人员能够创建令人惊叹的数字商业体验。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/medusajs/medusa
 demo_url: https://next.medusajs.com/
 stargazers_count: 20797

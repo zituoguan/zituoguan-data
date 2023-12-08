@@ -1,12 +1,12 @@
 name: Meemo
 website_url: https://meemo.minimal-space.de/
-description: Personal notes stream with Markdown support.
+description: 具有Markdown支持的个人笔记流。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/cloudron-io/meemo
 stargazers_count: 339
 updated_at: '2023-11-11'

@@ -1,10 +1,10 @@
 name: Mediagoblin
 website_url: https://mediagoblin.org
-description: Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc).
+description: 自由软件媒体发布平台，任何人都可以运行（可替代Flickr、YouTube、SoundCloud等）。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://savannah.gnu.org/projects/mediagoblin

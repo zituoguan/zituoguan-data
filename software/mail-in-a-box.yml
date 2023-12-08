@@ -1,12 +1,12 @@
 name: Mail-in-a-Box
 website_url: https://mailinabox.email/
-description: Turns any Ubuntu server into a fully functional mail server with one command.
+description: 通过一个命令将任何Ubuntu服务器转变为功能齐全的邮件服务器。
 licenses:
   - CC0-1.0
 platforms:
   - Shell
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/mail-in-a-box/mailinabox
 stargazers_count: 12922
 updated_at: '2023-11-28'

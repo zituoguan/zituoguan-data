@@ -1,11 +1,11 @@
 name: Mediawiki
 website_url: https://www.mediawiki.org/wiki/MediaWiki
-description: MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month.
+description: MediaWiki是一款用PHP编写的免费开源维基软件包。它作为Wikipedia和其他Wikimedia项目的平台，每月被数亿人使用。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://phabricator.wikimedia.org/diffusion/MW/
 demo_url: https://en.wikipedia.org/wiki/Main_Page

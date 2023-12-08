@@ -1,6 +1,6 @@
 name: Manticore Search
 website_url: https://github.com/manticoresoftware/manticoresearch/
-description: Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch).
+description: 全文搜索和数据分析，对于小、中、大数据具有快速的响应时间（替代Elasticsearch）。
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
   - C++
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
 stargazers_count: 6832
 updated_at: '2023-12-03'

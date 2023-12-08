@@ -1,13 +1,13 @@
 name: Mathesar
 website_url: https://mathesar.org/
-description: An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one.
+description: 为所有技术水平的用户提供直观的协作数据管理界面。基于Postgres构建 - 连接现有数据库或设置新数据库。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/centerofci/mathesar
 demo_url: https://demo.mathesar.org/
 stargazers_count: 1957

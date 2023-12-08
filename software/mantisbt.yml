@@ -1,12 +1,12 @@
 name: MantisBT
 website_url: https://www.mantisbt.org/
-description: Self hosted bug tracker, fits best for software development.
+description: 自托管的缺陷跟踪器，最适合软件开发。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/mantisbt/mantisbt
 demo_url: https://www.mantisbt.org/bugs/my_view_page.php
 stargazers_count: 1563

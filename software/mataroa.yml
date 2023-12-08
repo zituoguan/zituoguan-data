@@ -1,12 +1,12 @@
 name: Mataroa
 website_url: https://mataroa.blog/
-description: Mataroa is a naked blogging platform for minimalists.
+description: Mataroa是一个为极简主义者设计的无装饰的博客平台。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/mataroa-blog/mataroa
 stargazers_count: 157
 updated_at: '2023-12-03'
