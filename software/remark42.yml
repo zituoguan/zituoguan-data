@@ -1,13 +1,13 @@
 name: remark42
 website_url: https://remark42.com/
-description: A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments.
+description: 一款轻量简单的评论引擎，不会监视用户。可以嵌入到博客、文章或任何读者添加评论的地方。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Communication - Social Networks and Forums
+  - 通讯 - 社交网络和论坛
 source_code_url: https://github.com/umputun/remark42
 demo_url: https://remark42.com/demo/
 stargazers_count: 4534

@@ -1,11 +1,11 @@
 name: Psono
 website_url: https://psono.com/
-description: A promising password managers fully featured for teams.
+description: 一款专为团队提供完整功能的有前途的密码管理器。
 licenses:
   - Apache-2.0
 platforms:
   - Python
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://gitlab.com/psono
 demo_url: https://www.psono.pw

@@ -1,13 +1,13 @@
 name: Postal
 website_url: https://docs.postalserver.io/
-description: A complete and fully featured mail server for use by websites & web servers.
+description: 用于网站和Web服务器的完整且功能齐全的邮件服务器。
 licenses:
   - MIT
 platforms:
   - Docker
   - Ruby
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/postalserver/postal
 stargazers_count: 13344
 updated_at: '2023-06-27'

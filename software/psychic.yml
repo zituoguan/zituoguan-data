@@ -1,12 +1,12 @@
 name: Psychic
 website_url: https://github.com/psychic-api/psychic
-description: Universal API to connect large language models to dynamic data sources.
+description: 用于将大型语言模型连接到动态数据源的通用API。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/psychic-api/psychic
 stargazers_count: 1617
 updated_at: '2023-11-09'

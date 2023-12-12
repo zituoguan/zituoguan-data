@@ -1,12 +1,12 @@
 name: RecipeSage
 website_url: https://github.com/julianpoy/recipesage
-description: A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL.
+description: 一个食谱保存器、餐饮计划组织者和购物清单管理器，可以直接从任何URL导入食谱。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Recipe Management
+  - 食谱管理
 source_code_url: https://github.com/julianpoy/recipesage
 demo_url: https://recipesage.com
 stargazers_count: 442

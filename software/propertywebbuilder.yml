@@ -1,12 +1,12 @@
 name: PropertyWebBuilder
 website_url: https://propertywebbuilder.com
-description: Ultimate Ruby on Rails engine for creating real estate websites.
+description: 用于创建房地产网站的最终Ruby on Rails引擎。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/etewiah/property_web_builder
 stargazers_count: 507
 updated_at: '2023-02-12'

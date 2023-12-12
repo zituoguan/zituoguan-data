@@ -1,10 +1,10 @@
 name: Redmine
 website_url: https://www.redmine.org/
-description: Redmine is a flexible project management web application.
+description: Redmine是一款灵活的项目管理Web应用。
 licenses:
   - GPL-2.0
 platforms:
   - Ruby
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://svn.redmine.org/redmine/

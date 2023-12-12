@@ -1,12 +1,12 @@
 name: QuakeJS
 website_url: https://github.com/begleysm/quakejs
-description: QuakeJS is a port of ioquake3 to Javascript that can be played in a browser.
+description: QuakeJS是ioquake3的Javascript端口，可以在浏览器中播放。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/begleysm/quakejs
 stargazers_count: 99
 updated_at: '2022-08-31'

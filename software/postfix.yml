@@ -1,11 +1,11 @@
 name: Postfix
 website_url: http://www.postfix.org/
-description: Fast, easy to administer, and secure Sendmail replacement.
+description: 快速、易于管理且安全的Sendmail替代品。
 licenses:
   - IPL-1.0
 platforms:
   - C
   - deb
 tags:
-  - Communication - Email - Mail Transfer Agents
+  - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: http://www.postfix.org/

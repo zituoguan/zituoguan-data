@@ -1,12 +1,12 @@
 name: revealjs
 website_url: https://revealjs.com
-description: Framework for easily creating beautiful presentations using HTML.
+description: 使用 HTML 轻松创建漂亮演示文稿的框架。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/hakimel/reveal.js
 demo_url: https://revealjs.com/
 stargazers_count: 66030

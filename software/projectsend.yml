@@ -1,12 +1,12 @@
 name: ProjectSend
 website_url: https://www.projectsend.org/
-description: Upload files and assign them to specific clients you create. Give access to those files to your clients.
+description: 上传文件并将其分配给您创建的特定客户端。向您的客户授予对这些文件的访问权限。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/projectsend/projectsend
 stargazers_count: 1206
 updated_at: '2023-10-16'

@@ -1,10 +1,10 @@
 name: RemoteUtilities
 website_url: https://www.remoteutilities.com/
-description: Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet.
+description: Remote Utilities是用于局域网管理和通过互联网进行远程支持的自托管远程支持软件。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://www.remoteutilities.com/

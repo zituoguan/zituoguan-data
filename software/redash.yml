@@ -1,12 +1,12 @@
 name: Redash
 website_url: http://redash.io
-description: Connect and query your data sources, build dashboards to visualize data and share them with your company.
+description: 连接和查询您的数据源，构建可视化数据的仪表板，并与您的团队共享。
 licenses:
   - BSD-2-Clause
 platforms:
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/getredash/redash
 stargazers_count: 24186
 updated_at: '2023-11-29'

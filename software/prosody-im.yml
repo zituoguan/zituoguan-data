@@ -1,10 +1,10 @@
 name: Prosody IM
 website_url: https://prosody.im/
-description: Feature-rich and easy to configure XMPP server.
+description: 功能丰富且易于配置的XMPP服务器。
 licenses:
   - MIT
 platforms:
   - Lua
 tags:
-  - Communication - XMPP - Servers
+  - 通信 - XMPP - 服务器
 source_code_url: https://hg.prosody.im/

@@ -1,13 +1,13 @@
 name: Retrospring
 website_url: https://github.com/retrospring/retrospring
-description: A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat.
+description: 一个免费、开源的社交网络，遵循类似 Formspring、ask.fm 或 CuriousCat 的 Q/A（问答）原则。
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
   - Nodejs
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/retrospring/retrospring
 demo_url: https://retrospring.net
 stargazers_count: 170

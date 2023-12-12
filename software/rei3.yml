@@ -1,12 +1,12 @@
 name: REI3
 website_url: https://rei3.de/home_en/
-description: Open source, expandable Business Management Software. Manage tasks, time, assets and much more.
+description: 开源、可扩展的业务管理软件。管理任务、时间、资产等等。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/r3-team/r3
 demo_url: https://rei3.de/demo_en/
 stargazers_count: 184

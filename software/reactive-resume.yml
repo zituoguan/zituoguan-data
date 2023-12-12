@@ -1,13 +1,13 @@
 name: Reactive Resume
 website_url: https://rxresu.me/
-description: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
+description: 一种独特的简历构建工具，考虑了您的隐私。完全安全、可定制、便携、开源且永久免费。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/AmruthPillai/Reactive-Resume
 demo_url: https://rxresu.me/app/dashboard/
 stargazers_count: 14354

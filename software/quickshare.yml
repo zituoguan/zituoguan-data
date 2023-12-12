@@ -1,13 +1,13 @@
 name: QuickShare
 website_url: https://github.com/ihexxa/quickshare
-description: Quick and simple file sharing between different devices.
+description: 在不同设备之间进行快速简单的文件共享。
 licenses:
   - LGPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/ihexxa/quickshare
 stargazers_count: 448
 updated_at: '2023-10-19'

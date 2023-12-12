@@ -1,11 +1,11 @@
 name: Poste.io
 website_url: https://poste.io
-description: Full-featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available.
+description: 用于电子邮件服务器的全功能解决方案。采用最新的反垃圾邮件方法，包括Webmail和简便的管理。提供免费层级。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://poste.io
 demo_url: https://poste.io/demo

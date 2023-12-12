@@ -1,10 +1,10 @@
 name: Resilio Sync
 website_url: https://www.resilio.com/
-description: Proprietary peer-to-peer file synchronisation tool.
+description: 专有的点对点文件同步工具。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - File Transfer & Synchronization
+  - 文件传输与同步
 source_code_url: https://www.resilio.com/

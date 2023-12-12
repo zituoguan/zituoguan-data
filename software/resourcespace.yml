@@ -1,11 +1,11 @@
 name: ResourceSpace
 website_url: https://www.resourcespace.com
-description: ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets.
+description: ResourceSpace是一款开源数字资产管理软件，是组织数字资产的简单、快速和免费方式。
 licenses:
   - BSD-4-Clause
 platforms:
   - PHP
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://www.resourcespace.com/svn
 demo_url: https://www.resourcespace.com/trial

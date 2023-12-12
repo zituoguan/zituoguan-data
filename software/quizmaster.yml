@@ -1,12 +1,12 @@
 name: Quizmaster
 website_url: https://github.com/nymanjens/quizmaster
-description: A web-app for conducting a quiz, including a page for players to enter their answers.
+description: 用于进行测验的Web应用，包括供玩家输入答案的页面。
 licenses:
   - Apache-2.0
 platforms:
   - Scala
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/nymanjens/quizmaster
 stargazers_count: 192
 updated_at: '2023-11-23'

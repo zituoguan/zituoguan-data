@@ -1,12 +1,12 @@
 name: PrivateBin
 website_url: https://privatebin.info/
-description: PrivateBin is a minimalist, open source online pastebin/discussion board where the server has zero knowledge of hosted data.
+description: PrivateBin是一个极简主义的、开源的在线粘贴板/讨论板，服务器对托管的数据毫不知情。
 licenses:
   - Zlib
 platforms:
   - PHP
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/PrivateBin/PrivateBin
 demo_url: https://privatebin.net/
 stargazers_count: 5483

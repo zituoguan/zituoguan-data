@@ -1,14 +1,14 @@
 name: Rallly
 website_url: https://rallly.co
-description: Create polls to vote on dates and times (alternative to Doodle).
+description: 创建投票以选择日期和时间（Doodle的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Booking and Scheduling
-  - Polls and Events
+  - 预订和日程安排
+  - 投票和事件
 source_code_url: https://github.com/lukevella/rallly
 demo_url: https://app.rallly.co
 stargazers_count: 2682

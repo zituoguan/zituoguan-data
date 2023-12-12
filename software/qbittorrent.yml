@@ -1,12 +1,12 @@
 name: qBittorrent
 website_url: https://www.qbittorrent.org/
-description: Free cross-platform bittorrent client with a feature rich Web UI for remote access.
+description: 免费的跨平台比特Torrent客户端，具有功能丰富的Web UI，可进行远程访问。
 licenses:
   - GPL-2.0
 platforms:
   - C++
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 source_code_url: https://github.com/qbittorrent/qBittorrent
 stargazers_count: 23044
 updated_at: '2023-11-30'

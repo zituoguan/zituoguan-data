@@ -1,12 +1,12 @@
 name: Pterodactyl
 website_url: https://pterodactyl.io/
-description: Management panel for game servers, with an intuitive UI for end users.
+description: 用于游戏服务器的管理面板，具有直观的用户界面。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/pterodactyl/panel
 stargazers_count: 5506
 updated_at: '2023-10-02'

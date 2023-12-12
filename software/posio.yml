@@ -1,12 +1,12 @@
 name: Posio
 website_url: https://github.com/abrenaut/posio
-description: Geography multiplayer game.
+description: 地理多人游戏。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/abrenaut/posio
 stargazers_count: 517
 updated_at: '2021-10-14'

@@ -1,11 +1,11 @@
 name: Privoxy
 website_url: https://www.privoxy.org
-description: Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
+description: 一款非缓存的Web代理，具有先进的过滤功能，用于增强隐私、修改网页数据和HTTP头部、控制访问，并去除广告和其他令人讨厌的互联网垃圾。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://www.privoxy.org

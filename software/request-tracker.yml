@@ -1,12 +1,12 @@
 name: Request Tracker
 website_url: https://www.bestpractical.com/rt/
-description: An enterprise-grade issue tracking system.
+description: 一款企业级问题跟踪系统。
 licenses:
   - GPL-2.0
 platforms:
   - Perl
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/bestpractical/rt
 stargazers_count: 799
 updated_at: '2023-12-01'

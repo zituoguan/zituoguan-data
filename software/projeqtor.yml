@@ -1,11 +1,11 @@
 name: ProjeQtOr
 website_url: https://www.projeqtor.org/
-description: A complete, mature, multi-user project management system with extensive functionality for all phases of a project.
+description: 一套完整、成熟的、多用户项目管理系统，具有广泛的功能，适用于项目的所有阶段。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/
 demo_url: https://demo.projeqtor.org/

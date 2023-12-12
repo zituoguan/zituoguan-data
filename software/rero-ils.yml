@@ -1,13 +1,13 @@
 name: RERO ILS
 website_url: https://rero21.ch/
-description: Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface.
+description: 一款大规模的综合图书馆管理系统，可作为一个 consorital 特性的服务运行，主要用于图书馆网络。包括大多数标准模块（流通、采购、编目等）和基于 Web 的公共和专业界面。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Document Management - Integrated Library Systems (ILS)
+  - 文档管理 - 自动化图书馆系统（ILS）
 source_code_url: https://github.com/rero/rero-ils
 demo_url: https://ils.test.rero.ch/
 stargazers_count: 61

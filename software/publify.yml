@@ -1,12 +1,12 @@
 name: Publify
 website_url: https://publify.github.io/
-description: Simple but full featured web publishing software.
+description: 简单但功能齐全的Web发布软件。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/publify/publify
 stargazers_count: 1807
 updated_at: '2023-11-04'

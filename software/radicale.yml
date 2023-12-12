@@ -1,13 +1,13 @@
 name: Radicale
 website_url: https://radicale.org/
-description: Simple calendar and contact server with extremely low administrative overhead.
+description: 简单的日历和联系人服务器，管理开销极低。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - Calendar & Contacts
+  - 日历和联系人
 source_code_url: https://github.com/Kozea/Radicale
 stargazers_count: 2908
 updated_at: '2023-04-22'

@@ -1,12 +1,12 @@
 name: Pydio
 website_url: https://pydio.com/
-description: Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
+description: 将任何Web服务器转变为强大的文件管理系统，并作为主流云存储提供商的替代品。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/pydio/cells
 demo_url: https://pydio.com/en/demo
 stargazers_count: 1583

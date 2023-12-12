@@ -1,12 +1,12 @@
 name: Raneto
 website_url: https://raneto.com/
-description: Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase.
+description: Raneto是一个开源的知识库平台，使用静态的Markdown文件来支持您的知识库。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/ryanlelek/Raneto
 stargazers_count: 2673
 updated_at: '2023-11-06'
