@@ -1,13 +1,13 @@
 name: piqueserver
 website_url: https://github.com/piqueserver/piqueserver
-description: Server for openspades, the first-person shooter in a destructible voxel world.
+description: OpenSpades 的服务器，OpenSpades 是一个第一人称射击游戏，背景是一个可破坏的体素世界。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - C++
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/piqueserver/piqueserver
 related_software_url: https://github.com/yvt/openspades
 stargazers_count: 184

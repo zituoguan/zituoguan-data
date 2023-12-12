@@ -1,10 +1,10 @@
 name: OFBiz
 website_url: https://ofbiz.apache.org/
-description: Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry.
+description: 企业资源规划系统，具有一套灵活到可在任何行业中使用的业务应用程序。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Resource Planning
+  - 资源规划
 source_code_url: https://svn.apache.org/viewvc/ofbiz/

@@ -1,12 +1,12 @@
 name: Padloc
 website_url: https://padloc.app/
-description: A modern, open source password manager for individuals and teams.
+description: 适用于个人和团队的现代开源密码管理器。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/padloc/padloc
 stargazers_count: 2418
 updated_at: '2023-10-27'

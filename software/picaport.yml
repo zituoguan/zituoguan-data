@@ -1,12 +1,12 @@
 name: Picaport
 website_url: https://www.picapport.de/en/index.php
-description: A photo server with web gallery for your intranet, web space or home network that allows you to organize photos, videos, PDF's, and many other media types in a central location.
+description: 一个用于您的局域网、网络空间或家庭网络的照片服务器，带有Web图库，可让您在中央位置组织照片、视频、PDF和许多其他媒体类型。
 licenses:
   - CC-BY-NC-4.0
 platforms:
   - Java
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://www.picapport.de/en/index.php
 demo_url: https://en.onlinedemo.picapport.de/

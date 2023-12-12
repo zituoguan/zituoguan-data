@@ -1,12 +1,12 @@
 name: PoeticMetric
 website_url: https://www.poeticmetric.com
-description: Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool.
+description: 自由、开源、注重隐私并符合法规的网络分析工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/th0th/poeticmetric
 demo_url: https://www.poeticmetric.com/s?d=www.poeticmetric.com
 stargazers_count: 180

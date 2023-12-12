@@ -1,6 +1,6 @@
 name: ownCloud
 website_url: https://owncloud.org/
-description: All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more.
+description: 一体化解决方案，用于保存、同步、查看、编辑和共享文件、日历、通讯录等。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/owncloud/core
 related_software_url: https://github.com/owncloud/core/wiki/Apps
 stargazers_count: 8186

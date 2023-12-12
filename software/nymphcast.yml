@@ -1,12 +1,12 @@
 name: NymphCast
 website_url: http://nyanko.ws/nymphcast.php
-description: Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast).
+description: 将您选择的支持Linux的硬件转换为电视或音响的音频和视频源（替代品Chromecast）。
 licenses:
   - BSD-3-Clause
 platforms:
   - C++
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/MayaPosch/NymphCast
 stargazers_count: 2322
 updated_at: '2023-10-03'

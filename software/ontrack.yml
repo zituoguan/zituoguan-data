@@ -1,13 +1,13 @@
 name: OnTrack
 website_url: https://github.com/inoda/ontrack
-description: A simple app to track spend and set goals.
+description: 用于跟踪花费和设定目标的简单应用程序。
 licenses:
   - MIT
 platforms:
   - Ruby
   - Nodejs
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/inoda/ontrack
 stargazers_count: 756
 updated_at: '2023-10-13'

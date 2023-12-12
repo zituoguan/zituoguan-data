@@ -1,13 +1,13 @@
 name: plugNmeet
 website_url: https://www.plugnmeet.org/
-description: Scalable, High Performance, Open source web conferencing system.
+description: 可伸缩、高性能、开源的网络会议系统。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Communication - Video Conferencing
+  - 通信 - 视频会议
 source_code_url: https://github.com/mynaparrot/plugNmeet-server
 demo_url: https://demo.plugnmeet.com/login.html
 stargazers_count: 170

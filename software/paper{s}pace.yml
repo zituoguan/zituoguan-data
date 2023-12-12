@@ -1,10 +1,10 @@
 name: paper{s}pace
 website_url: https://dedicatedcode.com/projects.html
-description: Small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks.
+description: 小型网络应用程序，用于管理所有离线文档。为您的文档提供可搜索的存储，并提醒您即将到来的任务。
 licenses:
   - MIT
 platforms:
   - Java
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://gitlab.com/dedicatedcode/paperspace

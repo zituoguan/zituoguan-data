@@ -1,13 +1,13 @@
 name: OctoBot
 website_url: https://www.octobot.cloud/
-description: Open-source cryptocurrency trading bot.
+description: 开源加密货币交易机器人。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/Drakkar-Software/OctoBot
 stargazers_count: 2457
 updated_at: '2023-11-20'

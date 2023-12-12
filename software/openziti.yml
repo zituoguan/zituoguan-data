@@ -1,12 +1,12 @@
 name: OpenZiti
 website_url: https://openziti.github.io/
-description: Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es.
+description: 全功能、可自托管、零信任、完全网状覆盖网络。开箱即用支持两因素身份验证，适用于所有主要桌面/移动操作系统的客户端。
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/openziti/ziti
 stargazers_count: 1526
 updated_at: '2023-12-01'

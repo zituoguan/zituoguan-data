@@ -1,10 +1,10 @@
 name: Phorge
 website_url: https://we.phorge.it/
-description: Phorge is an open source, community driven platform for collaborating, managing, organizing and reviewing software development projects.
+description: Phorge是一个开源的、社区驱动的平台，用于协作、管理、组织和审查软件开发项目。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://we.phorge.it/source/phorge/

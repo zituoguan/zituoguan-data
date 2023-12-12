@@ -1,6 +1,6 @@
 name: Pagure
 website_url: https://pagure.io/pagure
-description: A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development.
+description: 一个轻量级、强大而灵活的以Git为中心的锻造平台，具有为联合和去中心化开发奠定基础的功能。
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
   - Python
   - deb
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://pagure.io/pagure
 demo_url: https://pagure.io/

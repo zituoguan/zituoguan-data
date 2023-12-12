@@ -1,12 +1,12 @@
 name: Plane
 website_url: https://plane.so
-description: Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height).
+description: Plane 帮助您以最简单的方式跟踪问题、史诗和产品路线图（可替代 JIRA、Linear 和 Height）。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
 stargazers_count: 19568

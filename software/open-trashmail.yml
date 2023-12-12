@@ -2,7 +2,7 @@
 name: "OpenTrashmail"
 website_url: "https://github.com/HaschekSolutions/opentrashmail"
 source_code_url: "https://github.com/HaschekSolutions/opentrashmail"
-description: "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API."
+description: "完整的垃圾邮件解决方案，提供一个SMTP服务器并具有用于管理接收的电子邮件的Web界面。支持多个和通配符域，并且完全基于文件（无需数据库）。包括RSS订阅和JSON API。"
 licenses:
   - Apache-2.0
 platforms:
@@ -10,4 +10,4 @@ platforms:
   - PHP
   - Docker
 tags:
-  - Communication - Email - Mail Transfer Agents
+  - 通信 - 电子邮件 - 邮件传输代理

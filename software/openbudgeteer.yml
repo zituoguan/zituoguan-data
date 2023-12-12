@@ -1,13 +1,13 @@
 name: OpenBudgeteer
 website_url: https://github.com/TheAxelander/OpenBudgeteer
-description: A budgeting app based on the Bucket Budgeting Principle.
+description: 一款基于桶预算原则的预算应用程序。
 licenses:
   - MIT
 platforms:
   - Docker
   - C#
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/TheAxelander/OpenBudgeteer
 stargazers_count: 651
 updated_at: '2023-11-26'

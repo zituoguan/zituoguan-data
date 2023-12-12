@@ -1,10 +1,10 @@
 name: PmWiki
 website_url: https://www.pmwiki.org
-description: Wiki-based system for collaborative creation and maintenance of websites.
+description: 基于Wiki的系统，用于协同创建和维护网站。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://www.pmwiki.org

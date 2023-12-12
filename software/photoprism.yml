@@ -1,13 +1,13 @@
 name: PhotoPrism
 website_url: https://photoprism.org
-description: Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures.
+description: 由Go和Google TensorFlow支持的个人照片管理。浏览、组织和共享您的个人照片集，使用最新技术自动标记和查找图片。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/photoprism/photoprism
 demo_url: https://demo.photoprism.app/library/browse
 stargazers_count: 30158

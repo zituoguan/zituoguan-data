@@ -1,10 +1,10 @@
 name: Plex
 website_url: https://www.plex.tv/
-description: Centralized home media playback system with a powerful central server.
+description: 集中式家庭媒体播放系统，具有强大的中央服务器。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Media Streaming - Video Streaming
+  - 流媒体 - 视频流媒体
 source_code_url: https://www.plex.tv/

@@ -1,12 +1,12 @@
 name: Pairdrop
 website_url: https://github.com/schlagmichdoch/pairdrop
-description: Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop).
+description: 在浏览器中进行本地文件共享，灵感来自于Apple的AirDrop（Snapdrop的分支）。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/schlagmichdoch/pairdrop
 stargazers_count: 1810
 updated_at: '2023-10-31'

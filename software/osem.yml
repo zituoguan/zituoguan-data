@@ -1,13 +1,13 @@
 name: osem
 website_url: https://osem.io/
-description: Event management tailored to free Software conferences.
+description: 面向自由软件大会的事件管理系统。
 licenses:
   - MIT
 platforms:
   - Ruby
   - Docker
 tags:
-  - Conference Management
+  - 会议管理
 source_code_url: https://github.com/openSUSE/osem
 stargazers_count: 839
 updated_at: '2023-08-15'

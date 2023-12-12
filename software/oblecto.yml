@@ -1,12 +1,12 @@
 name: Oblecto
 website_url: https://github.com/robinp7720/Oblecto
-description: Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends.
+description: 用于电影和电视节目的媒体服务器，具有响应式的Vue.js前端。具有强大的转码支持，以及通过联邦功能与朋友共享库的能力。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Media Streaming - Video Streaming
+  - 媒体流媒体 - 视频流媒体
 source_code_url: https://github.com/robinp7720/Oblecto
 depends_3rdparty: true
 stargazers_count: 155

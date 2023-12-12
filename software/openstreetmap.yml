@@ -1,12 +1,12 @@
 name: OpenStreetMap
 website_url: https://www.openstreetmap.org/
-description: Collaborative project to create a free editable map of the world.
+description: 协作项目，创建一个免费可编辑的世界地图。
 licenses:
   - GPL-2.0
 platforms:
   - Ruby
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/openstreetmap/openstreetmap-website
 related_software_url: https://wiki.openstreetmap.org/wiki/Software
 stargazers_count: 1916

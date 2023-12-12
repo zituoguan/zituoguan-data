@@ -1,13 +1,13 @@
 name: Polaris
 website_url: https://github.com/agersant/polaris
-description: Music browsing and streaming application optimized for large music collections, ease of use and high performance.
+description: 针对大型音乐收藏、易用性和高性能优化的音乐浏览和流媒体应用。
 licenses:
   - MIT
 platforms:
   - Rust
   - Docker
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/agersant/polaris
 stargazers_count: 1269
 updated_at: '2023-09-13'

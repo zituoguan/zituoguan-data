@@ -1,13 +1,13 @@
 name: Para
 website_url: https://paraio.org
-description: Flexible and modular backend framework/server for object persistence, API development and authentication.
+description: 灵活且模块化的后端框架/服务器，用于对象持久化、API开发和身份验证。
 licenses:
   - Apache-2.0
 platforms:
   - Java
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/erudika/para
 stargazers_count: 503
 updated_at: '2023-12-03'

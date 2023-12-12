@@ -1,13 +1,13 @@
 name: Outline
 website_url: https://www.getoutline.com/
-description: An open, extensible, wiki for your team.
+description: 为您的团队提供的开放、可扩展的Wiki。
 licenses:
   - BSD-3-Clause
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
 stargazers_count: 21259

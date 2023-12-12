@@ -1,6 +1,6 @@
 name: ntfy
 website_url: https://ntfy.sh/
-description: Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify.
+description: 使用HTTP PUT/POST向手机或桌面推送通知，具有Android应用程序、命令行界面和Web应用程序，类似于Pushover和Gotify。
 licenses:
   - Apache-2.0
   - GPL-2.0
@@ -9,7 +9,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/binwiederhier/ntfy
 demo_url: https://ntfy.sh/app
 related_software_url: https://github.com/binwiederhier/ntfy-android

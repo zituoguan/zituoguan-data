@@ -1,12 +1,12 @@
 name: Nominatim
 website_url: https://nominatim.org/
-description: Server application for geocoding (address -> coordinates) and reverse geocoding (coordinates -> address) on OpenStreetMap data.
+description: 用于在OpenStreetMap数据上进行地理编码（地址 -> 坐标）和反向地理编码（坐标 -> 地址）的服务器应用程序。
 licenses:
   - GPL-2.0
 platforms:
   - C
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/osm-search/Nominatim
 stargazers_count: 2649
 updated_at: '2023-12-01'

@@ -1,13 +1,13 @@
 name: Octave Online
 website_url: https://octave-online.net/
-description: Infrastracture behind a web UI for GNU Octave (alternative to MATLAB).
+description: 用于GNU Octave的Web UI的基础设施（MATLAB的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/octave-online/octave-online-server
 stargazers_count: 296
 updated_at: '2023-08-21'

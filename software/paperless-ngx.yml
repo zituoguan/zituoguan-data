@@ -1,13 +1,13 @@
 name: Paperless-ngx
 website_url: https://docs.paperless-ngx.com/
-description: Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless).
+description: 使用改进的界面扫描、索引和存档所有纸质文档（Paperless的分支）。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
 stargazers_count: 12516

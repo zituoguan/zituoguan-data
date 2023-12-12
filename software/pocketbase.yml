@@ -1,13 +1,13 @@
 name: PocketBase
 website_url: https://pocketbase.io/
-description: Open Source backend for your next SaaS and Mobile app in 1 file.
+description: 用于您的下一个SaaS和移动应用的开源后端，仅需一个文件。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/pocketbase/pocketbase
 stargazers_count: 27192
 updated_at: '2023-11-11'

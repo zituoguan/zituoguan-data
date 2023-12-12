@@ -1,13 +1,13 @@
 name: OpenRouteService
 website_url: https://openrouteservice.org/
-description: Selfhosted route service with directions, isochrones, time-distance matrix, route optimization, etc.
+description: 自托管的路线服务，提供方向、等时线、时间-距离矩阵、路线优化等功能。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Java
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/GIScience/openrouteservice
 demo_url: https://openrouteservice.org/dev/#/api-docs/introduction
 stargazers_count: 1164

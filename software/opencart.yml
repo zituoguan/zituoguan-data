@@ -1,12 +1,12 @@
 name: OpenCart
 website_url: https://www.opencart.com
-description: Free open source shopping cart solution.
+description: 免费的开源购物车解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/opencart/opencart
 stargazers_count: 7058
 updated_at: '2023-12-03'

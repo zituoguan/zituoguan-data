@@ -1,13 +1,13 @@
 name: Outline Server
 website_url: https://getoutline.org/
-description: A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys.
+description: 代理服务器，为每个访问密钥运行一个Shadowsocks实例，并提供一个REST API来管理访问密钥。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://github.com/Jigsaw-Code/outline-server
 stargazers_count: 5395
 updated_at: '2023-11-27'

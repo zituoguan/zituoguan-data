@@ -1,12 +1,12 @@
 name: Omeka
 website_url: https://omeka.org
-description: Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts.
+description: 在您的服务器上使用Omeka创建复杂的叙述并共享丰富的收藏，遵循Dublin Core标准，专为学者、博物馆、图书馆、档案馆和爱好者设计。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/omeka/Omeka
 demo_url: https://omeka.org/classic/showcase/
 stargazers_count: 450

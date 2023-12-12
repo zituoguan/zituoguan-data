@@ -1,13 +1,13 @@
 name: Novu
 website_url: https://novu.co/
-description: Self-hosted / cloud notification infrastructure for developers.
+description: 面向开发人员的自托管/云通知基础设施。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/novuhq/novu/
 stargazers_count: 31178
 updated_at: '2023-12-03'

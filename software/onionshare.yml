@@ -1,13 +1,13 @@
 name: OnionShare
 website_url: https://github.com/onionshare/onionshare
-description: Securely and anonymously share a file of any size.
+description: 安全匿名地共享任意大小的文件。
 licenses:
   - GPL-2.0
 platforms:
   - Python
   - deb
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/onionshare/onionshare
 stargazers_count: 5807
 updated_at: '2023-11-29'

@@ -1,12 +1,12 @@
 name: osTicket
 website_url: https://osticket.com/
-description: Manage, organize and archive all your support requests and responses in one place.
+description: 在一个地方管理、组织和归档所有您的支持请求和响应。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/osTicket/osTicket
 stargazers_count: 2905
 updated_at: '2023-10-25'

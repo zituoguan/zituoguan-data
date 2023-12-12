@@ -1,12 +1,12 @@
 name: Notes'n'Todos
 website_url: https://github.com/larspontoppidan/notesntodos
-description: Write notes and todos online in markdown with tag filtering and date sorting.
+description: 使用Markdown在线编写带有标签过滤和日期排序的笔记和待办事项。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/larspontoppidan/notesntodos
 demo_url: https://lpss.dk/nnt-playground/
 stargazers_count: 23

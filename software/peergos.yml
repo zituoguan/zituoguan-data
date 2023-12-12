@@ -1,10 +1,10 @@
 name: Peergos
 website_url: https://peergos.org
-description: Secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client.
+description: 安全而私密的在线空间，您可以在其中存储、共享和查看照片、视频、音乐和文档。还包括日历、新闻订阅、任务列表、聊天和电子邮件客户端。
 licenses:
   - AGPL-3.0
 platforms:
   - Java
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/Peergos

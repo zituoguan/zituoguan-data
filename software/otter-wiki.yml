@@ -1,13 +1,13 @@
 name: Otter Wiki
 website_url: https://github.com/redimp/otterwiki
 source_code_url: https://github.com/redimp/otterwiki
-description: Simple, easy to use wiki software using markdown.
+description: 使用Markdown的简单易用的Wiki软件。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Wikis
+  - 维基
 stargazers_count: 39
 updated_at: '2023-12-03'
 archived: false

@@ -1,6 +1,6 @@
 name: Planka
 website_url: https://planka.app/
-description: Realtime kanban board for workgroups (alternative to Trello).
+description: 实时看板，用于工作组（Trello 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/plankanban/planka
 demo_url: https://plankanban.github.io/planka/#/
 stargazers_count: 3486

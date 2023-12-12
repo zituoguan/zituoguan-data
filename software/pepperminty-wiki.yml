@@ -1,12 +1,12 @@
 name: Pepperminty Wiki
 website_url: https://github.com/sbrl/Pepperminty-Wiki
-description: Complete markdown-powered wiki contained in a single PHP file.
+description: 完全由Markdown驱动的维基，包含在一个单独的PHP文件中。
 licenses:
   - MPL-2.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/sbrl/Pepperminty-Wiki
 demo_url: https://starbeamrainbowlabs.com/labs/peppermint/build/
 stargazers_count: 162

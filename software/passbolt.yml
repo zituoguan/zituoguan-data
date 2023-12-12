@@ -1,6 +1,6 @@
 name: Passbolt
 website_url: https://www.passbolt.com/
-description: Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend.
+description: 专为在任何Web服务器上以协作方式管理密码而设计的密码管理器，使用MySQL数据库后端。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - Docker
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/passbolt/passbolt_api
 stargazers_count: 4132
 updated_at: '2023-11-29'

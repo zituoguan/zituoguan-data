@@ -1,12 +1,12 @@
 name: Overleaf
 website_url: https://www.overleaf.com/
-description: Web-based collaborative LaTeX editor.
+description: 基于Web的协作LaTeX编辑器。
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/overleaf/overleaf
 stargazers_count: 11866
 updated_at: '2023-12-01'

@@ -1,6 +1,6 @@
 name: OpenSearch
 website_url: https://opensearch.org
-description: Open source distributed and RESTful search engine.
+description: 开源分布式和RESTful搜索引擎。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - deb
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/opensearch-project/OpenSearch
 stargazers_count: 7940
 updated_at: '2023-12-01'

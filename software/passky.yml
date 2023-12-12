@@ -1,12 +1,12 @@
 name: Passky
 website_url: https://passky.org
-description: Simple, modern and open source password manager with website, browser extension, android and desktop application.
+description: 简单、现代且开源的密码管理器，配有网站、浏览器扩展、Android和桌面应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/Rabbit-Company/Passky-Server
 demo_url: https://vault.passky.org
 stargazers_count: 139

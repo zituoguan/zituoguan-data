@@ -1,12 +1,12 @@
 name: PassIt
 website_url: https://passit.io/
-description: Simple password manage with sharing features by group and user, but no administration interface.
+description: 简单的密码管理工具，具有按组和用户共享的功能，但没有管理界面。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Django
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://gitlab.com/passit
 demo_url: https://app.passit.io/

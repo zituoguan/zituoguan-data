@@ -1,6 +1,6 @@
 name: Pastefy
 website_url: https://pastefy.app/
-description: Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more.
+description: 美观、简单易用的Pastebin，支持可选的客户端加密、多标签粘贴、API、带有突出显示的编辑器等功能。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - K8S
   - Java
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/interaapps/pastefy
 related_software_url: https://github.com/topics/pastefy-addon
 stargazers_count: 200

@@ -1,13 +1,13 @@
 name: PictShare
 website_url: https://www.pictshare.net/
-description: PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API.
+description: PictShare 是一个多语言、开源的图像托管服务，提供简单的调整大小和上传 API。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/HaschekSolutions/pictshare
 stargazers_count: 780
 updated_at: '2023-11-13'

@@ -1,6 +1,6 @@
 name: OwnTracks Recorder
 website_url: https://github.com/owntracks/recorder
-description: Store and access data published by [OwnTracks](https://owntracks.org/) location tracking apps.
+description: 存储并访问由[OwnTracks](https://owntracks.org/)位置跟踪应用发布的数据。
 licenses:
   - GPL-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/owntracks/recorder
 depends_3rdparty: true
 stargazers_count: 720

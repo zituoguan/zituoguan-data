@@ -1,12 +1,12 @@
-name: october
+name: October
 website_url: https://octobercms.com/
-description: Self-hosted CMS platform based on the Laravel PHP Framework.
+description: 基于Laravel PHP框架的自托管CMS平台。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/octobercms/october
 stargazers_count: 10930
 updated_at: '2023-12-03'

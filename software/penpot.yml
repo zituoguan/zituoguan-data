@@ -1,12 +1,12 @@
 name: penpot
 website_url: https://penpot.app/
-description: A web based design and prototyping platform meant for cross-domain teams.
+description: 面向跨领域团队的基于Web的设计和原型平台。
 licenses:
   - MPL-2.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/penpot/penpot
 stargazers_count: 24386
 updated_at: '2023-12-01'

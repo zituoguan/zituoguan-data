@@ -1,12 +1,12 @@
 name: OTS-Share
 website_url: https://github.com/rpgeeganage/ots-share-app
-description: A self-hosting app to share secrets with file support up to 1MB.
+description: 一个自托管的应用程序，用于共享支持文件大小达到1MB的秘密。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/rpgeeganage/ots-share-app
 stargazers_count: 41
 updated_at: '2023-03-06'

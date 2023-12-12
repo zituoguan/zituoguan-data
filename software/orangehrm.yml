@@ -1,12 +1,12 @@
 name: OrangeHRM
 website_url: https://www.orangehrm.com/
-description: OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise.
+description: OrangeHRM是一个全面的人力资源管理系统，涵盖了任何企业所需的所有基本功能。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Human Resources Management (HRM)
+  - 人力资源管理（HRM）
 source_code_url: https://github.com/orangehrm/orangehrm
 demo_url: https://opensource-demo.orangehrmlive.com/
 stargazers_count: 657

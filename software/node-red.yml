@@ -1,13 +1,13 @@
 name: Node RED
 website_url: https://nodered.org/
-description: Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions.
+description: 基于浏览器的流程编辑器，帮助您将硬件设备、API和在线服务连接起来，创建物联网（IoT）解决方案。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/node-red/node-red
 stargazers_count: 17722
 updated_at: '2023-11-30'

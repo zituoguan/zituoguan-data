@@ -1,6 +1,6 @@
 name: OpenProject
 website_url: https://www.openproject.org
-description: OpenProject is a web-based project management system.
+description: OpenProject是一个基于Web的项目管理系统。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/opf/openproject
 stargazers_count: 7628
 updated_at: '2023-12-03'

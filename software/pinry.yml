@@ -1,13 +1,13 @@
 name: Pinry
 website_url: https://docs.getpinry.com/
-description: The tiling image board system for people who want to save, tag, and share images, videos, and webpages.
+description: 针对那些想要保存、标记和共享图像、视频和网页的用户的平铺式图像板系统。
 licenses:
   - BSD-2-Clause
 platforms:
   - Docker
   - Python
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/pinry/pinry
 demo_url: https://pin.37soloist.com/
 stargazers_count: 2934

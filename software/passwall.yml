@@ -1,12 +1,12 @@
 name: PassWall
 website_url: https://github.com/passwall/passwall-server
-description: Open source password manager.
+description: 开源密码管理器。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/passwall/passwall-server
 stargazers_count: 728
 updated_at: '2023-07-13'

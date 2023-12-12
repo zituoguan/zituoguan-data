@@ -1,13 +1,13 @@
 name: ONLYOFFICE
 website_url: https://helpcenter.onlyoffice.com/faq/server-opensource.aspx
-description: Office suite that enables you to manage documents, projects, team and customer relations in one place.
+description: 办公套件，使您能够在一个地方管理文档、项目、团队和客户关系。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Office Suites
+  - 办公套件
 source_code_url: https://github.com/ONLYOFFICE/DocumentServer
 stargazers_count: 4003
 updated_at: '2023-11-08'

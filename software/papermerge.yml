@@ -1,6 +1,6 @@
 name: Papermerge
 website_url: https://papermerge.com
-description: Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection.
+description: 专注于扫描文档（电子档案）的开源文档管理系统。提供类似于Dropbox/Google Drive的文件浏览功能。OCR、全文搜索、文本叠加/选择等功能。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://github.com/ciur/papermerge
 stargazers_count: 2108
 updated_at: '2022-12-12'

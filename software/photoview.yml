@@ -1,13 +1,13 @@
 name: Photoview
 website_url: https://photoview.github.io/
-description: A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos.
+description: 一款简单易用的个人服务器照片库。它专为摄影师设计，旨在提供一种简单快速的浏览目录的方式，支持数千张高分辨率照片。
 licenses:
   - GPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/photoview/photoview
 stargazers_count: 4345
 updated_at: '2023-07-10'

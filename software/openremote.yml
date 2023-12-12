@@ -1,12 +1,12 @@
 name: OpenRemote
 website_url: https://openremote.io
-description: Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway.
+description: 开源物联网平台 - 物联网资产管理、流程规则和WHEN-THEN规则、数据可视化、边缘网关。
 licenses:
   - AGPL-3.0
 platforms:
   - Java
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/openremote/openremote
 demo_url: https://demo.openremote.io/
 stargazers_count: 965

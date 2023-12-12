@@ -1,12 +1,12 @@
 name: Notifo
 website_url: https://github.com/notifo-io/notifo
-description: Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin.
+description: 多通道通知服务器，支持电子邮件、移动推送、Web推送、短信、消息和JavaScript插件。
 licenses:
   - MIT
 platforms:
   - C#
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/notifo-io/notifo
 stargazers_count: 694
 updated_at: '2023-11-25'

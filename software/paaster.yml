@@ -1,12 +1,12 @@
 name: paaster
 website_url: https://paaster.io
-description: Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity.
+description: Paaster是一个默认安全的端到端加密的Pastebin，建立在简单性的基础上。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/WardPearce/paaster
 stargazers_count: 380
 updated_at: '2023-11-29'

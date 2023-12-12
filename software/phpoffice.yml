@@ -1,10 +1,10 @@
 name: PHPOffice
 website_url: https://github.com/PHPOffice
-description: PHPOffice contains libraries which permits to write and read files from most office suites.
+description: PHPOffice包含可以用于读写大多数办公套件文件的库。
 licenses:
   - LGPL-3.0
 platforms:
   - PHP
 tags:
-  - Office Suites
+  - 办公套件
 source_code_url: https://github.com/PHPOffice

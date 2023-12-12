@@ -1,12 +1,12 @@
 name: PixelFed
 website_url: https://pixelfed.social
-description: Pixelfed is an open-source, federated platform alternate to Instagram.
+description: Pixelfed 是一个开源的、联邦化的平台，是 Instagram 的替代品。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通讯 - 社交网络和论坛
 source_code_url: https://github.com/pixelfed/pixelfed
 stargazers_count: 5214
 updated_at: '2023-12-03'

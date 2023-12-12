@@ -1,10 +1,10 @@
 name: Pancake
 website_url: https://www.pancakeapp.com/
-description: Online invoicing, project management, time tracking and proposal software.
+description: 在线发票、项目管理、时间跟踪和提案软件。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://www.pancakeapp.com/

@@ -1,12 +1,12 @@
 name: Open eClass
 website_url: https://www.openeclass.org/
-description: Open eClass is an advanced e-learning solution that can enhance the teaching and learning process.
+description: Open eClass是一种先进的电子学习解决方案，可以增强教学和学习过程。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://github.com/gunet/openeclass
 demo_url: https://demo.openeclass.org/
 stargazers_count: 117

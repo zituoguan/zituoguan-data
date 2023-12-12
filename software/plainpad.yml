@@ -1,12 +1,12 @@
 name: Plainpad
 website_url: https://alextselegidis.com/get/plainpad/
-description: A modern note taking application for the cloud, utilizing the best features of progressive web apps technology.
+description: Plainpad 是一个现代的云记事应用，利用渐进式Web应用技术的最佳特性。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/alextselegidis/plainpad
 demo_url: https://alextselegidis.com/try/plainpad/
 stargazers_count: 219

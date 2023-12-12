@@ -1,13 +1,13 @@
 name: NocoDB
 website_url: https://www.nocodb.com/
-description: No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet).
+description: 无代码平台，将任何数据库转换为智能电子表格（Airtable或Smartsheet的替代品）。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/nocodb/nocodb
 stargazers_count: 38820
 updated_at: '2023-12-03'

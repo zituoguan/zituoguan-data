@@ -1,12 +1,12 @@
 name: Oddmuse
 website_url: https://oddmuse.org/
-description: A simple wiki engine written in Perl. No database required.
+description: 用Perl编写的简单维基引擎。无需数据库。
 licenses:
   - GPL-3.0
 platforms:
   - Perl
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/kensanata/oddmuse
 stargazers_count: 70
 updated_at: '2023-11-21'
