@@ -1,13 +1,13 @@
 name: NextCloudPi
 website_url: https://github.com/nextcloud/nextcloudpi
-description: Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian.
+description: 预安装和预配置的Nextcloud，带有文本和Web管理界面以及自托管私人数据所需的所有工具。提供Raspberry Pi、Odroid、Rock64、Docker的安装映像，以及用于Armbian/Debian的curl安装程序。
 licenses:
   - GPL-2.0
 platforms:
   - Shell
   - PHP
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/nextcloud/nextcloudpi
 stargazers_count: 2200
 updated_at: '2023-11-15'

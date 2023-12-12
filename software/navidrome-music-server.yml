@@ -1,13 +1,13 @@
 name: Navidrome Music Server
 website_url: https://www.navidrome.org
-description: Modern Music Server and Streamer, compatible with Subsonic/Airsonic.
+description: 现代音乐服务器和流媒体服务器，兼容Subsonic/Airsonic。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/navidrome/navidrome
 demo_url: https://www.navidrome.org/demo
 related_software_url: https://www.navidrome.org/docs/overview/#apps

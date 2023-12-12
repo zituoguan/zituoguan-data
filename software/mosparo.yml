@@ -1,12 +1,12 @@
 name: mosparo
 website_url: https://mosparo.io/
-description: The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution.
+description: 现代的垃圾邮件保护工具。用简单易用的垃圾邮件保护解决方案替代其他验证码方法。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/mosparo/mosparo
 stargazers_count: 106
 updated_at: '2023-12-03'

@@ -1,13 +1,13 @@
 name: ngircd
 website_url: https://ngircd.barton.de/
-description: Free, portable and lightweight Internet Relay Chat server for small or private networks.
+description: 用于小型或私有网络的免费、便携和轻量级Internet Relay Chat（IRC）服务器。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/ngircd/ngircd
 stargazers_count: 391
 updated_at: '2023-10-17'

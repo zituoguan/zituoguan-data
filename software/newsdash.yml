@@ -1,13 +1,13 @@
 name: newsdash
 website_url: https://github.com/buzz/newsdash
-description: A news dashboard inspired by iGoogle and Netvibes.
+description: 一款受到iGoogle和Netvibes启发的新闻仪表板。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/buzz/newsdash
 stargazers_count: 54
 updated_at: '2022-12-15'

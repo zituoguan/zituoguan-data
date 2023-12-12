@@ -1,13 +1,13 @@
 name: Mumble
 website_url: https://wiki.mumble.info/wiki/Main_Page
-description: Low-latency, high quality voice/text chat software.
+description: 低延迟、高质量的语音/文本聊天软件。
 licenses:
   - BSD-3-Clause
 platforms:
   - C++
   - deb
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 自定义通信系统
 source_code_url: https://github.com/mumble-voip/mumble
 related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications
 stargazers_count: 5713

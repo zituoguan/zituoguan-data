@@ -1,12 +1,12 @@
 name: MistServer
 website_url: https://mistserver.org/
-description: Streaming media server that works well in any streaming environment.
+description: 在任何流媒体环境中都能很好运行的流媒体服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - C++
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流传输 - 多媒体流传输
 source_code_url: https://github.com/DDVTECH/mistserver
 stargazers_count: 316
 updated_at: '2023-07-24'

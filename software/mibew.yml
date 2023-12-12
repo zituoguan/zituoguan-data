@@ -1,12 +1,12 @@
 name: Mibew
 website_url: https://mibew.org
-description: Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website.
+description: Mibew Messenger 是一个用 PHP 和 MySQL 编写的开源实时支持应用程序。它使您能够直接从您的网站实时进行一对一聊天支持。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/Mibew/mibew
 demo_url: https://mibew.org/demo2
 stargazers_count: 460

@@ -1,12 +1,12 @@
 name: myTinyTodo
 website_url: https://www.mytinytodo.net/
-description: Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant.
+description: 使用 AJAX 风格简单管理待办事项清单的方式。使用 PHP、jQuery、SQLite/MySQL。符合 GTD。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/maxpozdeev/mytinytodo/
 demo_url: https://www.mytinytodo.net/demo/
 stargazers_count: 126

@@ -1,12 +1,12 @@
 name: NewsBlur
 website_url: https://www.newsblur.com/
-description: NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+description: NewsBlur是一款个人新闻阅读器，让人们聚在一起谈论世界。一种古老乐器的新声音。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/samuelclay/NewsBlur
 stargazers_count: 6571
 updated_at: '2023-11-10'

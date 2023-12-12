@@ -1,13 +1,13 @@
 name: MindsDB
 website_url: https://mindsdb.com/
-description: MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+description: MindsDB 是一个开源的自托管 AI 层，适用于现有数据库，可以让您轻松地使用标准查询开发、训练和部署最先进的机器学习模型。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Database Management
+  - 数据库管理
 source_code_url: https://github.com/mindsdb/mindsdb
 stargazers_count: 19128
 updated_at: '2023-12-01'

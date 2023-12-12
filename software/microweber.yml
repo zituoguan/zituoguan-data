@@ -1,12 +1,12 @@
 name: Microweber
 website_url: https://microweber.com/
-description: Drag and Drop CMS and online shop.
+description: 拖放式 CMS 和在线商店。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/microweber/microweber
 demo_url: https://demo.microweber.org/
 stargazers_count: 2862

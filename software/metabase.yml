@@ -1,13 +1,13 @@
 name: Metabase
 website_url: https://metabase.com/
-description: Easy, open-source way for everyone in your company to ask questions and learn from data.
+description: 一种简单、开源的方式，让您公司中的每个人都能提出问题并从数据中学习。
 licenses:
   - AGPL-3.0
 platforms:
   - Java
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/metabase/metabase
 stargazers_count: 35025
 updated_at: '2023-12-01'

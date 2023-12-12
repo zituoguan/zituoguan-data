@@ -1,13 +1,13 @@
 name: Motor Admin
 website_url: https://www.getmotoradmin.com/
-description: No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports.
+description: 无代码管理面板和商业智能软件 - 搜索、创建、更新和删除数据条目，创建自定义操作并生成报告。
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
   - Docker
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/motor-admin/motor-admin
 stargazers_count: 1781
 updated_at: '2023-09-09'

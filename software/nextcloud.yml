@@ -1,13 +1,13 @@
 name: Nextcloud
 website_url: https://nextcloud.com/
-description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms.
+description: 从任何设备按照您的方式访问和共享您的文件、日历、联系人、邮件以及[更多](https://apps.nextcloud.com/)。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - deb
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/nextcloud/server
 demo_url: https://try.nextcloud.com/
 stargazers_count: 24319

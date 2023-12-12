@@ -1,13 +1,13 @@
 name: MiroTalk C2C
 website_url: https://c2c.mirotalk.com
-description: Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe.
+description: 实时点对点视频通话和屏幕共享，端到端加密，可嵌入任何网站的简单 iframe 中。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Video Conferencing
+  - 通信 - 视频会议
 source_code_url: https://github.com/miroslavpejic85/mirotalkc2c
 stargazers_count: 149
 updated_at: '2023-11-11'

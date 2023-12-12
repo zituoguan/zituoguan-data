@@ -1,6 +1,6 @@
 name: Minetest
 website_url: https://www.minetest.net/
-description: An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.
+description: 一款开源的体素游戏引擎。玩其中的许多游戏，按照您的喜好修改游戏，制作自己的游戏，或在多人服务器上游玩。
 licenses:
   - LGPL-2.1
   - MIT
@@ -9,7 +9,7 @@ platforms:
   - C++
   - deb
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/minetest/minetest
 stargazers_count: 9622
 updated_at: '2023-12-03'

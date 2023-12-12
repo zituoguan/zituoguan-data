@@ -1,13 +1,13 @@
 name: n8n
 website_url: https://n8n.io/
-description: Free node based Workflow Automation Tool. Easily automate tasks across different services.
+description: 免费的基于节点的工作流自动化工具。轻松自动化跨不同服务的任务。
 licenses:
   - Apache-2.0
   - Commons-Clause
 platforms:
   - Nodejs
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/n8n-io/n8n
 stargazers_count: 35485
 updated_at: '2023-12-01'

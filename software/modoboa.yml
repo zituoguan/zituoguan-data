@@ -1,12 +1,12 @@
 name: Modoboa
 website_url: https://modoboa.org/en/
-description: Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
+description: Modoboa 是一个包括现代简化的 Web 用户界面的邮件托管和管理平台。
 licenses:
   - ISC
 platforms:
   - Python
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/modoboa/modoboa
 stargazers_count: 2753
 updated_at: '2023-12-01'

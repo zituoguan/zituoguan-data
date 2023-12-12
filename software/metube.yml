@@ -1,6 +1,6 @@
 name: MeTube
 website_url: https://github.com/alexta69/metube
-description: Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
+description: 用于 youtube-dl 的 Web 图形用户界面，支持播放列表。允许从数十个网站下载视频。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/alexta69/metube
 stargazers_count: 2294
 updated_at: '2023-11-16'

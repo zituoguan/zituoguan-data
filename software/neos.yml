@@ -1,10 +1,10 @@
 name: Neos
 website_url: https://www.neos.io
-description: Neos or TYPO3 Neos (for version 1) is a modern, open source CMS.
+description: Neos 或 TYPO3 Neos（版本 1）是一款现代的开源 CMS。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/neos

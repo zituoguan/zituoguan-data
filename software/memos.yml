@@ -1,13 +1,13 @@
 name: Memos
 website_url: https://usememos.com/
-description: An open source, self-hosted knowledge base that works with a SQLite db file.
+description: 一个开源、自托管的知识库，可与 SQLite 数据库文件配合使用。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/usememos/memos
 stargazers_count: 20635
 updated_at: '2023-12-03'

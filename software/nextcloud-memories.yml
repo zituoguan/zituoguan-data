@@ -1,12 +1,12 @@
 name: Nextcloud Memories
 website_url: https://memories.gallery/
-description: Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+description: 快速、现代化和先进的照片管理套件。作为Nextcloud应用运行。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/pulsejet/memories
 demo_url: https://demo.memories.gallery/apps/memories/
 stargazers_count: 1782

@@ -1,13 +1,13 @@
 name: MiniNote
 website_url: https://github.com/muety/mininote
-description: Simple Markdown note-taking app with persistence.
+description: 带持久性的简单 Markdown 记事应用程序。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/muety/mininote
 stargazers_count: 239
 updated_at: '2023-01-09'

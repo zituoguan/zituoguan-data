@@ -1,13 +1,13 @@
 name: Monica
 website_url: https://monicahq.com/
-description: Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family.
+description: 个人关系管理器，一种新型的 CRM，用于组织与您的朋友和家人的互动。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/monicahq/monica
 stargazers_count: 19964
 updated_at: '2023-11-27'

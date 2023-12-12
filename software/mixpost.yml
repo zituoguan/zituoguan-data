@@ -1,13 +1,13 @@
 name: Mixpost
 website_url: https://mixpost.app/
-description: Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools).
+description: 自托管的社交媒体管理软件。在一个地方轻松创建、计划、发布和管理社交媒体内容（替代 Hootsuite、Buffer 和其他社交媒体工具）。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/inovector/MixpostApp
 stargazers_count: 32
 updated_at: '2023-07-12'

@@ -1,13 +1,13 @@
 name: Mindwendel
 website_url: https://www.mindwendel.com/
-description: Brainstorm and upvote ideas and thoughts within your team.
+description: 在团队内部进行头脑风暴，并投票支持想法和思考。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Elixir
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/b310-digital/mindwendel
 demo_url: https://www.mindwendel.com
 stargazers_count: 49

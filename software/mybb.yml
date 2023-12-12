@@ -1,12 +1,12 @@
 name: MyBB
 website_url: https://mybb.com/
-description: Free, extensible forum software package.
+description: 免费、可扩展的论坛软件包。
 licenses:
   - LGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/mybb/mybb
 stargazers_count: 993
 updated_at: '2023-11-04'

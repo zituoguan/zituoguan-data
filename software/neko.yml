@@ -1,13 +1,13 @@
 name: Neko
 website_url: https://neko.m1k1o.net
-description: A self hosted virtual browser (rabb.it clone) that runs in Docker.
+description: 一个在 Docker 中运行的自托管虚拟浏览器（rabb.it 克隆）。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/m1k1o/neko
 stargazers_count: 4565
 updated_at: '2023-11-19'

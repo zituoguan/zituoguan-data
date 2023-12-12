@@ -1,11 +1,11 @@
 name: Moodle
 website_url: https://moodle.org/
-description: Moodle is a learning and courses platform with one of the largest open source communities worldwide.
+description: Moodle 是一个拥有全球最大开源社区之一的学习和课程平台。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://git.moodle.org/gw
 demo_url: https://moodle.org/demo/

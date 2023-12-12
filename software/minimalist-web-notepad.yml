@@ -1,12 +1,12 @@
 name: minimalist-web-notepad
 website_url: https://github.com/pereorga/minimalist-web-notepad
-description: Minimalist notepad.cc clone.
+description: 极简 notepad.cc 克隆。
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/pereorga/minimalist-web-notepad
 demo_url: https://notes.orga.cat/
 stargazers_count: 874

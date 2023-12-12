@@ -1,12 +1,12 @@
 name: Mycorrhiza Wiki
 website_url: https://mycorrhiza.wiki/
-description: Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language.
+description: 使用 Go 编写的基于文件系统和 git 的维基引擎，主要使用 Mycomarkup 作为其主要标记语言。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/bouncepaw/mycorrhiza/
 stargazers_count: 191
 updated_at: '2023-11-27'

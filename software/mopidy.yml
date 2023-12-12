@@ -1,13 +1,13 @@
 name: Mopidy
 website_url: https://docs.mopidy.com/
-description: Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.
+description: 可扩展的音乐服务器。提供 mpd API 的超集，以及与 Spotify、SoundCloud 等第三方服务的集成。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - deb
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/mopidy/mopidy
 stargazers_count: 7817
 updated_at: '2023-11-17'

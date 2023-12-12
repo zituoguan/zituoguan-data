@@ -1,7 +1,7 @@
 name: mikochi
 website_url: https://github.com/zer0tonin/Mikochi
 source_code_url: https://github.com/zer0tonin/Mikochi
-description: Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv.
+description: 浏览远程文件夹，上传文件，删除、重命名、下载并流式传输文件到 VLC/mpv。
 licenses:
   - MIT
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Docker
   - K8S
 tags:
-  - File Transfer - Web-based File Managers
-  - Media Streaming - Multimedia Streaming
+  - 文件传输 - 基于 Web 的文件管理器
+  - 流传输 - 多媒体流媒体
 stargazers_count: 106
 updated_at: '2023-11-14'
 archived: false
