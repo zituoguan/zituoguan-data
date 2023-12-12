@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 媒体流传输 - 音频流传输
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/moode-player/moode
 stargazers_count: 815
 updated_at: '2023-12-03'

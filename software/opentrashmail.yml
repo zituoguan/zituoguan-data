@@ -10,7 +10,7 @@ platforms:
   - PHP
   - Docker
 tags:
-  - 通讯 - 电子邮件 - 邮件传输代理
+  - 通信 - 电子邮件 - 邮件传输代理
 stargazers_count: 377
 updated_at: '2023-12-02'
 archived: false

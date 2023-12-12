@@ -4,7 +4,7 @@ description: 自托管的开源Web图库，用于浏览个人照片和视频，�
 licenses:
   - MIT
 platforms:
-  - Node.js
+  - Nodejs
   - Docker
 tags:
   - 照片和视频库

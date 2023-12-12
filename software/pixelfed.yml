@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 通讯 - 社交网络和论坛
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/pixelfed/pixelfed
 stargazers_count: 5214
 updated_at: '2023-12-03'

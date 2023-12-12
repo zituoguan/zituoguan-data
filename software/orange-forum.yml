@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 通讯 - 社交网络和论坛
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/s-gv/orangeforum
 stargazers_count: 438
 updated_at: '2023-11-12'

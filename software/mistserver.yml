@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C++
 tags:
-  - 流传输 - 多媒体流传输
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/DDVTECH/mistserver
 stargazers_count: 316
 updated_at: '2023-07-24'

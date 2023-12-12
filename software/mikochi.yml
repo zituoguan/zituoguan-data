@@ -10,7 +10,7 @@ platforms:
   - K8S
 tags:
   - 文件传输 - 基于 Web 的文件管理器
-  - 流传输 - 多媒体流媒体
+  - 流媒体 - 多媒体流媒体
 stargazers_count: 106
 updated_at: '2023-11-14'
 archived: false

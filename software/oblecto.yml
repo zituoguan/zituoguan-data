@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Nodejs
 tags:
-  - 媒体流媒体 - 视频流媒体
+  - 流媒体 - 视频流媒体
 source_code_url: https://github.com/robinp7720/Oblecto
 depends_3rdparty: true
 stargazers_count: 155

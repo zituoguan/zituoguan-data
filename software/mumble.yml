@@ -7,7 +7,7 @@ platforms:
   - C++
   - deb
 tags:
-  - 通信 - 自定义通信系统
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/mumble-voip/mumble
 related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications
 stargazers_count: 5713

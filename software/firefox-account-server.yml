@@ -4,7 +4,7 @@ description: 允许您托管自己的 Firefox 帐户服务器。
 licenses:
   - MPL-2.0
 platforms:
-  - Node.js
+  - Nodejs
   - Java
 tags:
   - 书签和链接分享

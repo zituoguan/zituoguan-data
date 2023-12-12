@@ -2,7 +2,7 @@ name: Moon
 website_url: https://aerokube.com/moon/
 description: 在 Kubernetes 或 Openshift 中高效运行的 Selenium 协议实现。
 licenses:
-  - ⊘ 专有
+  - ⊘ Proprietary
 platforms:
   - Go
 tags:

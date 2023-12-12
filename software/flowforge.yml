@@ -4,7 +4,7 @@ description: FlowForge 允许公司以可靠、可扩展和安全的方式部署
 licenses:
   - Apache-2.0
 platforms:
-  - Node.js
+  - Nodejs
   - Docker
   - K8S
 tags:

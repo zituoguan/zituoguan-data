@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Node.js
+  - Nodejs
 tags:
   - 个人仪表板
 source_code_url: https://github.com/ajnart/homarr

@@ -4,7 +4,7 @@ description: 面向图书馆的高度可扩展软件，帮助图书馆用户查�
 licenses:
   - GPL-2.0
 platforms:
-  - PLpgSQL
+  - PL/pgSQL
 tags:
   - 文档管理 - 图书馆自动化系统（ILS）
 source_code_url: https://github.com/evergreen-library-system/Evergreen

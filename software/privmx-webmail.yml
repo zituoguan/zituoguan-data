@@ -2,7 +2,7 @@ name: PrivMX WebMail
 website_url: https://privmx.com
 description: 替代性的私有邮件系统 - 基于Web，通过设计端到端加密，自托管，去中心化，使用独立的PKI。易于安装和管理，免费软件，开源。
 licenses:
-  - ⊘ 专有
+  - ⊘ Proprietary
 platforms:
   - PHP
 tags:

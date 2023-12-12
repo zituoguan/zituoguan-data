@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 地图与全球定位系统（GPS）
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/MapBBCode/share.mapbbcode.org
 demo_url: http://share.mapbbcode.org/
 stargazers_count: 58

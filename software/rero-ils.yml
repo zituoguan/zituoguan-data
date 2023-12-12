@@ -7,7 +7,7 @@ platforms:
   - Python
   - Docker
 tags:
-  - 文档管理 - 自动化图书馆系统（ILS）
+  - 文档管理 - 图书馆自动化系统（ILS）
 source_code_url: https://github.com/rero/rero-ils
 demo_url: https://ils.test.rero.ch/
 stargazers_count: 61
