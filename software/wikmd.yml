@@ -1,13 +1,13 @@
 name: Wikmd
 website_url: https://github.com/Linbreux/wikmd
-description: Modern and simple file based wiki that uses Markdown and Git.
+description: 使用Markdown和Git的现代简单基于文件的Wiki。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/Linbreux/wikmd
 stargazers_count: 250
 updated_at: '2023-05-24'

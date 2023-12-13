@@ -1,12 +1,12 @@
 name: Umbraco
 website_url: https://umbraco.com/
-description: The friendly CMS. Free and open source with an amazing community.
+description: 友好的CMS。免费、开源，并拥有令人惊叹的社区。
 licenses:
   - MIT
 platforms:
   - .NET
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/umbraco/Umbraco-CMS
 stargazers_count: 4048
 updated_at: '2023-12-01'

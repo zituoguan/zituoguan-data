@@ -1,12 +1,12 @@
 name: Typebot
 website_url: https://typebot.io
-description: Conversational app builder (alternative to Typeform or Landbot).
+description: 对话式应用构建器（Typeform或Landbot的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/baptisteArno/typebot.io
 stargazers_count: 4059
 updated_at: '2023-11-30'

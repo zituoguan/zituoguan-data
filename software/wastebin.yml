@@ -1,13 +1,13 @@
 name: Wastebin
 website_url: https://github.com/matze/wastebin
-description: Lightweight, minimal and fast pastebin with an SQLite backend.
+description: 轻量、极简和快速的过去式服务，带有SQLite后端。
 licenses:
   - MIT
 platforms:
   - Rust
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/matze/wastebin
 demo_url: https://bin.bloerg.net
 stargazers_count: 147

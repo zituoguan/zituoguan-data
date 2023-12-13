@@ -1,12 +1,12 @@
 name: UnrealIRCd
 website_url: https://www.unrealircd.org/
-description: Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS.
+description: 一款模块化、先进且高度可配置的用C语言编写的IRC服务器，适用于Linux、BSD、Windows和macOS。
 licenses:
   - GPL-2.0
 platforms:
   - C
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/unrealircd/unrealircd
 stargazers_count: 388
 updated_at: '2023-12-01'

@@ -1,6 +1,6 @@
 name: Weblate
 website_url: https://weblate.org
-description: Web-based translation tool with tight version control integration.
+description: 基于Web的翻译工具，与版本控制紧密集成。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Localization
+  - 软件开发 - 本地化
 source_code_url: https://github.com/WeblateOrg/weblate
 demo_url: https://demo.weblate.org
 stargazers_count: 3926

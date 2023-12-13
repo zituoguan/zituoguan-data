@@ -1,12 +1,12 @@
 name: WordPress
 website_url: https://wordpress.org/
-description: World's most-used blogging and CMS engine.
+description: 全球最常用的博客和内容管理系统引擎。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/WordPress/WordPress
 stargazers_count: 18243
 updated_at: '2023-12-03'

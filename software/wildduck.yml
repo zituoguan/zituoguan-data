@@ -1,13 +1,13 @@
-name: wildduck
+name: Wildduck
 website_url: https://wildduck.email/
-description: Scalable no-SPOF IMAP/POP3 mail server.
+description: 可伸缩的无单点故障IMAP/POP3邮件服务器。
 licenses:
   - EUPL-1.2
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/nodemailer/wildduck
 stargazers_count: 1777
 updated_at: '2023-11-30'

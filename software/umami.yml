@@ -1,13 +1,13 @@
 name: Umami
 website_url: https://umami.is/
-description: Simple, fast, privacy-focused alternative to Google Analytics.
+description: 简单、快速、注重隐私的Google Analytics替代方案。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/umami-software/umami
 demo_url: https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is
 stargazers_count: 17677

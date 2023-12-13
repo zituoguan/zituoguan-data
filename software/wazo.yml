@@ -1,10 +1,10 @@
 name: Wazo
 website_url: https://wazo-platform.org/
-description: Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API.
+description: 在Asterisk之上构建的功能齐全的IPBX解决方案，具有集成的Web管理界面和RESTful API。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/wazo-platform

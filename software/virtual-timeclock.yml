@@ -1,11 +1,11 @@
 name: Virtual TimeClock
 website_url: https://www.redcort.com/timeclock
-description: Powerful, easy-to-use time tracking software.
+description: 强大而易于使用的时间跟踪软件。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Time Tracking
+  - 时间追踪
 source_code_url: https://www.redcort.com/timeclock
 demo_url: https://www.redcort.com/timeclock/free-timeclock-software-trial

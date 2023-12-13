@@ -1,12 +1,12 @@
 name: WebThings Gateway
 website_url: https://webthings.io/gateway/
-description: WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework.
+description: WebThings是Web of Things的开源实现，包括WebThings Gateway和WebThings Framework。
 licenses:
   - MPL-2.0
 platforms:
   - Nodejs
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/WebThingsIO/gateway
 stargazers_count: 2592
 updated_at: '2023-11-20'

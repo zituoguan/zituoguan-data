@@ -1,12 +1,12 @@
 name: Wagtail
 website_url: https://wagtail.io/
-description: Django content management system focused on flexibility and user experience.
+description: 基于Django的内容管理系统，注重灵活性和用户体验。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/wagtail/wagtail
 stargazers_count: 16346
 updated_at: '2023-11-30'

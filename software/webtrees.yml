@@ -1,12 +1,12 @@
 name: webtrees
 website_url: https://www.webtrees.net
-description: Webtrees is the web's leading on-line collaborative genealogy application.
+description: Webtrees是Web上领先的在线协作家谱应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Genealogy
+  - 家谱研究
 source_code_url: https://github.com/fisharebest/webtrees
 demo_url: https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo
 stargazers_count: 310

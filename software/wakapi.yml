@@ -1,13 +1,13 @@
 name: Wakapi
 website_url: https://wakapi.dev/
-description: Tracking tool for coding statistics, compatible with WakaTime.
+description: 用于跟踪编码统计的工具，与WakaTime兼容。
 licenses:
   - GPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/muety/wakapi
 stargazers_count: 1832
 updated_at: '2023-12-02'

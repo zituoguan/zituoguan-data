@@ -1,13 +1,13 @@
 name: wantguns/bin
 website_url: https://github.com/wantguns/bin
-description: Minimal pastebin for both textual and binary files shipped in a single statically linked binary.
+description: 用于文本和二进制文件的极简过去式服务，以单个静态链接二进制文件的形式提供。
 licenses:
   - GPL-3.0
 platforms:
   - Rust
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/wantguns/bin
 demo_url: https://basedbin.fly.dev
 stargazers_count: 153

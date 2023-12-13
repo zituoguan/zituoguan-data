@@ -1,12 +1,12 @@
 name: Uploady
 website_url: https://github.com/farisc0de/Uploady
-description: Uploady is a simple file uploader script with multi file upload support.
+description: Uploady是一个简单的文件上传脚本，支持多文件上传。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/farisc0de/Uploady
 stargazers_count: 56
 updated_at: '2023-11-21'

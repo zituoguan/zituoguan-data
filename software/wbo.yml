@@ -1,13 +1,13 @@
 name: WBO
 website_url: https://github.com/lovasoa/whitebophir
-description: Web Whiteboard to collaborate in real-time on schemas, drawings, and notes.
+description: 实时协作的Web白板，可用于图表、绘图和笔记。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/lovasoa/whitebophir
 demo_url: https://wbo.ophir.dev/
 stargazers_count: 1771

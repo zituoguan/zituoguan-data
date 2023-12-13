@@ -1,10 +1,10 @@
 name: WiKiss
 website_url: https://wikiss.tuxfamily.org/
-description: Wiki, simple to use and install.
+description: Wiki，简单易用且易于安装。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0

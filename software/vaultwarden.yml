@@ -1,13 +1,13 @@
 name: Vaultwarden
 website_url: https://github.com/dani-garcia/vaultwarden
-description: Lightweight Bitwarden server API implementation written in Rust.
+description: 用Rust编写的轻量级Bitwarden服务器API实现。
 licenses:
   - GPL-3.0
 platforms:
   - Rust
   - Docker
 tags:
-  - Password Managers
+  - 密码管理器
 source_code_url: https://github.com/dani-garcia/vaultwarden
 stargazers_count: 29581
 updated_at: '2023-11-15'

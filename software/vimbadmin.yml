@@ -1,12 +1,12 @@
 name: ViMbAdmin
 website_url: https://www.vimbadmin.net/
-description: Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases.
+description: 提供基于Web的虚拟邮箱管理系统，允许邮件管理员轻松管理域、邮箱和别名。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/opensolutions/ViMbAdmin
 stargazers_count: 481
 updated_at: '2023-02-25'

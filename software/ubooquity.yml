@@ -1,10 +1,10 @@
 name: Ubooquity
 website_url: https://vaemendis.net/ubooquity/
-description: Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library.
+description: 用于漫画和电子书库的免费、多用途、轻量级、多平台且安全的家庭服务器。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Java
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 source_code_url: https://vaemendis.net/ubooquity/

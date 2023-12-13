@@ -1,12 +1,12 @@
 name: Wekan
 website_url: https://wekan.github.io/
-description: Open-source Trello-like kanban.
+description: 类似Trello的开源看板（kanban）。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/wekan/wekan
 stargazers_count: 18873
 updated_at: '2023-12-01'

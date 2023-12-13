@@ -1,6 +1,6 @@
 name: Typesense
 website_url: https://typesense.org
-description: Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use.
+description: 高速、容错的开源搜索引擎，专为开发者的愉悦和易用性而优化。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - deb
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/typesense/typesense
 stargazers_count: 16052
 updated_at: '2023-12-01'

@@ -1,13 +1,13 @@
 name: WeeWX
 website_url: https://weewx.com/
-description: Open source software for your weather station.
+description: 用于您的气象站的开源软件。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/weewx/weewx
 demo_url: https://weewx.com/showcase.html
 stargazers_count: 935

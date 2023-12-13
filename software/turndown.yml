@@ -1,12 +1,12 @@
 name: turndown
 website_url: https://mixmark-io.github.io/turndown/
-description: HTML to Markdown converter written in Javascript.
+description: 用Javascript编写的HTML到Markdown转换器。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/mixmark-io/turndown
 stargazers_count: 7474
 updated_at: '2023-10-09'

@@ -1,10 +1,10 @@
 name: Virola Messenger
 website_url: https://virola.io/
-description: Instant messaging and collaboration tool with private and group chat rooms, continuous voice and video meetings, files sharing, issue tracking with integrated task board. Alternative to Slack and others.
+description: 私聊和群聊工具，提供私聊和群聊室、持续的语音和视频会议、文件共享、问题跟踪和集成的任务看板。是Slack等工具的替代品。
 licenses:
   - ⊘ Proprietary
 platforms:
   - C++
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://virola.io/

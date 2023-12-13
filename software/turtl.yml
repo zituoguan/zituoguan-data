@@ -1,10 +1,10 @@
 name: Turtl
 website_url: https://turtl.it/
-description: Totally private personal database and note taking app.
+description: 完全私密的个人数据库和笔记应用。
 licenses:
   - GPL-3.0
 platforms:
   - CommonLisp
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/turtl

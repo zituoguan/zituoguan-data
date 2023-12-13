@@ -1,12 +1,12 @@
 name: Word Mastermind
 website_url: https://github.com/clupasq/word-mastermind
-description: Wordle clone. A Mastermind-like game, but instead of colors you need to guess words.
+description: Wordle克隆。类似猜谜游戏Mastermind，但你需要猜测单词而不是颜色。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/clupasq/word-mastermind
 demo_url: https://word-mastermind.glitch.me/
 stargazers_count: 67

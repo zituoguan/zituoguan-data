@@ -1,12 +1,12 @@
 name: WriteFreely
 website_url: https://writefreely.org
-description: Writing software for starting a minimalist, federated blog — or an entire community.
+description: 用于创建极简、联合的博客或整个社区的写作软件。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/writefreely/writefreely
 stargazers_count: 3905
 updated_at: '2023-12-01'

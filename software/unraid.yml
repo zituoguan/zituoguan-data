@@ -1,11 +1,11 @@
 name: Unraid
 website_url: https://www.unraid.net
-description: Linux-based operating system designed to run on home media server setups.
+description: 基于Linux的操作系统，设计用于运行家庭媒体服务器设置。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Self-hosting Solutions
+  - 自助托管解决方案
 source_code_url: https://www.unraid.net
 depends_3rdparty: true

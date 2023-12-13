@@ -1,12 +1,12 @@
 name: Vendure
 website_url: https://www.vendure.io
-description: A headless commerce framework.
+description: 一个无界面的商业框架。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/vendure-ecommerce/vendure
 demo_url: https://demo.vendure.io
 stargazers_count: 4839

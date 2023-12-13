@@ -1,6 +1,6 @@
 name: WikiSuite
 website_url: https://wikisuite.org
-description: The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
+description: 最全面和集成的自由/开源企业软件套件。
 licenses:
   - GPL-3.0
   - LGPL-2.1
@@ -14,5 +14,5 @@ platforms:
   - Perl
   - deb
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://wikisuite.org/Source-Code

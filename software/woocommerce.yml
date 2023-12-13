@@ -1,12 +1,12 @@
 name: WooCommerce
 website_url: https://woocommerce.com/
-description: WordPress based e-commerce solution.
+description: 基于WordPress的电子商务解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/woocommerce/woocommerce
 stargazers_count: 8828
 updated_at: '2023-12-03'

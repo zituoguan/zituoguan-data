@@ -1,6 +1,6 @@
-name: Weechat
+name: WeeChat
 website_url: https://weechat.org/
-description: Fast, light and extensible chat client.
+description: 快速、轻量且可扩展的聊天客户端。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/weechat/weechat
 stargazers_count: 2738
 updated_at: '2023-12-03'

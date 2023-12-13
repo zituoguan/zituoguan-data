@@ -1,12 +1,12 @@
 name: üWave
 website_url: https://u-wave.net/
-description: Self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud.
+description: 自托管的协作式听歌平台。用户轮流播放来自各种媒体源（如YouTube和SoundCloud）的媒体内容，包括歌曲、演讲、游戏视频或其他任何内容。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/u-wave
 demo_url: https://wlk.yt/
 depends_3rdparty: true

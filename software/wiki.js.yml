@@ -1,6 +1,6 @@
 name: Wiki.js
 website_url: https://js.wiki/
-description: Modern, lightweight and powerful wiki app using Git and Markdown.
+description: 使用Git和Markdown的现代、轻量且功能强大的Wiki应用程序。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/Requarks/wiki
 demo_url: https://docs.requarks.io
 stargazers_count: 22423

@@ -1,13 +1,13 @@
 name: WeTTY
 website_url: https://butlerx.github.io/wetty/#/
-description: Terminal in browser over http/https.
+description: 通过http/https在浏览器中使用的终端。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/butlerx/wetty
 stargazers_count: 3873
 updated_at: '2023-10-02'

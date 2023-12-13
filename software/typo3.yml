@@ -1,12 +1,12 @@
 name: TYPO3
 website_url: https://typo3.org/
-description: Powerful and advanced CMS with a large community.
+description: 强大而先进的CMS，拥有庞大的社区。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/TYPO3/typo3
 stargazers_count: 975
 updated_at: '2023-12-03'

@@ -1,12 +1,12 @@
 name: Typemill
 website_url: https://typemill.net/
-description: Author-friendly flat-file-cms with a visual markdown editor based on vue.js.
+description: 作者友好的基于文件的CMS，具有基于vue.js的可视化Markdown编辑器。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/typemill/typemill
 stargazers_count: 409
 updated_at: '2023-11-23'

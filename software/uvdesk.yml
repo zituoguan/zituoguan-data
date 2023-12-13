@@ -1,12 +1,12 @@
 name: UVDesk
 website_url: https://www.uvdesk.com/
-description: UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
+description: UVDesk社区是一个面向服务、事件驱动的可扩展的开源帮助台系统，可由您的组织轻松提供高效的客户支持，以您所想象的方式。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/uvdesk/community-skeleton
 demo_url: https://demo.uvdesk.com/
 stargazers_count: 3507

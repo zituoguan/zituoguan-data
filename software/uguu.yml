@@ -1,12 +1,12 @@
 name: Uguu
 website_url: https://github.com/nokonoko/uguu
-description: Stores files and deletes after X amount of time.
+description: 存储文件并在一定时间后删除。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/nokonoko/uguu
 stargazers_count: 703
 updated_at: '2023-11-10'

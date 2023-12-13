@@ -1,12 +1,12 @@
 name: VanDAM
 website_url: https://github.com/Floppy/van_dam
-description: Digital asset manager for 3d print files; STL, OBJ, 3MF and more.
+description: 用于3D打印文件（如STL、OBJ、3MF等）的数字资产管理器。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Manufacturing
+  - 制造业
 source_code_url: https://github.com/Floppy/van_dam
 stargazers_count: 337
 updated_at: '2023-12-01'

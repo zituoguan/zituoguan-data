@@ -1,12 +1,12 @@
 name: Wiznote
 website_url: https://www.wiz.cn/docker
-description: Manage your knowledge in documents with folders, markdown, full text search and webpage collection support.
+description: 使用文件夹、Markdown、全文搜索和网页收藏支持管理您的文档中的知识。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Docker
 tags:
-  - Knowledge Management Tools
+  - 知识管理工具
 source_code_url: https://www.wiz.cn/docker
 demo_url: https://www.wiz.cn/
 related_software_url: https://www.wiz.cn/download.html

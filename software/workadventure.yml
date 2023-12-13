@@ -1,13 +1,13 @@
 name: WorkAdventure
 website_url: https://workadventu.re
-description: Virtual office / virtual conference application presented as a 16-bit RPG video game.
+description: 以16位RPG视频游戏的形式呈现的虚拟办公/虚拟会议应用。
 licenses:
   - AGPL-3.0
   - Commons-Clause
 platforms:
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/thecodingmachine/workadventure/
 demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
 stargazers_count: 3592
