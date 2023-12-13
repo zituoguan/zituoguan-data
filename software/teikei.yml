@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Nodejs
 tags:
-  - 社区支持农业 (CSA)
+  - 社区支持农业（CSA）
 source_code_url: https://github.com/teikei/teikei
 demo_url: https://ernte-teilen.org/karte/#/
 stargazers_count: 51

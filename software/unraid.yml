@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Unknown
 tags:
-  - 自助托管解决方案
+  - 自托管解决方案
 source_code_url: https://www.unraid.net
 depends_3rdparty: true

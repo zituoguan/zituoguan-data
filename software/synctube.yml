@@ -7,7 +7,7 @@ platforms:
   - Nodejs
   - Haxe
 tags:
-  - 媒体流媒体 - 视频流媒体
+  - 流媒体 - 视频流媒体
 source_code_url: https://github.com/RblSb/SyncTube
 stargazers_count: 224
 updated_at: '2023-06-21'

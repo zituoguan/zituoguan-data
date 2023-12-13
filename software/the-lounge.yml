@@ -7,7 +7,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - 通讯 - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/thelounge/thelounge
 demo_url: https://demo.thelounge.chat/
 stargazers_count: 5223

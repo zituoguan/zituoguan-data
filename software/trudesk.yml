@@ -7,7 +7,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - 工单管理
+  - 工单
 source_code_url: https://github.com/polonel/trudesk
 stargazers_count: 1115
 updated_at: '2023-11-01'

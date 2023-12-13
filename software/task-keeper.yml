@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Scala
 tags:
-  - 任务管理与待办清单
+  - 任务管理和待办清单
 source_code_url: https://github.com/nymanjens/piga
 stargazers_count: 44
 updated_at: '2023-11-23'

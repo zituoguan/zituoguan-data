@@ -7,7 +7,7 @@ platforms:
   - PHP
   - deb
 tags:
-  - 通讯 - 电子邮件 - Web 邮件客户端
+  - 通信 - 电子邮件 - Web 邮件客户端
 source_code_url: https://github.com/roundcube/roundcubemail
 stargazers_count: 5241
 updated_at: '2023-12-03'

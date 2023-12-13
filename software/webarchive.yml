@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 档案和数字保存 (DP)
+  - 档案和数字保存（DP）
 source_code_url: https://github.com/derfenix/webarchive
 stargazers_count: 59
 updated_at: '2023-11-24'
