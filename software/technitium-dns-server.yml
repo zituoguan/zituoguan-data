@@ -1,6 +1,6 @@
 name: Technitium DNS Server
 website_url: https://technitium.com/dns/
-description: Authoritative/recursive DNS server with ad blocking functionality.
+description: 具有广告拦截功能的权威/递归 DNS 服务器。
 licenses:
   - GPL-3.0
 platforms:

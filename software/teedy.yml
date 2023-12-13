@@ -1,13 +1,13 @@
 name: Teedy
 website_url: https://teedy.io/
-description: Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs).
+description: 一款轻量级的文档管理系统，具备大型昂贵解决方案（如 SismicsDocs）所期望的所有功能。
 licenses:
   - GPL-2.0
 platforms:
   - Docker
   - Java
 tags:
-  - Document Management
+  - 文档管理
 source_code_url: https://github.com/sismics/docs
 demo_url: https://demo.teedy.io/
 stargazers_count: 1622

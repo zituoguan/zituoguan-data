@@ -1,13 +1,13 @@
 name: Thumbor
 website_url: http://thumbor.org/
-description: A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images.
+description: 一项智能图像服务，支持按需裁剪、调整大小、应用滤镜和优化图像。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/thumbor/thumbor
 stargazers_count: 9726
 updated_at: '2023-12-01'

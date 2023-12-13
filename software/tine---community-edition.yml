@@ -1,12 +1,12 @@
 name: tine - Community Edition
 website_url: https://github.com/tine20/tine20
-description: Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker.
+description: 联系人、日历、任务、WebDAV、ActiveSync、VoIP、邮件客户端、CRM、销售、项目、时间跟踪。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Groupware
+  - 协同办公
 source_code_url: https://github.com/tine20/tine20
 stargazers_count: 159
 updated_at: '2023-12-01'

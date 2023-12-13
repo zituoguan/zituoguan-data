@@ -1,13 +1,13 @@
 name: Synapse
 website_url: https://matrix-org.github.io/synapse/latest/
-description: Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication.
+description: 用于 [Matrix](https://matrix.org/) 的服务器，Matrix 是一种用于分散式持久通信的开放标准。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - deb
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/matrix-org/synapse
 stargazers_count: 11679
 updated_at: '2023-12-01'

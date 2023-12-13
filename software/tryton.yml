@@ -1,11 +1,11 @@
 name: Tryton
 website_url: https://www.tryton.org/
-description: Free open source business solution.
+description: 免费的开源商业解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Resource Planning
+  - 资源规划
 source_code_url: https://hg.tryton.org/
 demo_url: https://www.tryton.org/download.html

@@ -1,12 +1,12 @@
 name: TextBelt
 website_url: https://github.com/typpo/textbelt
-description: Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.
+description: 使用运营商特定的网关免费发送短信的出站短信 API，无广告。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/typpo/textbelt
 depends_3rdparty: true
 stargazers_count: 2772

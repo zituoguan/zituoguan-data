@@ -1,13 +1,13 @@
 name: Tinyproxy
 website_url: https://tinyproxy.github.io/
-description: Light-weight HTTP/HTTPS proxy daemon.
+description: 轻量级的 HTTP/HTTPS 代理守护程序。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://github.com/tinyproxy/tinyproxy
 stargazers_count: 4269
 updated_at: '2023-11-12'

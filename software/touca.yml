@@ -1,13 +1,13 @@
 name: Touca
 website_url: https://touca.io
-description: Continuous regression testing for engineering teams. Get feedback when you write code that could break your software.
+description: 面向工程团队的持续回归测试。在编写可能破坏软件的代码时获得反馈。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Software Development - Testing
+  - 软件开发 - 测试
 source_code_url: https://github.com/trytouca/trytouca
 stargazers_count: 454
 updated_at: '2023-09-14'

@@ -1,13 +1,13 @@
 name: Traggo
 website_url: https://traggo.net/
-description: Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.
+description: Traggo是一款基于标签的时间跟踪工具。在Traggo中，没有任务，只有带有标签的时间跨度。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Time Tracking
+  - 时间追踪
 source_code_url: https://github.com/traggo/server
 stargazers_count: 884
 updated_at: '2023-10-23'

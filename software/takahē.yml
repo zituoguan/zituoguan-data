@@ -1,12 +1,12 @@
 name: Takahē
 website_url: https://jointakahe.org/
-description: Federated microblogging server. Mastodon, & ActivityPub compatible.
+description: 联合式微博服务器。兼容 Mastodon 和 ActivityPub。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/jointakahe/takahe
 stargazers_count: 1019
 updated_at: '2023-12-01'

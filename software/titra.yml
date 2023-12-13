@@ -1,13 +1,13 @@
 name: Titra
 website_url: https://titra.io/
-description: Time-tracking solution for freelancers and small teams.
+description: 为自由职业者和小团队提供的时间跟踪解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - Javascript
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/kromitgmbh/titra
 stargazers_count: 368
 updated_at: '2023-11-07'

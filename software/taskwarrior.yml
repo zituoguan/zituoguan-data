@@ -1,10 +1,10 @@
 name: Taskwarrior
 website_url: https://taskwarrior.org/
-description: Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way.
+description: Taskwarrior 是一款自由开源软件，可以通过命令行管理您的待办事项列表。它灵活、快速、高效且不显眼。它完成任务后离开您的视线。
 licenses:
   - MIT
 platforms:
   - C++
 tags:
-  - Task Management & To-do Lists
+  - 任务管理与待办清单
 source_code_url: https://taskwarrior.org/download/#git

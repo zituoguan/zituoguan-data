@@ -1,10 +1,10 @@
 name: Syndie
 website_url: https://syndie.de
-description: Syndie is a libre system for operating distributed forums.
+description: Syndie 是一个用于运行分布式论坛的自由系统。
 licenses:
   - CC0-1.0
 platforms:
   - Java
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://syndie.de

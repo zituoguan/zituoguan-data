@@ -1,13 +1,13 @@
 name: Suroi
 website_url: https://suroi.io/
 source_code_url: https://github.com/HasangerGames/suroi
-description: An open-source 2D battle royale game inspired by surviv.io.
+description: 一款受 surviv.io 启发的开源二维大逃杀游戏。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Games
+  - 游戏
 demo_url: https://suroi.io/
 stargazers_count: 84
 updated_at: '2023-12-03'

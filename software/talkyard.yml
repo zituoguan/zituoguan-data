@@ -1,13 +1,13 @@
 name: Talkyard
 website_url: https://www.talkyard.io/
-description: Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid).
+description: 创建一个社区，让您的用户提出想法并得到问题的解答。并进行友好的开放式讨论和聊天（类似 Slack/StackOverflow/Discourse/Reddit/Disqus 的混合体）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Scala
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/debiki/talkyard
 demo_url: https://www.talkyard.io/forum/latest
 stargazers_count: 1640

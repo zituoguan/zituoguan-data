@@ -1,6 +1,6 @@
 name: Traduora
 website_url: https://traduora.co
-description: Translation management platform for teams.
+description: 面向团队的翻译管理平台。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - K8S
   - Nodejs
 tags:
-  - Software Development - Localization
+  - 软件开发 - 本地化
 source_code_url: https://github.com/ever-co/ever-traduora
 stargazers_count: 1877
 updated_at: '2023-11-10'

@@ -1,12 +1,12 @@
 name: TimeOff.Management
 website_url: https://timeoff.management
-description: Simple yet powerful absence management software for small and medium size business.
+description: 面向中小型企业的简单而强大的缺勤管理软件。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Human Resources Management (HRM)
+  - 人力资源管理（HRM）
 source_code_url: https://github.com/timeoff-management/timeoff-management-application
 demo_url: https://app.timeoff.management
 stargazers_count: 877

@@ -1,13 +1,13 @@
 name: Svix
 website_url: https://svix.com
-description: Open-source webhooks as a service that makes it super easy for API providers to send webhooks.
+description: 作为服务的开源 Webhooks，使 API 提供商轻松发送 Webhooks。
 licenses:
   - MIT
 platforms:
   - Docker
   - Rust
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/svix/svix-webhooks
 stargazers_count: 1777
 updated_at: '2023-11-30'

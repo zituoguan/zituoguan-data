@@ -1,13 +1,13 @@
 name: TeamMapper
 website_url: https://github.com/b310-digital/teammapper
-description: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps.
+description: 托管并创建自己的思维导图。与团队共享思维导图会话，并在思维导图上进行实时协作。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Knowledge Management Tools
+  - 知识管理工具
 source_code_url: https://github.com/b310-digital/teammapper
 demo_url: https://map.kits.blog
 stargazers_count: 136

@@ -1,12 +1,12 @@
 name: Tracks
 website_url: https://www.getontracks.org/
-description: Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology.
+description: 基于Web的应用，帮助您实施David Allen的[Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done)方法论。
 licenses:
   - GPL-2.0
 platforms:
   - Ruby
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 source_code_url: https://github.com/TracksApp/tracks
 stargazers_count: 1147
 updated_at: '2023-11-29'

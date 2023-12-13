@@ -1,13 +1,13 @@
 name: This week in past
 website_url: https://github.com/RouHim/this-week-in-past
-description: Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow.
+description: 聚合了来自以往年份的本周拍摄的图片，并在网页上以简单的幻灯片形式呈现。
 licenses:
   - MIT
 platforms:
   - Docker
   - Rust
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/RouHim/this-week-in-past
 stargazers_count: 37
 updated_at: '2023-12-02'

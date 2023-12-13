@@ -1,11 +1,11 @@
 name: Tiki
 website_url: https://tiki.org/HomePage
-description: Wiki CMS Groupware with the most built-in features.
+description: 具有最多内置功能的 Wiki CMS Groupware。
 licenses:
   - LGPL-2.1
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://gitlab.com/tikiwiki/tiki
 demo_url: https://tiki.org/Try-Tiki

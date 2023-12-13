@@ -1,6 +1,6 @@
 name: Syncthing
 website_url: https://syncthing.net/
-description: Syncthing is an open source peer-to-peer file synchronisation tool.
+description: Syncthing 是一个开源的点对点文件同步工具。
 licenses:
   - MPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/syncthing/syncthing
 stargazers_count: 56511
 updated_at: '2023-12-03'

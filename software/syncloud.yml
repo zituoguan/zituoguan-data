@@ -1,13 +1,13 @@
 name: Syncloud
 website_url: https://syncloud.org/
-description: Your own online file storage, social network or email server.
+description: 您自己的在线文件存储、社交网络或电子邮件服务器。
 licenses:
   - GPL-3.0
 platforms:
   - Go
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/syncloud/platform
 stargazers_count: 368
 updated_at: '2023-11-23'

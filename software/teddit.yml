@@ -1,12 +1,12 @@
 name: Teddit
 website_url: https://teddit.net
-description: Alternative Reddit front-end focused on privacy.
+description: 专注于隐私的 Reddit 替代前端。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://codeberg.org/teddit/teddit
 depends_3rdparty: true

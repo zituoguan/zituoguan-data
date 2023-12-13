@@ -1,13 +1,13 @@
 name: Tiledesk
 website_url: https://tiledesk.com
-description: All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to and Tidio).
+description: 从潜在客户生成到售后的一体化客户参与平台，从 WhatsApp 到您的网站。具有全渠道实时客服和由 AI 驱动的聊天机器人（可替代 Intercom、Zendesk、Tawk.to 和 Tidio）。
 licenses:
   - MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/Tiledesk/tiledesk
 stargazers_count: 94
 updated_at: '2023-11-30'

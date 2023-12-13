@@ -1,12 +1,12 @@
 name: TagSpaces
 website_url: https://www.tagspaces.org/
-description: TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud.
+description: TagSpaces 是一款离线、跨平台的文件管理器和组织工具，也可以作为一个笔记应用。该应用的 WebDAV 版本可以安装在 WebDAV 服务器上，如 Nextcloud 或 ownCloud。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/tagspaces/tagspaces
 demo_url: https://demo.tagspaces.com
 stargazers_count: 3219

@@ -1,6 +1,6 @@
 name: Thingsboard
 website_url: https://thingsboard.io/
-description: Open-source IoT Platform - Device management, data collection, processing and visualization.
+description: 开源的物联网平台 - 设备管理、数据收集、处理和可视化。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/thingsboard/thingsboard
 demo_url: https://demo.thingsboard.io/signup
 stargazers_count: 14724

@@ -1,12 +1,12 @@
 name: Tiny Tiny RSS
 website_url: https://tt-rss.org
-description: Open source web-based news feed (RSS/Atom) reader and aggregator.
+description: 开源的基于 Web 的新闻订阅（RSS/Atom）阅读器和聚合器。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://git.tt-rss.org/fox/tt-rss
 demo_url: https://srv.tt-rss.org/tt-rss/

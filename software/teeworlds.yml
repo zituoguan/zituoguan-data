@@ -1,13 +1,13 @@
 name: Teeworlds
 website_url: https://www.teeworlds.com
-description: Open source 2D retro multiplayer shooter.
+description: 开源的二维复古多人射击游戏。
 licenses:
   - Zlib
 platforms:
   - C++
   - deb
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/teeworlds/teeworlds
 stargazers_count: 2205
 updated_at: '2023-06-29'

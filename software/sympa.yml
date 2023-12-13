@@ -1,13 +1,13 @@
 name: Sympa
 website_url: https://www.sympa.community/
 source_code_url: https://github.com/sympa-community/sympa
-description: Mailing list manager.
+description: 邮件列表管理器。
 licenses:
   - GPL-2.0
 platforms:
   - Perl
 tags:
-  - Communication - Email - Mailing Lists and Newsletters
+  - 通信 - 电子邮件 - 邮件列表和通讯
 stargazers_count: 219
 updated_at: '2023-12-01'
 archived: false

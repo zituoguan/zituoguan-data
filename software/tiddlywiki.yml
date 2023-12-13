@@ -1,12 +1,12 @@
 name: TiddlyWiki
 website_url: https://tiddlywiki.com/
-description: Reusable non-linear personal web notebook.
+description: 可重复使用的非线性个人 Web 笔记本。
 licenses:
   - BSD-3-Clause
 platforms:
   - Nodejs
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/Jermolene/TiddlyWiki5
 stargazers_count: 7558
 updated_at: '2023-12-02'

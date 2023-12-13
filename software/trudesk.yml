@@ -1,13 +1,13 @@
 name: Trudesk
 website_url: https://trudesk.io/
-description: Trudesk is an open-source help desk/ticketing solution.
+description: Trudesk是一款开源的帮助台/工单解决方案。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Ticketing
+  - 工单管理
 source_code_url: https://github.com/polonel/trudesk
 stargazers_count: 1115
 updated_at: '2023-11-01'

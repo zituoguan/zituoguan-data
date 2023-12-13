@@ -1,12 +1,12 @@
 name: Tox
 website_url: https://tox.chat/
-description: Distributed, secure messenger with audio and video chat capabilities.
+description: 分布式、安全的即时通讯应用，具备音频和视频聊天功能。
 licenses:
   - GPL-3.0
 platforms:
   - C
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/TokTok/c-toxcore
 stargazers_count: 2065
 updated_at: '2023-12-02'

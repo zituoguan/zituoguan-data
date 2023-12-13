@@ -1,12 +1,12 @@
 name: TimeTagger
 website_url: https://timetagger.app
-description: An open source time-tracker based on an interactive timeline and powerful reporting.
+description: 基于交互式时间轴和强大报告的开源时间跟踪工具。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Time Tracking
+  - 时间追踪
 source_code_url: https://github.com/almarklein/timetagger
 demo_url: https://timetagger.app/app/demo
 stargazers_count: 803

@@ -1,13 +1,13 @@
 name: TileServer GL
 website_url: https://tileserver.readthedocs.io/
-description: Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
+description: 使用 GL 样式的矢量和栅格地图。由 Mapbox GL Native 进行服务器端渲染。适用于 Mapbox GL JS、Android、iOS、Leaflet、OpenLayers、通过 WMTS 的 GIS 等的地图切片服务器。
 licenses:
   - BSD-2-Clause
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/maptiler/tileserver-gl
 stargazers_count: 1935
 updated_at: '2023-12-01'

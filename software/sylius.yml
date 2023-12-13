@@ -1,12 +1,12 @@
 name: Sylius
 website_url: https://sylius.com
-description: Symfony2 powered open source full-stack platform for eCommerce.
+description: 基于 Symfony2 的开源全栈电子商务平台。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/Sylius/Sylius
 demo_url: https://sylius.com/try/
 stargazers_count: 7537

@@ -1,12 +1,12 @@
 name: transfer.sh
 website_url: https://transfer.sh
-description: Easy file sharing from the command line.
+description: 通过命令行轻松共享文件。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/dutchcoders/transfer.sh
 stargazers_count: 14566
 updated_at: '2023-10-25'

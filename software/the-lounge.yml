@@ -1,13 +1,13 @@
 name: The Lounge
 website_url: https://thelounge.chat/
-description: Self-hosted web IRC client.
+description: 自托管的 Web IRC 客户端。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - IRC
+  - 通讯 - IRC
 source_code_url: https://github.com/thelounge/thelounge
 demo_url: https://demo.thelounge.chat/
 stargazers_count: 5223

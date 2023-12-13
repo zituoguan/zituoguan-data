@@ -1,6 +1,6 @@
 name: Trusted-CGI
 website_url: https://github.com/reddec/trusted-cgi
-description: Lightweight self-hosted lambda/applications/cgi/serverless-functions platform.
+description: 轻量级的自托管 Lambda/应用程序/CGI/无服务器函数平台。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Software Development - FaaS & Serverless
+  - 软件开发 - FaaS 和无服务器
 source_code_url: https://github.com/reddec/trusted-cgi
 stargazers_count: 193
 updated_at: '2023-07-03'
