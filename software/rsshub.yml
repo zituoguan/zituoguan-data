@@ -1,14 +1,14 @@
 name: RSSHub
 website_url: https://docs.rsshub.app
 source_code_url: https://github.com/DIYgod/RSSHub
-description: An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments.
+description: 一个易于使用且可扩展的 RSS 订阅聚合器，能够从社交媒体到大学部门等几乎所有内容生成 RSS 订阅源。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Feed Readers
+  - 订阅阅读器
 demo_url: https://rsshub.app
 stargazers_count: 26911
 updated_at: '2023-12-03'

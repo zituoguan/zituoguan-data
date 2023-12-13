@@ -1,13 +1,13 @@
 name: Shaarli
 website_url: https://github.com/shaarli/Shaarli
-description: Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.
+description: 个人、极简、超快、无数据库的书签和链接分享平台。
 licenses:
   - Zlib
 platforms:
   - PHP
   - deb
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 source_code_url: https://github.com/shaarli/Shaarli
 demo_url: https://demo.shaarli.org
 stargazers_count: 3162

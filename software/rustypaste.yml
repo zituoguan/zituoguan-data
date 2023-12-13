@@ -1,12 +1,12 @@
 name: rustypaste
 website_url: https://github.com/orhun/rustypaste
-description: A minimal file upload/pastebin service.
+description: 一个极简的文件上传/粘贴服务。
 licenses:
   - MIT
 platforms:
   - Rust
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/orhun/rustypaste
 stargazers_count: 561
 updated_at: '2023-12-03'

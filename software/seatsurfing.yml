@@ -1,12 +1,12 @@
 name: Seatsurfing
 website_url: https://seatsurfing.app/
-description: Webbased app to book seats, desks and rooms for offices.
+description: 基于 Web 的应用程序，用于预订办公室的座位、桌子和房间。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Booking and Scheduling
+  - 预订和日程安排
 source_code_url: https://github.com/seatsurfing/backend
 demo_url: https://seatsurfing.app/get-started/
 stargazers_count: 51

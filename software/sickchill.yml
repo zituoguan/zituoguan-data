@@ -1,13 +1,13 @@
 name: SickChill
 website_url: https://sickchill.github.io/
-description: SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+description: SickChill 是一款用于 TV 剧集的自动视频库管理器。它会监视你喜欢的节目的新剧集，一旦发布就会自动处理。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/SickChill/SickChill
 stargazers_count: 2372
 updated_at: '2023-10-15'

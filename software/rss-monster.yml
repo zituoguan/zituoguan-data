@@ -1,12 +1,12 @@
 name: RSS Monster
 website_url: https://github.com/pietheinstrengholt/rssmonster
-description: An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader).
+description: 一个易于使用的基于 Web 的 RSS 聚合器和阅读器，兼容 Fever API（可替代 Google Reader）。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/pietheinstrengholt/rssmonster
 stargazers_count: 412
 updated_at: '2023-11-22'

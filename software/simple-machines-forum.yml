@@ -1,12 +1,12 @@
 name: Simple Machines Forum
 website_url: https://www.simplemachines.org/
-description: Free, professional grade software package that allows you to set up your own online community within minutes.
+description: 免费、专业级的软件包，可让您在几分钟内建立自己的在线社区。
 licenses:
   - BSD-3-Clause
 platforms:
   - PHP
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/SimpleMachines/SMF
 stargazers_count: 545
 updated_at: '2023-12-03'

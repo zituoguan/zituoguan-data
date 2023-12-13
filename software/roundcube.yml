@@ -1,13 +1,13 @@
 name: Roundcube
 website_url: https://roundcube.net
-description: Browser-based IMAP client with an application-like user interface.
+description: 具有类似应用程序界面的基于浏览器的 IMAP 客户端。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
   - deb
 tags:
-  - Communication - Email - Webmail Clients
+  - 通讯 - 电子邮件 - Web 邮件客户端
 source_code_url: https://github.com/roundcube/roundcubemail
 stargazers_count: 5241
 updated_at: '2023-12-03'

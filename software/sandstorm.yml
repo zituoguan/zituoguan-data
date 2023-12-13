@@ -1,13 +1,13 @@
 name: Sandstorm
 website_url: https://sandstorm.io/
-description: Personal server for running self-hosted apps easily and securely.
+description: 用于轻松、安全地运行自托管应用程序的个人服务器。
 licenses:
   - Apache-2.0
 platforms:
   - C++
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/sandstorm-io/sandstorm
 demo_url: https://demo.sandstorm.io/
 stargazers_count: 6557

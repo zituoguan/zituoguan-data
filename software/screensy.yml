@@ -1,13 +1,13 @@
 name: Screensy
 website_url: https://github.com/screensy/screensy
-description: Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC.
+description: 一种简单的点对点屏幕共享解决方案，使用 WebRTC 进行屏幕共享。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/screensy/screensy
 demo_url: https://screensy.marijn.it/
 stargazers_count: 409

@@ -1,13 +1,13 @@
 name: Shlink
 website_url: https://shlink.io
-description: URL shortener with REST API and command line interface. Includes official progressive web application and docker images.
+description: 具有 REST API 和命令行界面的 URL 缩短服务。包括官方的渐进式 Web 应用和 Docker 镜像。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/shlinkio/shlink
 related_software_url: https://shlink.io/apps
 stargazers_count: 2357

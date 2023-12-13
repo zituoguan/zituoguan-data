@@ -1,12 +1,12 @@
 name: sigal
 website_url: https://github.com/saimn/sigal
-description: Yet another simple static gallery generator.
+description: 又一个简单的静态图库生成器。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/saimn/sigal
 stargazers_count: 831
 updated_at: '2023-11-08'

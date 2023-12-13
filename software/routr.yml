@@ -1,13 +1,13 @@
 name: Routr
 website_url: https://routr.io
-description: A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure.
+description: 一个轻量级的 SIP 代理、位置服务器和注册服务器，用于可靠且可扩展的 SIP 基础设施。
 licenses:
   - MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/fonoster/routr
 stargazers_count: 1239
 updated_at: '2023-12-03'

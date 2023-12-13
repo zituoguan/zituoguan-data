@@ -8,7 +8,7 @@ platforms:
   - C
   - deb
 tags:
-  - 通信 - 电子邮件 - 邮件传输代理
+  - 通信 - 电子邮件 - 邮件投递代理
 source_code_url: https://github.com/dovecot/core
 stargazers_count: 859
 updated_at: '2023-12-01'

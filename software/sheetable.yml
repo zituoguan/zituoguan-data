@@ -1,13 +1,13 @@
 name: SheetAble
 website_url: https://sheetable.net
-description: Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument.
+description: 适用于所有音乐爱好者的自托管音乐谱整理软件。上传和整理适用于任何乐器的谱子。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/SheetAble/SheetAble
 stargazers_count: 262
 updated_at: '2023-07-27'

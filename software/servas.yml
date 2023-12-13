@@ -1,7 +1,7 @@
 name: Servas
 website_url: https://github.com/beromir/Servas
 source_code_url: https://github.com/beromir/Servas
-description: A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome.
+description: 一款自托管的书签管理工具。它支持通过标签、分组和专门用于以后访问的列表进行组织。支持多用户，并提供双因素认证 (2FA)。还提供了适用于 Firefox 和 Chrome 的伴侣浏览器扩展。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Nodejs
   - PHP
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 related_software_url: https://github.com/beromir/Servas#browser-extensions
 stargazers_count: 414
 updated_at: '2023-10-07'

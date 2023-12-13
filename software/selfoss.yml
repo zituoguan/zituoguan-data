@@ -1,12 +1,12 @@
 name: Selfoss
 website_url: https://selfoss.aditu.de/
-description: New multipurpose rss reader, live stream, mashup, aggregation web application.
+description: 新型多用途 RSS 阅读器、实时流、混搭、聚合 Web 应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/fossar/selfoss
 stargazers_count: 2310
 updated_at: '2023-10-31'

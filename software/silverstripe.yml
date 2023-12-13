@@ -1,11 +1,11 @@
 name: SilverStripe
 website_url: https://www.silverstripe.org
-description: Easy to use CMS with powerful MVC framework underlying.
+description: 易于使用的 CMS，具有强大的 MVC 框架作为基础。
 licenses:
   - BSD-3-Clause
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/silverstripe
 demo_url: https://demo.silverstripe.org/

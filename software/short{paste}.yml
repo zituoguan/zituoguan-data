@@ -1,12 +1,12 @@
 name: Short{Paste}
 website_url: https://github.com/adyanth/shortpaste
-description: A Go based URL shortener, pastebin and file uploader.
+description: 基于 Go 的 URL 缩短服务、Pastebin 和文件上传工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/adyanth/shortpaste
 stargazers_count: 41
 updated_at: '2023-03-13'

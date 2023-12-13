@@ -1,13 +1,13 @@
 name: RSS2EMail
 website_url: https://github.com/rss2email/rss2email
-description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML.
+description: 获取 RSS/Atom 订阅并将新内容推送到任何电子邮件接收器，支持 OPML。
 licenses:
   - GPL-2.0
 platforms:
   - Python
   - deb
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/rss2email/rss2email
 stargazers_count: 311
 updated_at: '2023-10-10'

@@ -1,6 +1,6 @@
 name: Sharry
 website_url: https://github.com/eikek/sharry
-description: Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads.
+description: 在经过身份验证和匿名用户之间轻松共享文件（双向共享），支持可恢复的上传和下载。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/eikek/sharry
 stargazers_count: 649
 updated_at: '2023-12-03'

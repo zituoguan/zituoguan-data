@@ -1,12 +1,12 @@
 name: ShellHub
 website_url: https://www.shellhub.io
-description: ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd.
+description: ShellHub 是一个现代的 SSH 服务器，通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，设计为 sshd 的替代品。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Remote Access
+  - 远程访问
 source_code_url: https://github.com/shellhub-io/shellhub
 stargazers_count: 1201
 updated_at: '2023-11-30'

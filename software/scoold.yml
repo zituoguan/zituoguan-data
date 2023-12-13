@@ -1,6 +1,6 @@
 name: Scoold
 website_url: https://scoold.com
-description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support.
+description: 一个 JAR 中的 Stack Overflow。一款具备全文搜索、SAML、LDAP 集成和社交登录支持的企业级问答平台。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/Erudika/scoold
 demo_url: https://live.scoold.com
 stargazers_count: 780

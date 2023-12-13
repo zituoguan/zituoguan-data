@@ -1,10 +1,10 @@
 name: ScreenConnect
 website_url: https://www.connectwise.com/platform/unified-management/control
-description: Lightning-fast remote support and remote access to connect instantly and solve problems faster.
+description: 高速远程支持和远程访问，可立即连接并更快地解决问题。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
-  - Miscellaneous
+  - 其他
 source_code_url: https://www.connectwise.com/platform/unified-management/control

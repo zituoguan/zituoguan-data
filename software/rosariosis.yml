@@ -1,11 +1,11 @@
 name: RosarioSIS
 website_url: https://www.rosariosis.org/
-description: RosarioSIS, free Student Information System for school management.
+description: RosarioSIS，用于学校管理的免费学生信息系统。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://gitlab.com/francoisjacquet/rosariosis/
 demo_url: https://www.rosariosis.org/demo/

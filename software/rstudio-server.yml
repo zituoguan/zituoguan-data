@@ -1,13 +1,13 @@
 name: RStudio Server
 website_url: https://www.rstudio.com/products/rstudio/#Server
-description: Web browser based IDE for R.
+description: 基于 Web 浏览器的 R 语言集成开发环境（IDE）。
 licenses:
   - AGPL-3.0
 platforms:
   - Java
   - C++
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://github.com/rstudio/rstudio
 stargazers_count: 4428
 updated_at: '2023-12-02'

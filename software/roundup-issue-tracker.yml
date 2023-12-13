@@ -1,6 +1,6 @@
 name: Roundup Issue Tracker
 website_url: https://www.roundup-tracker.org/
-description: A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker.
+description: 一个易于使用和安装的问题跟踪系统，提供命令行、Web、REST、XML-RPC 和电子邮件接口。设计时考虑了灵活性 - 不仅仅是另一个缺陷跟踪器。
 licenses:
   - MIT
   - ZPL-2.0
@@ -8,5 +8,5 @@ platforms:
   - Python
   - Docker
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://www.roundup-tracker.org/code.html

@@ -1,10 +1,10 @@
 name: SANE Network Scanning
 website_url: http://sane-project.org/
-description: Allow remote clients to access image acquisition devices (scanners) available on the local host.
+description: 允许远程客户端访问本地主机上可用的图像采集设备（扫描仪）。
 licenses:
   - GPL-2.0
 platforms:
   - C
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: http://www.sane-project.org/cvs.html

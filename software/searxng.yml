@@ -1,13 +1,13 @@
 name: SearXNG
 website_url: https://docs.searxng.org/
-description: Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx).
+description: 互联网元搜索引擎，汇总来自各种搜索服务和数据库的结果（Searx 的分支）。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/searxng/searxng/
 depends_3rdparty: true
 stargazers_count: 5932

@@ -1,13 +1,13 @@
 name: RSS-Bridge
 website_url: https://github.com/RSS-Bridge/rss-bridge
-description: Generate RSS/ATOM feeds for websites which don't have one.
+description: 为没有提供 RSS/ATOM 订阅的网站生成相应的订阅源。
 licenses:
   - Unlicense
 platforms:
   - PHP
   - Docker
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/RSS-Bridge/rss-bridge
 stargazers_count: 6436
 updated_at: '2023-12-03'

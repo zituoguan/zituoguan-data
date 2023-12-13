@@ -1,6 +1,6 @@
 name: Seafile
 website_url: https://www.seafile.com/en/home/
-description: File hosting and sharing solution primary for teams and organizations.
+description: 主要面向团队和组织的文件托管和共享解决方案。
 licenses:
   - GPL-2.0
   - GPL-3.0
@@ -9,7 +9,7 @@ licenses:
 platforms:
   - C
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/haiwen/seafile
 stargazers_count: 11207
 updated_at: '2023-11-21'

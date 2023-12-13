@@ -1,10 +1,10 @@
 name: Salut à Toi
 website_url: https://www.salut-a-toi.org/
-description: Multipurpose, multi frontend, libre and decentralized communication tool.
+description: 多用途、多前端、自由且分散的通讯工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - Communication - XMPP - Web Clients
+  - 通信 - XMPP - Web 客户端
 source_code_url: https://repos.goffi.org/libervia-backend

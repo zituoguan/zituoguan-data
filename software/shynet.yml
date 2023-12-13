@@ -1,13 +1,13 @@
 name: Shynet
 website_url: https://github.com/milesmcc/shynet
-description: Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+description: 现代、注重隐私且详细的 Web 分析工具，无需使用 Cookies 或 JS。
 licenses:
   - Apache-2.0
 platforms:
   - Python
   - Docker
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/milesmcc/shynet
 stargazers_count: 2634
 updated_at: '2023-11-03'

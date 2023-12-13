@@ -1,12 +1,12 @@
 name: Roadiz
 website_url: https://www.roadiz.io/
-description: Modern CMS based on a node system which can handle many types of services.
+description: 基于节点系统的现代 CMS，可以处理多种类型的服务。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/roadiz/roadiz
 stargazers_count: 372
 updated_at: '2023-11-11'

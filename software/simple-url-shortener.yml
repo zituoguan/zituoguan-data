@@ -1,12 +1,12 @@
 name: Simple-URL-Shortener
 website_url: https://github.com/azlux/Simple-URL-Shortener
-description: KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies.
+description: KISS URL缩短服务，支持公共或私有（需要帐户）。简约轻便，无依赖。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/azlux/Simple-URL-Shortener
 demo_url: https://u.azlux.fr
 stargazers_count: 40

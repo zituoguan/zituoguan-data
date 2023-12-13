@@ -1,13 +1,13 @@
 name: Screego
 website_url: https://screego.net
-description: Screego is a simple tool to quickly share your screen to one or multiple people via web browser.
+description: Screego 是一个简单的工具，可以通过 Web 浏览器快速分享您的屏幕给一个或多个人。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/screego/server
 demo_url: https://app.screego.net/
 stargazers_count: 6288

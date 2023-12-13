@@ -1,6 +1,6 @@
 name: RustDesk
 website_url: https://rustdesk.com/
-description: Remote Desktop Access software that works out-of-the-box (alternative to TeamViewer).
+description: 远程桌面访问软件，可即插即用（TeamViewer 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - Remote Access
+  - 远程访问
 source_code_url: https://github.com/rustdesk/rustdesk-server
 stargazers_count: 4940
 updated_at: '2023-12-01'
