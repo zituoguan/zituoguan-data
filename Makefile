@@ -62,7 +62,7 @@ push_markdown:
 .PHONY: push_html # 提交并推送更改到HTML站点仓库（修正先前的提交并强制推送）
 push_html:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
-	mv html/html/* awesome-selfhosted-html/
+	mv html/html/* zituoguan-html/
 	cd awesome-selfhosted-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
 	cd awesome-selfhosted-html/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
 	cd awesome-selfhosted-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)")
