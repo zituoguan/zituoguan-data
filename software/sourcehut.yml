@@ -1,11 +1,11 @@
 name: Sourcehut
 website_url: https://sourcehut.org/
-description: A full web git interface with no javascript.
+description: 一个完整的无JavaScript Web Git界面。
 licenses:
   - GPL-2.0
 platforms:
   - Go
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 source_code_url: https://git.sr.ht/~sircmpwn/git.sr.ht/tree
 demo_url: https://sr.ht/

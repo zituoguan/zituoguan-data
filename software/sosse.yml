@@ -1,12 +1,12 @@
-name: "Sosse"
-website_url: "https://sosse.readthedocs.io/en/stable/"
-source_code_url: "https://gitlab.com/biolds1/sosse"
-description: "Selenium based search engine and crawler with offline archiving."
+name: Sosse
+website_url: https://sosse.readthedocs.io/en/stable/
+source_code_url: https://gitlab.com/biolds1/sosse
+description: Selenium基础的搜索引擎和网络爬虫，具有离线存档功能。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Search Engines
-  - Archiving and Digital Preservation (DP)
+  - 搜索引擎
+  - 档案和数字保存（DP）

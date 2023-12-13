@@ -1,12 +1,12 @@
 name: string.is
 website_url: https://string.is/
-description: An open-source, privacy-friendly online string toolkit for developers.
+description: 面向开发人员的开源、注重隐私的在线字符串工具包。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/recurser/string-is
 stargazers_count: 171
 updated_at: '2023-11-29'

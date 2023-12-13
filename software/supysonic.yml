@@ -1,13 +1,13 @@
 name: Supysonic
 website_url: https://github.com/spl0k/supysonic
-description: Python implementation of the Subsonic server API.
+description: Subsonic 服务器 API 的 Python 实现。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/spl0k/supysonic
 stargazers_count: 251
 updated_at: '2023-07-14'

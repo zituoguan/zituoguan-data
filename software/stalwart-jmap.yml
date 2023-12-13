@@ -1,13 +1,13 @@
 name: Stalwart JMAP
 website_url: https://stalw.art/jmap
-description: JMAP and IMAP server designed to be secure, fast, robust and scalable.
+description: 一个设计为安全、快速、强大且可扩展的JMAP和IMAP服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Rust
   - Docker
 tags:
-  - Communication - Email - Mail Delivery Agents
+  - 通信 - 电子邮件 - 邮件投递代理
 source_code_url: https://github.com/stalwartlabs/jmap-server
 stargazers_count: 539
 updated_at: '2023-10-25'

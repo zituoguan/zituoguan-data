@@ -1,10 +1,10 @@
 name: Surfer
 website_url: https://git.cloudron.io/cloudron/surfer
-description: Simple static file server with webui to manage files.
+description: 带有 Web 用户界面的简单静态文件服务器，用于管理文件。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://git.cloudron.io/cloudron/surfer

@@ -1,12 +1,12 @@
 name: SIP Irrigation Control
 website_url: https://dan-in-ca.github.io/SIP/
-description: Open source software for sprinkler/irrigation control.
+description: 用于喷头/灌溉控制的开源软件。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 source_code_url: https://github.com/Dan-in-CA/SIP
 stargazers_count: 325
 updated_at: '2023-11-11'

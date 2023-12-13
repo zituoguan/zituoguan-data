@@ -1,12 +1,12 @@
 name: SnappyMail
 website_url: https://snappymail.eu/
-description: Simple, modern, lightweight & fast web-based email client (fork of RainLoop).
+description: 简单、现代、轻量且快速的基于Web的电子邮件客户端（RainLoop的分支）。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Communication - Email - Webmail Clients
+  - 通信 - 电子邮件 - Web 邮件客户端
 source_code_url: https://github.com/the-djmaze/snappymail
 demo_url: https://snappymail.eu/demo/
 stargazers_count: 737

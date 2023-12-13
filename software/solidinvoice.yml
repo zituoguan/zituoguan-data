@@ -1,12 +1,12 @@
 name: SolidInvoice
 website_url: https://solidinvoice.co
-description: Open source invoicing and quote application.
+description: 开源的发票和报价应用程序。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 source_code_url: https://github.com/SolidInvoice/SolidInvoice
 stargazers_count: 498
 updated_at: '2023-11-06'

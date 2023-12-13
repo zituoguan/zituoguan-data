@@ -1,13 +1,13 @@
 name: Sorry Cypress
 website_url: https://sorry-cypress.dev
-description: Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests.
+description: Cypress浏览器自动化框架的替代开源仪表板，支持无限并行化、测试录制和调试。
 licenses:
   - MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Testing
+  - 软件开发 - 测试
 source_code_url: https://github.com/sorry-cypress/sorry-cypress
 stargazers_count: 2561
 updated_at: '2023-11-27'

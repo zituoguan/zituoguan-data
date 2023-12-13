@@ -1,12 +1,12 @@
 name: Spree Commerce
 website_url: https://spreecommerce.org
-description: Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails.
+description: Spree是一个完整的、模块化的、基于API的Ruby on Rails开源电子商务解决方案。
 licenses:
   - BSD-3-Clause
 platforms:
   - Ruby
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/spree/spree
 demo_url: https://new-ux.spreecommerce.org/
 stargazers_count: 12469

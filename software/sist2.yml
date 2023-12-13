@@ -1,13 +1,13 @@
 name: sist2
 website_url: https://github.com/simon987/sist2
-description: Lightning-fast file system indexer and search tool.
+description: 高速文件系统索引和搜索工具。
 licenses:
   - GPL-3.0
 platforms:
   - C
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/simon987/sist2
 stargazers_count: 656
 updated_at: '2023-12-02'

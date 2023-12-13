@@ -1,6 +1,6 @@
 name: Soketi
 website_url: https://soketi.app/
-description: Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher).
+description: 简单、快速、弹性的开源WebSocket服务器（Pusher的替代品）。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 自定义通信系统
 source_code_url: https://github.com/soketi/soketi
 stargazers_count: 4119
 updated_at: '2023-10-11'

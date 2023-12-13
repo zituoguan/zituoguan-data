@@ -1,12 +1,12 @@
 name: Stalwart SMTP
 website_url: https://stalw.art/smtp
-description: Modern SMTP server designed with a focus on security, speed, and extensive configurability.
+description: 设计注重安全性、速度和广泛可配置性的现代SMTP服务器。
 licenses:
   - AGPL-3.0
 platforms:
   - Rust
 tags:
-  - Communication - Email - Mail Transfer Agents
+  - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: https://github.com/stalwartlabs/smtp-server
 stargazers_count: 405
 updated_at: '2023-10-25'

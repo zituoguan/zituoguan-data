@@ -1,10 +1,10 @@
 name: SPIP
 website_url: https://www.spip.net/fr
-description: Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors.
+description: 面向协同工作、多语言环境和Web作者使用简便的互联网发布系统。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://git.spip.net/

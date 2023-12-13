@@ -1,12 +1,12 @@
 name: Stringer
 website_url: https://github.com/stringer-rss/stringer
-description: Work-in-progress self-hosted, anti-social RSS reader.
+description: 正在进行中的自托管、反社交的 RSS 阅读器。
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/stringer-rss/stringer
 stargazers_count: 3726
 updated_at: '2023-11-27'

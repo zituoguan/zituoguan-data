@@ -1,12 +1,12 @@
 name: SourceBans++
 website_url: https://sbpp.github.io/
-description: Admin, ban, and communication management system for games running on the Source engine.
+description: 用于运行在Source引擎上的游戏的管理员、封禁和通信管理系统。
 licenses:
   - CC-BY-SA-4.0
 platforms:
   - PHP
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/sbpp/sourcebans-pp
 stargazers_count: 310
 updated_at: '2023-12-02'

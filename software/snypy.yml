@@ -1,11 +1,11 @@
 name: SnyPy
 website_url: https://snypy.com
-description: Open source on-prem code snippet manager.
+description: 开源的本地代码片段管理器。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/snypy
 demo_url: https://app.snypy.com

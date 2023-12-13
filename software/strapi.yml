@@ -1,12 +1,12 @@
 name: Strapi
 website_url: https://strapi.io/
-description: The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+description: 最先进的开源内容管理框架（无头CMS），可以轻松构建强大的API。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/strapi/strapi
 stargazers_count: 57571
 updated_at: '2023-12-01'

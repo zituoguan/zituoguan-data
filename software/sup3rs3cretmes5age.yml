@@ -1,12 +1,12 @@
 name: Sup3rS3cretMes5age
 website_url: https://github.com/algolia/sup3rS3cretMes5age
-description: Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage.
+description: 使用 HashiCorp Vault 作为秘密存储的非常简单（部署和使用）的秘密消息服务。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Pastebins
+  - 粘贴板
 source_code_url: https://github.com/algolia/sup3rS3cretMes5age
 stargazers_count: 436
 updated_at: '2023-10-29'

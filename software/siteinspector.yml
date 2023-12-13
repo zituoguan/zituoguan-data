@@ -1,12 +1,12 @@
 name: SiteInspector
 website_url: https://www.getsiteinspector.com/
-description: Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
+description: 用于捕捉网站拼写错误、语法错误、破损链接和其他错误的基于Web的工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/siteinspector/siteinspector
 stargazers_count: 342
 updated_at: '2023-03-29'

@@ -1,13 +1,13 @@
 name: sish
 website_url: https://github.com/antoniomika/sish
-description: HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative).
+description: 通过仅使用SSH实现到本地主机的HTTP(S)/WS(S)/TCP隧道（Serveo/ngrok的替代品）。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://github.com/antoniomika/sish
 stargazers_count: 3598
 updated_at: '2023-10-12'

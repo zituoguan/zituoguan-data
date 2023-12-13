@@ -1,13 +1,13 @@
 name: SPIS
 website_url: https://github.com/gbbirkisson/spis
-description: A simple, lightweight and fast media server with decent mobile support.
+description: 一个简单、轻量且快速的媒体服务器，具有良好的移动支持。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Rust
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/gbbirkisson/spis
 stargazers_count: 50
 updated_at: '2023-11-02'

@@ -1,12 +1,12 @@
 name: Squidex
 website_url: https://squidex.io
-description: Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+description: 基于MongoDB、CQRS和事件溯源的无头CMS。
 licenses:
   - MIT
 platforms:
   - .NET
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/Squidex/squidex
 demo_url: https://cloud.squidex.io
 stargazers_count: 2048

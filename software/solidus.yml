@@ -1,13 +1,13 @@
 name: Solidus
 website_url: https://solidus.io/
-description: A free, open-source ecommerce platform that gives you complete control over your store.
+description: 一个免费的、开源的电子商务平台，为您的商店提供完全控制。
 licenses:
   - BSD-3-Clause
 platforms:
   - Ruby
   - Docker
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/solidusio/solidus
 demo_url: http://demo.solidus.io/
 stargazers_count: 4805

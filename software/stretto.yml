@@ -1,12 +1,12 @@
 name: Stretto
 website_url: https://github.com/benkaiser/stretto
-description: Music player with Youtube/Soundcloud import and iTunes/Spotify discovery.
+description: 具有Youtube/Soundcloud导入和iTunes/Spotify发现功能的音乐播放器。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/benkaiser/stretto
 demo_url: https://next.kaiserapps.com
 related_software_url: https://github.com/benkaiser/stretto-mobile-next

@@ -1,10 +1,10 @@
 name: Single File PHP Gallery
 website_url: http://sye.dk/sfpg/
-description: Web gallery in one single PHP file.
+description: 一个单一的PHP文件构建的Web图库。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: http://sye.dk/sfpg/

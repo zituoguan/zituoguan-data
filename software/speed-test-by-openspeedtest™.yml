@@ -1,12 +1,12 @@
 name: Speed Test by OpenSpeedTest™
 website_url: https://openspeedtest.com/
-description: Free & Open-Source HTML5 Network Performance Estimation Tool.
+description: 免费且开源的HTML5网络性能估算工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/openspeedtest/Speed-Test
 stargazers_count: 1186
 updated_at: '2023-10-31'

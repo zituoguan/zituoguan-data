@@ -1,12 +1,12 @@
 name: Starbase 80
 website_url: https://github.com/notclickable-jordan/starbase-80
-description: A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file.
+description: 一个简单的主页，具有iPad风格的应用程序网格，适用于移动设备和桌面。只需一个JSON配置文件。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 source_code_url: https://github.com/notclickable-jordan/starbase-80
 stargazers_count: 131
 updated_at: '2023-08-05'

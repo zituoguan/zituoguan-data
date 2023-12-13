@@ -1,11 +1,11 @@
 name: Simply Shorten
 website_url: https://gitlab.com/draganczukp/simply-shorten
-description: A simple URL shortener that just shortens links.
+description: 一个简单的URL缩短工具，只是缩短链接。
 licenses:
   - MIT
 platforms:
   - Java
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://gitlab.com/draganczukp/simply-shorten

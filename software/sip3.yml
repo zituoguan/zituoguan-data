@@ -1,11 +1,11 @@
 name: SIP3
 website_url: https://sip3.io/
-description: VoIP troubleshooting and monitoring platform.
+description: VoIP故障排除和监控平台。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/sip3io/
 demo_url: https://demo.sip3.io

@@ -1,14 +1,14 @@
 name: Specifically Clementines
 website_url: https://davideshay.github.io/groceries/
 source_code_url: https://github.com/davideshay/groceries
-description: Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor.
+description: 食品购物应用（之前是Groceries），提供与多个用户/设备（Web/Android/iOS）的可靠同步、食谱和与Tandoor的集成。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Recipe Management
-  - Task Management & To-do Lists
+  - 食谱管理
+  - 任务管理和待办清单
 demo_url: https://www.specificallyclementines.com/
 stargazers_count: 183
 updated_at: '2023-10-02'

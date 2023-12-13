@@ -1,13 +1,13 @@
 name: Snapcast
 website_url: https://github.com/badaix/snapcast
-description: Synchronous multiroom audio server.
+description: 同步的多房间音频服务器。
 licenses:
   - GPL-3.0
 platforms:
   - C++
   - deb
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 source_code_url: https://github.com/badaix/snapcast
 stargazers_count: 5373
 updated_at: '2023-10-25'

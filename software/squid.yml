@@ -1,11 +1,11 @@
 name: Squid
 website_url: http://www.squid-cache.org/
-description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
+description: Web缓存代理，支持HTTP、HTTPS、FTP等。通过缓存和重复使用频繁请求的网页，减少带宽并提高响应时间。
 licenses:
   - GPL-2.0
 platforms:
   - C
   - deb
 tags:
-  - Proxy
+  - 代理
 source_code_url: https://code.launchpad.net/squid

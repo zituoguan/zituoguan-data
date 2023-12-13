@@ -1,13 +1,13 @@
 name: Sonarr
 website_url: https://sonarr.tv/
-description: Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+description: 自动化的电视剧下载和管理工具，适用于Usenet和BitTorrent。它能够获取、排序和重命名新的剧集，并在更高质量的格式可用时自动提升已下载文件的质量。
 licenses:
   - GPL-3.0
 platforms:
   - C#
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/Sonarr/Sonarr
 stargazers_count: 9360
 updated_at: '2023-11-25'

@@ -1,12 +1,12 @@
 name: Snikket
 website_url: https://snikket.org/
-description: All-in-one Dockerized easy XMPP solution, including web admin and clients.
+description: 一体化的Docker化简易XMPP解决方案，包括Web管理和客户端。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Communication - XMPP - Servers
+  - 通信 - XMPP - 服务器
 source_code_url: https://github.com/snikket-im/snikket-server
 related_software_url: https://snikket.org/app/
 stargazers_count: 219

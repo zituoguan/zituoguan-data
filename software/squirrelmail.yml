@@ -1,10 +1,10 @@
 name: SquirrelMail
 website_url: https://squirrelmail.org
-description: Another browser-based IMAP client.
+description: 另一个基于浏览器的IMAP客户端。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Email - Webmail Clients
+  - 通信 - 电子邮件 - Web 邮件客户端
 source_code_url: https://sourceforge.net/p/squirrelmail/code/HEAD/tree/

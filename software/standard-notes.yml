@@ -1,12 +1,12 @@
 name: Standard Notes
 website_url: https://docs.standardnotes.com/self-hosting/getting-started
-description: Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes.
+description: 简单而私密的笔记应用。在完成更多工作的同时保护您的隐私。这就是Standard Notes。
 licenses:
   - GPL-3.0
 platforms:
   - Ruby
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.org/
 stargazers_count: 4564

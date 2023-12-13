@@ -1,6 +1,6 @@
 name: Sunshine
 website_url: https://app.lizardbyte.dev/Sunshine/
-description: Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution.
+description: 用于 Moonlight 的远程游戏流主机，支持高达每秒 120 帧和 4K 分辨率。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 实用工具和控制面板
 source_code_url: https://github.com/LizardByte/Sunshine
 stargazers_count: 8528
 updated_at: '2023-12-03'
