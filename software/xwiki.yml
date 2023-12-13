@@ -1,6 +1,6 @@
 name: XWiki
 website_url: https://www.xwiki.org
-description: Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture.
+description: 第二代维基，允许用户通过强大的基于扩展的架构扩展其功能。
 licenses:
   - LGPL-2.1
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - deb
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/xwiki/xwiki-platform
 demo_url: https://playground.xwiki.org
 stargazers_count: 891

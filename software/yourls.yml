@@ -1,12 +1,12 @@
 name: YOURLS
 website_url: https://yourls.org/
-description: YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp.
+description: YOURLS是一组PHP脚本，允许您运行自己的URL缩短服务。功能包括密码保护、URL自定义、书签工具、统计信息、API、插件、jsonp等。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/YOURLS/YOURLS
 stargazers_count: 9754
 updated_at: '2023-11-28'

@@ -1,13 +1,13 @@
 name: ZNC
 website_url: https://wiki.znc.in/ZNC
-description: Advanced IRC bouncer.
+description: 先进的IRC代理服务器。
 licenses:
   - Apache-2.0
 platforms:
   - C++
   - deb
 tags:
-  - Communication - IRC
+  - 通信 - IRC
 source_code_url: https://github.com/znc/znc
 stargazers_count: 1965
 updated_at: '2023-11-19'

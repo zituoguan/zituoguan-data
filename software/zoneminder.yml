@@ -1,13 +1,13 @@
 name: Zoneminder
 website_url: https://www.zoneminder.com/
-description: Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras.
+description: 支持IP、USB和模拟摄像头的闭路电视（CCTV）软件应用程序。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
   - deb
 tags:
-  - Video Surveillance
+  - 视频监控
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
 stargazers_count: 4519
 updated_at: '2023-12-03'

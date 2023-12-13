@@ -1,13 +1,13 @@
 name: Zammad
 website_url: https://zammad.org/
-description: Easy to use but powerful open-source support and ticketing system.
+description: 易于使用但功能强大的开源支持和工单系统。
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
   - deb
 tags:
-  - Ticketing
+  - 工单
 source_code_url: https://github.com/zammad/zammad
 stargazers_count: 3826
 updated_at: '2023-12-02'

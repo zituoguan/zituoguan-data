@@ -1,12 +1,12 @@
 name: μlogger
 website_url: https://github.com/bfabiszewski/ulogger-server
-description: Collect geolocation from users in real-time and display their GPS tracks on a website.
+description: 实时收集用户的地理位置，并在网站上显示他们的GPS轨迹。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/bfabiszewski/ulogger-server
 demo_url: http://ulogger.fabiszewski.net/
 stargazers_count: 480

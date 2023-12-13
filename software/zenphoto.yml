@@ -1,12 +1,12 @@
 name: Zenphoto
 website_url: https://www.zenphoto.org/
-description: Open-source gallery and CMS project.
+description: 开源图库和CMS项目。
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 source_code_url: https://github.com/zenphoto/zenphoto
 stargazers_count: 290
 updated_at: '2023-12-03'

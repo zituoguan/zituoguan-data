@@ -1,13 +1,13 @@
 name: Zim
 website_url: https://zim-wiki.org/
-description: Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images.
+description: 用于维护wiki页面集合的图形文本编辑器。每个页面可以包含到其他页面的链接、简单格式和图片。
 licenses:
   - GPL-2.0
 platforms:
   - Python
   - deb
 tags:
-  - Wikis
+  - 维基
 source_code_url: https://github.com/zim-desktop-wiki/zim-desktop-wiki
 stargazers_count: 1785
 updated_at: '2023-11-14'

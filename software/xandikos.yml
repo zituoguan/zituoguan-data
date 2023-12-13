@@ -1,13 +1,13 @@
 name: Xandikos
 website_url: https://github.com/jelmer/xandikos
-description: Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository.
+description: 开源的CardDAV和CalDAV服务器，具有最小的管理开销，支持Git存储后端。
 licenses:
   - GPL-3.0
 platforms:
   - Python
   - deb
 tags:
-  - Calendar & Contacts
+  - 日历和联系人
 source_code_url: https://github.com/jelmer/xandikos
 stargazers_count: 344
 updated_at: '2023-11-09'

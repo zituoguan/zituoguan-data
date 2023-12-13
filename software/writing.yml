@@ -1,12 +1,12 @@
 name: Writing
 website_url: https://josephernest.github.io/writing/
-description: Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing.
+description: 轻量级无干扰文本编辑器，基于浏览器（支持Markdown和LaTeX）。写作时无延迟。
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/josephernest/writing
 stargazers_count: 1012
 updated_at: '2022-08-10'

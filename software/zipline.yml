@@ -1,13 +1,13 @@
 name: Zipline
 website_url: https://github.com/diced/zipline
-description: A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API.
+description: 一个轻量级、快速且可靠的文件分享服务器，通常与ShareX一起使用，提供基于React的Web界面和快速的API。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/diced/zipline
 stargazers_count: 768
 updated_at: '2023-11-22'

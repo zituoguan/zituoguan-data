@@ -1,11 +1,11 @@
 name: Zimbra Collaboration
 website_url: https://www.zimbra.com/
-description: Email, calendar, collaboration server with Web interface and lots of integrations.
+description: 具有Web界面和许多集成的电子邮件、日历、协作服务器。
 licenses:
   - GPL-2.0
   - CPAL-1.0
 platforms:
   - Java
 tags:
-  - Groupware
+  - 协同办公
 source_code_url: https://github.com/zimbra

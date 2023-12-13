@@ -1,12 +1,12 @@
 name: Zulip
 website_url: https://zulip.org
-description: Zulip is a powerful, open source group chat application.
+description: Zulip是一款功能强大的开源群组聊天应用。
 licenses:
   - Apache-2.0
 platforms:
   - Python
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/zulip/zulip
 stargazers_count: 18805
 updated_at: '2023-12-03'

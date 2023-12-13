@@ -1,12 +1,12 @@
 name: YunoHost
 website_url: https://yunohost.org/
-description: Server operating system aiming to make self-hosting accessible to everyone.
+description: 服务器操作系统，旨在使自托管对每个人都更容易访问。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/YunoHost
 demo_url: https://yunohost.org/#/try

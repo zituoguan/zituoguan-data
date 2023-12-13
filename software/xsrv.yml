@@ -1,13 +1,13 @@
 name: xsrv
 website_url: https://xsrv.readthedocs.io/
-description: Install and manage self-hosted services/applications, on your own server(s).
+description: 在您自己的服务器上安装和管理自托管的服务/应用程序。
 licenses:
   - GPL-3.0
 platforms:
   - Ansible
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/nodiscc/xsrv
 stargazers_count: 261
 updated_at: '2023-12-03'

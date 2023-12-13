@@ -1,6 +1,6 @@
 name: ZincSearch
 website_url: https://zincsearch.com
-description: Search engine that requires minimal resources (alternative to Elasticsearch).
+description: 需要最少资源的搜索引擎（Elasticsearch的替代品）。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/zincsearch/zincsearch
 demo_url: https://github.com/zinclabs/zinc#playground-server
 stargazers_count: 15640

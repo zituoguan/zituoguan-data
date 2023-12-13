@@ -1,10 +1,10 @@
 name: yarn.social
 website_url: https://yarn.social
-description: Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data.
+description: 自托管、类似Twitter™的分布式微日志平台。无广告、无追踪，您的内容，您的数据。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://git.mills.io/yarnsocial/yarn

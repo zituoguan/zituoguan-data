@@ -1,13 +1,13 @@
 name: Zenko CloudServer
 website_url: https://www.zenko.io/cloudserver
-description: Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol.
+description: Zenko CloudServer，一个处理Amazon S3协议的开源服务器实现。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Object Storage & File Servers
+  - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/scality/cloudserver
 stargazers_count: 1583
 updated_at: '2023-12-01'

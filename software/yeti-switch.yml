@@ -1,12 +1,12 @@
 name: Yeti-Switch
 website_url: https://yeti-switch.org/
-description: Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API.
+description: 集成计费和路由引擎以及REST API的中继类4软交换（SBC）。
 licenses:
   - GPL-2.0
 platforms:
   - C++
   - Ruby
 tags:
-  - Communication - SIP
+  - 通信 - SIP
 source_code_url: https://github.com/yeti-switch
 demo_url: https://yeti-switch.org/demo.html

@@ -1,11 +1,11 @@
 name: Yetishare
 website_url: https://yetishare.com
-description: Powerful file hosting script with support for Amazon S3, Wasabi, Backblaze, local, direct and SFTP storage.
+description: 强大的文件托管脚本，支持Amazon S3、Wasabi、Backblaze、本地、直接和SFTP存储。
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://yetishare.com
 demo_url: https://fhscript.com

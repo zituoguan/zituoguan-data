@@ -1,12 +1,12 @@
 name: Yarr
 website_url: https://github.com/nkanaev/yarr
-description: Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server.
+description: Yarr（yet another rss reader）是一个基于Web的Feed聚合器，可以用作桌面应用程序和个人自托管服务器。
 licenses:
   - MIT
 platforms:
   - Go
 tags:
-  - Feed Readers
+  - 订阅阅读器
 source_code_url: https://github.com/nkanaev/yarr
 stargazers_count: 2329
 updated_at: '2023-10-24'

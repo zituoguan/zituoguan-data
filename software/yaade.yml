@@ -1,12 +1,12 @@
 name: Yaade
 website_url: https://docs.yaade.io/
-description: Yaade is an open-source, self-hosted, collaborative API development environment.
+description: Yaade是一个开源、自托管的协作式API开发环境。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 source_code_url: https://github.com/EsperoTech/yaade
 stargazers_count: 1287
 updated_at: '2023-12-03'

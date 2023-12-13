@@ -1,13 +1,13 @@
 name: Yopass
 website_url: https://github.com/jhaals/yopass
-description: Secure sharing of secrets, passwords and files.
+description: 安全共享机密、密码和文件。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/
 stargazers_count: 1447
