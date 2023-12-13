@@ -1,6 +1,6 @@
 name: docassemble
 website_url: https://docassemble.org/
-description: '一个用于引导性访谈和文档生成的免费、开源的专家系统，基于Python、YAML和Markdown。'
+description: 一个用于引导性访谈和文档生成的免费、开源的专家系统，基于Python、YAML和Markdown。
 licenses:
   - MIT
 platforms:

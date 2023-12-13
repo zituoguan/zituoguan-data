@@ -1,6 +1,6 @@
 name: Tinode
 website_url: https://github.com/tinode
-description: '即时通讯平台。后端使用 Go 编写。客户端包括：Swift iOS、Java Android、JS Web 应用、可脚本化命令行；还包括聊天机器人。'
+description: 即时通讯平台。后端使用 Go 编写。客户端包括：Swift iOS、Java Android、JS Web 应用、可脚本化命令行；还包括聊天机器人。
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
 source_code_url: https://github.com/tinode/chat
 demo_url: https://sandbox.tinode.co/
 related_software_url: https://github.com/tinode/webapp
-stargazers_count: 10992
+stargazers_count: 10996
 updated_at: '2023-08-14'
 archived: false

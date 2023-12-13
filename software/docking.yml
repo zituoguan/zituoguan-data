@@ -1,6 +1,6 @@
 name: DocKing
 website_url: https://docking.shipsaas.tech
-description: '文档管理服务/微服务，处理模板并在一个地方以 PDF 格式呈现它们。'
+description: 文档管理服务/微服务，处理模板并在一个地方以 PDF 格式呈现它们。
 licenses:
   - MIT
 platforms:

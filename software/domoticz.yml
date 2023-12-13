@@ -1,6 +1,6 @@
 name: Domoticz
 website_url: https://www.domoticz.com/
-description: '家庭自动化系统，可让您监视和配置各种设备，如：灯光、开关、各种传感器/仪表，如温度、雨量、风速、紫外线、电、气体、水等等。'
+description: 家庭自动化系统，可让您监视和配置各种设备，如：灯光、开关、各种传感器/仪表，如温度、雨量、风速、紫外线、电、气体、水等等。
 licenses:
   - GPL-3.0
 platforms:
@@ -13,5 +13,5 @@ tags:
 source_code_url: https://github.com/domoticz/domoticz
 related_software_url: https://github.com/domoticz/domoticz-android
 stargazers_count: 3374
-updated_at: '2023-12-12'
+updated_at: '2023-12-13'
 archived: false

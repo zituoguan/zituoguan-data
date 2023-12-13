@@ -1,6 +1,6 @@
 name: django-wiki
 website_url: https://github.com/django-wiki/django-wiki
-description: '拥有复杂功能的维基系统，可简单集成且具有出色的界面。以风格存储您的知识：使用Django模型。'
+description: 拥有复杂功能的维基系统，可简单集成且具有出色的界面。以风格存储您的知识：使用Django模型。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - 维基
 source_code_url: https://github.com/django-wiki/django-wiki
 demo_url: https://demo.django-wiki.org/
-stargazers_count: 1725
+stargazers_count: 1726
 updated_at: '2023-12-05'
 archived: false

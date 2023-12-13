@@ -1,7 +1,7 @@
 name: ZOT OCI Registry
 website_url: https://zotregistry.io/
 source_code_url: https://github.com/project-zot/zot
-description: 一个可用于生产的、与供应商无关的OCI本地容器镜像注册表。
+description: A production-ready vendor-neutral OCI-native container image registry.
 licenses:
   - Apache-2.0
 platforms:

@@ -1,6 +1,6 @@
 name: Apprise
 website_url: https://github.com/caronc/apprise
-description: 'Apprise 允许您向几乎所有我们今天可以使用的最流行的通知服务发送通知，如：Telegram、Discord、Slack、Amazon SNS、Gotify 等。'
+description: Apprise 允许您向几乎所有我们今天可以使用的最流行的通知服务发送通知，如：Telegram、Discord、Slack、Amazon SNS、Gotify 等。
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/caronc/apprise
-stargazers_count: 9044
+stargazers_count: 9045
 updated_at: '2023-11-19'
 archived: false

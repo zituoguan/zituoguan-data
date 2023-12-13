@@ -1,6 +1,6 @@
 name: Dnote
 website_url: https://www.getdnote.com
-description: '具有多设备同步和Web界面的简单命令行笔记本。'
+description: 具有多设备同步和Web界面的简单命令行笔记本。
 licenses:
   - AGPL-3.0
 platforms:

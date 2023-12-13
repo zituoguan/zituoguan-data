@@ -1,6 +1,6 @@
 name: Tube Archivist
 website_url: https://www.tubearchivist.com/
-description: '您自己托管的YouTube媒体服务器：订阅、下载、索引、搜索和播放您喜爱的视频。'
+description: 您自己托管的YouTube媒体服务器：订阅、下载、索引、搜索和播放您喜爱的视频。
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
   - 自动化
 source_code_url: https://github.com/tubearchivist/tubearchivist
 depends_3rdparty: true
-stargazers_count: 3597
+stargazers_count: 3601
 updated_at: '2023-12-03'
 archived: false

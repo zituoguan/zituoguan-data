@@ -1,6 +1,6 @@
 name: LinuxGSM
 website_url: https://linuxgsm.com/
-description: 'Linux下专用游戏服务器的部署和管理的命令行工具：支持超过120种游戏。'
+description: Linux下专用游戏服务器的部署和管理的命令行工具：支持超过120种游戏。
 licenses:
   - MIT
 platforms:

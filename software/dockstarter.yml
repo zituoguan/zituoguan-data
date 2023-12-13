@@ -1,6 +1,6 @@
 name: DockSTARTer
 website_url: https://dockstarter.com/
-description: 'DockSTARTer 帮助您开始在 Docker 中运行的家庭服务器应用。'
+description: DockSTARTer 帮助您开始在 Docker 中运行的家庭服务器应用。
 licenses:
   - MIT
 platforms:
