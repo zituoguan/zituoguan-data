@@ -65,7 +65,9 @@ push_html:
 	mv html/html/* zituoguan-html/
 	cd zituoguan-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
 	cd zituoguan-html/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
-	cd zituoguan-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)")
+	#cd zituoguan-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)")
+    cd zituoguan-html/ && git add . && git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)"
+
 	cd zituoguan-html/ && git push -f
 
 .PHONY: url_check # 检查URL是否存在死链或其他连接问题
