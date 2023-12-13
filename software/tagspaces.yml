@@ -4,7 +4,7 @@ description: TagSpaces 是一款离线、跨平台的文件管理器和组织工
 licenses:
   - AGPL-3.0
 platforms:
-  - Node.js
+  - Nodejs
 tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/tagspaces/tagspaces

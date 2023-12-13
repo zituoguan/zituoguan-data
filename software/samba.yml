@@ -6,5 +6,5 @@ licenses:
 platforms:
   - C
 tags:
-  - 文件传输与和同步
+  - 文件传输和同步
 source_code_url: https://git.samba.org/samba.git/
