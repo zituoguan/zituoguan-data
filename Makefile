@@ -54,19 +54,19 @@ export_html:
 .PHONY: push_markdown # 提交并推送更改到Markdown仓库
 push_markdown:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
-	cd awesome-selfhosted && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
-	cd awesome-selfhosted && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
-	cd awesome-selfhosted && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] 从zituoguan-data构建Markdown $(COMMIT_HASH)")
-	cd awesome-selfhosted && git push -f
+	cd zituoguan && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
+	cd zituoguan && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
+	cd zituoguan && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] 从zituoguan-data构建Markdown $(COMMIT_HASH)")
+	cd zituoguan && git push -f
 
 .PHONY: push_html # 提交并推送更改到HTML站点仓库（修正先前的提交并强制推送）
 push_html:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	mv html/html/* zituoguan-html/
-	cd awesome-selfhosted-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
-	cd awesome-selfhosted-html/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
-	cd awesome-selfhosted-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)")
-	cd awesome-selfhosted-html/ && git push -f
+	cd zituoguan-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
+	cd zituoguan-html/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
+	cd zituoguan-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] 从zituoguan-data构建HTML $(COMMIT_HASH)")
+	cd zituoguan-html/ && git push -f
 
 .PHONY: url_check # 检查URL是否存在死链或其他连接问题
 url_check:
