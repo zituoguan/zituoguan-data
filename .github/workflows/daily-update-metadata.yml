@@ -1,4 +1,4 @@
-name: update metadata
+name: 更新元数据
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   update-metadata:
-    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
+    if: github.repository == 'zituoguan/zituoguan-data'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -28,7 +28,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
   build:
-    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
+    if: github.repository == 'zituoguan/zituoguan-data'
     needs: update-metadata
     uses: ./.github/workflows/build.yml
     secrets: inherit
