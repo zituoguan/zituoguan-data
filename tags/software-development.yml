@@ -2,18 +2,18 @@ name: 软件开发
 description: '[软件开发](https://en.wikipedia.org/wiki/Software_development)是涉及构思、规范、设计、编程、文档编制、测试和修复错误的过程，用于创建和维护应用程序、框架或其他软件组件。'
 redirect:
   - title: 软件开发 - API 管理
-    url: '#software-development---api-management'
+    url: '#软件开发 - API 管理'
   - title: 软件开发 - 持续集成与部署
-    url: '#software-development---continuous-integration--deployment'
-  - title: 软件开发 - FaaS 与无服务器
-    url: '#software-development---faas--serverless'
-  - title: 软件开发 - IDE 与工具
-    url: '#software-development---ide--tools'
+    url: '#软件开发 - 持续集成与部署'
+  - title: 软件开发 - FaaS 和无服务器
+    url: '#软件开发 - FaaS 和无服务器'
+  - title: 软件开发 - IDE 和工具
+    url: '#软件开发 - IDE 和工具'
   - title: 软件开发 - 本地化
-    url: '#software-development---localization'
+    url: '#软件开发 - 本地化'
   - title: 软件开发 - 低代码
-    url: '#software-development---low-code'
+    url: '#软件开发 - 低代码'
   - title: 软件开发 - 项目管理
-    url: '#software-development---project-management'
+    url: '#软件开发 - 项目管理'
   - title: 软件开发 - 测试
-    url: '#software-development---testing'
+    url: '#软件开发 - 测试'

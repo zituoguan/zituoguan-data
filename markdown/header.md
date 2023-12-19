@@ -8,4 +8,4 @@
 
 **[HTML 版本](https://zituoguan.com/)（推荐）**，[Markdown 版本](https://github.com/zituoguan/zituoguan)（旧版）。
 
-请参阅 [Contributing](#contributing)。
+请参阅 [贡献](#贡献)。
