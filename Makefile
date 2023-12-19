@@ -46,7 +46,7 @@ export_html:
 	rm -rf zituoguan-html/ html/
 	git clone https://github.com/$(HTML_REPOSITORY)
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
-	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> 和 <a href="https://github.com/pradyunsg/furo">furo</a>。内容在 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/LICENSE">CC-BY-SA 3.0</a> 许可下。 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-html">源代码</a>，<a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">原始数据</a>。|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
+	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> 和 <a href="https://github.com/pradyunsg/furo">furo</a>。内容在 <a href="https://github.com/zituoguan/zituoguan-data/blob/master/LICENSE">CC-BY-SA 3.0</a> 许可下。 <a href="https://github.com/zituoguan/zituoguan-html">源代码</a>，<a href="https://github.com/zituoguan/zituoguan-data">原始数据</a>。|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees zituoguan-html/*
 	echo "# 请不要过于频繁地爬取此站点。源代码可在 https://github.com/zituoguan/zituoguan-html 获取。原始数据可在 https://github.com/zituoguan/zituoguan-data 获取" >| html/html/robots.txt
