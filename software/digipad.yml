@@ -1,0 +1,10 @@
+name: Digipad
+website_url: https://digipad.app/
+description: 用于创建协作数字记事本的在线自托管应用（文档以法语为主）。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - 协同办公
+source_code_url: https://codeberg.org/ladigitale/digipad
