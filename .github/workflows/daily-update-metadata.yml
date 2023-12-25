@@ -2,7 +2,7 @@ name: 更新元数据
 
 on:
   schedule:
-    - cron: '22 22 * * *'
+    - cron: '59 23 * * *'
   workflow_dispatch:
 
 env:
