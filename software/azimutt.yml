@@ -1,7 +1,7 @@
 name: Azimutt
 website_url: https://azimutt.app
 source_code_url: https://github.com/azimuttapp/azimutt
-description: Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines.
+description: 面向真实世界数据库（庞大且混乱）的可视化数据库探索工具。可以探索数据库模式以及数据，记录它们，扩展它们，甚至进行分析和指导。
 licenses:
   - MIT
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Database Management
-  - Software Development - IDE & Tools
+  - 数据库管理
+  - 软件开发 - IDE 和工具
 demo_url: https://azimutt.app/gallery/gospeak
 stargazers_count: 835
 updated_at: '2023-12-18'
