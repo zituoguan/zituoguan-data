@@ -2,3 +2,6 @@ name: 档案和数字保存（DP）
 description: 数字[存档](https://en.wikipedia.org/wiki/Archival_science)和[保存](https://en.wikipedia.org/wiki/Digital_preservation)软件。
 related_tags:
   - 内容管理系统（CMS）
+external_links:
+  - title: awesome-web-archiving
+    url: https://github.com/iipc/awesome-web-archiving
