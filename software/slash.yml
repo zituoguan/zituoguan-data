@@ -7,12 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-<<<<<<< HEAD
   - 书签和链接分享
 stargazers_count: 659
-=======
-  - Bookmarks and Link Sharing
-stargazers_count: 658
->>>>>>> upstream/master
 updated_at: '2023-12-24'
 archived: false
