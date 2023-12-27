@@ -8,7 +8,12 @@ platforms:
   - Rust
   - Docker
 tags:
+<<<<<<< HEAD
   - 通信 - 电子邮件 - 完整解决方案
 stargazers_count: 1946
+=======
+  - Communication - Email - Complete Solutions
+stargazers_count: 1944
+>>>>>>> upstream/master
 updated_at: '2023-11-02'
 archived: false

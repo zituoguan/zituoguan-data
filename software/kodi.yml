@@ -9,6 +9,10 @@ platforms:
 tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/xbmc/xbmc
+<<<<<<< HEAD
 stargazers_count: 16689
+=======
+stargazers_count: 16688
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

@@ -9,6 +9,10 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/dgtlmoon/changedetection.io
+<<<<<<< HEAD
 stargazers_count: 13584
+=======
+stargazers_count: 13582
+>>>>>>> upstream/master
 updated_at: '2023-12-20'
 archived: false

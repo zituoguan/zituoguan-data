@@ -10,6 +10,10 @@ platforms:
 tags:
   - 搜索引擎
 source_code_url: https://github.com/meilisearch/MeiliSearch
+<<<<<<< HEAD
 stargazers_count: 40564
+=======
+stargazers_count: 40562
+>>>>>>> upstream/master
 updated_at: '2023-12-18'
 archived: false

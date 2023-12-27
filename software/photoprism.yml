@@ -10,6 +10,10 @@ tags:
   - 照片和视频库
 source_code_url: https://github.com/photoprism/photoprism
 demo_url: https://demo.photoprism.app/library/browse
+<<<<<<< HEAD
 stargazers_count: 30549
+=======
+stargazers_count: 30545
+>>>>>>> upstream/master
 updated_at: '2023-12-21'
 archived: false

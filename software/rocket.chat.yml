@@ -10,6 +10,10 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/RocketChat/Rocket.Chat
+<<<<<<< HEAD
 stargazers_count: 37838
+=======
+stargazers_count: 37837
+>>>>>>> upstream/master
 updated_at: '2023-12-22'
 archived: false

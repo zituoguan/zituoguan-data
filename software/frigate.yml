@@ -10,6 +10,10 @@ platforms:
 tags:
   - 视频监控
 source_code_url: https://github.com/blakeblackshear/frigate
+<<<<<<< HEAD
 stargazers_count: 12399
+=======
+stargazers_count: 12397
+>>>>>>> upstream/master
 updated_at: '2023-12-15'
 archived: false

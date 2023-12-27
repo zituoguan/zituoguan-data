@@ -8,6 +8,10 @@ platforms:
 tags:
   - 远程访问
 source_code_url: https://github.com/Ylianst/MeshCentral
+<<<<<<< HEAD
 stargazers_count: 2983
+=======
+stargazers_count: 2982
+>>>>>>> upstream/master
 updated_at: '2023-12-22'
 archived: false

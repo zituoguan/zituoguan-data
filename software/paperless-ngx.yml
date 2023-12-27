@@ -10,6 +10,11 @@ tags:
   - 文档管理
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
+<<<<<<< HEAD
 stargazers_count: 13152
 updated_at: '2023-12-26'
+=======
+stargazers_count: 13151
+updated_at: '2023-12-23'
+>>>>>>> upstream/master
 archived: false

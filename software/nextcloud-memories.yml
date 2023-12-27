@@ -9,6 +9,10 @@ tags:
   - 照片和视频库
 source_code_url: https://github.com/pulsejet/memories
 demo_url: https://demo.memories.gallery/apps/memories/
+<<<<<<< HEAD
 stargazers_count: 1834
+=======
+stargazers_count: 1833
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

@@ -8,6 +8,10 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/apache/superset
+<<<<<<< HEAD
 stargazers_count: 55897
+=======
+stargazers_count: 55891
+>>>>>>> upstream/master
 updated_at: '2023-12-23'
 archived: false

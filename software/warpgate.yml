@@ -9,6 +9,10 @@ platforms:
 tags:
   - 远程访问
 source_code_url: https://github.com/warp-tech/warpgate
+<<<<<<< HEAD
 stargazers_count: 3024
+=======
+stargazers_count: 3023
+>>>>>>> upstream/master
 updated_at: '2023-12-18'
 archived: false

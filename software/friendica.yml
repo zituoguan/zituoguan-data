@@ -8,6 +8,10 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/friendica/friendica
+<<<<<<< HEAD
 stargazers_count: 1289
+=======
+stargazers_count: 1288
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

@@ -10,6 +10,10 @@ tags:
   - 分析
 source_code_url: https://github.com/umami-software/umami
 demo_url: https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is
+<<<<<<< HEAD
 stargazers_count: 17911
+=======
+stargazers_count: 17909
+>>>>>>> upstream/master
 updated_at: '2023-12-13'
 archived: false

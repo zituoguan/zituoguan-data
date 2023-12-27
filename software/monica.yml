@@ -9,6 +9,10 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/monicahq/monica
+<<<<<<< HEAD
 stargazers_count: 20062
+=======
+stargazers_count: 20061
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

@@ -9,6 +9,10 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/mindsdb/mindsdb
+<<<<<<< HEAD
 stargazers_count: 19363
+=======
+stargazers_count: 19362
+>>>>>>> upstream/master
 updated_at: '2023-12-22'
 archived: false

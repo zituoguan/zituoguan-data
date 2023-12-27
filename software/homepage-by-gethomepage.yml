@@ -9,6 +9,10 @@ platforms:
 tags:
   - 个人仪表板
 source_code_url: https://github.com/gethomepage/homepage
+<<<<<<< HEAD
 stargazers_count: 11636
+=======
+stargazers_count: 11635
+>>>>>>> upstream/master
 updated_at: '2023-12-22'
 archived: false

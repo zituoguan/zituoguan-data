@@ -8,6 +8,10 @@ platforms:
 tags:
   - 文档管理 - 电子书
 source_code_url: https://github.com/Librum-Reader/Librum
+<<<<<<< HEAD
 stargazers_count: 2811
+=======
+stargazers_count: 2810
+>>>>>>> upstream/master
 updated_at: '2023-12-17'
 archived: false

@@ -10,6 +10,10 @@ platforms:
 tags:
   - 搜索引擎
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
+<<<<<<< HEAD
 stargazers_count: 7380
+=======
+stargazers_count: 7375
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

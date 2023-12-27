@@ -9,7 +9,11 @@ platforms:
 tags:
   - 照片和视频库
 source_code_url: https://github.com/LibrePhotos/librephotos
+<<<<<<< HEAD
 stargazers_count: 6224
+=======
+stargazers_count: 6223
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/

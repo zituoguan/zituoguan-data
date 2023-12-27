@@ -8,6 +8,10 @@ platforms:
 tags:
   - 笔记和编辑器
 source_code_url: https://github.com/laurent22/joplin
+<<<<<<< HEAD
 stargazers_count: 39987
+=======
+stargazers_count: 39984
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

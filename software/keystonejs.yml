@@ -8,6 +8,11 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/keystonejs/keystone
+<<<<<<< HEAD
 stargazers_count: 8551
 updated_at: '2023-12-26'
+=======
+stargazers_count: 8550
+updated_at: '2023-12-18'
+>>>>>>> upstream/master
 archived: false

@@ -8,6 +8,10 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/mail-in-a-box/mailinabox
+<<<<<<< HEAD
 stargazers_count: 12981
+=======
+stargazers_count: 12980
+>>>>>>> upstream/master
 updated_at: '2023-12-22'
 archived: false

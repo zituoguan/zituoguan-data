@@ -11,6 +11,10 @@ tags:
   - 数据库管理
 source_code_url: https://github.com/bytebase/bytebase
 demo_url: https://demo.bytebase.com
+<<<<<<< HEAD
 stargazers_count: 8636
+=======
+stargazers_count: 8634
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

@@ -10,6 +10,10 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/drakkan/sftpgo
+<<<<<<< HEAD
 stargazers_count: 7324
+=======
+stargazers_count: 7322
+>>>>>>> upstream/master
 updated_at: '2023-12-24'
 archived: false

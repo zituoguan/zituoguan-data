@@ -8,6 +8,10 @@ platforms:
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/wekan/wekan
+<<<<<<< HEAD
 stargazers_count: 18912
+=======
+stargazers_count: 18910
+>>>>>>> upstream/master
 updated_at: '2023-12-18'
 archived: false

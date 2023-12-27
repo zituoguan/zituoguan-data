@@ -11,6 +11,10 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/msgbyte/tailchat
 demo_url: https://nightly.paw.msgbyte.com/
+<<<<<<< HEAD
 stargazers_count: 2204
+=======
+stargazers_count: 2201
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

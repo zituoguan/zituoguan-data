@@ -10,6 +10,10 @@ platforms:
 tags:
   - 文件传输和同步
 source_code_url: https://github.com/syncthing/syncthing
+<<<<<<< HEAD
 stargazers_count: 57024
+=======
+stargazers_count: 57022
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

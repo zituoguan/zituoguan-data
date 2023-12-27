@@ -8,6 +8,10 @@ platforms:
 tags:
   - 文件传输 - 点对点文件共享
 source_code_url: https://github.com/qbittorrent/qBittorrent
+<<<<<<< HEAD
 stargazers_count: 23427
+=======
+stargazers_count: 23426
+>>>>>>> upstream/master
 updated_at: '2023-12-19'
 archived: false

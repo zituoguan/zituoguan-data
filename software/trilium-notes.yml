@@ -10,6 +10,10 @@ platforms:
 tags:
   - 笔记和编辑器
 source_code_url: https://github.com/zadam/trilium
+<<<<<<< HEAD
 stargazers_count: 23937
+=======
+stargazers_count: 23935
+>>>>>>> upstream/master
 updated_at: '2023-12-11'
 archived: false

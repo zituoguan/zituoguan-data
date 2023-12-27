@@ -9,6 +9,10 @@ platforms:
 tags:
   - 照片和视频库
 source_code_url: https://github.com/LycheeOrg/Lychee
+<<<<<<< HEAD
 stargazers_count: 2896
+=======
+stargazers_count: 2897
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

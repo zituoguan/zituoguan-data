@@ -8,6 +8,10 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/kestra-io/kestra
+<<<<<<< HEAD
 stargazers_count: 5118
+=======
+stargazers_count: 5117
+>>>>>>> upstream/master
 updated_at: '2023-12-23'
 archived: false

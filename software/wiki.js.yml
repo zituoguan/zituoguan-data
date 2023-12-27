@@ -11,6 +11,10 @@ tags:
   - 维基
 source_code_url: https://github.com/Requarks/wiki
 demo_url: https://docs.requarks.io
+<<<<<<< HEAD
 stargazers_count: 22586
+=======
+stargazers_count: 22585
+>>>>>>> upstream/master
 updated_at: '2023-11-20'
 archived: false

@@ -10,6 +10,10 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/gravitational/teleport
+<<<<<<< HEAD
 stargazers_count: 15552
+=======
+stargazers_count: 15551
+>>>>>>> upstream/master
 updated_at: '2023-12-23'
 archived: false

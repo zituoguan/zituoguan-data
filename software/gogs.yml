@@ -9,6 +9,10 @@ tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/gogs/gogs
 demo_url: https://try.gogs.io/
+<<<<<<< HEAD
 stargazers_count: 43504
+=======
+stargazers_count: 43503
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

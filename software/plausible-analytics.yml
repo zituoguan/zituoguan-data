@@ -8,6 +8,10 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/plausible/analytics/
+<<<<<<< HEAD
 stargazers_count: 17120
+=======
+stargazers_count: 17119
+>>>>>>> upstream/master
 updated_at: '2023-12-21'
 archived: false
