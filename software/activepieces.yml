@@ -8,6 +8,10 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/activepieces/activepieces
+<<<<<<< HEAD
 stargazers_count: 5287
+=======
+stargazers_count: 5286
+>>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false
