@@ -9,10 +9,6 @@ platforms:
 tags:
   - 代理
 source_code_url: https://github.com/NginxProxyManager/nginx-proxy-manager
-<<<<<<< HEAD
 stargazers_count: 16898
-=======
-stargazers_count: 16896
->>>>>>> upstream/master
 updated_at: '2023-11-27'
 archived: false

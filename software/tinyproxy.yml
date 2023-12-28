@@ -9,10 +9,6 @@ platforms:
 tags:
   - 代理
 source_code_url: https://github.com/tinyproxy/tinyproxy
-<<<<<<< HEAD
 stargazers_count: 4312
-=======
-stargazers_count: 4311
->>>>>>> upstream/master
 updated_at: '2023-11-12'
 archived: false

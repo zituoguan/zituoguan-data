@@ -8,10 +8,6 @@ platforms:
 tags:
   - 软件开发 - FaaS 和无服务器
 source_code_url: https://github.com/appwrite/appwrite
-<<<<<<< HEAD
 stargazers_count: 38594
-=======
-stargazers_count: 38592
->>>>>>> upstream/master
 updated_at: '2023-12-21'
 archived: false

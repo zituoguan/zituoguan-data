@@ -9,10 +9,6 @@ platforms:
 tags:
   - 文件传输 - 点对点文件共享
 source_code_url: https://github.com/transmission/transmission
-<<<<<<< HEAD
 stargazers_count: 10853
-=======
-stargazers_count: 10851
->>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

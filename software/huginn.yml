@@ -8,10 +8,6 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/huginn/huginn
-<<<<<<< HEAD
 stargazers_count: 40062
-=======
-stargazers_count: 40061
->>>>>>> upstream/master
 updated_at: '2023-11-20'
 archived: false

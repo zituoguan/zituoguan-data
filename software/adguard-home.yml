@@ -8,10 +8,6 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/AdguardTeam/AdGuardHome
-<<<<<<< HEAD
 stargazers_count: 19933
-=======
-stargazers_count: 19932
->>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

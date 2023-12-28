@@ -9,10 +9,6 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/TechnitiumSoftware/DnsServer
-<<<<<<< HEAD
 stargazers_count: 2881
-=======
-stargazers_count: 2880
->>>>>>> upstream/master
 updated_at: '2023-11-06'
 archived: false

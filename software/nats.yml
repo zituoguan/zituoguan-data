@@ -12,10 +12,6 @@ tags:
   - 杂项
 source_code_url: https://github.com/nats-io/nats-server
 related_software_url: https://github.com/nats-io
-<<<<<<< HEAD
 stargazers_count: 14066
-=======
-stargazers_count: 14065
->>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

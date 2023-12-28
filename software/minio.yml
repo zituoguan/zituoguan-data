@@ -10,10 +10,6 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/minio/minio
-<<<<<<< HEAD
 stargazers_count: 42217
-=======
-stargazers_count: 42215
->>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

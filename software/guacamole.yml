@@ -9,10 +9,6 @@ platforms:
 tags:
   - 远程访问
 source_code_url: https://github.com/apache/guacamole-server
-<<<<<<< HEAD
 stargazers_count: 2735
-=======
-stargazers_count: 2734
->>>>>>> upstream/master
 updated_at: '2023-11-22'
 archived: false

@@ -10,11 +10,7 @@ platforms:
   - PHP
   - Docker
 tags:
-<<<<<<< HEAD
   - 通信 - 电子邮件 - 邮件传输代理
-=======
-  - Communication - Email - Mail Transfer Agents
->>>>>>> upstream/master
 stargazers_count: 393
 updated_at: '2023-12-04'
 archived: false

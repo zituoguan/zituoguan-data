@@ -8,10 +8,6 @@ platforms:
 tags:
   - 博客平台
 source_code_url: https://github.com/TryGhost/Ghost
-<<<<<<< HEAD
 stargazers_count: 44700
-=======
-stargazers_count: 44699
->>>>>>> upstream/master
 updated_at: '2023-12-18'
 archived: false

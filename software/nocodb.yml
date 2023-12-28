@@ -9,10 +9,6 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/nocodb/nocodb
-<<<<<<< HEAD
 stargazers_count: 39688
-=======
-stargazers_count: 39686
->>>>>>> upstream/master
 updated_at: '2023-12-25'
 archived: false

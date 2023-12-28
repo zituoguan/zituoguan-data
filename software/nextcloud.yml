@@ -10,11 +10,6 @@ tags:
   - 文件传输和同步
 source_code_url: https://github.com/nextcloud/server
 demo_url: https://try.nextcloud.com/
-<<<<<<< HEAD
 stargazers_count: 24538
 updated_at: '2023-12-26'
-=======
-stargazers_count: 24537
-updated_at: '2023-12-25'
->>>>>>> upstream/master
 archived: false
