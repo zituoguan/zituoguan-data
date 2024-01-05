@@ -1,14 +1,14 @@
 name: Dify.ai
 website_url: https://dify.ai
 source_code_url: https://github.com/langgenius/dify
-description: Build, test and deploy LLM applications.
+description: 构建、测试和部署LLM应用程序。
 licenses:
   - Apache-2.0
   - Commons-Clause
 platforms:
   - Docker
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 
 stargazers_count: 13441
 updated_at: '2024-01-04'

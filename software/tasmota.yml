@@ -1,14 +1,14 @@
 name: Tasmota
 website_url: https://tasmota.com
 source_code_url: https://github.com/arendst/Tasmota
-description: Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions.
+description: 用于ESP设备的开源固件。具备快速设置和更新的完全本地控制。支持MQTT、Web UI、HTTP或串口控制。可使用定时器、规则或脚本进行自动化。与家庭自动化解决方案集成。
 licenses:
   - GPL-3.0
 platforms:
   - C
   - C++
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 stargazers_count: 20808
 updated_at: '2024-01-04'
 archived: false
