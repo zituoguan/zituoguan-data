@@ -1,10 +1,10 @@
-name: Mars服务器
-website_url: https://github.com/borjapazr/mars-server
-description: 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。
+name: Mastodon
+website_url: https://joinmastodon.org/
+description: 联合式微博服务。
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
-  - Docker
+  - Ruby
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/mastodon/mastodon
