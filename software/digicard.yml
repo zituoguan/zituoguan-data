@@ -1,11 +1,11 @@
 name: Digicard
 website_url: https://codeberg.org/ladigitale/digicard
-description: Create simple graphic compositions (documentation in French).
+description: 创建简单的图形组合（文档以法语提供）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://ladigitale.dev/digicard/
 source_code_url: https://codeberg.org/ladigitale/digicard
