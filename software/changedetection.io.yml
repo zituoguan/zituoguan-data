@@ -7,8 +7,8 @@ platforms:
   - Python
   - Docker
 tags:
-  - 杂项
+  - 自动化
 source_code_url: https://github.com/dgtlmoon/changedetection.io
-stargazers_count: 13756
-updated_at: '2024-01-08'
+stargazers_count: 13781
+updated_at: '2024-01-11'
 archived: false
