@@ -1,14 +1,14 @@
 name: WikiDocs
 website_url: http://wikidocs.it
 source_code_url: https://github.com/Zavy86/WikiDocs
-description: A databaseless markdown flat-file wiki engine.
+description: 一个无数据库的 Markdown 纯文本 wiki 引擎。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Wikis
+  - 维基
 demo_url: https://demo.wikidocs.it
 stargazers_count: 135
 updated_at: '2024-01-07'
