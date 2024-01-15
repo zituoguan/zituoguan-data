@@ -1,5 +1,5 @@
 name: ZOT OCI Registry
-website_url: https://zotregistry.io/
+website_url: https://zotregistry.dev
 source_code_url: https://github.com/project-zot/zot
 description: A production-ready vendor-neutral OCI-native container image registry.
 licenses:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 demo_url: https://zothub.io
-stargazers_count: 603
-updated_at: '2024-01-11'
+stargazers_count: 607
+updated_at: '2024-01-12'
 archived: false
