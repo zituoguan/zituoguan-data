@@ -1,6 +1,6 @@
 name: Adminer
 website_url: https://www.adminer.org/
-description: 在一个单独的 PHP 文件中进行数据库管理。支持 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL、Oracle、Elasticsearch、MongoDB 等数据库。
+description: 以单个 PHP 文件进行数据库管理。适用于 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL、Oracle、Elasticsearch、MongoDB 等。
 licenses:
   - Apache-2.0
   - GPL-2.0

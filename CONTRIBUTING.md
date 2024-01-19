@@ -84,17 +84,16 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 - 在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (reason)` 作为您的提交消息，在 `extended description` 字段中提供额外的上下文信息，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
 
 
-### 域名费用
+### 域名成本
 
-您可以通过各种方式捐赠我们。
+您可以通过在 [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/) 承诺少量款项来帮助支付域名注册和续费成本。
 
 
 ### 其他
 
-**重命名标签/类别：** 必须在相应的 `tags/mytag.yml` 文件中将标签重命名。必须在 `tags/*.yml` 和 `software/*.yml` 中更新所有对它的引用。
+**重命名标签/分类：** 标签必须在相应的 `tags/mytag.yml` 文件中重命名。所有引用必须在 `tags/*.yml` 和 `software/*.yml` 中更新。
 
 **自动化任务：**
-
 
 ```bash
 $ make help
