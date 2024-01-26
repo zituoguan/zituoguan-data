@@ -8,5 +8,8 @@ platforms:
   - PHP
 tags:
   - 电子商务
-source_code_url: https://github.com/aimeos
+source_code_url: https://github.com/aimeos/aimeos
 demo_url: https://demo.aimeos.org/
+stargazers_count: 3599
+updated_at: '2024-01-20'
+archived: false

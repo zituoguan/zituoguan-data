@@ -9,4 +9,7 @@ platforms:
   - K8S
 tags:
   - 杂项
-source_code_url: https://lucene.apache.org/solr/downloads.html
+source_code_url: https://github.com/apache/solr
+stargazers_count: 946
+updated_at: '2024-01-21'
+archived: false

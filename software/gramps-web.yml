@@ -1,5 +1,5 @@
 name: Gramps Web
-website_url: https://gramps-project.github.io/web/
+website_url: https://www.grampsweb.org/
 description: 用于协同基于Gramps的家谱研究的Web应用，与Gramps开源家谱研究桌面应用兼容。
 licenses:
   - AGPL-3.0
@@ -7,8 +7,8 @@ platforms:
   - Docker
 tags:
   - 家谱研究
-source_code_url: https://github.com/gramps-project/gramps-webapi
-demo_url: https://gramps-project.github.io/web
+source_code_url: https://github.com/gramps-project/gramps-web-api
+demo_url: https://gramps-project.github.io/gramps-web-api/
 stargazers_count: 61
-updated_at: '2024-01-18'
+updated_at: '2024-01-19'
 archived: false

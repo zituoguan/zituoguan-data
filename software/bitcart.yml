@@ -9,5 +9,8 @@ platforms:
   - Nodejs
 tags:
   - 资金、预算和管理
-source_code_url: https://github.com/bitcart
+source_code_url: https://github.com/bitcart/bitcart
 demo_url: https://admin.bitcart.ai
+stargazers_count: 432
+updated_at: '2024-01-18'
+archived: false
