@@ -1,14 +1,14 @@
 name: Chibisafe
 website_url: https://chibisafe.moe
 source_code_url: https://github.com/chibisafe/chibisafe
-description: File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others.
+description: 文件上传服务，旨在易于使用和设置。它接受文件、照片、文档，任何您想要上传的内容，并为您生成可共享的链接，供您发送给他人使用。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 stargazers_count: 1317
 updated_at: '2024-01-15'
 archived: false

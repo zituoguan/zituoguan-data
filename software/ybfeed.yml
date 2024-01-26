@@ -1,7 +1,7 @@
 name: ybFeed
 website_url: https://github.com/ybizeul/ybFeed
 source_code_url: https://github.com/ybizeul/ybFeed
-description: ybFeed is a personal micro feed where you can post snippets of text or images.
+description: ybFeed是一个个人微型动态消息源，您可以在其中发布文本片段或图像。
 licenses:
   - MIT
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Pastebins
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 粘贴板
+  - 文件传输 - 单击和拖放上传
 stargazers_count: 9
 updated_at: '2024-01-16'
 archived: false
