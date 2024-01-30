@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - 数据库管理
 source_code_url: https://github.com/directus/directus
-stargazers_count: 24459
-updated_at: '2024-01-19'
+stargazers_count: 24540
+updated_at: '2024-01-29'
 archived: false

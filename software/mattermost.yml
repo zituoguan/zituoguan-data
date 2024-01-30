@@ -1,5 +1,5 @@
 name: Mattermost
-website_url: https://mattermost.org/
+website_url: https://mattermost.com/
 description: 用于安全协作的平台，覆盖整个软件开发生命周期，可与Gitlab集成（替代Slack）。
 licenses:
   - AGPL-3.0
@@ -11,6 +11,6 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/mattermost/mattermost
-stargazers_count: 27332
-updated_at: '2024-01-20'
+stargazers_count: 27384
+updated_at: '2024-01-29'
 archived: false
