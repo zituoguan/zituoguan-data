@@ -2,13 +2,13 @@ name: EDA
 website_url: https://eda.jortilles.com/en/jortilles-english/
 description: 用于数据分析和可视化的Web应用程序。
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
+  - Nodejs
   - Docker
-  - Rust
 tags:
   - 分析
 source_code_url: https://github.com/jortilles/EDA
-stargazers_count: 91
-updated_at: '2024-01-25'
+stargazers_count: 92
+updated_at: '2024-02-02'
 archived: false
