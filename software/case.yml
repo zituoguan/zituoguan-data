@@ -1,13 +1,15 @@
+```markdown
 name: CASE
 website_url: https://case.app
 source_code_url: https://github.com/casejs/case
-description: Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK.
+description: 轻量级的 BaaS（后端即服务），需要最少的编码工作，具有数据库、管理面板、API 和 JavaScript SDK。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Software Development - FaaS & Serverless
+  - 软件开发 - FaaS 和无服务器
 stargazers_count: 183
 updated_at: '2023-12-27'
 archived: false
+```
