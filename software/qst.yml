@@ -1,12 +1,12 @@
-name: "QST"
-website_url: "https://qstonline.org"
-source_code_url: "https://sourceforge.net/projects/qstonline/"
-description: "Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical."
+name: QST
+website_url: https://qstonline.org
+source_code_url: https://sourceforge.net/projects/qstonline/
+description: 在线评估软件。从手机上的快速测验到大规模、高风险的监考桌面测试，简便、安全且经济实惠。
 licenses:
   - GPL-2.0
 platforms:
   - Perl
 tags:
-  - Learning and Courses
-  - Knowledge Management Tools
-demo_url: "https://qstonline.org/free_account.htm"
+  - 学习和课程
+  - 知识管理工具
+demo_url: https://qstonline.org/free_account.htm

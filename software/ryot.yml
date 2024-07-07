@@ -1,13 +1,13 @@
 name: ryot
 website_url: https://github.com/ignisda/ryot
 source_code_url: https://github.com/ignisda/ryot
-description: Platform for tracking various facets of your life - media, fitness, etc.
+description: 用于追踪生活各个方面（媒体、健身等）的平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 demo_url: https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo
 stargazers_count: 1701
 updated_at: '2024-07-06'

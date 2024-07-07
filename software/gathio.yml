@@ -1,14 +1,14 @@
 name: gathio
 website_url: https://gath.io/
 source_code_url: https://github.com/lowercasename/gathio
-description: Self-destructing, shareable, no-registration event pages.
+description: 自毁、可分享、无需注册的事件页面。
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 demo_url: https://gath.io/
 stargazers_count: 283
 updated_at: '2024-05-27'

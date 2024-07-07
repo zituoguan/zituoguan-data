@@ -1,14 +1,14 @@
 name: OpenSlides
 website_url: https://openslides.com/
 source_code_url: https://github.com/OpenSlides/OpenSlides
-description: A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly.
+description: 基于 Web 的演示和议会系统，用于管理和投影议程、动议和议会选举。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Conference Management
-  - Booking and Scheduling
+  - 会议管理
+  - 预订和日程安排
 demo_url: https://demo.os4.openslides.com/login
 stargazers_count: 481
 updated_at: '2024-07-03'

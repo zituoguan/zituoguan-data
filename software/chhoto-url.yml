@@ -1,13 +1,13 @@
 name: Chhoto URL
 website_url: https://github.com/SinTan1729/chhoto-url
-description: Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten).
+description: 简单、极其快速且没有臃肿的 URL 缩短工具（simply-shorten 的分支）。
 licenses:
   - MIT
 platforms:
   - Rust
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 source_code_url: https://github.com/SinTan1729/chhoto-url
 stargazers_count: 71
 updated_at: '2024-06-21'

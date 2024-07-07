@@ -1,13 +1,13 @@
-name: "Feather Wiki"
-website_url: "https://feather.wiki"
-source_code_url: "https://codeberg.org/Alamantus/FeatherWiki"
-description: "A lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size."
+name: Feather Wiki
+website_url: https://feather.wiki
+source_code_url: https://codeberg.org/Alamantus/FeatherWiki
+description: 一个极速且无限扩展的工具，用于创建个人非线性笔记本、数据库和维基，完全自包含，运行在您的浏览器中，仅大小为58千字节。
 licenses:
   - AGPL-3.0
 platforms:
   - Javascript
 tags:
-  - Wikis
+  - 维基
 depends_3rdparty: false
-demo_url: "https://feather.wiki/?page=gallery#wikis"
-related_software_url: "https://feather.wiki/?page=gallery#extensions"
+demo_url: https://feather.wiki/?page=gallery#wikis
+related_software_url: https://feather.wiki/?page=gallery#extensions

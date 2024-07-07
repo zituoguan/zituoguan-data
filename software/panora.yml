@@ -1,14 +1,14 @@
 name: Panora
 website_url: https://panora.dev
 source_code_url: https://github.com/panoratech/Panora
-description: An API to add an integration catalog to your SaaS product in minutes (alternative to Merge.dev).
+description: 一个 API，可在几分钟内将集成目录添加到您的 SaaS 产品中（Merge.dev 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 depends_3rdparty: true
 stargazers_count: 375
 updated_at: '2024-07-03'

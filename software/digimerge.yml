@@ -1,11 +1,11 @@
 name: Digimerge
 website_url: https://ladigitale.dev/digimerge/
-description: Assemble audio and video files directly in your browser (documentation in French).
+description: 直接在浏览器中组装音频和视频文件（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/ladigitale/Digimerge
 demo_url: https://ladigitale.dev/digimerge/

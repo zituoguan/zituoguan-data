@@ -1,14 +1,14 @@
 name: Grimoire
 website_url: https://grimoire.pro
 source_code_url: https://github.com/goniszewski/grimoire
-description: Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment.
+description: 带有现代 UI 的书签管理器，具备自动内容和元数据提取、分类、过滤等功能。完全文档化的 REST API，并提供 Docker 镜像，便于部署。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 stargazers_count: 1771
 updated_at: '2024-06-18'
 archived: false

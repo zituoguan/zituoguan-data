@@ -1,7 +1,7 @@
 name: Ente
 website_url: https://ente.io/
 source_code_url: https://github.com/ente-io/ente
-description: An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos).
+description: 一个端到端加密的照片分享平台（Google Photos 和 Apple Photos 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Nodejs
   - Go
 tags:
-  - Photo and Video Galleries
+  - 照片和视频库
 stargazers_count: 11646
 updated_at: '2024-07-06'
 archived: false

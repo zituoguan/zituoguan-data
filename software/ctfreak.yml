@@ -1,10 +1,10 @@
 name: Ctfreak
 website_url: https://ctfreak.com
-description: IT task scheduler with mobile-friendly web UI to schedule concurrent, remote and chained execution of Bash / Powershell / SQL scripts, Webhooks, and more.
+description: 具有移动友好型 Web UI 的 IT 任务调度器，可调度并发、远程和链式执行的 Bash / Powershell / SQL 脚本、Webhooks 等。
 licenses:
-  - ⊘ Proprietary
+  - ⊘ 专有
 platforms:
-  - Unknown
+  - 未知
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://ctfreak.com

@@ -1,14 +1,14 @@
 name: Wavelog
 website_url: https://www.wavelog.org
 source_code_url: https://github.com/wavelog/wavelog
-description: Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser.
+description: 针对业余无线电爱好者的基于 Web 的日志软件。提供增强的 QSO 日志记录、统计信息和地图功能。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://demo.wavelog.org
 stargazers_count: 55
 updated_at: '2024-06-14'

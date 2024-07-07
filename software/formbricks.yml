@@ -1,14 +1,14 @@
 name: Formbricks
 website_url: https://formbricks.com
 source_code_url: https://github.com/formbricks/formbricks
-description: Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need.
+description: 建立在全球最大开源调查堆栈上的体验管理套件。在客户旅程的每一步优雅地收集反馈，了解您的客户需求。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 demo_url: https://app.formbricks.com
 stargazers_count: 5990
 updated_at: '2024-07-06'

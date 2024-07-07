@@ -1,13 +1,13 @@
-name: "Readeck"
-website_url: "https://readeck.org/en/"
-source_code_url: "https://codeberg.org/readeck/readeck"
-description: "Readeck is a simple web application that lets you save the precious readable content of web pages you like and want to keep forever. See it as a bookmark manager and a read later tool."
+name: Readeck
+website_url: https://readeck.org/en/
+source_code_url: https://codeberg.org/readeck/readeck
+description: Readeck 是一个简单的 Web 应用程序，允许您保存喜欢并希望永久保留的网页可读内容。将其视为书签管理器和稍后阅读工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Bookmarks and Link Sharing
-  - Archiving and Digital Preservation (DP)
-related_software_url: "https://codeberg.org/readeck/browser-extension"
+  - 书签和链接分享
+  - 档案和数字保存（DP）
+related_software_url: https://codeberg.org/readeck/browser-extension

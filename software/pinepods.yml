@@ -1,13 +1,13 @@
 name: Pinepods
 website_url: https://www.pinepods.online/
 source_code_url: https://github.com/madeofpendletonwool/PinePods
-description: A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device.
+description: 基于 Rust 的播客管理系统，支持多用户。Pinepods 使用中央数据库，因此诸如收听时间和主题等方面可跨设备保持一致。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 demo_url: https://try.pinepods.online
 stargazers_count: 165
 updated_at: '2024-07-05'

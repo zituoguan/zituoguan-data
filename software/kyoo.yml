@@ -1,13 +1,13 @@
 name: Kyoo
 website_url: https://github.com/zoriya/kyoo
 source_code_url: https://github.com/zoriya/kyoo
-description: Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval.
+description: 创新的媒体浏览器，设计用于无缝流媒体播放动漫、系列和电影，提供动态转码、自动观看历史记录和智能元数据检索等高级功能。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 demo_url: https://kyoo.zoriya.dev
 stargazers_count: 1319
 updated_at: '2024-06-30'

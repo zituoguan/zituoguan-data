@@ -1,13 +1,13 @@
 name: EverShop
 website_url: https://evershop.io/
-description: E-commerce platform with essential commerce features. Modular architecture and fully customizable.
+description: 具备基本商业功能的电子商务平台。模块化架构，可完全定制。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - E-commerce
+  - 电子商务
 source_code_url: https://github.com/evershopcommerce/evershop
 demo_url: https://demo.evershop.io/
 depends_3rdparty: true

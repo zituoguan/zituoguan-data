@@ -2,13 +2,13 @@
 name: Tiny File Manager
 website_url: https://tinyfilemanager.github.io
 source_code_url: https://github.com/prasathmani/tinyfilemanager
-description: Web based File Manager in PHP, simple, fast and small file manager with a single file.
+description: PHP 编写的基于 Web 的文件管理器，简单、快速且体积小，只有一个文件。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - File Transfer - Web-based File Managers
+  - 文件传输 - 基于 Web 的文件管理器
 demo_url: https://tinyfilemanager.github.io/demo/
 stargazers_count: 4625
 updated_at: '2024-07-04'

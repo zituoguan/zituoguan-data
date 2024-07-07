@@ -1,7 +1,7 @@
 name: Part-DB
 website_url: https://docs.part-db.de/
 source_code_url: https://github.com/Part-DB/Part-DB-server
-description: An inventory management system for your electronic components.
+description: 用于电子元器件的库存管理系统。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,9 +9,8 @@ platforms:
   - PHP
   - Nodejs
 tags:
-  - Inventory Management
+  - 库存管理
 demo_url: https://demo.part-db.de/en/
-
 stargazers_count: 779
 updated_at: '2024-06-23'
 archived: false

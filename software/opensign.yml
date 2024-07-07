@@ -1,14 +1,14 @@
 name: OpenSign
 website_url: https://www.opensignlabs.com
 source_code_url: https://github.com/opensignlabs/opensign
-description: Free, open source & self-hosted document signing software (alternative to DocuSign).
+description: 免费、开源、自托管的文档签署软件（DocuSign 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 depends_3rdparty: true
 stargazers_count: 2811
 updated_at: '2024-07-06'

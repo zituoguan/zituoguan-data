@@ -1,14 +1,14 @@
 name: Litecart
 website_url: https://github.com/shurco/litecart
 source_code_url: https://github.com/shurco/litecart
-description: Shopping cart in 1 file (with support for payment by card or cryptocurrency).
+description: 一个文件中的购物车（支持信用卡或加密货币支付）。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - E-commerce
+  - 电子商务
 depends_3rdparty: true
 stargazers_count: 148
 updated_at: '2024-07-05'

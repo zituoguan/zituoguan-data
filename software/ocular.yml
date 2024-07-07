@@ -1,13 +1,13 @@
 name: Ocular
 website_url: https://github.com/simonwep/ocular
 source_code_url: https://github.com/simonwep/ocular
-description: Simplistic and straightforward budgeting app to track your budget across months and years.
+description: 简约直接的预算管理应用，可跟踪您跨月份和年份的预算。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算与管理
 demo_url: https://ocular.reinisch.io/#demo
 stargazers_count: 49
 updated_at: '2024-07-06'

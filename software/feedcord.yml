@@ -1,13 +1,13 @@
 name: FeedCord
 website_url: https://github.com/Qolors/FeedCord
 source_code_url: https://github.com/Qolors/FeedCord
-description: A simple, lightweight & customizable RSS News Feed for your Discord Server.
+description: 一个简单、轻量且可定制的 Discord 服务器 RSS 新闻订阅工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Feed Readers
+  - 订阅阅读器
 depends_3rdparty: true
 stargazers_count: 115
 updated_at: '2024-04-25'

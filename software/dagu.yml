@@ -1,14 +1,14 @@
 name: Dagu
 website_url: https://dagu.readthedocs.io/
 source_code_url: https://github.com/dagu-dev/dagu
-description: Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.
+description: 功能强大的 Cron 替代品，具有 Web UI。它允许您以声明性的 YAML 格式将命令之间的依赖关系定义为有向无环图（DAG）。
 licenses:
   - GPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Automation
+  - 自动化
 stargazers_count: 1317
 updated_at: '2024-07-06'
 archived: false

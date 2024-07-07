@@ -1,14 +1,14 @@
 name: URL-to-PNG
 website_url: https://github.com/jasonraimondi/url-to-png
 source_code_url: https://github.com/jasonraimondi/url-to-png
-description: URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB.
+description: 使用 Playwright 进行并行渲染的 URL 到 PNG 实用工具，支持通过本地、S3 或 CouchDB 进行存储缓存。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 depends_3rdparty: false
 stargazers_count: 132
 updated_at: '2024-06-09'

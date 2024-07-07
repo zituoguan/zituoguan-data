@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - 媒体流媒体 - 音频流媒体
+  - 流媒体 - 音频流媒体
 depends_3rdparty: true
 stargazers_count: 83
 updated_at: '2024-05-31'

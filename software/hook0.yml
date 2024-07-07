@@ -1,7 +1,7 @@
-name: "Hook0"
-website_url: "https://www.hook0.com"
-source_code_url: "https://gitlab.com/hook0/hook0"
-description: "A Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free."
+name: Hook0
+website_url: https://www.hook0.com
+source_code_url: https://gitlab.com/hook0/hook0
+description: 一个 Webhooks 作为服务（WaaS），使在线产品可以轻松提供 Webhooks 功能。每月免费分发最多 3,000 个事件，保留历史记录 7 天。
 licenses:
   - SSPL-1.0
 platforms:
@@ -9,4 +9,4 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理

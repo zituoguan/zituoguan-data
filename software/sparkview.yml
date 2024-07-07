@@ -1,10 +1,10 @@
-name: "SparkView"
-website_url: "https://www.beyondssl.com/en/products/sparkview/"
-source_code_url: "https://www.beyondssl.com/en/products/sparkview/"
-description: "Browser-based remote access solution. No VPN client; just deploy the software in the DMZ. Access VMs, desktops, servers, and apps anytime, anywhere, without complex and costly client rollouts or user management."
+name: SparkView
+website_url: https://www.beyondssl.com/en/products/sparkview/
+source_code_url: https://www.beyondssl.com/en/products/sparkview/
+description: 基于浏览器的远程访问解决方案。无需 VPN 客户端；只需将软件部署在 DMZ 中。随时随地访问虚拟机、桌面、服务器和应用程序，无需复杂昂贵的客户端部署或用户管理。
 licenses:
-  - ⊘ Proprietary
+  - ⊘ 专有
 platforms:
   - Java
 tags:
-  - Remote Access
+  - 远程访问
