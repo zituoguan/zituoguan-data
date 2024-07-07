@@ -2,9 +2,9 @@ name: Ctfreak
 website_url: https://ctfreak.com
 description: 具有移动友好型 Web UI 的 IT 任务调度器，可调度并发、远程和链式执行的 Bash / Powershell / SQL 脚本、Webhooks 等。
 licenses:
-  - ⊘ 专有
+  - ⊘ Proprietary
 platforms:
-  - 未知
+  - 
 tags:
-  - 自动化
+  - Unknown
 source_code_url: https://ctfreak.com
