@@ -1,5 +1,5 @@
 name: hitobito
-website_url: https://hitobito.com/en
+website_url: https://hitobito.com
 description: 用于管理复杂的组织层次结构，包括成员、事件等的Web应用程序。
 licenses:
   - AGPL-3.0
@@ -9,6 +9,6 @@ tags:
   - 投票和事件
 source_code_url: https://github.com/hitobito/hitobito
 demo_url: https://demo.hitobito.com/en/users/sign_in
-stargazers_count: 334
-updated_at: '2024-02-23'
+stargazers_count: 354
+updated_at: '2024-07-05'
 archived: false

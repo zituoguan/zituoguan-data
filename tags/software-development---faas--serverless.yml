@@ -1,2 +1,5 @@
 name: 软件开发 - FaaS 和无服务器
 description: '[无服务器计算](https://en.wikipedia.org/wiki/Serverless_computing)，[函数即服务 (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) 和 [平台即服务 (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service) 管理软件。'
+redirect:
+  - title: awesome-sysadmin/PaaS
+    url: https://github.com/awesome-foss/awesome-sysadmin#paas

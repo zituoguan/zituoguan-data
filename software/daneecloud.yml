@@ -1,5 +1,5 @@
 name: DaneeCloud
-website_url: https://docs.daneeskripter.dev/daneecloud/
+website_url: https://docs.daneeskripter.dev/projects/daneecloud
 description: 多用户文件存储和共享应用程序。
 licenses:
   - GPL-3.0
@@ -9,7 +9,6 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/DaneeSkripter/DaneeCloud
-demo_url: https://cloud.daneeskripter.dev
-stargazers_count: 8
-updated_at: '2024-02-23'
+stargazers_count: 12
+updated_at: '2024-06-18'
 archived: false

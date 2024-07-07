@@ -1,6 +1,6 @@
 name: Apache Solr
 website_url: https://lucene.apache.org/solr/
-description: Solr 是基于 Apache Lucene 构建的流行、高速、开源的企业搜索平台。
+description: 企业搜索平台，具备全文搜索、命中高亮显示、分面搜索、实时索引、动态聚类和处理丰富文档（如Word、PDF等）的功能。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
   - K8S
 tags:
-  - 杂项
+  - 搜索引擎
 source_code_url: https://github.com/apache/solr
-stargazers_count: 973
-updated_at: '2024-02-24'
+stargazers_count: 1087
+updated_at: '2024-07-04'
 archived: false

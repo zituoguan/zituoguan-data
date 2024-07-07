@@ -2,12 +2,12 @@ name: Immich
 website_url: https://immich.app/
 description: 通过移动手机直接进行自托管的照片和视频备份解决方案。
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
   - 照片和视频库
 source_code_url: https://github.com/immich-app/immich
-stargazers_count: 26226
-updated_at: '2024-02-24'
+stargazers_count: 38937
+updated_at: '2024-07-06'
 archived: false

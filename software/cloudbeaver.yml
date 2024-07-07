@@ -1,5 +1,5 @@
 name: CloudBeaver
-website_url: https://cloudbeaver.io/
+website_url: https://dbeaver.com/
 description: 数据库的自托管管理，支持PostgreSQL、MySQL、SQLite等。是DBeaver的Web/托管版本。
 licenses:
   - Apache-2.0
@@ -8,6 +8,6 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/dbeaver/cloudbeaver
-stargazers_count: 2847
-updated_at: '2024-02-23'
+stargazers_count: 3214
+updated_at: '2024-07-05'
 archived: false

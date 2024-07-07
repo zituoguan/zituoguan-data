@@ -1,5 +1,5 @@
 name: phpList
-website_url: https://phplist.org
+website_url: https://www.phplist.org
 description: 具有高级订阅者、退信和插件管理功能的新闻通讯和电子邮件营销工具。
 licenses:
   - AGPL-3.0
@@ -8,6 +8,6 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 邮件列表和通讯
 source_code_url: https://github.com/phpList/phplist3
-stargazers_count: 694
-updated_at: '2024-02-24'
+stargazers_count: 724
+updated_at: '2024-05-01'
 archived: false

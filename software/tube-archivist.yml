@@ -1,15 +1,16 @@
 name: Tube Archivist
-website_url: https://www.tubearchivist.com/
-description: 您自己托管的YouTube媒体服务器：订阅、下载、索引、搜索和播放您喜爱的视频。
+website_url: https://tubearchivist.com/
+source_code_url: https://github.com/tubearchivist/tubearchivist
+description: 整理、搜索和享受您的YouTube收藏。通过元数据索引和用户友好的界面订阅、下载和跟踪已观看内容。
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
-  - 自动化
-source_code_url: https://github.com/tubearchivist/tubearchivist
+  - 流媒体 - 视频流媒体
+  - 档案和数字保存（ DP）
 depends_3rdparty: true
-stargazers_count: 3861
-updated_at: '2024-01-27'
+related_software_url: https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi
+stargazers_count: 4369
+updated_at: '2024-07-06'
 archived: false
