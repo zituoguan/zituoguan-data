@@ -7,7 +7,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/anycable/anycable-go
 demo_url: https://demo.anycable.io
 stargazers_count: 356
