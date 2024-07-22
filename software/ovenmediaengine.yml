@@ -1,5 +1,5 @@
 name: OvenMediaEngine
-website_url: https://ovenmediaengine.com
+website_url: https://github.com/AirenSoft/OvenMediaEngine
 description: OvenMediaEngine是一个可自托管的开源流媒体服务器，具有亚秒级延迟。
 licenses:
   - GPL-3.0
@@ -10,6 +10,6 @@ tags:
   - 流媒体 - 视频流媒体
 source_code_url: https://github.com/AirenSoft/OvenMediaEngine
 demo_url: https://demo.ovenplayer.com
-stargazers_count: 2478
-updated_at: '2024-07-05'
+stargazers_count: 2483
+updated_at: '2024-07-18'
 archived: false
