@@ -25,9 +25,9 @@ html_static_path = ['../_static']
 # myst-parser configuration (https://myst-parser.readthedocs.io/en/latest/configuration.html)
 myst_enable_extensions = ['fieldlist']
 myst_html_meta = {
+    "google-adsense-account": "ca-pub-5479527225721408",
     "description lang=zh_cn": "这是一个列出了可以在您自己的服务器上托管的自由软件网络服务和 Web 应用的清单",
-    "charset": "UTF-8",
-    "google-adsense-account": "ca-pub-5479527225721408"
+    "charset": "UTF-8"
 }
 
 # theme configuration (https://pradyunsg.me/furo/customisation/)
