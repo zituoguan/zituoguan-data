@@ -21,6 +21,11 @@ source_suffix = ['.md']
 templates_path = ['_templates']
 exclude_patterns = []
 html_static_path = ['../_static']
+# google adsense
+html_js_files = [
+    ("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5479527225721408", {"async": "async", "crossorigin": "anonymous"})
+]
+
 
 # myst-parser configuration (https://myst-parser.readthedocs.io/en/latest/configuration.html)
 myst_enable_extensions = ['fieldlist']
