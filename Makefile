@@ -50,6 +50,7 @@ export_html:
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees zituoguan-html/*
 	echo "# 请不要过于频繁地爬取此站点。源代码可在 https://github.com/zituoguan/zituoguan-html 获取。原始数据可在 https://github.com/zituoguan/zituoguan-data 获取" >| html/html/robots.txt
+	echo "google.com, pub-5479527225721408, DIRECT, f08c47fec0942fa0" >| html/html/ads.txt
 
 .PHONY: push_markdown # 提交并推送更改到Markdown仓库
 push_markdown:
