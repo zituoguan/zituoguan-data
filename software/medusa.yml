@@ -1,5 +1,5 @@
 name: Medusa
-website_url: https://pymedusa.com/
+website_url: https://github.com/pymedusa/Medusa
 description: 用于电视节目的自动视频库管理器。它会监视您喜爱的节目的新集数，一旦发布，就会进行自动管理。
 licenses:
   - GPL-3.0
@@ -9,6 +9,6 @@ tags:
   - 自动化
 source_code_url: https://github.com/pymedusa/Medusa
 related_software_url: https://github.com/medusajs/nextjs-starter-medusa
-stargazers_count: 1750
-updated_at: '2024-04-03'
+stargazers_count: 1856
+updated_at: '2024-12-13'
 archived: false

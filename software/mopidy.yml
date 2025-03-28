@@ -9,6 +9,7 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/mopidy/mopidy
-stargazers_count: 7982
-updated_at: '2024-07-16'
+depends_3rdparty: true
+stargazers_count: 8230
+updated_at: '2025-03-17'
 archived: false

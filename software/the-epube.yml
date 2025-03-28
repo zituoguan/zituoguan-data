@@ -1,5 +1,5 @@
 name: The Epube
-website_url: https://tt-rss.org/the-epube
+website_url: https://gitlab.tt-rss.org/main/the-epube/-/wikis/home
 description: 使用 EPUB.js、Bootstrap 和 Calibre 的自托管 Web EPUB 阅读器。
 licenses:
   - GPL-3.0
@@ -7,4 +7,4 @@ platforms:
   - PHP
 tags:
   - 文档管理 - 电子书
-source_code_url: https://git.tt-rss.org/fox/the-epube
+source_code_url: https://gitlab.tt-rss.org/main/the-epube

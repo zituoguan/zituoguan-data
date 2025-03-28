@@ -7,8 +7,8 @@ platforms:
   - Docker
   - Rust
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/RouHim/this-week-in-past
-stargazers_count: 60
-updated_at: '2024-07-21'
+stargazers_count: 83
+updated_at: '2025-03-25'
 archived: false

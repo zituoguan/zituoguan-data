@@ -1,5 +1,5 @@
 name: Rygel
-website_url: https://wiki.gnome.org/action/show/Projects/Rygel
+website_url: https://gnome.pages.gitlab.gnome.org/rygel/
 description: Rygel 是一个 UPnP AV 媒体服务器，可以轻松共享音频、视频和图片。媒体播放器软件可以使用 Rygel 成为一个可以通过 UPnP 或 DLNA 控制器远程控制的 MediaRenderer。
 licenses:
   - GPL-3.0

@@ -2,7 +2,7 @@ name: Kresus
 website_url: https://kresus.org/
 description: 开源个人财务管理软件。
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
@@ -10,6 +10,6 @@ tags:
   - 资金、预算和管理
 source_code_url: https://github.com/kresusapp/kresus
 demo_url: https://kresus.org/en/demo.html
-stargazers_count: 291
-updated_at: '2024-07-17'
+stargazers_count: 311
+updated_at: '2025-03-26'
 archived: false

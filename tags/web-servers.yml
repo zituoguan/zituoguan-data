@@ -1,5 +1,5 @@
 name: Web 服务器
-description: '[Web 服务器](https://en.wikipedia.org/wiki/Web_server)是一种软件和底层硬件，通过 [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)（用于分发网络内容的网络协议）或其安全变体 [HTTPS](https://en.wikipedia.org/wiki/HTTPS) 接受请求。'
-redirect:
-  - title: awesome-sysadmin/Web
-    url: https://github.com/awesome-foss/awesome-sysadmin#web
+description: 'Web 服务器和反向代理。[Web 服务器](https://en.wikipedia.org/wiki/Web_server) 是一款通过 [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)（用于分发网页内容的网络协议）或其安全变体 [HTTPS](https://en.wikipedia.org/wiki/HTTPS) 接受请求的软件及底层硬件。[反向代理](https://en.wikipedia.org/wiki/Reverse_proxy) 是一种代理服务器，对任何客户端而言看似普通的 Web 服务器，但实际上仅作为中介，将请求转发给一个或多个普通 Web 服务器。'
+related_tags:
+  - 代理
+  

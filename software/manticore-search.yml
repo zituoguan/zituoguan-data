@@ -2,14 +2,15 @@ name: Manticore Search
 website_url: https://github.com/manticoresoftware/manticoresearch/
 description: 全文搜索和数据分析，对于小、中、大数据具有快速的响应时间（替代Elasticsearch）。
 licenses:
-  - GPL-2.0
+  - GPL-3.0
 platforms:
   - Docker
   - deb
   - C++
+  - K8S
 tags:
   - 搜索引擎
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
-stargazers_count: 8718
-updated_at: '2024-07-23'
+stargazers_count: 9865
+updated_at: '2025-03-26'
 archived: false

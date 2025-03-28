@@ -6,8 +6,8 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/immich-app/immich
-stargazers_count: 40479
-updated_at: '2024-07-23'
+stargazers_count: 62249
+updated_at: '2025-03-26'
 archived: false

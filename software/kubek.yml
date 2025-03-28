@@ -1,5 +1,5 @@
 name: Kubek
-website_url: https://kubek.seeroy.ru
+website_url: https://kubek.seeeroy.ru
 description: 用于Minecraft服务器的Web管理面板。
 licenses:
   - GPL-3.0
@@ -8,6 +8,6 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/seeroy/kubek-minecraft-dashboard
-stargazers_count: 81
-updated_at: '2024-06-09'
+stargazers_count: 104
+updated_at: '2025-02-24'
 archived: false

@@ -1,5 +1,5 @@
 name: Uptime Kuma
-website_url: https://github.com/louislam/uptime-kuma
+website_url: https://uptime.kuma.pet/
 description: 类似于 "Uptime Robot" 的自托管网站监控工具。
 licenses:
   - MIT
@@ -10,6 +10,6 @@ tags:
   - 状态/正常运行时间页面
 source_code_url: https://github.com/louislam/uptime-kuma
 demo_url: https://demo.kuma.pet
-stargazers_count: 53111
-updated_at: '2024-07-18'
+stargazers_count: 66398
+updated_at: '2025-03-26'
 archived: false

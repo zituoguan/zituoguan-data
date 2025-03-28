@@ -1,7 +1,7 @@
-name: "Fusion"
-website_url: "https://github.com/0x2E/fusion"
-source_code_url: "https://github.com/0x2E/fusion"
-description: "一个轻量级的RSS聚合器和阅读器。"
+name: Fusion
+website_url: https://github.com/0x2E/fusion
+source_code_url: https://github.com/0x2E/fusion
+description: 一个轻量级的RSS聚合器和阅读器。
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - 订阅阅读器
+stargazers_count: 1331
+updated_at: '2025-03-25'
+archived: false

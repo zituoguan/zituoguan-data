@@ -1,6 +1,6 @@
 name: Dolibarr
 website_url: https://www.dolibarr.org/
-description: Dolibarr ERP CRM是一款现代软件包，用于管理公司或基金会的活动（联系人、供应商、发票、订单、库存、日程、会计等）。
+description: 现代化 CRM 软件包，用于管理您的公司或基金会活动（联系人、供应商、发票、订单、库存、日程、会计等）。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,8 +8,9 @@ platforms:
   - deb
 tags:
   - 资源规划
+  - 客户关系管理（CRM）
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
-stargazers_count: 5113
-updated_at: '2024-07-23'
+stargazers_count: 5863
+updated_at: '2025-03-26'
 archived: false

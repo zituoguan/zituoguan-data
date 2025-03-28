@@ -9,8 +9,9 @@ platforms:
   - Nodejs
 tags:
   - 流媒体 - 音频流媒体
+  - 文档管理 - 电子书
 source_code_url: https://github.com/advplyr/audiobookshelf
 related_software_url: https://github.com/advplyr/audiobookshelf-app
-stargazers_count: 5854
-updated_at: '2024-07-23'
+stargazers_count: 8179
+updated_at: '2025-03-26'
 archived: false

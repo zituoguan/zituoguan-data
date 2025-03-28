@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-source_code_url: https://github.com/anycable/anycable-go
+source_code_url: https://github.com/anycable/anycable
 demo_url: https://demo.anycable.io
-stargazers_count: 360
-updated_at: '2024-07-16'
+stargazers_count: 2018
+updated_at: '2025-03-26'
 archived: false

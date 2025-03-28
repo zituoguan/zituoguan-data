@@ -7,8 +7,8 @@ platforms:
   - Python
   - Docker
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/thumbor/thumbor
-stargazers_count: 9959
-updated_at: '2024-06-04'
+stargazers_count: 10216
+updated_at: '2025-03-21'
 archived: false

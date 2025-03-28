@@ -6,8 +6,8 @@ licenses:
 platforms:
   - Go
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/lomorage/homepage
-stargazers_count: 209
-updated_at: '2024-04-17'
+stargazers_count: 230
+updated_at: '2024-11-18'
 archived: false

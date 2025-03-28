@@ -2,12 +2,12 @@ name: OXID eShop
 website_url: https://oxidforge.org/en/
 description: OXID eShop是一款功能丰富、灵活的开源电子商务软件。
 licenses:
-  - GPL-3.0
+  - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - 电子商务
 source_code_url: https://github.com/OXID-eSales/oxideshop_ce
-stargazers_count: 235
-updated_at: '2024-07-05'
+stargazers_count: 237
+updated_at: '2025-03-25'
 archived: false

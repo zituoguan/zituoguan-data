@@ -7,8 +7,8 @@ platforms:
   - Go
   - Docker
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/photoview/photoview
-stargazers_count: 4857
-updated_at: '2024-07-23'
+stargazers_count: 5779
+updated_at: '2025-03-22'
 archived: false

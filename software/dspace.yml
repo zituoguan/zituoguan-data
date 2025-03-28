@@ -1,5 +1,5 @@
 name: DSpace
-website_url: https://duraspace.org/dspace/
+website_url: http://www.dspace.org/
 description: 一款即开即用的仓库应用，提供对数字资源的持久访问。
 licenses:
   - BSD-3-Clause
@@ -8,6 +8,6 @@ platforms:
 tags:
   - 文档管理 - 机构知识库和数字图书馆软件
 source_code_url: https://github.com/DSpace/DSpace
-stargazers_count: 863
-updated_at: '2024-07-23'
+stargazers_count: 942
+updated_at: '2025-03-26'
 archived: false

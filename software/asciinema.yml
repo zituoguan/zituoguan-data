@@ -1,5 +1,5 @@
 name: asciinema
-website_url: https://github.com/asciinema/asciinema-server
+website_url: https://asciinema.org/
 description: 用于托管 asciicasts 的 Web 应用程序。
 licenses:
   - Apache-2.0
@@ -9,7 +9,7 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/asciinema/asciinema-server
-demo_url: https://asciinema.org/
-stargazers_count: 2263
-updated_at: '2024-07-02'
+demo_url: https://asciinema.org/explore
+stargazers_count: 2351
+updated_at: '2025-03-07'
 archived: false

@@ -7,9 +7,10 @@ platforms:
   - Go
   - Docker
 tags:
-  - 通信 - 定制通信系统
+  - 粘贴板
+  - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/
-stargazers_count: 1732
-updated_at: '2024-07-23'
+stargazers_count: 2016
+updated_at: '2025-03-25'
 archived: false

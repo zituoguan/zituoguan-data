@@ -1,14 +1,14 @@
 name: Coppermine
-website_url: https://coppermine-gallery.net/
+website_url: https://coppermine-gallery.com/
 description: 多语言相册，与各种论坛集成。包括上传审批和密码保护的相册。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/coppermine-gallery/cpg1.6.x
-demo_url: https://coppermine-gallery.net/demo/cpg15x/
-stargazers_count: 66
+demo_url: https://coppermine-gallery.com/demo/cpg15x/
+stargazers_count: 68
 updated_at: '2024-06-13'
 archived: false

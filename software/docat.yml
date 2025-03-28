@@ -7,8 +7,8 @@ platforms:
   - Python
   - Docker
 tags:
-  - 文档管理
+  - 杂项
 source_code_url: https://github.com/docat-org/docat
-stargazers_count: 777
-updated_at: '2024-06-22'
+stargazers_count: 837
+updated_at: '2024-10-30'
 archived: false

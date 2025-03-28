@@ -2,7 +2,7 @@
 name: 添加
 about: 向列表添加新软件。
 title: 添加 SOFTWARE_NAME
-labels: addition
+labels: 附加项，最好是有
 assignees: ''
 
 ---

@@ -7,9 +7,9 @@ platforms:
   - Go
   - Docker
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/photoprism/photoprism
 demo_url: https://demo.photoprism.app/library/browse
-stargazers_count: 33801
-updated_at: '2024-07-23'
+stargazers_count: 36804
+updated_at: '2025-03-26'
 archived: false

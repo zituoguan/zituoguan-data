@@ -1,5 +1,5 @@
 name: Synapse
-website_url: https://matrix-org.github.io/synapse/latest/
+website_url: https://element-hq.github.io/synapse/latest/index.html
 description: 用于 [Matrix](https://matrix.org/) 的服务器，Matrix 是一种用于分散式持久通信的开放标准。
 licenses:
   - Apache-2.0
@@ -9,6 +9,6 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/element-hq/synapse
-stargazers_count: 1050
-updated_at: '2024-07-23'
+stargazers_count: 2177
+updated_at: '2025-03-26'
 archived: false

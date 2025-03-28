@@ -1,14 +1,14 @@
 name: Krayin
 website_url: https://krayincrm.com/
-description: 免费且开源的Laravel CRM应用程序。
+description: 中小型企业和大型企业的CRM解决方案，提供完整的客户生命周期管理。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - 自动化
+  - 客户关系管理（CRM）
 source_code_url: https://github.com/krayin/laravel-crm
 demo_url: https://demo.krayincrm.com/
-stargazers_count: 7749
-updated_at: '2024-07-12'
+stargazers_count: 13700
+updated_at: '2025-03-20'
 archived: false

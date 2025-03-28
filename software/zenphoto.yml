@@ -6,8 +6,8 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/zenphoto/zenphoto
-stargazers_count: 300
-updated_at: '2024-07-23'
+stargazers_count: 305
+updated_at: '2025-03-26'
 archived: false

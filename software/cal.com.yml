@@ -2,13 +2,13 @@ name: Cal.com
 website_url: https://cal.com/
 description: 开源的在线预约系统。
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
 tags:
   - 预订和日程安排
 source_code_url: https://github.com/calcom/cal.com
 demo_url: https://app.cal.com/bailey
-stargazers_count: 30154
-updated_at: '2024-07-23'
+stargazers_count: 35314
+updated_at: '2025-03-26'
 archived: false

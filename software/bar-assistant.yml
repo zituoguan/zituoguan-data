@@ -1,5 +1,5 @@
 name: Bar Assistant
-website_url: https://github.com/karlomikus/bar-assistant
+website_url: https://barassistant.app/
 description: Bar Assistant是一个自托管的应用，用于管理家庭酒吧。它允许您添加成分，搜索鸡尾酒，并创建自定义鸡尾酒配方。
 licenses:
   - MIT
@@ -9,7 +9,7 @@ platforms:
 tags:
   - 食谱管理
 source_code_url: https://github.com/karlomikus/bar-assistant
-demo_url: https://bar.karlomikus.com/
-stargazers_count: 445
-updated_at: '2024-07-22'
+demo_url: https://demo.barassistant.app/
+stargazers_count: 766
+updated_at: '2025-03-26'
 archived: false

@@ -1,6 +1,6 @@
 name: Tube
 website_url: https://git.mills.io/prologic/tube
-description: 采用Go编写的类似YouTube的（_无审查和您不需要的功能！_）视频共享应用，还支持自动转码为MP4 H.265 AAC，多个收藏夹和RSS订阅。
+description: 类似 Youtube（_无审查且不含您不需要的功能！_）的视频共享应用，使用 Go 编写，还支持自动转码为 MP4 H.265 AAC、多个合集和 RSS 订阅。
 licenses:
   - MIT
 platforms:

@@ -1,13 +1,13 @@
 name: MistServer
 website_url: https://mistserver.org/
-description: 在任何流媒体环境中都能很好运行的流媒体服务器。
+description: 适用于任何设备和格式的公共领域流媒体服务器。
 licenses:
-  - AGPL-3.0
+  - Unlicense
 platforms:
   - C++
 tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/DDVTECH/mistserver
-stargazers_count: 354
-updated_at: '2023-12-20'
+stargazers_count: 413
+updated_at: '2025-02-05'
 archived: false

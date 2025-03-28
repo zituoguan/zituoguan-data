@@ -7,8 +7,8 @@ platforms:
   - Perl
 tags:
   - 文档管理 - 机构知识库和数字图书馆软件
-source_code_url: https://github.com/eprints/eprints
+source_code_url: https://github.com/eprints/eprints3.4
 demo_url: http://tryme.demo.eprints-hosting.org/
-stargazers_count: 68
-updated_at: '2023-07-31'
+stargazers_count: 35
+updated_at: '2025-03-21'
 archived: false

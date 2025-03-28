@@ -7,9 +7,9 @@ platforms:
   - Python
   - Docker
 tags:
-  - 照片和视频库
+  - 相册
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 6702
-updated_at: '2024-07-23'
+stargazers_count: 7222
+updated_at: '2025-03-26'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/

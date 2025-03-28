@@ -6,8 +6,8 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 代理
+  - Web 服务器
 source_code_url: https://github.com/linuxserver/docker-swag
-stargazers_count: 2685
-updated_at: '2024-07-19'
+stargazers_count: 3167
+updated_at: '2025-03-22'
 archived: false
