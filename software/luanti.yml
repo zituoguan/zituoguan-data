@@ -10,7 +10,7 @@ platforms:
   - Lua
   - deb
 tags:
-  - Games
+  - 游戏
 source_code_url: https://github.com/minetest/minetest
 archived: false
 stargazers_count: 11260

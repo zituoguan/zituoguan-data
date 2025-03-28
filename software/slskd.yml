@@ -1,14 +1,14 @@
 name: slskd
 website_url: https://github.com/slskd/slskd
 source_code_url: https://github.com/slskd/slskd
-description: A modern client-server application for the Soulseek file sharing network.
+description: 一个现代化的客户端-服务器应用程序，适用于Soulseek文件共享网络。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - C#
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 depends_3rdparty: true
 stargazers_count: 1474
 updated_at: '2025-03-23'

@@ -8,7 +8,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 财务、预算和管理
+  - 资金、预算和管理
 demo_url: https://ezbookkeeping-demo.mayswind.net/
 stargazers_count: 595
 updated_at: '2025-03-23'

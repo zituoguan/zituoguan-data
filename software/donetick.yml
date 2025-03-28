@@ -8,7 +8,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 任务管理与待办清单
+  - 任务管理和待办清单
 demo_url: https://app.donetick.com/
 stargazers_count: 543
 updated_at: '2025-03-17'

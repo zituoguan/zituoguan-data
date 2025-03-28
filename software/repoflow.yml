@@ -2,7 +2,7 @@ name: RepoFlow
 website_url: https://www.repoflow.io
 description: 简化 npm、PyPI、Docker、Go、Helm 等的包管理。提供 10GB 存储、10GB 带宽、100 个包和无限用户的免费云端试用，或可自托管（仅限个人使用）。
 licenses:
-  - ⊘ 专有
+  - ⊘ Proprietary
 platforms:
   - Nodejs
   - Docker

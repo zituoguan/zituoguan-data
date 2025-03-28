@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 自动化
-  - 通讯 - 电子邮件 - 邮件列表和通讯
+  - 通信 - 电子邮件 - 邮件列表和通讯
 demo_url: https://demo.dittofeed.com/dashboard/journeys
 stargazers_count: 2231
 updated_at: '2025-03-26'
