@@ -1,13 +1,13 @@
 name: BookLogr
 website_url: https://github.com/Mozzo1000/booklogr
 source_code_url: https://github.com/Mozzo1000/booklogr
-description: Web app designed to help you manage your personal book library with ease.
+description: 旨在帮助您轻松管理个人书籍库的 Web 应用。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 demo_url: https://demo.booklogr.app/
 stargazers_count: 287
 updated_at: '2025-01-27'

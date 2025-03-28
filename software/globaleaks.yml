@@ -2,7 +2,7 @@ name: GlobaLeaks
 website_url: https://www.globaleaks.org/
 source_code_url: https://github.com/globaleaks/whistleblowing-software
 demo_url: https://demo.globaleaks.org
-description: Whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+description: 一个举报软件，使任何人都能轻松设置和维护一个安全的报告平台。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 stargazers_count: 1311
 updated_at: '2025-03-26'
 archived: false

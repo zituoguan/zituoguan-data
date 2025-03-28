@@ -1,14 +1,14 @@
 name: Tegon
 website_url: https://tegon.ai
 source_code_url: https://github.com/tegonhq/tegon
-description: Dev-first issue tracking tool (alternative to Jira, Linear).
+description: 面向开发者的任务跟踪工具（Jira、Linear 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Task Management & To-do Lists
-  - Software Development - Project Management
+  - 任务管理和待办清单
+  - 软件开发 - 项目管理
 depends_3rdparty: true
 stargazers_count: 1776
 updated_at: '2025-03-13'

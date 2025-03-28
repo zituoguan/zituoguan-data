@@ -1,11 +1,11 @@
 name: "Flink"
 website_url: "https://gitlab.com/rtraceio/web/flink"
 source_code_url: "https://gitlab.com/rtraceio/web/flink"
-description: "Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata."
+description: "创建二维码、可嵌入的链接预览以及网站的元数据抓取/爬取。"
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - URL Shorteners
+  - URL 缩短服务
 demo_url: "https://flink.is"

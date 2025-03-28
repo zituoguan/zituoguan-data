@@ -1,13 +1,13 @@
 name: HomeServerHQ
 website_url: https://www.homeserverhq.com/
 source_code_url: https://github.com/homeserverhq/hshq
-description: An all-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT.
+description: "一个一体化的家庭服务器基础设施和安装工具。即使在 CGNAT 后面，也可以在不到一小时的时间内配置完整的邮件服务器、VPN 和公共网站。"
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 stargazers_count: 15
 updated_at: '2025-03-24'
 archived: false

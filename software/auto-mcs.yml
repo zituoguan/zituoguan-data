@@ -1,13 +1,13 @@
 name: auto-mcs
 website_url: https://www.auto-mcs.com
 source_code_url: https://github.com/macarooni-man/auto-mcs
-description: Cross-platform Minecraft server manager.
+description: 跨平台的 Minecraft 服务器管理器。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 stargazers_count: 233
 updated_at: '2025-01-07'
 archived: false

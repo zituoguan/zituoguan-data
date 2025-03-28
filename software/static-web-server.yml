@@ -1,7 +1,7 @@
 name: Static Web Server
 website_url: https://static-web-server.net/
 source_code_url: https://github.com/static-web-server/static-web-server
-description: Cross-platform, high-performance, and asynchronous web server for static file serving.
+description: 跨平台、高性能且异步的静态文件服务 Web 服务器。
 licenses:
   - Apache-2.0
   - MIT
@@ -9,7 +9,7 @@ platforms:
   - Rust
   - Docker
 tags:
-  - Web Servers
+  - Web 服务器
 stargazers_count: 1722
 updated_at: '2025-03-24'
 archived: false

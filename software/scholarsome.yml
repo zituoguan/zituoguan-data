@@ -1,12 +1,12 @@
 name: scholarsome
 website_url: https://www.scholarsome.com/
-description: Web-based and open source interactive flashcard learning software studying for the masses.
+description: 面向大众学习的基于网络和开源的交互式闪卡学习软件。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Learning and Courses
+  - 学习和课程
 source_code_url: https://github.com/hwgilbert16/scholarsome
 demo_url: https://scholarsome.com/
 stargazers_count: 585

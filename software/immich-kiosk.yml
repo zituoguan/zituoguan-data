@@ -1,14 +1,14 @@
 name: Immich Kiosk
 website_url: https://github.com/damongolding/immich-kiosk
 source_code_url: https://github.com/damongolding/immich-kiosk
-description: A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
+description: "一个轻量级幻灯片，用于在自助设备和浏览器上运行，使用 Immich 作为数据源。"
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Photo Galleries
+  - 相册
 stargazers_count: 751
 updated_at: '2025-03-26'
 archived: false

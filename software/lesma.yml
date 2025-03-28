@@ -1,12 +1,12 @@
 name: "lesma"
 website_url: "https://lesma.eu"
 source_code_url: "https://gitlab.com/ogarcia/lesma"
-description: "Simple paste app friendly with browser and command line."
+description: "一个简单的粘贴应用，兼容浏览器和命令行。"
 licenses:
   - GPL-3.0
 platforms:
   - Rust
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 demo_url: "https://lesma.eu"

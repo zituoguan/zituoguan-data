@@ -1,13 +1,13 @@
 name: BookBounty
 website_url: https://github.com/TheWicklowWolf/BookBounty
 source_code_url: https://github.com/TheWicklowWolf/BookBounty
-description: Retrieve missing Readarr books from Library Genesis.
+description: 从 Library Genesis 检索缺失的 Readarr 书籍。
 licenses:
   - MPL-2.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 depends_3rdparty: true
 stargazers_count: 197
 updated_at: '2025-03-10'

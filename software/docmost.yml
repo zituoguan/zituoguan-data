@@ -1,14 +1,14 @@
 name: docmost
 website_url: https://docmost.com/
 source_code_url: https://github.com/docmost/docmost
-description: Collaborative wiki and documentation software (alternative to Confluence, Notion).
+description: 协作型 Wiki 和文档软件（Confluence、Notion 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Wikis
+  - 维基
 stargazers_count: 12874
 updated_at: '2025-03-23'
 archived: false

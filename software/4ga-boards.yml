@@ -1,7 +1,7 @@
 name: 4ga Boards
 website_url: https://4gaboards.com
 source_code_url: https://github.com/RARgames/4gaBoards
-description: Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.
+description: 简单直观的实时看板管理，用于直观的任务跟踪。提供优雅的暗色模式、可折叠的待办事项列表和多任务工具，以大幅提升团队生产力。
 licenses:
   - MIT
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Task Management & To-do Lists
-  - Software Development - Project Management
+  - 任务管理和待办清单
+  - 软件开发 - 项目管理
 demo_url: https://demo.4gaboards.com
 stargazers_count: 130
 updated_at: '2025-03-25'

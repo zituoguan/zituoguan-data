@@ -1,10 +1,11 @@
 name: "memEx"
 website_url: "https://gitea.bubbletea.dev/shibao/memEx"
 source_code_url: "https://gitea.bubbletea.dev/shibao/memEx"
-description: "A structured personal knowledge base, inspired by zettlekasten and org-mode."
+description: "一个结构化的个人知识库，受zettlekasten和org-mode启发。"
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Knowledge Management Tools
+  - 知识管理工具
+  

@@ -1,14 +1,14 @@
 name: Bugsink
 website_url: https://www.bugsink.com/
 source_code_url: https://github.com/bugsink/bugsink/
-description: Real-time error tracking for your applications with all the details in one place. Easy setup with clear instructions included.
+description: 实时错误追踪，让您的应用程序所有细节尽在掌握。包含清晰指南，轻松完成设置。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Python
   - Docker
 tags:
-  - Ticketing
+  - 工单
 stargazers_count: 405
 updated_at: '2025-03-19'
 archived: false

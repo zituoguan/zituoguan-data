@@ -1,7 +1,7 @@
 name: "Apache HTTP Server"
 website_url: "https://httpd.apache.org/"
 source_code_url: "https://svn.apache.org/repos/asf/httpd/httpd/trunk/"
-description: "Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards."
+description: "安全、高效且可扩展的服务器，提供与当前 HTTP 标准同步的 HTTP 服务。"
 licenses:
   - Apache-2.0
 platforms:
@@ -9,4 +9,4 @@ platforms:
   - deb
   - Docker
 tags:
-  - Web Servers
+  - Web 服务器

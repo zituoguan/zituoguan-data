@@ -1,7 +1,7 @@
 name: Frappe HR
 website_url: https://frappe.io/hr
 source_code_url: https://github.com/frappe/hrms
-description: Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more.
+description: 完整的 HRMS 解决方案，涵盖 13 个不同的模块，包括员工管理、入职、请假、薪资、税务等。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Python
   - Nodejs
 tags:
-  - Human Resources Management (HRM)
+  - 人力资源管理（HRM）
 stargazers_count: 1966
 updated_at: '2025-03-26'
 archived: false

@@ -1,10 +1,10 @@
-name: Geeftlist
+name: Geeflist
 website_url: https://codeberg.org/nanawel/geeftlist
-description: Collaborative platform for managing, sharing and reserving gifts between friends and family.
+description: 供朋友和家人之间管理、共享和预定礼物的协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/nanawel/geeftlist

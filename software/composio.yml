@@ -1,13 +1,13 @@
 name: Composio
 website_url: https://composio.dev/
 source_code_url: https://github.com/ComposioHQ/composio
-description: Integration platform for AI agents & LLMs with support for 250+ apps and custom tools.
+description: 面向 AI 代理和大型语言模型（LLM）的集成平台，支持 250 多个应用和自定义工具。
 licenses:
   - Elastic-2.0
 platforms:
   - Python
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 depends_3rdparty: true
 stargazers_count: 24603
 updated_at: '2025-03-26'

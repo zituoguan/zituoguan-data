@@ -1,13 +1,13 @@
 name: Langfuse
 website_url: https://langfuse.com
 source_code_url: https://github.com/langfuse/langfuse
-description: LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents.
+description: LLM 工程平台，用于模型追踪、提示管理和应用评估。Langfuse 帮助团队协作调试、分析和迭代他们的 LLM 应用，如聊天机器人或 AI 代理。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 demo_url: https://langfuse.com/docs/demo
 related_software_url: https://langfuse.com/docs/integrations/overview
 stargazers_count: 9760

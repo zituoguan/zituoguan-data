@@ -1,13 +1,13 @@
 name: Feeds Fun
 website_url: https://feeds.fun/
 source_code_url: https://github.com/Tiendil/feeds.fun
-description: News reader with tags, scoring, and AI.
+description: 带标签、评分和 AI 的新闻阅读器。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
 tags:
-  - Feed Readers
+  - 订阅阅读器
 stargazers_count: 109
 updated_at: '2025-02-28'
 archived: false

@@ -1,14 +1,14 @@
 name: go-doxy
 source_code_url: https://github.com/yusing/godoxy
 website_url: https://github.com/yusing/godoxy
-description: A lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic.
+description: 一款轻量级、简单且高效的反向代理，具有 WebUI、Docker 集成以及基于流量的容器自动启动/关闭功能。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Web Servers
+  - Web 服务器
 stargazers_count: 1486
 updated_at: '2025-03-22'
 archived: false

@@ -1,14 +1,14 @@
 name: Puter
 website_url: https://puter.com/
-description: Web-based operating system designed to be feature-rich, exceptionally fast, and highly extensible.
+description: 旨在提供丰富功能、极快速度和高度可扩展性的基于 Web 的操作系统。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - File Transfer & Synchronization
-  - Remote Access
+  - 文件传输和同步
+  - 远程访问
 source_code_url: https://github.com/heyputer/puter
 demo_url: https://puter.com/
 stargazers_count: 29646

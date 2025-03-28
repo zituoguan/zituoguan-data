@@ -1,14 +1,14 @@
 name: ClipCascade
 website_url: https://github.com/Sathvik-Rao/ClipCascade
 source_code_url: https://github.com/Sathvik-Rao/ClipCascade
-description: Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption.
+description: 即时同步您的剪贴板到多个设备，无需任何按钮操作。支持 Windows、macOS、Linux 和 Android，提供无缝、安全的剪贴板共享，并且支持端到端数据加密。
 licenses:
   - GPL-3.0
 platforms:
   - Java
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 770
 updated_at: '2025-02-06'
 archived: false

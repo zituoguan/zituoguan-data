@@ -1,12 +1,12 @@
 name: Manifest
 website_url: https://manifest.build
-description: A complete backend that fits into 1 YAML file.
+description: 适合一个YAML文件的完整后端。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 source_code_url: https://github.com/mnfst/manifest
 demo_url: https://manifest.new
 stargazers_count: 2327

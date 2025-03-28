@@ -1,15 +1,15 @@
 name: Enclosed
 website_url: https://enclosed.cc/
 source_code_url: https://github.com/CorentinTh/enclosed
-description: A minimalistic web application designed for sending private and secure notes.
+description: 一个简约的 Web 应用程序，旨在发送私人和安全的笔记。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
-  - Pastebins
+  - 文件传输 - 单击和拖放上传
+  - 粘贴板
 demo_url: https://enclosed.cc/
 stargazers_count: 1284
 updated_at: '2025-03-22'

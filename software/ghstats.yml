@@ -1,13 +1,13 @@
 name: ghstats
 website_url: https://github.com/vladkens/ghstats
 source_code_url: https://github.com/vladkens/ghstats
-description: Dashboard for tracking GitHub repos traffic history longer than 14 days.
+description: 用于跟踪 GitHub 仓库流量历史记录超过 14 天的仪表盘。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Analytics
+  - 分析
 depends_3rdparty: true
 stargazers_count: 145
 updated_at: '2025-02-15'

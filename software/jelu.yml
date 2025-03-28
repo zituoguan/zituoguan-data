@@ -1,14 +1,14 @@
 name: Jelu
 website_url: https://bayang.github.io/jelu-web
 source_code_url: https://github.com/bayang/jelu
-description: Self hosted read and to-read list book tracker.
+description: "自托管的阅读和待阅读书单跟踪工具。"
 licenses:
   - MIT
 platforms:
   - Java
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 445
 updated_at: '2025-03-24'
 archived: false

@@ -1,7 +1,7 @@
 name: Varnish
 website_url: https://varnish-cache.org/
 source_code_url: https://github.com/varnishcache/varnish-cache
-description: Web application accelerator/caching HTTP reverse proxy.
+description: Web 应用加速器/缓存 HTTP 反向代理。
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Web Servers
+  - Web 服务器
 stargazers_count: 3805
 updated_at: '2025-03-26'
 archived: false

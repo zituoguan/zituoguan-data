@@ -1,13 +1,13 @@
 name: AliasVault
 website_url: https://www.aliasvault.net
 source_code_url: https://github.com/lanedirt/AliasVault
-description: End-to-end encrypted password manager with a built-in email alias generator and server.
+description: 端到端加密的密码管理器，内置电子邮件别名生成器和服务器。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Password Managers
+  - 密码管理器
 stargazers_count: 505
 updated_at: '2025-03-25'
 archived: false

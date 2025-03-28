@@ -1,13 +1,13 @@
 name: ChannelTube
 website_url: https://github.com/TheWicklowWolf/ChannelTube
 source_code_url: https://github.com/TheWicklowWolf/ChannelTube
-description: Download video or audio from YouTube channels on a schedule via yt-dlp.
+description: 使用 yt-dlp 定期从 YouTube 频道下载视频或音频。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 depends_3rdparty: true
 stargazers_count: 193
 updated_at: '2025-03-25'

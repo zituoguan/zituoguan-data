@@ -1,7 +1,7 @@
 name: Caddy
 website_url: https://caddyserver.com/
 source_code_url: https://github.com/caddyserver/caddy
-description: Powerful, enterprise-ready, open source web server with automatic HTTPS.
+description: 强大、企业级、开源的 Web 服务器，支持自动 HTTPS。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - Web Servers
+  - Web 服务器
 stargazers_count: 62470
 updated_at: '2025-03-25'
 archived: false

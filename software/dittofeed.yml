@@ -1,14 +1,14 @@
 name: Dittofeed
 website_url: https://www.dittofeed.com
 source_code_url: https://github.com/dittofeed/dittofeed
-description: Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable).
+description: 全渠道客户互动和消息自动化平台（Braze、Customer.io、Iterable 的替代品）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Automation
-  - Communication - Email - Mailing Lists and Newsletters
+  - 自动化
+  - 通讯 - 电子邮件 - 邮件列表和通讯
 demo_url: https://demo.dittofeed.com/dashboard/journeys
 stargazers_count: 2231
 updated_at: '2025-03-26'

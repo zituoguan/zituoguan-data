@@ -1,13 +1,13 @@
 name: Viseron
 website_url: https://viseron.netlify.app/
 source_code_url: https://github.com/roflcoopter/viseron
-description: Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
+description: 自托管、仅限本地的 NVR 和 AI 计算机视觉软件。具有物体检测、动作检测、面部识别等功能，让您能够监控家中、办公室或其他任何想监视的地方。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Video Surveillance
+  - 视频监控
 depends_3rdparty: false
 stargazers_count: 1924
 updated_at: '2025-03-20'

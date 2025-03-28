@@ -1,13 +1,13 @@
 name: Engity's Bifröst
 website_url: https://bifroest.engity.org/
-description: Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
+description: 高度可定制的 SSH 服务器，提供多种用户授权方式，并可选择如何以及在哪里执行用户会话。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Docker
 tags:
-  - Remote Access
+  - 远程访问
 source_code_url: https://github.com/engity-com/bifroest
 stargazers_count: 38
 updated_at: '2025-03-26'

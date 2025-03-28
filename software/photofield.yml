@@ -1,14 +1,14 @@
 name: Photofield
 website_url: https://github.com/SmilyOrg/photofield
 source_code_url: https://github.com/SmilyOrg/photofield
-description: Experimental fast photo viewer.
+description: 实验性的快速照片查看器。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Photo Galleries
+  - 相册
 stargazers_count: 478
 updated_at: '2025-03-02'
 archived: false

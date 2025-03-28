@@ -1,14 +1,14 @@
 name: iSponsorBlockTV
 website_url: https://github.com/dmunozv04/iSponsorBlockTV
 source_code_url: https://github.com/dmunozv04/iSponsorBlockTV
-description: SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads.
+description: "YouTube TV 的 SponsorBlock，允许跳过赞助商、静音和跳过广告。"
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Miscellaneous
+  - 杂项
 depends_3rdparty: true
 stargazers_count: 2814
 updated_at: '2025-03-24'

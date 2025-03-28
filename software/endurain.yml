@@ -1,13 +1,13 @@
 name: Endurain
 website_url: https://docs.endurain.com/
 source_code_url: https://github.com/joaovitoriasilva/endurain
-description: Fitness tracking service designed to give users full control over their data and hosting environment.
+description: 健身追踪服务，旨在让用户完全控制他们的数据和托管环境。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 843
 updated_at: '2025-02-28'
 archived: false

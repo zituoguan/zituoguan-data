@@ -1,15 +1,15 @@
 name: SilverBullet
 website_url: https://silverbullet.md/
 source_code_url: https://github.com/silverbulletmd/silverbullet
-description: Note-taking application optimized for people with a hacker mindset.
+description: 为黑客思维人群优化的笔记应用程序。
 licenses:
   - MIT
 platforms:
   - Docker
   - Deno
 tags:
-  - Note-taking & Editors
-  - Pastebins
+  - 笔记和编辑器
+  - 粘贴板
 demo_url: https://play.silverbullet.md/
 related_software_url: https://silverbullet.md/Libraries
 stargazers_count: 3144

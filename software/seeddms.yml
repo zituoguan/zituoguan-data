@@ -1,11 +1,11 @@
 name: "SeedDMS"
 website_url: "https://www.seeddms.org"
 source_code_url: "https://sourceforge.net/p/seeddms/code/ci/master/tree/"
-description: "Document Management System with workflows, access rights, fulltext search, and more."
+description: "具有工作流、访问权限、全文搜索等功能的文档管理系统。"
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Document Management
+  - 文档管理
 demo_url: "https://www.seeddms.org/about/"

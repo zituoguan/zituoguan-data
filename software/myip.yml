@@ -1,14 +1,14 @@
 name: MyIP
 website_url: https://ipcheck.ing
 source_code_url: https://github.com/jason5ng32/MyIP
-description: All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+description: 全功能 IP 工具箱。轻松检查您的 IP 地址、IP 地理位置、DNS 泄漏检查、WebRTC 连接检查、速度测试、ping 测试、MTR 测试、检查网站可用性等。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
 stargazers_count: 7973

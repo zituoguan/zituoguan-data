@@ -1,13 +1,13 @@
 name: Minus Games
 website_url: https://accessory.github.io/minus_games_user_guide
 source_code_url: https://github.com/Accessory/minus_games
-description: Sync games and save files across multiple devices.
+description: 在多台设备间同步游戏和存档文件。
 licenses:
   - MIT
 platforms:
   - Rust
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 stargazers_count: 13
 updated_at: '2025-03-11'
 archived: false

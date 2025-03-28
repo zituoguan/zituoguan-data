@@ -1,11 +1,11 @@
-name: "RepoFlow"
-website_url: "https://www.repoflow.io"
-description: "Simplify package management for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only."
+name: RepoFlow
+website_url: https://www.repoflow.io
+description: 简化 npm、PyPI、Docker、Go、Helm 等的包管理。提供 10GB 存储、10GB 带宽、100 个包和无限用户的免费云端试用，或可自托管（仅限个人使用）。
 licenses:
-  - ⊘ Proprietary
+  - ⊘ 专有
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 source_code_url: https://www.repoflow.io

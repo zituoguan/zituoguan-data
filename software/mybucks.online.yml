@@ -1,13 +1,13 @@
 name: Mybucks.online
 website_url: https://mybucks.online
 source_code_url: https://github.com/mybucks-online/app
-description: A secure, browser-based, password-only self-custodial cryptocurrency wallet.
+description: 安全的基于浏览器的，仅凭密码自托管的加密货币钱包。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 demo_url: https://app.mybucks.online
 stargazers_count: 7
 updated_at: '2025-03-17'

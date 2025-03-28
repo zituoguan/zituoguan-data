@@ -1,13 +1,13 @@
 name: W
 website_url: https://w.club1.fr
 source_code_url: https://github.com/vincent-peugnet/wcms
-description: Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually.
+description: 轻量级、多用户、平面文件数据库的 Wiki 引擎。快速创建页面并使用 Markdown/HTML/CSS/JS 在浏览器中编辑。与其他 Wiki 的主要区别在于，鼓励您单独自定义每个页面的样式。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
-  - Wikis
+  - 维基
 stargazers_count: 31
 updated_at: '2025-02-08'
 archived: false

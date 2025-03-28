@@ -1,7 +1,7 @@
 name: wanderer
 website_url: https://github.com/Flomp/wanderer
 source_code_url: https://github.com/Flomp/wanderer
-description: Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue.
+description: 路径数据库，您可以上传录制的轨迹或创建新轨迹，并添加各种元数据以构建易于搜索的目录。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Go
   - Nodejs
 tags:
-  - Maps and Global Positioning System (GPS)
+  - 地图和全球定位系统（GPS）
 demo_url: https://demo.wanderer.to
 stargazers_count: 1856
 updated_at: '2025-03-22'

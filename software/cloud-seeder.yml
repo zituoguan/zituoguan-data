@@ -1,12 +1,12 @@
 name: Cloud Seeder
 website_url: https://ipv6.rs/cloudseeder/
-description: Cloud Seeder is a 1-click server appliance deployment and maintenance suite for Windows, MacOS and Linux.
+description: Cloud Seeder 是一个一键服务器设备部署和维护套件，支持 Windows、MacOS 和 Linux。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Go
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案
 source_code_url: https://github.com/ipv6rslimited/cloudseeder
 stargazers_count: 141
 updated_at: '2024-10-15'

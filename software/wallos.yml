@@ -1,14 +1,14 @@
 name: Wallos
 website_url: https://wallosapp.com
 source_code_url: https://github.com/ellite/wallos
-description: Lightweight personal subscription tracker with statistics and optional notifications.
+description: 轻量级个人订阅跟踪器，带有统计功能和可选通知。
 licenses:
   - GPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 demo_url: https://github.com/ellite/wallos?tab=readme-ov-file#demo
 stargazers_count: 4185
 updated_at: '2025-03-22'

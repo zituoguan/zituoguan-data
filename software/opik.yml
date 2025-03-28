@@ -1,14 +1,14 @@
 name: Opik
 website_url: https://www.comet.com/site/products/opik/
 source_code_url: https://github.com/comet-ml/opik
-description: Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+description: 通过一套可观察性工具评估、测试和发布LLM应用，帮助在开发和生产生命周期中校准语言模型输出。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Python
 tags:
-  - Software Development - API Management
+  - 软件开发 - API 管理
 depends_3rdparty: true
 stargazers_count: 5889
 updated_at: '2025-03-26'

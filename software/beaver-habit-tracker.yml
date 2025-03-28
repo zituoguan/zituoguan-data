@@ -1,13 +1,13 @@
 name: Beaver Habit Tracker
 website_url: https://github.com/daya0576/beaverhabits
 source_code_url: https://github.com/daya0576/beaverhabits
-description: Habit tracking app to save your precious moments in your fleeting life.
+description: 习惯跟踪应用，帮助您在短暂人生中保存珍贵时刻。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
 tags:
-  - Time Tracking
+  - 时间追踪
 demo_url: https://beaverhabits.com/demo
 stargazers_count: 896
 updated_at: '2025-03-26'

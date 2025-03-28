@@ -1,14 +1,14 @@
 name: not-th.re
 website_url: https://not-th.re
 source_code_url: https://github.com/not-three/main
-description: Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor.
+description: 简单的粘贴分享平台，具有客户端加密功能，配备 Monaco 浏览器代码编辑器。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 demo_url: https://not-th.re
 stargazers_count: 6
 updated_at: '2025-02-11'

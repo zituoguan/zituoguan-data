@@ -1,13 +1,13 @@
 name: ConvertX
 website_url: https://github.com/C4illin/ConvertX
 source_code_url: https://github.com/C4illin/ConvertX
-description: Online file converter which supports over a thousand different formats.
+description: 支持超过一千种不同格式的在线文件转换器。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 1124
 updated_at: '2025-03-20'
 archived: false

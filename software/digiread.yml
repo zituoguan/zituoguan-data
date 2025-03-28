@@ -1,12 +1,12 @@
 name: Digiread
 website_url: https://ladigitale.dev/digiread/
-description: Clean up online pages and articles using Mozilla's Readability (documentation in French).
+description: 使用 Mozilla 的 Readability 清理在线页面和文章（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/ladigitale/digiread
 depends_3rdparty: true

@@ -1,12 +1,12 @@
 name: conduwuit
 website_url: https://conduwuit.puppyirl.gay
-description: Well-maintained, featureful Matrix chat homeserver (fork of Conduit).
+description: 维护良好的、功能丰富的 Matrix 聊天主机（Conduit 的分支）。
 licenses:
   - Apache-2.0
 platforms:
   - Rust
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统
 source_code_url: https://github.com/girlbossceo/conduwuit
 stargazers_count: 912
 updated_at: '2025-03-21'

@@ -1,12 +1,12 @@
 name: Redlib
 website_url: https://github.com/redlib-org/redlib
-description: An alternative private front-end to Reddit, with its origins in Libreddit.
+description: Reddit 的替代私人前端，起源于 Libreddit。
 licenses:
   - AGPL-3.0
 platforms:
   - Rust
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛
 source_code_url: https://github.com/redlib-org/redlib
 depends_3rdparty: true
 stargazers_count: 1832

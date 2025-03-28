@@ -1,14 +1,14 @@
 name: Hi.Events
 website_url: https://hi.events
 source_code_url: https://github.com/HiEventsDev/hi.events
-description: Event management and ticketing platform for conferences, concerts, and more. Offering customizable event pages and embeddable ticket widgets.
+description: "用于会议、音乐会等活动管理和票务的平台。提供可自定义的活动页面和可嵌入的票务小部件。"
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Booking and Scheduling
-  - E-commerce
+  - 预订和日程安排
+  - 电子商务
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
 stargazers_count: 2722
 updated_at: '2025-03-26'

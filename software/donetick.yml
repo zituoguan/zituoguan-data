@@ -1,14 +1,14 @@
 name: Donetick
 website_url: https://donetick.com
 source_code_url: https://github.com/donetick/donetick
-description: Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design.
+description: 个人和家庭使用的任务和琐事管理工具，具有先进的调度、灵活的分配和群组共享功能，详细的历史记录，通过 API 实现自动化，简洁现代的设计。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Task Management & To-do Lists
+  - 任务管理与待办清单
 demo_url: https://app.donetick.com/
 stargazers_count: 543
 updated_at: '2025-03-17'

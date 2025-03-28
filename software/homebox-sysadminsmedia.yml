@@ -1,14 +1,14 @@
 name: HomeBox (SysAdminsMedia)
 website_url: https://homebox.software/
 source_code_url: https://github.com/sysadminsmedia/homebox
-description: Inventory and organization system built for the Home User.
+description: "为家庭用户构建的库存和组织系统。"
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - Inventory Management
+  - 库存管理
 demo_url: https://demo.homebox.software/
 stargazers_count: 2302
 updated_at: '2025-03-26'

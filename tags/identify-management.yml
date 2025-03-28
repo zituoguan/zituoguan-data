@@ -1,5 +1,5 @@
-name: Identity Management
-description: '[Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources.'
+name: 身份管理
+description: '[身份管理](https://en.wikipedia.org/wiki/Identity_management) (IdM)，也称为身份和访问管理 (IAM 或 IdAM)，是一套政策和技术框架，以确保正确的用户对技术资源拥有适当的访问权限。'
 redirect:
-  - title: awesome-sysadmin/Identity Management
+  - title: awesome-sysadmin/身份管理
     url: https://github.com/awesome-foss/awesome-sysadmin#identity-management

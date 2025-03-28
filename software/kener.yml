@@ -1,14 +1,14 @@
 name: kener
 website_url: https://kener.ing/
 source_code_url: https://github.com/rajnandan1/kener
-description: Status page with incident management, easy to use and customize.
+description: "状态页面与事件管理，易于使用和定制。"
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Status / Uptime pages
+  - 状态/正常运行时间页面
 demo_url: https://kener.ing/
 stargazers_count: 3580
 updated_at: '2025-03-25'

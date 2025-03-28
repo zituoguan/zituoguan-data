@@ -1,11 +1,11 @@
 name: Digiflashcards
 website_url: https://ladigitale.dev/digiflashcards/
-description: An online application to create flashcards (documentation in French).
+description: 一个在线应用程序，用于创建抽认卡（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://codeberg.org/ladigitale/digiflashcards

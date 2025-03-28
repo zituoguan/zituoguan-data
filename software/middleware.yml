@@ -1,7 +1,7 @@
 name: Middleware
 website_url: https://middlewarehq.com/
 source_code_url: https://github.com/middlewarehq/middleware
-description: Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics.
+description: 旨在帮助工程领导者使用DORA指标衡量和分析团队效能的工具。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Python
   - Nodejs
 tags:
-  - Analytics
+  - 分析
 stargazers_count: 1278
 updated_at: '2025-03-06'
 archived: false
