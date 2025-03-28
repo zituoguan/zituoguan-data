@@ -1,13 +1,10 @@
-name: Mautic
-website_url: https://www.mautic.org/
-description: Mautic是一款营销自动化软件（电子邮件、社交等）。
+name: Mayan EDMS
+website_url: https://www.mayan-edms.com
+description: 免费开源电子文档管理系统。为您的文档提供电子保险库，具备预览生成、OCR、自动分类等功能。
 licenses:
-  - GPL-3.0
+  - Apache-2.0
 platforms:
-  - PHP
+  - Python
 tags:
-  - 通信 - 电子邮件 - 邮件列表和通讯
-source_code_url: https://github.com/mautic/mautic
-stargazers_count: 6304
-updated_at: '2023-12-01'
-archived: false
+  - 文档管理
+source_code_url: https://gitlab.com/mayan-edms/mayan-edms

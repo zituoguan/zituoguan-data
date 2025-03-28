@@ -1,4 +1,4 @@
-name: SWAG（Secure Web Application Gateway）
+name: SWAG (Secure Web Application Gateway)
 website_url: https://github.com/linuxserver/docker-swag
 description: Nginx webserver 和带有 PHP 支持的反向代理，内置 Certbot（Let's Encrypt）客户端和 fail2ban 集成。
 licenses:

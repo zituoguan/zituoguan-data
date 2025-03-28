@@ -1,13 +1,12 @@
-name: Digiscreen
-website_url: https://ladigitale.dev/digiscreen/
-description: 课堂交互式白板/墙纸，支持远程和面对面教学（法语文档）。
+name: Digistorm
+website_url: https://digistorm.app/
+source_code_url: https://codeberg.org/ladigitale/digistorm
+description: 创建协作调查、测验、头脑风暴和词云（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
-  - PHP
 tags:
-  - 学习和课程
   - 协同办公
-source_code_url: https://codeberg.org/ladigitale/digiscreen
-demo_url: https://ladigitale.dev/digiscreen/
+  - 学习和课程
+demo_url: https://digistorm.app/
