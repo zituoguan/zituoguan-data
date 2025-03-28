@@ -1,6 +1,6 @@
 name: AnyCable
 website_url: https://anycable.io/
-description: Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc.
+description: 实时服务器，支持通过 WebSockets、服务器推送事件（Server-sent events）等实现可靠的双向通信。
 licenses:
   - MIT
 platforms:
