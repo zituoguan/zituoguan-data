@@ -1,5 +1,5 @@
 name: txtdot
-website_url: https://txtdot.github.io/documentation/
+website_url: https://tempoworks.github.io/documentation
 source_code_url: https://github.com/TxtDot/txtdot
 description: 一个HTTP代理，它仅从页面中解析文本、链接和图片，减少互联网带宽使用，去除广告和沉重的脚本。
 licenses:
