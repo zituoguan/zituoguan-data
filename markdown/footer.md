@@ -9,7 +9,7 @@
 
 ## 外部链接
 
-**[`^        返回顶部        ^`](#自托管精选)**
+**[`^        返回顶部        ^`](#id1)**
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精选的令人惊叹的开源系统管理员资源清单。
 - 面向隐私和去中心化的一些形式的软件列表: [PRISM Break](https://prism-break.org/en/)，[privacytools.io](https://www.privacytools.io/)，[Alternative Internet](https://redecentralize.github.io/alternative-internet/)，[Libre Projects](https://libreprojects.net/)，[Easy Indie App](https://easyindie.app)
