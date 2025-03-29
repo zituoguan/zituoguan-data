@@ -35,6 +35,12 @@ myst_html_meta = {
     "charset": "UTF-8"
 }
 
+# 启用标题锚点，数字表示要生成锚点的标题级别（这里是1-3级）
+myst_heading_anchors = 3
+
+# 自定义标题 slug 函数来正确处理中文字符
+myst_heading_slug_func = lambda s: s  # 保留原始文本作为 slug
+
 # theme configuration (https://pradyunsg.me/furo/customisation/)
 html_theme_options = {
     "top_of_page_button": None,
