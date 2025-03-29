@@ -39,7 +39,10 @@ myst_html_meta = {
 myst_heading_anchors = 3
 
 # 自定义标题 slug 函数来正确处理中文字符
-myst_heading_slug_func = lambda s: s  # 保留原始文本作为 slug
+def identity_slug_func(s):
+    return s
+
+myst_heading_slug_func = identity_slug_func # 保留原始文本作为 slug
 
 # theme configuration (https://pradyunsg.me/furo/customisation/)
 html_theme_options = {
