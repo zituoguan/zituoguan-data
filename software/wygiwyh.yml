@@ -2,6 +2,7 @@ name: WYGIWYH
 website_url: https://github.com/eitchtee/WYGIWYH
 source_code_url: https://github.com/eitchtee/WYGIWYH
 description: 简单而强大的财务跟踪器。
+demo_url: "https://wygiwyh-demo.herculino.com/"
 licenses:
   - AGPL-3.0
 platforms:
