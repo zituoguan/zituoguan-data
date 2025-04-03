@@ -37,7 +37,7 @@ myst_html_meta = {
 # theme configuration (https://pradyunsg.me/furo/customisation/)
 html_theme_options = {
     "top_of_page_button": None,
-    "announcement": "Example announcement!",
+    #"announcement": "Example announcement!",
     "source_repository": "https://github.com/zituoguan/zituoguan-data",
     "source_branch": "master",
     "footer_icons": [
