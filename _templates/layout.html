@@ -1,0 +1,10 @@
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    {{ super() }}
+    <script type="text/javascript">
+        // 你的内联JavaScript代码
+        console.log('Hello from Sphinx!');
+    </script>
+    <script src="{{ pathto(../_static/adsense.js', 1) }}"></script>
+{% endblock %}

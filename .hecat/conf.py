@@ -18,7 +18,7 @@ html_logo = '../_static/logo.svg'
 html_css_files = ['custom.css']
 extensions = ['myst_parser', 'sphinx_design']
 source_suffix = ['.md']
-templates_path = ['_templates']
+templates_path = ['../_templates']
 exclude_patterns = []
 html_static_path = ['../_static']
 # google adsense
