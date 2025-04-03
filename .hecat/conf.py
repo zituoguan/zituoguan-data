@@ -23,7 +23,7 @@ exclude_patterns = []
 html_static_path = ['../_static']
 # google adsense
 html_js_files = [
-    'adsense.js,
+    'adsense.js',
 ]
 
 # myst-parser configuration (https://myst-parser.readthedocs.io/en/latest/configuration.html)
