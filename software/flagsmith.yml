@@ -1,13 +1,13 @@
 name: Flagsmith
 website_url: https://flagsmith.com
-description: Flagsmith 提供仪表板、API 和 SDK，用于向应用程序添加功能标志（与 LaunchDarkly 的替代方案）。
+description: 用于为你的应用程序添加功能开关的仪表盘、API 和 SDK（LaunchDarkly 的替代方案）。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
   - K8S
 tags:
-  - 杂项
+  - 软件开发 - 功能开关
 source_code_url: https://github.com/flagsmith/flagsmith
 stargazers_count: 5595
 updated_at: '2025-04-25'
