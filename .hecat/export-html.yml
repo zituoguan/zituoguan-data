@@ -4,7 +4,7 @@ steps:
     module_options:
       source_directory: ./
       output_directory: html
-      xclude_licenses: []
+      exclude_licenses: []
       # exclude_licenses:
       #   - ⊘ Proprietary
       #   - BUSL-1.1
