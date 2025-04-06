@@ -1,7 +1,7 @@
 name: Hi.Events
 website_url: https://hi.events
 source_code_url: https://github.com/HiEventsDev/hi.events
-description: "用于会议、音乐会等活动管理和票务的平台。提供可自定义的活动页面和可嵌入的票务小部件。"
+description: 用于会议、音乐会等活动管理和票务的平台。提供可自定义的活动页面和可嵌入的票务小部件。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
   - 预订和日程安排
   - 电子商务
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
-stargazers_count: 2722
-updated_at: '2025-03-26'
+stargazers_count: 2736
+updated_at: '2025-04-02'
 archived: false
