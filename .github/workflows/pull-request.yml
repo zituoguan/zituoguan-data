@@ -1,4 +1,4 @@
-name: pull request
+name: 合并请求
 
 on:
   pull_request:

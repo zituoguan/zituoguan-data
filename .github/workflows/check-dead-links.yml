@@ -1,4 +1,4 @@
-name: dead links
+name: 检查无效链接
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   check-dead-links:
-    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
+    if: github.repository == 'zituoguan/zituoguan-data'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

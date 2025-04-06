@@ -1,4 +1,4 @@
-name: unmaintained projects
+name: 检查弃用项目
 
 on:
   schedule:
@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   check-unmaintained-projects:
-    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
+    if: github.repository == 'zituoguan/zituoguan-data'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
