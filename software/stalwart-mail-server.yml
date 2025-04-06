@@ -1,5 +1,5 @@
 name: Stalwart Mail Server
-website_url: https:///stalw.art
+website_url: https://stalw.art
 source_code_url: https://github.com/stalwartlabs/mail-server
 description: 一体化邮件服务器，支持JMAP、IMAP4和SMTP，并具有广泛的现代功能。
 licenses:
