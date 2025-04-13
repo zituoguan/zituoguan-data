@@ -1,6 +1,6 @@
 name: Bencher
 website_url: https://bencher.dev/
-description: Bencher是一套持续基准测试工具，旨在在CI中捕获性能回归。
+description: 一套持续基准测试工具套件，旨在在持续集成中捕捉性能回退。
 licenses:
   - MIT
   - Apache-2.0

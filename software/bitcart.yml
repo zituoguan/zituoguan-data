@@ -1,6 +1,6 @@
 name: Bitcart
 website_url: https://bitcart.ai
-description: 一个自托管的加密货币支付处理器和开发平台。
+description: 加密货币支付处理器和开发平台。
 licenses:
   - MIT
 platforms:

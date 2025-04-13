@@ -1,7 +1,7 @@
 name: bitmagnet
 website_url: https://bitmagnet.io
 source_code_url: https://github.com/bitmagnet-io/bitmagnet
-description: 一个自托管的 BitTorrent 索引器、DHT 爬虫、内容分类器和种子搜索引擎，具有 Web UI、GraphQL API 和 Servarr 栈集成。
+description: BitTorrent 索引器、DHT 爬虫、内容分类器和带有 Web UI、GraphQL API 及 Servarr 集成的种子搜索引擎。
 licenses:
   - MIT
 platforms:

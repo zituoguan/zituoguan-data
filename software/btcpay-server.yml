@@ -1,6 +1,5 @@
 name: BTCPay Server
-website_url: https://btcpayserver.org/
-description: 一个自托管的比特币和其他加密货币支付处理器。
+description: 比特币及其他加密货币的支付处理器。
 licenses:
   - MIT
 platforms:

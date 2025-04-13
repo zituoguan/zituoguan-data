@@ -1,6 +1,5 @@
 name: Black Candy
-website_url: https://github.com/blackcandy-org/black_candy
-description: 使用Rails和Stimulus构建的音乐流媒体服务器。
+description: 音乐流媒体服务器。
 licenses:
   - MIT
 platforms:

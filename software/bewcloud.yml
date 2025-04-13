@@ -1,7 +1,7 @@
 name: bewCloud
 website_url: https://bewcloud.com
 source_code_url: https://github.com/bewcloud/bewcloud
-description: Nextcloud 和 ownCloud 的更简单替代品，提供 RSS 阅读器、文件共享 + 同步、笔记和照片功能。
+description: 文件共享与同步、笔记和照片（Nextcloud 和 ownCloud 的 RSS 阅读器替代品）。
 licenses:
   - AGPL-3.0
 platforms:

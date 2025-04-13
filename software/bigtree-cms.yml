@@ -1,6 +1,6 @@
 name: BigTree CMS
 website_url: https://www.bigtreecms.org/
-description: 直观、文档完善、使用PHP和MySQL编写的CMS。
+description: 简单、文档完善且功能强大的内容管理系统（CMS）。
 licenses:
   - LGPL-2.1
 platforms:

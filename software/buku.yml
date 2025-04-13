@@ -1,6 +1,6 @@
 name: Buku
 website_url: https://github.com/jarun/Buku
-description: 一个功能强大的书签管理器和个人纯文本迷你网络。
+description: 强大的书签管理器和个人文本迷你网页。
 licenses:
   - GPL-3.0
 platforms:
