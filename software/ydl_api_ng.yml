@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/Totonyus/ydl_api_ng
 stargazers_count: 184
 updated_at: '2025-02-01'

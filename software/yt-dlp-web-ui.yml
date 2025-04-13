@@ -8,7 +8,7 @@ platforms:
   - Go
   - Nodejs
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/marcopeocchi/yt-dlp-web-ui
 stargazers_count: 1468
 updated_at: '2025-04-13'

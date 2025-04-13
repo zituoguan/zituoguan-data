@@ -7,7 +7,7 @@ platforms:
   - C#
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/Radarr/Radarr
 stargazers_count: 11403
 updated_at: '2025-04-26'

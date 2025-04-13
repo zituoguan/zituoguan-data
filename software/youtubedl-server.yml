@@ -1,13 +1,13 @@
 name: YoutubeDL-Server
 website_url: https://github.com/nbr23/youtube-dl-server
-description: 用于在服务器上下载视频的Web和REST接口。
+description: Youtube-DL 的 Web 和 REST 接口，用于将视频下载到服务器上。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/nbr23/youtube-dl-server
 stargazers_count: 268
 updated_at: '2025-04-20'

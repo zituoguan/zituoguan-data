@@ -7,5 +7,5 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 流媒体 - 多媒体流媒体
+  - 媒体管理
 depends_3rdparty: true

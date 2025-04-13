@@ -1,11 +1,11 @@
-name: "Pinchflat"
-website_url: "https://github.com/kieraneglin/pinchflat"
-source_code_url: "https://github.com/kieraneglin/pinchflat"
-description: "一个基于 yt-dlp 构建的 YouTube 内容下载应用。"
+name: Pinchflat
+website_url: https://github.com/kieraneglin/pinchflat
+source_code_url: https://github.com/kieraneglin/pinchflat
+description: 使用 yt-dlp 构建的 YouTube 内容下载工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 depends_3rdparty: true

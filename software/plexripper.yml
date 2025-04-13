@@ -1,13 +1,13 @@
 name: PlexRipper
 website_url: https://www.plexripper.rocks/
 source_code_url: https://github.com/PlexRipper/PlexRipper
-description: 一个跨平台的Plex媒体下载器，可将其他Plex服务器的媒体无缝添加到您自己的服务器中。
+description: 跨平台的 Plex 媒体下载器，可无缝地将其他 Plex 服务器的媒体添加到您自己的服务器中。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 depends_3rdparty: true
 stargazers_count: 412
 updated_at: '2025-04-13'
