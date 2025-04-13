@@ -1,6 +1,6 @@
 name: Atsumeru
 website_url: https://atsumeru.xyz
-description: 免费、开源的自托管漫画/轻小说媒体服务器，支持 Windows、Linux、macOS 和 Android 客户端。
+description: 支持 Windows、Linux、macOS 和 Android 客户端的漫画/轻小说媒体服务器。
 licenses:
   - MIT
 platforms:

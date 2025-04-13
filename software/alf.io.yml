@@ -1,6 +1,6 @@
 name: Alf.io
 website_url: https://alf.io/
-description: 开源的票务预订系统。
+description: 门票预订系统。
 licenses:
   - GPL-3.0
 platforms:

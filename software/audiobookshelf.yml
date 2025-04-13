@@ -1,6 +1,6 @@
 name: Audiobookshelf
 website_url: https://www.audiobookshelf.org/
-description: 完全开源的自托管有声书和播客服务器。支持流式传输所有音频格式，保持并同步跨设备的播放进度。附带开源的 Android 和 iOS 应用程序。
+description: 有声书和播客服务器。支持所有音频格式流式播放，跨设备同步进度。配有开源 Android 和 iOS 应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: ActivityWatch
 website_url: https://activitywatch.net
-description: 一款自动跟踪您在设备上花费时间的应用。
+description: 自动跟踪你在设备上的时间使用情况。
 licenses:
   - MPL-2.0
 platforms:

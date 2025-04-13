@@ -1,6 +1,6 @@
 name: Admidio
 website_url: https://www.admidio.org/
-description: Admidio 是一个面向组织和团体网站的免费开源用户管理系统。该系统具有灵活的角色模型，因此可以反映您组织的结构和权限。
+description: 用于组织和团体网站的用户管理系统。该系统具有灵活的角色模型，可以反映您组织的结构和权限。
 licenses:
   - GPL-2.0
 platforms:

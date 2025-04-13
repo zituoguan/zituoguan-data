@@ -1,6 +1,6 @@
 name: Answer
 website_url: https://answer.dev/
-description: 一款开源的基于知识的社区软件。您可以使用它快速构建用于产品技术支持、客户支持、用户交流等的问答社区。
+description: 基于知识的社区软件。您可以用它快速搭建产品技术支持、客户支持、用户交流等问答社区。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,6 +1,6 @@
 name: AppFlowy
 website_url: https://appflowy.io/
-description: 使用 AppFlowy，您可以为不同项目构建详细的待办事项列表，并跟踪每个项目的状态。这是一个开源的 Notion 替代品。
+description: 为不同项目构建详细的待办事项列表，并跟踪每个任务的状态。开源的 Notion 替代品。
 licenses:
   - AGPL-3.0
 platforms:

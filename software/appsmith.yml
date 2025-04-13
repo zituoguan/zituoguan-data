@@ -1,6 +1,6 @@
 name: Appsmith
 website_url: https://www.appsmith.com/
-description: 云端或自托管的开源平台，用于构建管理面板、CRUD 应用程序和工作流。快速构建所需的一切，提高效率 10 倍。
+description: 构建管理面板、CRUD 应用和工作流。以 10 倍速度构建所需的一切。
 licenses:
   - Apache-2.0
 platforms:

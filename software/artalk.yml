@@ -1,7 +1,7 @@
 name: Artalk
 website_url: https://artalk.js.org/
 source_code_url: https://github.com/ArtalkJS/Artalk
-description: 用 Golang 构建的自托管评论系统，为您的网站提供轻量级且高度可定制的评论添加解决方案。
+description: 用 Golang 构建的评论系统，为您的网站提供轻量且高度可定制的评论解决方案。
 licenses:
   - MIT
 platforms:

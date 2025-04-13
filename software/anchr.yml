@@ -1,6 +1,5 @@
 name: Anchr
-website_url: https://anchr.io
-description: Anchr 是一个用于处理互联网上小任务的工具箱，包括书签集、URL 缩短和（加密的）图像上传。
+description: 用于互联网小型任务的工具箱，包括书签收集、URL 缩短和（加密）图片上传。
 licenses:
   - GPL-3.0
 platforms:
