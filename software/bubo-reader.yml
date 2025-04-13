@@ -1,6 +1,6 @@
 name: Bubo Reader
 website_url: https://github.com/georgemandis/bubo-rss
-description: “非理性极简”的 RSS 阅读器。
+description: 非常极简的 RSS 阅读器。
 licenses:
   - MIT
 platforms:
