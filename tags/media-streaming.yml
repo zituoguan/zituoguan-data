@@ -12,5 +12,5 @@ redirect:
     url: '#流媒体 - 多媒体流媒体'
   - title: 流媒体 - 视频流媒体
     url: '#流媒体 - 视频流媒体'
-related_tags:
-  - 媒体管理
+  - title: 媒体管理
+    url: '#媒体管理'
