@@ -1,6 +1,6 @@
 name: CouchCMS
 website_url: https://www.couchcms.com/
-description: 面向设计师的简单开源CMS。
+description: 面向设计师的内容管理系统（CMS）。
 licenses:
   - CPAL-1.0
 platforms:

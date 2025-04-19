@@ -1,6 +1,6 @@
 name: Chitchatter
 website_url: https://chitchatter.im/
-description: 一款无服务器、去中心化且短暂的点对点聊天应用。
+description: 一个点对点的聊天应用，无需服务器，去中心化且消息短暂。
 licenses:
   - GPL-2.0
 platforms:

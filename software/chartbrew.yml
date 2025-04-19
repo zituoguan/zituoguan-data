@@ -1,6 +1,6 @@
 name: Chartbrew
 website_url: https://chartbrew.com
-description: Web应用程序，可以直接连接到数据库和API，使用数据创建漂亮的图表。
+description: 直接连接数据库和 API，并使用数据创建精美图表。
 licenses:
   - MIT
 platforms:

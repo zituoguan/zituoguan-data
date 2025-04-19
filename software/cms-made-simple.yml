@@ -1,6 +1,6 @@
 name: CMS Made Simple
 website_url: https://www.cmsmadesimple.org/
-description: 开源内容管理系统，更快、更轻松地管理网站内容，适用于小型企业到大型企业的规模。
+description: 更快更轻松地管理网站内容，适用于从小型企业到大型公司的扩展。
 licenses:
   - GPL-2.0
 platforms:

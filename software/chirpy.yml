@@ -1,6 +1,6 @@
 name: Chirpy
 website_url: https://chirpy.dev
-description: Chirpy是一个开源的、注重隐私且可定制的Disqus（评论系统）替代品。
+description: 隐私友好且可定制的 Disqus（评论系统）替代品。
 licenses:
   - AGPL-3.0
 platforms:

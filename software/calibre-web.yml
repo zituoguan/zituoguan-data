@@ -1,6 +1,6 @@
 name: Calibre Web
 website_url: https://github.com/janeczku/calibre-web
-description: 使用现有的Calibre数据库，为浏览、阅读和下载电子书提供清晰界面的Web应用。
+description: 使用已有的 Calibre 数据库浏览、阅读和下载电子书。
 licenses:
   - GPL-3.0
 platforms:

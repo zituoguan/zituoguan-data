@@ -1,6 +1,6 @@
 name: Countly Community Edition
 website_url: https://count.ly
-description: 实时移动和Web分析、崩溃报告和推送通知平台。
+description: 实时移动和网页分析、崩溃报告和推送通知平台。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - 分析
-source_code_url: https://github.com/countly
+source_code_url: https://github.com/Countly/countly-server

@@ -1,6 +1,6 @@
 name: CasaOS
-website_url: https://www.casaos.io/
-description: 一个简单、易于使用、优雅的开源家庭云系统。
+website_url: https://casaos.zimaspace.com/
+description: 简单易用且优雅的家庭云系统。
 licenses:
   - Apache-2.0
 platforms:

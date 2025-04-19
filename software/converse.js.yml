@@ -1,6 +1,6 @@
 name: Converse.js
 website_url: https://conversejs.org/
-description: 在浏览器中使用的免费开源XMPP聊天客户端。
+description: 在浏览器中的 XMPP 聊天客户端。
 licenses:
   - MPL-2.0
 platforms:

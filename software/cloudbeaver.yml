@@ -1,6 +1,6 @@
 name: CloudBeaver
 website_url: https://dbeaver.com/
-description: 数据库的自托管管理，支持PostgreSQL、MySQL、SQLite等。是DBeaver的Web/托管版本。
+description: 管理数据库，支持 PostgreSQL、MySQL、SQLite 等。DBeaver 的 Web/托管版本。
 licenses:
   - Apache-2.0
 platforms:
