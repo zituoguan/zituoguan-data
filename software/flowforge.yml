@@ -1,6 +1,6 @@
 name: FlowForge
 website_url: https://flowforge.com/
-description: FlowForge 允许公司以可靠、可扩展和安全的方式部署 Node-RED 应用程序。FlowForge 平台为 Node-RED 开发团队提供 DevOps 能力。
+description: 以可靠、可扩展和安全的方式部署 Node-RED 应用程序。FlowForge 平台为 Node-RED 开发团队提供 DevOps 能力。
 licenses:
   - Apache-2.0
 platforms:

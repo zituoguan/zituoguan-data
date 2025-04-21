@@ -1,6 +1,6 @@
 name: Firezone
 website_url: https://www.firezone.dev/
-description: 自托管的安全远程访问网关，支持 WireGuard 协议。提供 Web GUI、一行安装脚本、多因素认证（MFA）和单一登录（SSO）。
+description: 安全的远程访问网关，支持 WireGuard 协议。提供 Web 图形界面、一键安装脚本、多因素认证（MFA）和单点登录（SSO）。
 licenses:
   - Apache-2.0
 platforms:

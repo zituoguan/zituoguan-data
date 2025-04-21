@@ -1,6 +1,6 @@
 name: FlashPaper
 website_url: https://github.com/AndrewPaglusch/FlashPaper
-description: 一次性加密的零知识密码/秘密共享应用，专注于简单性和安全性。无需数据库或复杂的设置。
+description: 一款专注于简洁与安全的一次性加密零知识密码/秘密分享应用。无需数据库或复杂设置。
 licenses:
   - MIT
 platforms:

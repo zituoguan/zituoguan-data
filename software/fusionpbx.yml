@@ -1,6 +1,5 @@
 name: FusionPBX
-website_url: https://www.fusionpbx.com/
-description: 提供可定制且灵活的Web界面，用于与名为FreeSWITCH的强大且高度可伸缩的多平台语音交换进行交互的开源项目。
+description: 基于Web的多平台语音交换机 FreeSWITCH 的管理界面。
 licenses:
   - MPL-1.1
 platforms:

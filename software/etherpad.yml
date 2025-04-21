@@ -1,6 +1,6 @@
 name: Etherpad
 website_url: https://etherpad.org/
-description: Etherpad是一个高度可定制的开源在线编辑器，提供实时协作编辑。
+description: 高度可定制的在线编辑器，支持实时协作编辑。
 licenses:
   - Apache-2.0
 platforms:

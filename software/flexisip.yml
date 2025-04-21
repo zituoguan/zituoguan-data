@@ -1,6 +1,6 @@
 name: Flexisip
 website_url: https://www.linphone.org/en/flexisip-sip-server/
-description: 一款完整、模块化和可扩展的 SIP 服务器，包括一个推送网关，用于在移动设备平台上传递 SIP 来电或文本消息，在这些平台上，需要推送通知以在应用程序不活动在前台时接收信息。
+description: 完整、模块化且可扩展的 SIP 服务器，包含推送网关，可在需要推送通知以便在应用未处于前台时接收信息的移动设备平台上，传递 SIP 来电或文本消息。
 licenses:
   - AGPL-3.0
 platforms:

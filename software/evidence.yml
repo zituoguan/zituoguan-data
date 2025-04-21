@@ -1,6 +1,6 @@
 name: Evidence
 website_url: https://evidence.dev
-description: Evidence是一个基于代码的商业智能工具。使用SQL和Markdown编写报告，它们会呈现为一个网站。
+description: 基于代码的BI工具。使用SQL和Markdown编写报告，并以网站形式呈现。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: Easy!Appointments
-website_url: https://easyappointments.org/
-description: 一个高度可定制的 Web 应用，允许您的客户通过网络预约与您的见面。
+
+description: 允许您的客户通过网络与您预约。
 licenses:
   - GPL-3.0
 platforms:

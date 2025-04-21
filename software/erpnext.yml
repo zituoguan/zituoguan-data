@@ -1,6 +1,6 @@
 name: ERPNext
-website_url: https://erpnext.com
-description: 自由开源的ERP系统。
+website_url: https://frappe.io/erpnext
+description: 用于帮助您管理业务的ERP系统。
 licenses:
   - GPL-3.0
 platforms:

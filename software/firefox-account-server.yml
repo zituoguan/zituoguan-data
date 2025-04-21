@@ -1,6 +1,6 @@
 name: Firefox Account Server
 website_url: https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html
-description: 允许您托管自己的 Firefox 帐户服务器。
+description: 自己托管 Firefox 账户服务器。
 licenses:
   - MPL-2.0
 platforms:

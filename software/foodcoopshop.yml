@@ -1,6 +1,6 @@
 name: FoodCoopShop
 website_url: https://www.foodcoopshop.com/
-description: 面向食品合作社的用户友好开源软件。
+description: 面向食品合作社的用户友好型软件。
 licenses:
   - AGPL-3.0
 platforms:
