@@ -1,6 +1,6 @@
 name: Inboxen
 website_url: https://inboxen.org
-description: Inboxen是一个为您提供无限数量独特收件箱的服务。
+description: 让你拥有无限数量的唯一收件箱。
 licenses:
   - GPL-3.0
 platforms:

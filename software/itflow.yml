@@ -1,6 +1,6 @@
 name: ITFlow
 website_url: https://itflow.org
-description: 面向MSPs（托管服务提供商）的客户端IT文档、工单、发票和会计Web应用。
+description: 面向MSP（托管服务提供商）的客户IT文档、工单、发票和会计管理。
 licenses:
   - GPL-3.0
 platforms:

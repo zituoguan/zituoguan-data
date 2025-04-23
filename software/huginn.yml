@@ -1,6 +1,6 @@
 name: Huginn
 website_url: https://github.com/huginn/huginn
-description: 允许您构建代理程序，监视并代表您采取行动。
+description: 构建可以为你监控和行动的代理程序。
 licenses:
   - MIT
 platforms:

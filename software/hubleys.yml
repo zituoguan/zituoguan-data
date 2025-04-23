@@ -1,6 +1,6 @@
 name: Hubleys
 website_url: https://github.com/knrdl/hubleys-dashboard
-description: 自托管的个人仪表板，通过中央的yaml配置为多个用户组织链接。
+description: 个人仪表板，通过中心化的 YAML 配置为多个用户组织链接。
 licenses:
   - MIT
 platforms:

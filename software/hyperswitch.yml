@@ -1,6 +1,6 @@
 name: HyperSwitch
 website_url: https://hyperswitch.io/
-description: HyperSwitch是一个开源的金融交换平台，可以使支付变得快速、可靠和经济实惠。它允许您连接多个支付处理器并轻松路由流量，一切都可以通过单一的API集成完成。
+description: 支付切换平台，让支付变得快速、可靠且实惠。通过单一 API 集成，轻松连接多个支付处理器并实现流量路由。
 licenses:
   - Apache-2.0
 platforms:

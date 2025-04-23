@@ -1,6 +1,6 @@
 name: Homepage by gethomepage
 website_url: https://github.com/gethomepage/homepage
-description: 一个高度可定制的首页（或起始页/应用程序仪表板），具有Docker和服务API集成。
+description: 高度可定制的主页（或起始页/应用仪表板），支持 Docker 和服务 API 集成。
 licenses:
   - GPL-3.0
 platforms:

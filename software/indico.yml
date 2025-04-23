@@ -1,6 +1,6 @@
 name: indico
 website_url: https://getindico.io/
-description: 一个功能丰富的活动管理系统，由CERN创建，这是Web诞生的地方。
+description: 功能丰富的会议管理系统，诞生于 CERN（万维网的发源地）。
 licenses:
   - MIT
 platforms:

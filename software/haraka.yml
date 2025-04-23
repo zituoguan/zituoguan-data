@@ -1,6 +1,6 @@
 name: Haraka
 website_url: https://haraka.github.io/
-description: 用Javascript编写的高性能、可插件化的SMTP服务器。
+description: 快速、高度可扩展且事件驱动的 SMTP 服务器。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: HortusFox
 website_url: https://hortusfox.github.io
 source_code_url: https://github.com/danielbrendel/hortusfox-web
-description: 一个协作植物管理系统。
+description: 协作式植物管理与追踪系统，适合植物爱好者。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: HomeBox (SysAdminsMedia)
 website_url: https://homebox.software/
 source_code_url: https://github.com/sysadminsmedia/homebox
-description: 为家庭用户构建的库存和组织系统。
+description: 为家庭用户打造的库存和组织管理系统。
 licenses:
   - AGPL-3.0
 platforms:

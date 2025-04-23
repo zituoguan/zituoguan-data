@@ -1,6 +1,6 @@
 name: Input
 website_url: https://getinput.co
-description: 一个以隐私为重点的、无代码、开源的表单构建器，旨在简单和品牌一致性设计。
+description: 专注隐私、零代码、开源的表单构建器，旨在实现简单易用和品牌一致性。
 licenses:
   - AGPL-3.0
 platforms:

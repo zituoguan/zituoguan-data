@@ -1,6 +1,6 @@
 name: Home Assistant
 website_url: https://home-assistant.io/
-description: 开源的家庭自动化平台。
+description: 家庭自动化平台。
 licenses:
   - Apache-2.0
 platforms:

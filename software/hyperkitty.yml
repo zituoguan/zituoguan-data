@@ -1,6 +1,6 @@
 name: HyperKitty
 website_url: https://wiki.list.org/HyperKitty
-description: 开源的Django应用，提供访问GNU Mailman v3档案的Web界面。
+description: 访问 GNU Mailman v3 存档。
 licenses:
   - GPL-3.0
 platforms:

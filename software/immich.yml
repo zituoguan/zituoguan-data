@@ -1,6 +1,6 @@
 name: Immich
 website_url: https://immich.app/
-description: 通过移动手机直接进行自托管的照片和视频备份解决方案。
+description: 直接从您的手机备份照片和视频的解决方案。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,6 +8,7 @@ platforms:
 tags:
   - 相册
 source_code_url: https://github.com/immich-app/immich
+demo_url: https://github.com/immich-app/immich#demo
 stargazers_count: 64441
 updated_at: '2025-04-25'
 archived: false

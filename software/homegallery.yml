@@ -1,6 +1,6 @@
 name: HomeGallery
 website_url: https://home-gallery.org
-description: 个人照片和视频的网页画廊，具有标签、移动友好和 AI 驱动的图像发现功能。
+description: 浏览个人照片和视频，支持标签、移动端友好和 AI 驱动的图片发现。
 licenses:
   - MIT
 platforms:

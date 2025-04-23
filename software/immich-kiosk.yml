@@ -1,7 +1,7 @@
 name: Immich Kiosk
 website_url: https://github.com/damongolding/immich-kiosk
 source_code_url: https://github.com/damongolding/immich-kiosk
-description: 一个轻量级幻灯片，用于在自助设备和浏览器上运行，使用 Immich 作为数据源。
+description: 轻量级幻灯片放映工具，可在自助终端设备和浏览器上运行，并使用 Immich 作为数据源。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,7 @@ platforms:
   - Go
 tags:
   - 相册
+related_software: https://github.com/immich-app/immich
 stargazers_count: 807
 updated_at: '2025-04-22'
 archived: false
