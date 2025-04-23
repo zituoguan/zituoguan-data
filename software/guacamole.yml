@@ -1,6 +1,6 @@
 name: Guacamole
 website_url: https://guacamole.apache.org
-description: Guacamole是一个无客户端的远程桌面网关。支持标准协议，如VNC和RDP。
+description: 支持标准协议（如 VNC 和 RDP）的无客户端远程桌面网关。
 licenses:
   - Apache-2.0
 platforms:

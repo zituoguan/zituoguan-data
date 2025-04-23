@@ -1,6 +1,6 @@
 name: gitbucket
-website_url: https://gitbucket.github.io/gitbucket-news/
-description: 由Scala支持的可轻松安装的GitHub克隆。
+website_url: https://gitbucket.github.io/
+description: 具有易于安装、高度可扩展性和 GitHub API 兼容性的 Git 平台（GitHub 的替代方案）。
 licenses:
   - Apache-2.0
 platforms:

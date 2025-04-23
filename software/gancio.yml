@@ -1,6 +1,6 @@
 name: Gancio
 website_url: https://gancio.org/
-description: 本地社区共享日程表。
+description: 本地社区活动和日程分享。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,3 +8,4 @@ platforms:
 tags:
   - 投票和事件
 source_code_url: https://framagit.org/les/gancio
+demo_url: https://demo.gancio.org/

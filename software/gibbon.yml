@@ -1,6 +1,6 @@
 name: Gibbon
 website_url: https://gibbonedu.org/
-description: 灵活的、开源的学校管理平台，旨在改善教师、学生、家长和领导的生活。
+description: 灵活的学校管理平台，旨在让教师、学生、家长和管理者的生活更美好。
 licenses:
   - GPL-3.0
 platforms:

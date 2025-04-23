@@ -1,7 +1,6 @@
-name: "Gaseous Server"
-website_url: "https://github.com/gaseous-project/gaseous-server"
-source_code_url: "https://github.com/gaseous-project/gaseous-server"
-description: "一款游戏 ROM 管理器，内置基于 Web 的模拟器，使用多个来源识别并提供元数据。"
+name: Gaseous Server
+website_url: https://github.com/gaseous-project/gaseous-server
+description: 游戏 ROM 管理器，内置基于 Web 的模拟器，使用多个来源识别并提供元数据。
 licenses:
   - AGPL-3.0
 platforms:

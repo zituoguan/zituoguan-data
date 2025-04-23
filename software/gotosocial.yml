@@ -1,6 +1,6 @@
 name: GoToSocial
-website_url: https://github.com/superseriousbusiness/gotosocial
-description: 实现Mastodon客户端API的ActivityPub联合社交网络服务器。
+website_url: https://docs.gotosocial.org/en/latest/
+description: 基于 ActivityPub 协议的联邦社交网络服务器，实现了 Mastodon 客户端 API。
 licenses:
   - AGPL-3.0
 platforms:

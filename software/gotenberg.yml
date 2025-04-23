@@ -1,7 +1,7 @@
 name: Gotenberg
 website_url: https://gotenberg.dev
 source_code_url: https://github.com/gotenberg/gotenberg
-description: 面向开发者的 API，用于与强大的工具如 Chromium 和 LibreOffice 交互，将多种文档格式（HTML、Markdown、Word、Excel 等）转换为 PDF 文件等。
+description: 面向开发者的 API，可与强大的工具（如 Chromium 和 LibreOffice）交互，将多种文档格式（HTML、Markdown、Word、Excel 等）转换为 PDF 文件等。
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,6 @@ platforms:
 tags:
   - 文档管理
   - 自动化
-related_software_url: https://github.com/gotenberg/awesome-gotenberg
 stargazers_count: 9107
 updated_at: '2025-04-26'
 archived: false

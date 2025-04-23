@@ -1,14 +1,14 @@
 name: GameVault
 website_url: https://gamevau.lt
 source_code_url: https://github.com/Phalcode/gamevault-backend
-description: 在您自己的服务器上组织、下载和播放无DRM的游戏，配备元数据增强和用户友好的界面。
+description: 从您自己的服务器组织、下载和游玩无DRM的游戏，支持元数据丰富和用户友好的界面。
 licenses:
   - CC-BY-NC-SA-4.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - 杂项
+  - 游戏 - 管理工具和控制面板
 demo_url: https://demo.gamevau.lt
 stargazers_count: 251
 updated_at: '2025-03-10'

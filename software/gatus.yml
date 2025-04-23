@@ -1,5 +1,4 @@
 name: Gatus
-website_url: https://github.com/TwiN/gatus
 description: 自动化服务健康仪表板。
 licenses:
   - Apache-2.0

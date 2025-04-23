@@ -1,6 +1,6 @@
 name: Gophish
 website_url: https://getgophish.com/
-description: Gophish是一个强大的开源钓鱼框架，可以轻松测试组织对钓鱼的暴露情况。
+description: 强大的钓鱼框架，让您轻松测试组织对钓鱼攻击的暴露程度。
 licenses:
   - MIT
 platforms:

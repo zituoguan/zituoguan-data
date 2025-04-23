@@ -1,7 +1,7 @@
 name: Glance
 website_url: https://github.com/glanceapp/glance
 source_code_url: https://github.com/glanceapp/glance
-description: 一个高度可定制的仪表板，将所有你的资讯整合到一个地方。
+description: 高度可定制的仪表板，将所有订阅聚合到一个界面。
 licenses:
   - AGPL-3.0
 platforms:

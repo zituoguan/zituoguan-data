@@ -1,6 +1,6 @@
 name: GeneWeb
 website_url: https://geneweb.tuxfamily.org/wiki/GeneWeb
-description: 家谱学软件。它配备了一个Web界面，可脱机使用或作为Web服务使用。
+description: 可以离线使用或作为 Web 服务使用的家谱软件。
 licenses:
   - GPL-2.0
 platforms:
