@@ -1,11 +1,11 @@
 name: Featbit
 website_url: https://www.featbit.co/
-description: Enterprise-grade feature flag platform that you can self-host. 
+description: 企业级功能开关平台，支持自托管。
 licenses:
   - MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Feature Toggle
+  - 软件开发 - 功能开关
 source_code_url: https://github.com/featbit/featbit
