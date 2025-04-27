@@ -1,0 +1,15 @@
+name: Karakeep
+website_url: https://karakeep.app/
+source_code_url: https://github.com/karakeep-app/karakeep
+description: 一款为数据控打造、带有 AI 功能的“一切皆可收藏”应用。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - 书签和链接分享
+  - 粘贴板
+demo_url: https://try.karakeep.app/signin
+stargazers_count: 14783
+updated_at: '2025-04-06'
+archived: false
