@@ -1,10 +1,10 @@
 name: Blinko
 website_url: https://blinko.space/
-description: A personal note tool with AI features.
+description: 一款带有 AI 功能的个人笔记工具。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/blinko-space/blinko
