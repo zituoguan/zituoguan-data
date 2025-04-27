@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - Groupware
+  - 协同办公
   - 客户管理系统（CRM）
 source_code_url: https://github.com/Intermesh/groupoffice/
 stargazers_count: 221
