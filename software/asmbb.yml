@@ -1,5 +1,5 @@
 name: AsmBB
-
+website_url: https://board.asm32.info
 description: 快速的、基于 SQLite 的论坛引擎，使用汇编语言编写。
 licenses:
   - EUPL-1.2

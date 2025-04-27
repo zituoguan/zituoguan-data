@@ -1,4 +1,5 @@
 name: CNCjs
+website_url: https://cnc.js.org/
 description: 基于 Web 的 CNC 铣床控制器界面，支持 Grbl、Smoothieware 或 TinyG。
 licenses:
   - MIT

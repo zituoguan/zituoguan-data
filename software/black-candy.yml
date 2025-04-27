@@ -1,4 +1,5 @@
 name: Black Candy
+website_url: https://github.com/blackcandy-org/black_candy
 description: 音乐流媒体服务器。
 licenses:
   - MIT

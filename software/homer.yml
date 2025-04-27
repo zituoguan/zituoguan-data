@@ -1,4 +1,5 @@
 name: Homer
+website_url: https://github.com/bastienwirtz/homer
 description: 一个极其简单的静态主页，用于展示你的服务器服务，支持简单的 YAML 配置和连通性检查。
 licenses:
   - Apache-2.0

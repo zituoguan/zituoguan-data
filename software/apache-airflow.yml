@@ -1,4 +1,5 @@
 name: Apache Airflow
+website_url: https://airflow.apache.org/
 description: 用于以编程方式编写、调度和监控工作流的平台。
 licenses:
   - Apache-2.0

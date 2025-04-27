@@ -1,4 +1,5 @@
 name: Grist
+website_url: https://getgrist.com/
 description: 新一代电子表格，具有关系型结构、基于公式的访问控制和可移植的自包含格式（Airtable 的替代品）。
 licenses:
   - Apache-2.0

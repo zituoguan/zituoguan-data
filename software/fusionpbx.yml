@@ -1,4 +1,5 @@
 name: FusionPBX
+website_url: https://www.fusionpbx.com/
 description: 基于Web的多平台语音交换机 FreeSWITCH 的管理界面。
 licenses:
   - MPL-1.1
