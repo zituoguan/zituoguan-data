@@ -1,6 +1,6 @@
 name: GNUnet
 website_url: https://gnunet.org/
-description: 用于去中心化的对等网络的自由软件框架。
+description: 用于去中心化、点对点网络的软件框架。
 licenses:
   - GPL-3.0
 platforms:

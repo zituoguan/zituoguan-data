@@ -1,6 +1,6 @@
 name: Filestash
 website_url: https://www.filestash.app/
-description: 一个 Web 文件管理器，可让您管理数据的任何位置：FTP、SFTP、WebDAV、Git、S3、Minio、Dropbox 或 Google Drive。
+description: 'Web 文件管理器，可让您在任何位置管理您的数据：FTP、SFTP、WebDAV、Git、S3、Minio、Dropbox 或 Google Drive。'
 licenses:
   - AGPL-3.0
 platforms:

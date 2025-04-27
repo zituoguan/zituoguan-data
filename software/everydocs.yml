@@ -1,6 +1,6 @@
 name: EveryDocs
 website_url: https://github.com/jonashellmann/everydocs-core
-description: 一个简单的私人使用的文档管理系统，具有基本功能，可以在数字环境中组织您的文档。
+description: 简单的文档管理系统，适用于个人使用，具备基本的数字化文档整理功能。
 licenses:
   - GPL-3.0
 platforms:

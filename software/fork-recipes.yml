@@ -1,0 +1,10 @@
+name: "Fork Recipes"
+website_url: "https://mikebgrep.github.io/forkapi/clients/"
+source_code_url: "https://github.com/mikebgrep/fork.recipes"
+description: "用简单的方式管理你的美食菜谱。"
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+tags:
+  - 食谱管理

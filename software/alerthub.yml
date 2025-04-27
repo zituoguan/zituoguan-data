@@ -1,6 +1,6 @@
 name: AlertHub
 website_url: https://github.com/Ardakilic/alerthub
-description: AlertHub 是一个简单的工具，用于从 GitHub 发布中接收警报。
+description: 从 GitHub 发布中获取提醒。
 licenses:
   - MIT
 platforms:

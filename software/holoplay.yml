@@ -1,7 +1,7 @@
 name: HoloPlay
 website_url: https://app.holoplay.io
 source_code_url: https://github.com/stephane-r/holoplay-pwa
-description: 使用 Invidious API 的 Web 应用，用于收听 YouTube 音频来源。
+description: 使用 Invidious API 听取 Youtube 音频源。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
-name: Nginx
+name: NGINX
 website_url: https://nginx.org/en/
-source_code_url: https://hg.nginx.org/nginx/file/tip
+source_code_url: https://github.com/nginx/nginx
 description: HTTP 和反向代理服务器、邮件代理服务器以及通用的 TCP/UDP 代理服务器。
 licenses:
   - BSD-2-Clause

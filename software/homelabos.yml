@@ -1,6 +1,6 @@
 name: HomelabOS
 website_url: https://homelabos.com
-description: 拥有您自己的离线优先、注重隐私的开源数据中心。通过简单的命令部署超过100个服务。
+description: 离线、注重隐私的数据中心。只需几条命令即可部署 100 多个服务。
 licenses:
   - MIT
 platforms:

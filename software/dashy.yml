@@ -1,6 +1,6 @@
 name: Dashy
-website_url: https://github.com/lissy93/dashy
-description: 针对您的家庭实验室的功能丰富的主页，带有简单的 YAML 配置。
+website_url: https://dashy.to/
+description: 针对您的家庭实验室（homelab）的功能丰富的主页，带有简单的 YAML 配置。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: CryptPad
 website_url: https://cryptpad.org
-description: CryptPad是一个端到端加密和开源的协作套件。它旨在实现协作，实时同步文档的更改。
+description: 一个协作套件，支持实时同步文档更改。
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: GoSƐ
 website_url: https://github.com/stv0g/gose
-description: GoSƐ是一个以可伸缩性和简单性为重点的现代文件上传器。它仅依赖于S3存储后端，因此可以在水平方向上扩展，无需额外的数据库或缓存。
+description: 现代化的文件上传工具，专注于可扩展性和简洁性。仅依赖于 S3 存储后端，因此可以横向扩展，无需额外的数据库或缓存。
 licenses:
   - Apache-2.0
 platforms:

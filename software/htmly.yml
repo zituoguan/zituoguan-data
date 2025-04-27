@@ -1,7 +1,7 @@
 name: HTMLy
 website_url: https://www.htmly.com/
 source_code_url: https://github.com/danpros/htmly
-description: 无数据库的 PHP 博客平台。一个平面文件 CMS，使您可以在几秒钟内创建一个快速、安全且强大的网站或博客。
+description: 无需数据库的 PHP 博客平台。一个扁平文件 CMS，可让您在几秒钟内创建快速、安全且强大的站点或博客。
 licenses:
   - GPL-2.0
 platforms:
@@ -10,7 +10,6 @@ tags:
   - 博客平台
   - 内容管理系统（CMS）
 demo_url: http://demo.htmly.com/
-related_software_url: https://www.htmly.com/theme/
 stargazers_count: 1173
 updated_at: '2025-04-26'
 archived: false

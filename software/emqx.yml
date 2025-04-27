@@ -1,6 +1,6 @@
 name: EMQX
 website_url: https://www.emqx.io/
-description: 一个超大规模的开源MQTT代理。在一个单一集群中连接超过1亿个物联网设备，以1ms延迟处理1M消息/秒的实时物联网数据。
+description: 可扩展的 MQTT 消息代理。单个集群可连接超过 1 亿物联网设备，以 1 毫秒延迟实现每秒 100 万条消息的实时数据传输与处理。
 licenses:
   - Apache-2.0
 platforms:

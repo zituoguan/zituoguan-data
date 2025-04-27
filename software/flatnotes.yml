@@ -1,6 +1,6 @@
 name: flatnotes
 website_url: https://github.com/dullage/flatnotes
-description: 一个自托管的、无数据库的记事 Web 应用，利用平面文件夹中的 Markdown 文件进行存储。
+description: 一个无数据库的笔记网页应用，使用扁平文件夹中的 Markdown 文件进行存储。
 licenses:
   - MIT
 platforms:

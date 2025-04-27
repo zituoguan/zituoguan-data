@@ -1,6 +1,6 @@
 name: changedetection.io
-website_url: https://github.com/dgtlmoon/changedetection.io
-description: 自托管工具，用于保持与网站内容变化的最新状态。
+website_url: https://changedetection.io/
+description: 随时了解网站内容的变化。
 licenses:
   - Apache-2.0
 platforms:

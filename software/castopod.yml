@@ -1,6 +1,6 @@
 name: Castopod
 website_url: https://castopod.org
-description: 一个包括最新的播客2.0标准、自动化Fediverse订阅、分析、可嵌入播放器等功能的播客管理托管平台。
+description: 播客管理和托管平台，支持最新的 Podcast 2.0 标准，自动化的 Fediverse 推送、分析工具、可嵌入播放器等功能。
 licenses:
   - AGPL-3.0
 platforms:

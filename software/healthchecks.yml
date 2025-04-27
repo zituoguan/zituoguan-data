@@ -1,10 +1,11 @@
 name: Healthchecks
 website_url: https://healthchecks.io/
-description: Django应用程序，监听ping并在ping延迟时发送警报。
+description: 监听 ping 请求，并在 ping 延迟时发送警报。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
+  - Docker
 tags:
   - 自动化
 source_code_url: https://github.com/healthchecks/healthchecks

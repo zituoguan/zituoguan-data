@@ -1,6 +1,6 @@
 name: Aptabase
 website_url: https://aptabase.com/
-description: 面向移动和桌面应用的开源、隐私第一的简易分析工具。
+description: 面向隐私且简单的移动和桌面应用分析工具。
 licenses:
   - AGPL-3.0
 platforms:

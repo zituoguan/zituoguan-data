@@ -1,6 +1,6 @@
 name: ArchiveBox
 website_url: https://archivebox.io/
-description: 自托管的“时光机”工具，可以从书签、浏览历史、RSS 订阅或其他来源创建网站的 HTML 和截图存档。
+description: 从你的书签、浏览历史、RSS 源或其他来源创建网站的 HTML 和截图存档（Wayback Machine 的替代方案）。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: go-doxy
 source_code_url: https://github.com/yusing/godoxy
 website_url: https://github.com/yusing/godoxy
-description: 一款轻量级、简单且高效的反向代理，具有 WebUI、Docker 集成以及基于流量的容器自动启动/关闭功能。
+description: 轻量、简单且高性能的反向代理，带有 WebUI、Docker 集成，可根据流量自动关闭/启动容器。
 licenses:
   - MIT
 platforms:

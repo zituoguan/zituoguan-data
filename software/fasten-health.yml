@@ -1,6 +1,6 @@
 name: Fasten Health
 website_url: https://github.com/fastenhealth/fasten-onprem/
-description: Fasten是一个开源的、自托管的、个人/家庭电子病历聚合器，旨在与美国数以千计的保险公司/医院/诊所集成。
+description: 个人/家庭电子病历聚合器，旨在与美国成千上万的保险公司、医院和诊所集成。
 licenses:
   - GPL-3.0
 platforms:

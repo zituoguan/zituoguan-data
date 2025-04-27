@@ -1,0 +1,11 @@
+name: Featbit
+website_url: https://www.featbit.co/
+description: 企业级功能开关平台，支持自托管。
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - 软件开发 - 功能开关
+source_code_url: https://github.com/featbit/featbit

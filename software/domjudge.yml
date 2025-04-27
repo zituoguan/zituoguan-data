@@ -1,6 +1,6 @@
 name: DOMJudge
 website_url: https://www.domjudge.org/
-description: 一个用于举办编程竞赛的系统，类似于ICPC地区和世界锦标编程竞赛。
+description: 用于举办编程竞赛的系统，如 ICPC 区域赛和世界总决赛等。
 licenses:
   - GPL-2.0
   - BSD-3-Clause

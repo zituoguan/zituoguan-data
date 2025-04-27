@@ -1,6 +1,6 @@
 name: Fenrus
 website_url: https://github.com/revenz/fenrus
-description: 一个自托管的个人主页，允许多用户、访客访问和每个用户的多个仪表板。还有“智能应用”显示这些应用的实时数据。
+description: 个人主页，支持多用户、访客访问，每个用户可拥有多个仪表板。还包含“智能应用”，可为这些应用显示实时数据。
 licenses:
   - GPL-3.0
 platforms:

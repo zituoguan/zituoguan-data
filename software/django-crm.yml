@@ -1,0 +1,10 @@
+name: Django-CRM
+website_url: https://github.com/DjangoCRM/django-crm
+source_code_url: https://github.com/DjangoCRM/django-crm
+description: 带有任务管理、邮件营销等功能的分析型 CRM。Django CRM 适用于个人使用、各类规模的企业或自由职业者，设计上支持轻松定制和快速开发。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - 客户关系管理（CRM）

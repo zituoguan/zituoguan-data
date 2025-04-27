@@ -1,6 +1,6 @@
 name: Accent
 website_url: https://www.accent.reviews/
-description: 开源、自托管的、面向开发者的翻译工具。
+description: 面向开发者的翻译工具。
 licenses:
   - BSD-3-Clause
 platforms:

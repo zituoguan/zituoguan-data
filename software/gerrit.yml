@@ -1,6 +1,6 @@
 name: Gerrit
 website_url: https://www.gerritcodereview.com/
-description: 一个用于Git项目的代码审查和项目管理工具。
+description: 基于 Git 的代码审查和项目管理工具。
 licenses:
   - Apache-2.0
 platforms:

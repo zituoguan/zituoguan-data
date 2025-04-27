@@ -1,6 +1,6 @@
 name: Bludit
 website_url: https://www.bludit.com/
-description: 在几秒钟内构建站点或博客的简单应用程序。Bludit使用平面文件（JSON格式的文本文件）来存储帖子和页面。
+description: 用几秒钟即可搭建网站或博客。Bludit 使用平面文件（JSON 格式的文本文件）来存储文章和页面。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,6 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/bludit/bludit
-demo_url: https://demo.bludit.com/
 depends_3rdparty: true
 stargazers_count: 1317
 updated_at: '2024-08-25'

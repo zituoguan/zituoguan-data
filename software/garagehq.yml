@@ -1,6 +1,6 @@
 name: GarageHQ
 website_url: https://garagehq.deuxfleurs.fr/
-description: 一种开源的地理分布式存储服务，您可以自主托管以满足多种需求 - 兼容S3。
+description: 地理分布式、兼容 S3 的存储服务，可满足多种需求。
 licenses:
   - AGPL-3.0
 platforms:

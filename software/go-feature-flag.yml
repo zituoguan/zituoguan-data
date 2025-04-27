@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 杂项
+  - 软件开发 - 功能开关
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
 stargazers_count: 1630
 updated_at: '2025-04-26'

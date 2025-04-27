@@ -1,0 +1,10 @@
+name: Dawarich
+website_url: https://dawarich.app/
+description: 可视化您的位置历史，跟踪您的移动轨迹，并在完全隐私和控制下分析您的旅行模式（Google Timeline 或 Google 位置历史的替代方案）。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - 地图和全球定位系统（GPS）
+source_code_url: https://github.com/Freika/dawarich

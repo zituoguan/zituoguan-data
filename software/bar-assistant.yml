@@ -1,6 +1,6 @@
 name: Bar Assistant
 website_url: https://barassistant.app/
-description: Bar Assistant是一个自托管的应用，用于管理家庭酒吧。它允许您添加成分，搜索鸡尾酒，并创建自定义鸡尾酒配方。
+description: 管理您的家庭酒吧，添加原料、搜索鸡尾酒并创建自定义鸡尾酒配方。
 licenses:
   - MIT
 platforms:

@@ -1,12 +1,12 @@
 name: nefarious
 website_url: https://github.com/lardbit/nefarious
-description: 用于自动下载电影和电视节目的Web应用程序。
+description: 自动下载电影和电视剧。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/lardbit/nefarious
 stargazers_count: 1126
 updated_at: '2025-03-07'

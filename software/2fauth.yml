@@ -1,6 +1,6 @@
 name: 2FAuth
 website_url: https://github.com/Bubka/2FAuth
-description: 一个用于管理双因素身份验证（2FA）账户并生成安全代码的网络应用。
+description: 管理您的双因素认证 (2FA) 账户并生成其安全码。
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Datasette
 website_url: https://datasette.io/
-description: 一个用于探索和发布数据的开源多功能工具，支持轻松导入和导出以及数据库管理。
+description: 通过简单的导入导出和数据库管理，探索和发布数据。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,6 +1,6 @@
 name: Contao
 website_url: https://contao.org/
-description: Contao是一个强大的开源CMS，允许您创建专业的网站和可扩展的Web应用程序。
+description: 强大的内容管理系统，可用于创建专业网站和可扩展的 Web 应用程序。
 licenses:
   - LGPL-3.0
 platforms:
@@ -8,6 +8,7 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/contao/contao/
+demo_url: https://demo.contao.org/contao
 stargazers_count: 367
 updated_at: '2025-04-17'
 archived: false

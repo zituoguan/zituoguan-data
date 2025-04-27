@@ -1,7 +1,7 @@
 name: bit
 website_url: https://github.com/sjdonado/bit
 source_code_url: https://github.com/sjdonado/bit
-description: 快速、轻量、资源高效的编译型 URL 缩短器，基于 SQLite 驱动。
+description: 快速、轻量、资源高效、编译型的 URL 缩短器。
 licenses:
   - MIT
 platforms:

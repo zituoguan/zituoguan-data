@@ -1,6 +1,6 @@
 name: Fess
 website_url: https://fess.codelibs.org/
-description: Fess是一个非常强大且易于部署的企业搜索服务器。
+description: 强大且易于部署的企业级搜索服务器。
 licenses:
   - Apache-2.0
 platforms:

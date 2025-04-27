@@ -1,6 +1,6 @@
 name: Homarr
 website_url: https://homarr.dev
-description: 时尚、现代的仪表板，集成了许多功能，支持基于Web的配置。
+description: 时尚现代的仪表板，具有多种集成和基于网页的配置。
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,6 @@ platforms:
 tags:
   - 个人仪表板
 source_code_url: https://github.com/homarr-labs/homarr
-demo_url: https://demo.homarr.dev
 stargazers_count: 675
 updated_at: '2025-04-26'
 archived: false

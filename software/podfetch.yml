@@ -1,15 +1,14 @@
 name: PodFetch
 website_url: https://samtv12345.github.io/PodFetch
 source_code_url: https://github.com/SamTV12345/PodFetch
-description: 一个简洁高效的播客下载器。
+description: 简洁高效的播客下载器。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
   - Rust
 tags:
-  - 流媒体 - 音频流媒体
-  - 自动化
-stargazers_count: 410
-updated_at: '2025-04-17'
+  - 媒体管理
+stargazers_count: 404
+updated_at: '2025-04-05'
 archived: false

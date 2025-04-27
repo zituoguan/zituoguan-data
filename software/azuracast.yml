@@ -1,6 +1,6 @@
 name: AzuraCast
 website_url: https://www.azuracast.com/
-description: 一套现代、易用的自托管网络广播管理套件。
+description: 现代且易用的网络电台管理套件。
 licenses:
   - Apache-2.0
 platforms:

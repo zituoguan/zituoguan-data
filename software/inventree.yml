@@ -1,6 +1,6 @@
 name: Inventree
-website_url: https://inventree.readthedocs.io/en/latest/
-description: InvenTree是一个开源的库存管理系统，提供直观的零件管理和库存控制。
+website_url: https://docs.inventree.org/en/latest/
+description: 提供直观零件管理和库存控制的库存管理系统。
 licenses:
   - MIT
 platforms:

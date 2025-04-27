@@ -1,6 +1,6 @@
 name: Gotify
 website_url: https://gotify.net/
-description: 自托管的通知服务器，具有Android和CLI客户端，类似于PushBullet。
+description: 带有 Android 和 CLI 客户端的通知服务器（PushBullet 的替代品）。
 licenses:
   - MIT
 platforms:

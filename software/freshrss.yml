@@ -1,6 +1,6 @@
 name: FreshRSS
 website_url: https://freshrss.org/
-description: 可自主托管的RSS订阅聚合器。
+description: 可自托管的 RSS 聚合器。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,7 +10,6 @@ tags:
   - 订阅阅读器
 source_code_url: https://github.com/FreshRSS/FreshRSS
 demo_url: https://demo.freshrss.org/i/
-related_software_url: https://github.com/Alkarex/EasyRSS
 stargazers_count: 11375
 updated_at: '2025-04-26'
 archived: false

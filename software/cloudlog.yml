@@ -1,6 +1,6 @@
 name: Cloudlog
 website_url: https://magicbug.co.uk/cloudlog/
-description: Cloudlog是一个自托管的PHP应用，允许您记录您的业余无线电联系。
+description: 随时随地记录你的业余无线电联络。
 licenses:
   - MIT
 platforms:

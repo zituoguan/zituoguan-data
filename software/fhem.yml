@@ -1,6 +1,6 @@
 name: FHEM
 website_url: https://fhem.de/fhem.html
-description: FHEM 用于自动化家庭中的常见任务，如开关灯具和加热。它还可以用于记录诸如温度或功耗的事件。您可以通过 Web 或智能手机前端、Telnet 或直接通过 TCP/IP 进行控制。
+description: 自动化家庭中的常见任务，如切换灯光和加热。它还可以用于记录温度或功耗等事件。您可以通过网页或智能手机前端、telnet 或直接通过 TCP/IP 进行控制。
 licenses:
   - GPL-3.0
 platforms:

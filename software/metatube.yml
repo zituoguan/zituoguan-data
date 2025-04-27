@@ -1,12 +1,12 @@
 name: MetaTube
 website_url: https://github.com/JVT038/MetaTube
-description: 一个 Web 图形用户界面，可自动从 YouTube 下载音乐，并从 Spotify、Deezer 或 Musicbrainz 添加元数据。
+description: 自动从 YouTube 下载音乐，并从 Spotify、Deezer 或 Musicbrainz 添加元数据。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/JVT038/MetaTube
 depends_3rdparty: true
 stargazers_count: 351

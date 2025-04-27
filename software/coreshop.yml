@@ -1,6 +1,6 @@
 name: CoreShop
 website_url: https://www.coreshop.org
-description: CoreShop是Pimcore的电子商务插件。
+description: Pimcore 的电子商务插件。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Cockpit
 website_url: https://getcockpit.com
-description: 用于管理任何结构化内容的简单内容平台。
+description: 简单的内容平台，用于管理任何结构化内容。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Huly
 website_url: https://huly.io
 source_code_url: https://github.com/hcengineering/platform
-description: 一体化项目管理平台（替代 Linear、Jira、Slack、Notion、Motion）。
+description: 一体化项目管理平台（可替代 Linear、Jira、Slack、Notion、Motion）。
 licenses:
   - EPL-2.0
 platforms:

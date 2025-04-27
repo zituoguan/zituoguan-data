@@ -1,7 +1,7 @@
 name: FeedCord
 website_url: https://github.com/Qolors/FeedCord
 source_code_url: https://github.com/Qolors/FeedCord
-description: 一个简单、轻量且可定制的 Discord 服务器 RSS 新闻订阅工具。
+description: 简单、轻量且可自定义的 Discord 服务器 RSS 新闻订阅工具。
 licenses:
   - MIT
 platforms:

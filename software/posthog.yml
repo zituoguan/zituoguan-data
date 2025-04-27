@@ -7,6 +7,7 @@ platforms:
   - Python
 tags:
   - 分析
+  - 软件开发 - 功能开关
 source_code_url: https://github.com/posthog/posthog
 stargazers_count: 26046
 updated_at: '2025-04-26'

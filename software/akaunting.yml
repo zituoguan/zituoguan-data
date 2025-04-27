@@ -1,6 +1,6 @@
 name: Akaunting
 website_url: https://akaunting.com/
-description: Akaunting 是一款免费、在线且开源的会计软件，专为小企业和自由职业者设计。
+description: 为小型企业和自由职业者设计的会计软件。
 licenses:
   - BUSL-1.1
 platforms:

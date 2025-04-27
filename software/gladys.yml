@@ -1,6 +1,6 @@
 name: Gladys
 website_url: https://gladysassistant.com/
-description: Gladys是一款以隐私为先的开源家庭助手。
+description: 注重隐私的家庭助理。
 licenses:
   - Apache-2.0
 platforms:

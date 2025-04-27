@@ -1,6 +1,6 @@
 name: imgproxy
 website_url: https://imgproxy.net/
-description: 用于调整大小和转换远程图像的快速且安全的独立服务器。当您需要即时调整多个图像的大小，而无需准备大量缓存的调整大小图像或每次设计更改时都重新执行时，它非常有效。
+description: 快速且安全的独立服务器，用于调整和转换远程图片。
 licenses:
   - MIT
 platforms:

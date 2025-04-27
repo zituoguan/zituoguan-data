@@ -1,6 +1,6 @@
 name: Hiccup
 website_url: https://designedbyashw.in/test/hiccup/
-description: 一个漂亮的静态主页，快速访问您的链接和服务。具有内置搜索、编辑、PWA支持和本地存储缓存，轻松组织起始页。
+description: 美观的静态主页，可快速访问您的链接和服务。它内置搜索、编辑、PWA 支持和本地存储缓存，方便您轻松组织起始页。
 licenses:
   - MIT
 platforms:

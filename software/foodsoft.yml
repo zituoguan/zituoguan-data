@@ -1,6 +1,6 @@
 name: Foodsoft
 website_url: https://foodcoops.net/
-description: 基于Web的软件，用于管理非营利性食品合作社（产品目录、订购、会计、工作安排）。
+description: 管理非营利食品合作社（产品目录、订购、会计、工作安排）。
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Aimeos
 website_url: https://aimeos.org/
-description: 极快速、开源的电子商务框架，用于构建定制的在线商店、市场和复杂的B2B应用，可与 Laravel 一起扩展至数十亿商品。
+description: 用于构建自定义网店、市场和复杂 B2B 应用的电子商务框架，可与 Laravel 集成并扩展到数十亿商品。
 licenses:
   - LGPL-3.0
   - MIT

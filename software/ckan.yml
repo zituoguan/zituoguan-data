@@ -1,6 +1,6 @@
 name: CKAN
 website_url: https://ckan.org
-description: CKAN是一个创建开放数据网站的工具。
+description: 构建开放数据网站。
 licenses:
   - AGPL-3.0
 platforms:

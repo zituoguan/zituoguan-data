@@ -1,6 +1,6 @@
 name: Bitpoll
 website_url: https://github.com/fsinfuhh/Bitpoll
-description: 用于安排会议和一般投票的Web应用程序。
+description: 用于日期、时间或一般问题的投票调查。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Corteza
-website_url: https://cortezaproject.org
-description: 包括统一工作区、企业消息和低代码环境的CRM，用于快速安全地提供基于记录的管理解决方案。
+website_url: https://docs.cortezaproject.org
+description: 包含统一工作区、企业消息和低代码环境的CRM，可快速且安全地交付基于记录的管理解决方案。
 licenses:
   - Apache-2.0
 platforms:

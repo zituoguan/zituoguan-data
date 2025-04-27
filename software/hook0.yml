@@ -1,7 +1,7 @@
-name: Hook0
-website_url: https://www.hook0.com
-source_code_url: https://gitlab.com/hook0/hook0
-description: 一个 Webhooks 作为服务（WaaS），使在线产品可以轻松提供 Webhooks 功能。每月免费分发最多 3,000 个事件，保留历史记录 7 天。
+name: "Hook0"
+website_url: "https://www.hook0.com"
+source_code_url: "https://gitlab.com/hook0/hook0"
+description: "Webhooks 即服务（WaaS），让在线产品轻松提供 Webhooks。免费版每月可分发多达 3,000 个事件，历史记录保留 7 天。"
 licenses:
   - SSPL-1.0
 platforms:

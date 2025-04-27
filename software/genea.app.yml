@@ -1,6 +1,6 @@
 name: Genea.app
 website_url: https://www.genea.app/
-description: Genea是一个隐私设计和开源工具，任何人都可以用来编写或编辑他们的家谱。数据以GEDCOM格式存储，所有处理在浏览器中完成。
+description: 一款注重隐私的家谱工具，任何人都可以用来创建或编辑家谱。数据以 GEDCOM 格式存储，所有处理均在浏览器中完成。
 licenses:
   - MIT
 platforms:

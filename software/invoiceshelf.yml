@@ -1,7 +1,7 @@
 name: InvoiceShelf
 website_url: https://invoiceshelf.com/
 source_code_url: https://github.com/InvoiceShelf/InvoiceShelf
-description: 一款帮助您追踪支出、付款，并创建专业发票和估算的工具（Crater 的分支）。
+description: 跟踪支出、付款并创建专业发票和报价单（Crater 的分支）。
 licenses:
   - AGPL-3.0
 platforms:

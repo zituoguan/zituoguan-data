@@ -1,7 +1,7 @@
 name: Enclosed
 website_url: https://enclosed.cc/
 source_code_url: https://github.com/CorentinTh/enclosed
-description: 一个简约的 Web 应用程序，旨在发送私人和安全的笔记。
+description: 极简主义的网页应用程序，用于发送私密且安全的便签。
 licenses:
   - Apache-2.0
 platforms:

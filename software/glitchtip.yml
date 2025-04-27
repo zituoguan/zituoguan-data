@@ -1,6 +1,6 @@
 name: GlitchTip
 website_url: https://glitchtip.com
-description: 开源错误跟踪应用。GlitchTip收集您的应用报告的错误。
+description: 用于收集应用程序错误报告的错误跟踪应用。
 licenses:
   - MIT
 platforms:

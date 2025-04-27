@@ -1,6 +1,6 @@
 name: Bitwarden
 website_url: https://bitwarden.com/
-description: 具有Web应用程序、浏览器扩展和移动应用程序的密码管理器。
+description: 带有网页应用、浏览器扩展和移动应用的密码管理器。
 licenses:
   - AGPL-3.0
 platforms:

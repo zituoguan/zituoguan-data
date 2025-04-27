@@ -1,6 +1,6 @@
 name: Fava
 website_url: https://beancount.github.io/fava/
-description: Fava是Beancount的Web前端，是一种基于文本的复式记账系统。
+description: Beancount 的 Web 前端，是一个基于文本的复式记账系统。
 licenses:
   - MIT
 platforms:

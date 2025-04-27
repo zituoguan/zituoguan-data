@@ -1,6 +1,6 @@
 name: Files Sharing
 website_url: https://github.com/axeloz/filesharing
-description: 基于独特和临时链接的开源自托管文件共享应用程序。
+description: 基于唯一且临时链接的文件共享应用程序。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Gitolite
 website_url: https://gitolite.com/gitolite/index.html
-description: Gitolite允许您在中央服务器上设置git托管，具有细粒度的访问控制和许多其他强大的功能。
+description: 在中央服务器上搭建 Git 托管，具备细粒度的访问控制和许多强大的功能。
 licenses:
   - GPL-2.0
 platforms:

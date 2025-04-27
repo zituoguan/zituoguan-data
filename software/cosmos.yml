@@ -1,6 +1,6 @@
 name: Cosmos
 website_url: https://cosmos-cloud.io/
-description: Cosmos是一个自托管平台，可安全运行具有内置隐私功能的服务器应用程序。它充当应用程序的安全网关和服务器管理器。
+description: 安全运行服务器应用程序并内置隐私功能。它作为应用程序的安全网关和服务器管理器。
 licenses:
   - Apache-2.0
   - Commons-Clause

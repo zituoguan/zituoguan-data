@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 depends_3rdparty: true
 stargazers_count: 284
 updated_at: '2025-02-17'

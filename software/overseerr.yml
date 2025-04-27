@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理
 source_code_url: https://github.com/sct/overseerr
 depends_3rdparty: true
 stargazers_count: 4422

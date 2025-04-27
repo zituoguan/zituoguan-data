@@ -1,7 +1,7 @@
 name: Fusion
 website_url: https://github.com/0x2E/fusion
 source_code_url: https://github.com/0x2E/fusion
-description: 一个轻量级的RSS聚合器和阅读器。
+description: 轻量级的 RSS 聚合器和阅读器。
 licenses:
   - MIT
 platforms:

@@ -1,0 +1,11 @@
+name: Gaseous Server
+website_url: https://github.com/gaseous-project/gaseous-server
+description: 游戏 ROM 管理器，内置基于 Web 的模拟器，使用多个来源识别并提供元数据。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - .NET
+tags:
+  - 游戏 - 管理工具和控制面板
+depends_3rdparty: true

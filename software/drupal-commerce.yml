@@ -1,6 +1,6 @@
 name: Drupal Commerce
 website_url: https://drupalcommerce.org
-description: Drupal Commerce 是 Drupal CMS 的一款流行的电子商务模块，支持数十个支付、运输和与购物相关的模块。
+description: Drupal CMS 的流行电子商务模块，支持数十种支付、配送和购物相关模块。
 licenses:
   - GPL-2.0
 platforms:

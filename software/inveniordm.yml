@@ -1,12 +1,12 @@
 name: InvenioRDM
 website_url: https://inveniordm.docs.cern.ch/
-description: 具有出色用户体验的高度可扩展的即插即用研究数据管理平台。
+description: 高度可扩展的一站式科研数据管理平台，拥有优美的用户体验。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
   - 文档管理 - 机构知识库和数字图书馆软件
-source_code_url: https://github.com/inveniosoftware/
+source_code_url: https://github.com/inveniosoftware/invenio-app-rdm
 demo_url: https://inveniordm.web.cern.ch/
 related_software_url: https://inveniosoftware.org/products/rdm/

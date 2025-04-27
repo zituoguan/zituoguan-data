@@ -1,6 +1,6 @@
 name: Gossa
 website_url: https://github.com/pldubouilh/gossa
-description: Gossa是一个轻量简单的文件Web服务器。
+description: 轻量且简单的文件 Web 服务器。
 licenses:
   - MIT
 platforms:

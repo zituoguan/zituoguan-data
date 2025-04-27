@@ -1,0 +1,12 @@
+name: Local Content Share
+website_url: https://github.com/Tanq16/local-content-share
+description: 在本地网络中存储和分享文本片段及文件。
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - 粘贴板
+  - 文件传输 - 单击和拖放上传
+source_code_url: https://github.com/Tanq16/local-content-share

@@ -1,6 +1,6 @@
 name: goploader
-website_url: https://github.com/Depado/goploader
-description: 使用服务器端加密的简便文件共享，兼容curl/httpie/wget。
+website_url: https://depado.github.io/goploader/
+description: 轻松的文件分享，支持服务器端加密，兼容 curl/httpie/wget。
 licenses:
   - MIT
 platforms:

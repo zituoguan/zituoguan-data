@@ -1,8 +1,8 @@
 name: Chatwoot
 website_url: https://www.chatwoot.com
-description: 自托管的客户沟通平台（替代Intercom和Zendesk）。
+description: 客户沟通平台（Intercom 和 Zendesk 的替代品）。
 licenses:
-  - MIT
+  - ⊘ Proprietary
 platforms:
   - Ruby
   - Docker

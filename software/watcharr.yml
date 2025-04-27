@@ -1,12 +1,12 @@
 name: Watcharr
 website_url: https://github.com/sbondCo/Watcharr
-description: 一个免费开源的内容观看清单。添加和跟踪您正在观看的所有电视节目和电影。具有用户身份验证、现代而清晰的用户界面和非常简单的设置。
+description: 添加并跟踪你正在观看的所有剧集和电影。支持用户认证，拥有现代简洁的界面，并且设置非常简单。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理
 source_code_url: https://github.com/sbondCo/Watcharr
 demo_url: https://beta.watcharr.app/
 stargazers_count: 748

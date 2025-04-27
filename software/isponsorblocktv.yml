@@ -1,7 +1,7 @@
 name: iSponsorBlockTV
 website_url: https://github.com/dmunozv04/iSponsorBlockTV
 source_code_url: https://github.com/dmunozv04/iSponsorBlockTV
-description: YouTube TV 的 SponsorBlock，允许跳过赞助商、静音和跳过广告。
+description: 阻止和跳过赞助内容，同时在 YouTube 上静音和跳过广告。
 licenses:
   - GPL-3.0
 platforms:

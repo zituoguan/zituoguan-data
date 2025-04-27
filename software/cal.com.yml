@@ -1,6 +1,6 @@
 name: Cal.com
 website_url: https://cal.com/
-description: 开源的在线预约系统。
+description: 在线预约调度系统。
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,12 +1,13 @@
 name: Bigcapital
-website_url: https://bigcapital.ly
-description: 适用于中小型企业的自托管财务会计和库存管理软件。
+website_url: https://bigcapital.app/
+description: 面向中小企业的财务会计和库存管理软件。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - 资金、预算和管理
+  - 库存管理
 source_code_url: https://github.com/bigcapitalhq/bigcapital
 stargazers_count: 2801
 updated_at: '2025-04-12'

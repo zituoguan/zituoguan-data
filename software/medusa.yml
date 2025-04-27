@@ -1,12 +1,12 @@
 name: Medusa
 website_url: https://github.com/pymedusa/Medusa
-description: 用于电视节目的自动视频库管理器。它会监视您喜爱的节目的新集数，一旦发布，就会进行自动管理。
+description: 自动化的视频库管理器，专为电视剧集设计。它会监控你喜欢的剧集的新剧集发布，并在发布时自动处理相关任务。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/pymedusa/Medusa
 related_software_url: https://github.com/medusajs/nextjs-starter-medusa
 stargazers_count: 1864

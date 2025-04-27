@@ -1,6 +1,6 @@
 name: hitobito
 website_url: https://hitobito.com
-description: 用于管理复杂的组织层次结构，包括成员、事件等的Web应用程序。
+description: 管理复杂的群组层级、成员、活动等功能。
 licenses:
   - AGPL-3.0
 platforms:

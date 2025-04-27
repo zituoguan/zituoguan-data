@@ -1,7 +1,7 @@
 name: HandBrake Web
 website_url: https://github.com/TheNickOfTime/handbrake-web
 source_code_url: https://github.com/TheNickOfTime/handbrake-web
-description: 通过 Web 界面在无头设备上使用一个或多个 HandBrake 视频转码器实例的平台。
+description: 通过 Web 界面在无头设备上使用一个或多个 HandBrake 视频转码器实例。
 licenses:
   - AGPL-3.0
 platforms:

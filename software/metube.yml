@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - 自动化
+  - 媒体管理
 source_code_url: https://github.com/alexta69/metube
 stargazers_count: 8649
 updated_at: '2025-04-16'
