@@ -1,11 +1,11 @@
 name: "MySpeed"
 website_url: "https://myspeed.dev/"
 source_code_url: "https://github.com/gnmyt/myspeed"
-description: "Speed test analysis software that shows your internet speed for up to 30 days."
+description: "速度测试分析软件，可显示您长达30天的互联网速度。"
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - 杂项
