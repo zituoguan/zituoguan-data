@@ -1,9 +1,9 @@
 name: "Perplexica"
 source_code_url: "https://github.com/ItzCrazyKns/Perplexica"
-description: "AI-powered search engine (alternative to Perplexity AI)."
+description: "AI 驱动的搜索引擎（Perplexity AI 的替代品）。"
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Generative Artificial Intelligence (GenAI)
+  - 生成式人工智能（GenAI）
