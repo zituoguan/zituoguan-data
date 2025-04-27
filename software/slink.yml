@@ -1,10 +1,10 @@
 name: "Slink"
 website_url: "https://docs.slinkapp.io/"
 source_code_url: "https://github.com/andrii-kryvoviaz/slink"
-description: "Image sharing platform designed to give users complete control over their media sharing experience."
+description: "一个旨在让用户完全掌控其媒体分享体验的图片分享平台。"
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
