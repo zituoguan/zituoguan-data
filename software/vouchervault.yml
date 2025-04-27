@@ -1,10 +1,10 @@
 name: "VoucherVault"
 website_url: "https://github.com/l4rm4nd/VoucherVault"
 source_code_url: "https://github.com/l4rm4nd/VoucherVault"
-description: "Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO."
+description: "数字化存储和管理代金券、优惠券、会员卡和礼品卡。支持到期通知、交易历史、文件上传和OIDC单点登录。"
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
