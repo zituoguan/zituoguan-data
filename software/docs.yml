@@ -1,11 +1,11 @@
 name: "Docs"
 website_url: "https://docs.numerique.gouv.fr/"
 source_code_url: "https://github.com/suitenumerique/docs"
-description: "Collaborative note taking, wiki and documentation platform that scales."
+description: "可扩展的协作式笔记、维基和文档平台。"
 licenses:
   - MIT
 platforms:
   - K8S
 tags:
-  - Note-taking & Editors
-  - Knowledge Management Tools
+  - 笔记和编辑器
+  - 知识管理工具
