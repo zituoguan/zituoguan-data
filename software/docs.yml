@@ -1,7 +1,7 @@
-name: "Docs"
-website_url: "https://docs.numerique.gouv.fr/"
-source_code_url: "https://github.com/suitenumerique/docs"
-description: "可扩展的协作式笔记、维基和文档平台。"
+name: Docs
+website_url: https://docs.numerique.gouv.fr/
+source_code_url: https://github.com/suitenumerique/docs
+description: 可扩展的协作式笔记、维基和文档平台。
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
 tags:
   - 笔记和编辑器
   - 知识管理工具
+stargazers_count: 11819
+updated_at: '2025-04-28'
+archived: false

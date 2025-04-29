@@ -1,7 +1,7 @@
-name: "Speedtest Tracker"
-website_url: "https://docs.speedtest-tracker.dev/"
-source_code_url: "https://github.com/alexjustesen/speedtest-tracker"
-description: "监控你的互联网连接的性能和在线时间。"
+name: Speedtest Tracker
+website_url: https://docs.speedtest-tracker.dev/
+source_code_url: https://github.com/alexjustesen/speedtest-tracker
+description: 监控你的互联网连接的性能和在线时间。
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - K8S
 tags:
   - 杂项
+stargazers_count: 3568
+updated_at: '2025-04-28'
+archived: false

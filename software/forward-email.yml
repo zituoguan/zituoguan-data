@@ -1,7 +1,7 @@
-name: "Forward Email"
-website_url: "https://forwardemail.net"
-source_code_url: "https://github.com/forwardemail/forwardemail.net"
-description: "面向所有人的注重隐私加密邮件服务。集 Gmail、Mailchimp、Sendgrid 于一体的解决方案替代品。"
+name: Forward Email
+website_url: https://forwardemail.net
+source_code_url: https://github.com/forwardemail/forwardemail.net
+description: 面向所有人的注重隐私加密邮件服务。集 Gmail、Mailchimp、Sendgrid 于一体的解决方案替代品。
 licenses:
   - BUSL-1.1
   - MPL-2.0
@@ -10,3 +10,6 @@ platforms:
   - Docker
 tags:
   - 通信 - 电子邮件 - 完整解决方案
+stargazers_count: 1105
+updated_at: '2025-04-28'
+archived: false

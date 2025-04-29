@@ -1,7 +1,7 @@
-name: "MySpeed"
-website_url: "https://myspeed.dev/"
-source_code_url: "https://github.com/gnmyt/myspeed"
-description: "速度测试分析软件，可显示您长达30天的互联网速度。"
+name: MySpeed
+website_url: https://myspeed.dev/
+source_code_url: https://github.com/gnmyt/myspeed
+description: 速度测试分析软件，可显示您长达30天的互联网速度。
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Nodejs
 tags:
   - 杂项
+stargazers_count: 1339
+updated_at: '2025-04-28'
+archived: false

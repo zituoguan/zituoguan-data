@@ -1,7 +1,7 @@
-name: "Superdesk"
-website_url: "https://superdesk.org/"
-source_code_url: "https://github.com/superdesk/superdesk"
-description: "端到端的新闻创建、生产、策划、分发和发布平台。"
+name: Superdesk
+website_url: https://superdesk.org/
+source_code_url: https://github.com/superdesk/superdesk
+description: 端到端的新闻创建、生产、策划、分发和发布平台。
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,3 +11,6 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 depends_3rdparty: true
+stargazers_count: 700
+updated_at: '2025-04-25'
+archived: false

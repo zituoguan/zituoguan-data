@@ -1,7 +1,7 @@
-name: "Kutt"
-website_url: "https://kutt.it"
-source_code_url: "https://github.com/thedevs-network/kutt"
-description: "一个现代化的 URL 缩短工具，支持自定义域名和自定义短链接。"
+name: Kutt
+website_url: https://kutt.it
+source_code_url: https://github.com/thedevs-network/kutt
+description: 一个现代化的 URL 缩短工具，支持自定义域名和自定义短链接。
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - URL 缩短服务
-demo_url: "https://kutt.it"
+demo_url: https://kutt.it
+stargazers_count: 9667
+updated_at: '2025-04-24'
+archived: false
