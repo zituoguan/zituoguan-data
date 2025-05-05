@@ -2,7 +2,7 @@ name: mStream
 website_url: https://mstream.io/
 description: 具有 GUI 管理工具的音乐流媒体服务器。支持 Mac、Windows 和 Linux。
 licenses:
-  - GPL-2.0
+  - GPL-3.0
 platforms:
   - Nodejs
 tags:

@@ -1,6 +1,6 @@
 name: MeshCentral
 website_url: https://meshcentral.com/
-description: 一款完整的计算机管理网站。通过 MeshCentral，您可以运行自己的 Web 服务器，远程管理和控制位于本地网络或互联网任何地方的计算机。
+description: 运行您自己的 Web 服务器，以远程管理和控制本地网络或互联网上任何地方的计算机。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,6 +1,6 @@
 name: Maloja
 website_url: https://github.com/krateng/maloja
-description: 自托管的音乐播放记录数据库（替代Last.fm）。
+description: 音乐 scrobble 数据库（Last.fm 的替代品）。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Meetable
 website_url: https://events.indieweb.org
-description: 一个极简的事件聚合器。
+description: 极简活动聚合器。
 licenses:
   - MIT
 platforms:

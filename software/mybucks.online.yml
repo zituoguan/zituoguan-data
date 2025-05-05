@@ -1,7 +1,7 @@
 name: Mybucks.online
 website_url: https://mybucks.online
 source_code_url: https://github.com/mybucks-online/app
-description: 安全的基于浏览器的，仅凭密码自托管的加密货币钱包。
+description: 安全的、基于浏览器的、仅密码的自我托管加密货币钱包。
 licenses:
   - MIT
 platforms:

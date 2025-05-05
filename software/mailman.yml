@@ -1,10 +1,10 @@
 name: Mailman
-website_url: https://www.gnu.org/software/mailman/
-description: GNU邮件列表服务器。
+website_url: https://www.list.org/
+description: 管理电子邮件讨论和电子通讯列表。
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
   - 通信 - 电子邮件 - 邮件列表和通讯
-source_code_url: https://www.gnu.org/software/mailman/
+source_code_url: https://gitlab.com/mailman/

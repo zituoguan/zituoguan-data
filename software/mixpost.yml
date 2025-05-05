@@ -1,6 +1,6 @@
 name: Mixpost
 website_url: https://mixpost.app/
-description: 自托管的社交媒体管理软件。在一个地方轻松创建、计划、发布和管理社交媒体内容（替代 Hootsuite、Buffer 和其他社交媒体工具）。
+description: 社交媒体管理软件，可在一个地方轻松创建、安排、发布和管理社交媒体内容（Hootsuite、Buffer 和其他社交媒体工具的替代品）。
 licenses:
   - MIT
 platforms:

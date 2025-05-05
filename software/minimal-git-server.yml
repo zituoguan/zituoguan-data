@@ -1,7 +1,7 @@
 name: minimal-git-server
 website_url: https://github.com/mcarbonne/minimal-git-server
 source_code_url: https://github.com/mcarbonne/minimal-git-server
-description: 轻量级、简约的自托管 Git 服务器，带有基本的 CLI 来管理仓库，支持多个账户，并运行在容器中。
+description: 轻量级 git 服务器，具有用于管理存储库的基本 CLI，支持多个帐户并在容器中运行。
 licenses:
   - MIT
 platforms:

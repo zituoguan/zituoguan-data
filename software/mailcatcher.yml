@@ -1,6 +1,6 @@
 name: MailCatcher
 website_url: https://mailcatcher.me/
-description: 一个Ruby gem，部署了一个简单的SMTP MTA网关，接受所有邮件并在Web界面中显示。适用于调试或开发。
+description: 部署一个简单的 SMTP MTA 网关，它接收所有邮件并在 Web 界面中显示。可用于调试或开发。
 licenses:
   - MIT
 platforms:

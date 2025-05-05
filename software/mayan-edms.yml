@@ -1,10 +1,11 @@
 name: Mayan EDMS
 website_url: https://www.mayan-edms.com
-description: 免费开源电子文档管理系统。为您的文档提供电子保险库，具备预览生成、OCR、自动分类等功能。
+description: 电子文档管理系统，可为您的文档提供预览生成、OCR 和自动分类等功能。
 licenses:
-  - Apache-2.0
+  - GPL-2.0
 platforms:
-  - Python
+  - Docker
+  - K8S
 tags:
   - 文档管理
 source_code_url: https://gitlab.com/mayan-edms/mayan-edms

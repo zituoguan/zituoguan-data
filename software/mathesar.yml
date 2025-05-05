@@ -1,6 +1,6 @@
 name: Mathesar
 website_url: https://mathesar.org/
-description: 为所有技术水平的用户提供直观的协作数据管理界面。基于Postgres构建 - 连接现有数据库或设置新数据库。
+description: 直观的用户界面，用于协同管理数据，适用于各种技术水平的用户。基于 Postgres 构建 – 连接现有数据库或设置新数据库。
 licenses:
   - GPL-3.0
 platforms:

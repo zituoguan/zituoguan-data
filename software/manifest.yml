@@ -1,6 +1,6 @@
 name: Manifest
 website_url: https://manifest.build
-description: 适合一个YAML文件的完整后端。
+description: 一个 YAML 文件即可搞定的完整后端。
 licenses:
   - MIT
 platforms:

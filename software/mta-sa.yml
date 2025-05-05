@@ -1,6 +1,6 @@
 name: MTA:SA
-website_url: https://multitheftauto.com/
-description: Multi Theft Auto (MTA) 是一个软件项目，为 Rockstar North 的《侠盗猎车手》游戏系列添加了网络游戏功能，该功能在原版中并不存在。
+
+description: 为 Rockstar North 的《侠盗猎车手》系列游戏添加网络游戏功能，该功能在原版游戏中并不存在。
 licenses:
   - GPL-3.0
 platforms:

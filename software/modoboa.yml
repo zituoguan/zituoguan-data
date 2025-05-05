@@ -1,6 +1,6 @@
 name: Modoboa
 website_url: https://modoboa.org/en/
-description: Modoboa 是一个包括现代简化的 Web 用户界面的邮件托管和管理平台。
+description: 邮件托管和管理平台，包括一个现代化且简化的 Web 用户界面。
 licenses:
   - ISC
 platforms:

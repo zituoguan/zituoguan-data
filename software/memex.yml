@@ -1,7 +1,7 @@
 name: "memEx"
 website_url: "https://gitea.bubbletea.dev/shibao/memEx"
 source_code_url: "https://gitea.bubbletea.dev/shibao/memEx"
-description: "一个结构化的个人知识库，受zettlekasten和org-mode启发。"
+description: "结构化个人知识库，灵感来自卡片盒笔记法 (zettlekasten) 和 org-mode。"
 licenses:
   - AGPL-3.0
 platforms:

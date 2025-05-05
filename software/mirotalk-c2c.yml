@@ -2,7 +2,7 @@ name: MiroTalk C2C
 website_url: https://c2c.mirotalk.com
 description: 实时点对点视频通话和屏幕共享，端到端加密，可嵌入任何网站的简单 iframe 中。
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker

@@ -3,7 +3,7 @@ website_url: https://myfinbudget.com
 source_code_url: https://github.com/afaneca/myfin
 description: 个人财务平台（Web + REST API + Android），帮助您预算、跟踪收入/支出并预测财务未来。
 licenses:
-  - AGPL-3.0
+  - GPL-3.0
 platforms:
   - Nodejs
   - Docker

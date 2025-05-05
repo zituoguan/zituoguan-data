@@ -1,6 +1,6 @@
 name: Mistborn
 website_url: https://gitlab.com/cyber5k/mistborn
-description: Mistborn 是您自己的虚拟专用云平台和 WebUI，用于管理自托管的服务。
+description: 虚拟专用云平台和 WebUI，用于管理自托管服务。
 licenses:
   - MIT
 platforms:

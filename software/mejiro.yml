@@ -1,6 +1,5 @@
 name: Mejiro
-website_url: https://github.com/dmpop/mejiro
-description: 一个易于使用的PHP Web应用程序，用于即时发布照片。
+description: 易于使用的即时照片发布工具。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Mailu
 website_url: https://mailu.io/
-description: Mailu是一组Docker镜像形式的简单但功能齐全的邮件服务器。
+description: 简单但功能齐全的邮件服务器，以 Docker 镜像集的形式提供。
 licenses:
   - MIT
 platforms:

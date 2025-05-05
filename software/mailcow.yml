@@ -2,7 +2,7 @@ name: Mailcow
 website_url: https://mailcow.email/
 description: 基于Dovecot、Postfix和其他开源软件的邮件服务器套件，提供现代化的Web界面进行管理。
 licenses:
-  - GPL-2.0
+  - GPL-3.0
 platforms:
   - Docker
   - PHP

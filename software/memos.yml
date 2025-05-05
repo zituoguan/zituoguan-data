@@ -1,6 +1,6 @@
 name: Memos
 website_url: https://usememos.com/
-description: 一个开源、自托管的知识库，可与 SQLite 数据库文件配合使用。
+description: 一个使用 SQLite 数据库文件的知识库。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,7 @@ platforms:
 tags:
   - 笔记和编辑器
 source_code_url: https://github.com/usememos/memos
+demo_url: https://demo.usememos.com/explore
 stargazers_count: 39416
 updated_at: '2025-05-13'
 archived: false

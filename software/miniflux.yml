@@ -1,6 +1,6 @@
 name: Miniflux
 website_url: https://miniflux.app/
-description: Miniflux 是一款极简主义的开源新闻阅读器，使用 Go 和 PostgreSQL 编写。
+description: 极简主义新闻阅读器。
 licenses:
   - Apache-2.0
 platforms:

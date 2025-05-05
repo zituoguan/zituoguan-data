@@ -1,6 +1,6 @@
 name: Minio
 website_url: https://min.io/
-description: Minio 是一个与 Amazon S3 API 兼容的开源对象存储服务器。
+description: 与 Amazon S3 API 兼容的对象存储服务器。
 licenses:
   - AGPL-3.0
 platforms:

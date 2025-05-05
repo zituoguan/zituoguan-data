@@ -2,11 +2,12 @@ name: Microweber
 website_url: https://microweber.com/
 description: 拖放式 CMS 和在线商店。
 licenses:
-  - Apache-2.0
+  - MIT
 platforms:
   - PHP
 tags:
   - 电子商务
+  - 内容管理系统（CMS）
 source_code_url: https://github.com/microweber/microweber
 stargazers_count: 3254
 updated_at: '2025-05-05'

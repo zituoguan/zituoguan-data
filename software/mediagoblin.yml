@@ -1,6 +1,6 @@
 name: Mediagoblin
 website_url: https://mediagoblin.org
-description: 自由软件媒体发布平台，任何人都可以运行（可替代Flickr、YouTube、SoundCloud等）。
+description: 任何人都可以运行的媒体发布平台（Flickr、YouTube、SoundCloud 等的替代品）。
 licenses:
   - AGPL-3.0
 platforms:

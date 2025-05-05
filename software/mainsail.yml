@@ -1,6 +1,6 @@
 name: Mainsail
 website_url: https://docs.mainsail.xyz/
-description: Klipper 3D打印机固件的现代响应式用户界面。随时随地，从任何设备控制和监控您的打印机。
+description: Klipper 3D 打印机固件的现代化响应式用户界面。随时随地通过任何设备控制和监控您的打印机。
 licenses:
   - GPL-3.0
 platforms:

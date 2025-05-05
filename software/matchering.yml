@@ -1,6 +1,6 @@
 name: Matchering
 website_url: https://github.com/sergree/matchering
-description: 用于自动音乐母带处理的容器化Web应用（替代LANDR、eMastered和MajorDecibel）。
+description: 自动化母带处理（LANDR、eMastered 和 MajorDecibel 的替代方案）。
 licenses:
   - GPL-3.0
 platforms:

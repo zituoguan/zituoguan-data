@@ -1,8 +1,8 @@
 name: Mobilizon
 website_url: https://mobilizon.org
-description: 一个联邦工具，帮助您查找、创建和组织事件和群组。
+description: 一个联合工具，可帮助您查找、创建和组织活动和群组。
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Elixir
   - Docker

@@ -1,7 +1,7 @@
 name: motion.tools (Antragsgrün)
 website_url: https://motion.tools/
 source_code_url: https://github.com/CatoTH/antragsgruen
-description: 用于管理（政治）大会动议和修正案的网络工具。
+description: 管理（政治）会议的动议和修正案。
 licenses:
   - AGPL-3.0
 platforms:
