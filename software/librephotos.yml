@@ -1,6 +1,6 @@
 name: LibrePhotos
 website_url: https://github.com/LibrePhotos/librephotos
-description: 自托管的仿Google Photos的应用，略带一些酷炫图表的关注点。
+description: 照片管理服务，略微侧重于炫酷的图表（可替代 Google Photos）。
 licenses:
   - MIT
 platforms:

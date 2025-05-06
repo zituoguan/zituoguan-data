@@ -1,7 +1,7 @@
 name: LubeLogger
 website_url: https://lubelogger.com
 source_code_url: https://github.com/hargata/lubelog
-description: 一个基于 Web 的车辆维护和燃油里程跟踪器。
+description: 基于网络的车辆维护和燃油里程追踪器。
 licenses:
   - MIT
 platforms:

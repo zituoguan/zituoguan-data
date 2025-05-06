@@ -1,4 +1,5 @@
 name: Mautic
+website_url: https://www.mautic.org/
 description: 营销自动化软件（电子邮件、社交等）。
 licenses:
   - GPL-3.0

@@ -1,0 +1,13 @@
+name: IOPaint
+website_url: https://www.iopaint.com/
+description: 由SOTA AI模型驱动的图像修复工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）
+source_code_url: https://github.com/Sanster/IOPaint
+depends_3rdparty: true
+

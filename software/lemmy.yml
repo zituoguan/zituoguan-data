@@ -1,6 +1,6 @@
 name: Lemmy
 website_url: https://join-lemmy.org/
-description: 一个面向联合网络的链接聚合器/Reddit克隆（作为Reddit的替代品）。
+description: Fediverse 的链接聚合器（Reddit 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:

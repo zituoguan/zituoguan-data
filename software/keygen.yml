@@ -1,8 +1,8 @@
 name: Keygen
 website_url: https://github.com/keygen-sh/keygen-api
-description: 自托管的软件许可和分发API。
+description: 软件授权和分发 API。
 licenses:
-  - Elastic-2.0
+  - ⊘ Proprietary
 platforms:
   - Ruby
 tags:

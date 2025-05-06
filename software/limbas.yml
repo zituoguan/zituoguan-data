@@ -1,6 +1,6 @@
 name: Limbas
 website_url: https://www.limbas.com/en/
-description: Limbas是一个用于创建基于数据库的业务应用程序的数据库框架。作为图形数据库前端，它能够高效处理数据库存储并灵活开发舒适的数据库应用程序。
+description: 用于创建数据库驱动的业务应用程序的数据库框架。作为一个图形化数据库前端，它能够高效处理数据库存，并灵活开发便捷的数据库应用程序。
 licenses:
   - GPL-2.0
 platforms:

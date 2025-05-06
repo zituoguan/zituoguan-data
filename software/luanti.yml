@@ -1,6 +1,6 @@
 name: Luanti
 website_url: https://www.luanti.org/
-description: 一个开源体素游戏引擎（前身为Minetest）。玩我们众多游戏中的一款，按照您的喜好修改游戏，制作您自己的游戏，或者在多人服务器上游玩。
+description: 体素游戏引擎（前身为 Minetest）。玩我们众多游戏中的一款，根据自己的喜好修改游戏，制作自己的游戏，或者在多人服务器上游戏。
 licenses:
   - LGPL-2.1
   - MIT
@@ -11,7 +11,7 @@ platforms:
   - deb
 tags:
   - 游戏
-source_code_url: https://github.com/minetest/minetest
+source_code_url: https://github.com/luanti-org/luanti
 archived: false
 stargazers_count: 11427
 updated_at: '2025-05-13'

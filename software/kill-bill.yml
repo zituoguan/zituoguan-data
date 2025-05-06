@@ -1,6 +1,6 @@
 name: Kill Bill
 website_url: https://killbill.io/
-description: 开源的订阅计费和支付平台。具有实时分析和财务报告的访问权限。
+description: 订阅计费和支付平台。可以访问实时分析和财务报告。
 licenses:
   - Apache-2.0
 platforms:

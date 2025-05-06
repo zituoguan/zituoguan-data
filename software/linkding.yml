@@ -1,15 +1,14 @@
 name: linkding
-website_url: https://github.com/sissbruecker/linkding
+website_url: https://linkding.link/
 description: 具有快速干净界面的最小书签管理工具。通过Docker简单安装，可在您的Raspberry Pi上运行。
 licenses:
   - MIT
 platforms:
   - Docker
-  - Python
-  - Nodejs
 tags:
   - 书签和链接分享
 source_code_url: https://github.com/sissbruecker/linkding
+demo_url: https://demo.linkding.link/login/
 stargazers_count: 8175
 updated_at: '2025-04-13'
 archived: false

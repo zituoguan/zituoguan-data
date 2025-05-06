@@ -1,7 +1,7 @@
 name: Jelu
 website_url: https://bayang.github.io/jelu-web
 source_code_url: https://github.com/bayang/jelu
-description: 自托管的阅读和待阅读书单跟踪工具。
+description: 已读和待读书籍列表追踪器。
 licenses:
   - MIT
 platforms:

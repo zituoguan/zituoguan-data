@@ -1,7 +1,7 @@
 name: LiveCodes
 website_url: https://livecodes.io/docs/features/self-hosting
 source_code_url: https://github.com/live-codes/livecodes
-description: 一个功能丰富的客户端代码游乐场，支持 React、Vue、Svelte、Solid、Typescript、Python、Go、Ruby、PHP 及其他 90 多种编程语言。
+description: 功能丰富的客户端代码操作平台，支持React、Vue、Svelte、Solid、Typescript、Python、Go、Ruby、PHP以及其他90多种编程语言。
 licenses:
   - MIT
 platforms:

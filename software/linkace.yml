@@ -1,6 +1,6 @@
 name: LinkAce
 website_url: https://www.linkace.org/
-description: 一个具有自动备份到Internet Archive、链接监控和完整REST API的书签存档。可以通过Docker安装，也可以作为简单的PHP应用程序安装。
+description: 书签存档，具有自动备份到互联网档案馆、链接监控和完整的REST API功能。可通过Docker安装，或作为简单的PHP应用程序安装。
 licenses:
   - GPL-3.0
 platforms:

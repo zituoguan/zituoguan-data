@@ -1,4 +1,5 @@
 name: Matomo
+website_url: https://matomo.org/
 description: 保护您的数据和客户隐私的网站分析工具（谷歌分析的替代品）。
 licenses:
   - GPL-3.0

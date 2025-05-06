@@ -1,6 +1,6 @@
 name: Loomio
 website_url: https://www.loomio.org/
-description: Loomio是一个协作决策工具，使任何人都能轻松参与影响他们的决策。
+description: 协作决策工具，使任何人都能轻松参与影响他们的决策。
 licenses:
   - AGPL-3.0
 platforms:

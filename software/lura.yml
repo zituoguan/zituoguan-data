@@ -1,6 +1,6 @@
 name: Lura
 website_url: https://luraproject.org/
-description: 开源高性能API网关。
+description: 高性能 API 网关。
 licenses:
   - Apache-2.0
 platforms:

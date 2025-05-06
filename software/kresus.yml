@@ -1,6 +1,6 @@
 name: Kresus
 website_url: https://kresus.org/
-description: 开源个人财务管理软件。
+description: 个人财务管理工具。
 licenses:
   - AGPL-3.0
 platforms:

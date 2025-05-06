@@ -1,6 +1,6 @@
 name: LittleLink
-website_url: https://github.com/sethcottle/littlelink/
-description: 一个简单的个人主页链接方案，包含100+品牌按钮（是Linktree的替代品）。
+website_url: https://littlelink.io/
+description: 简约的个人简介链接方式，提供100多个品牌按钮（Linktree的替代品）。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: LibreTime
 website_url: https://libretime.org
-description: 一个简单的、开源的平台，让您可以在Web上广播流媒体电台（是[Airtime](https://github.com/sourcefabric/Airtime)的分支）。
+description: 在网络上广播流媒体电台（[Airtime](https://github.com/sourcefabric/Airtime) 的分支）。
 licenses:
   - AGPL-3.0
 platforms:

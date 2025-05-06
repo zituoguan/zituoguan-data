@@ -1,6 +1,6 @@
 name: Keila
 website_url: https://www.keila.io
-description: 自托管的可靠且易于使用的新闻通讯工具（替代Mailchimp或Sendinblue）。
+description: 可靠且易于使用的时事通讯工具（可替代 Mailchimp 或 Sendinblue）。
 licenses:
   - AGPL-3.0
 platforms:

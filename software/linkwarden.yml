@@ -1,6 +1,6 @@
 name: LinkWarden
 website_url: https://linkwarden.app/
-description: 一个自托管的书签+存档管理器，用于存储您的有用链接。
+description: 书签和归档管理器，用于存储您的有用链接。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: Lila
 website_url: https://lichess.org/
-description: 永久免费、无广告且开源的国际象棋服务器，为lichess.org提供支持，拥有官方iOS和Android客户端应用。
+description: 为 lichess.org 提供支持的无广告国际象棋服务器，拥有官方 iOS 和 Android 客户端应用程序。
 licenses:
   - AGPL-3.0
 platforms:

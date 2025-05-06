@@ -1,6 +1,6 @@
 name: Jami
 website_url: https://jami.net/
-description: 自由且通用的通信平台，保护用户的隐私和自由（前身为GNU Ring）。
+description: 保护用户隐私和自由的通用通信平台。
 licenses:
   - GPL-3.0
 platforms:

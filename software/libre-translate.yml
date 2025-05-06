@@ -1,6 +1,6 @@
 name: Libre Translate
 website_url: https://libretranslate.com/
-description: 免费且开源的机器翻译API，完全自托管。
+description: 机器翻译 API。
 licenses:
   - AGPL-3.0
 platforms:

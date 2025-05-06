@@ -1,6 +1,6 @@
 name: Leon
 website_url: https://getleon.ai
-description: 开源个人助手，可以运行在您的服务器上。
+description: 可以住在您服务器上的个人助理。
 licenses:
   - MIT
 platforms:

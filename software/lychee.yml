@@ -1,6 +1,6 @@
 name: Lychee
 website_url: https://lycheeorg.github.io/
-description: 开源的基于网格和相册的照片管理系统。
+description: 基于网格和相册的照片管理系统。
 licenses:
   - MIT
 platforms:

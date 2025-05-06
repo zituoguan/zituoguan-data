@@ -1,7 +1,7 @@
 name: LibreKB
 website_url: https://librekb.com/
 source_code_url: https://github.com/michaelstaake/LibreKB/
-description: 基于 web 的知识库解决方案。一个简单的 web 应用，可以在几乎所有支持 PHP 和 MySQL 的 web 服务器或托管服务提供商上运行。
+description: 基于 Web 的知识库解决方案。一个简单的 Web 应用程序，它几乎可以在任何具有 PHP 和 MySQL 的 Web 服务器或托管提供商上运行。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,4 +1,5 @@
 name: Misago
+website_url: https://misago-project.org/
 description: 功能齐全的现代论坛应用程序，快速、可扩展且响应迅速。
 licenses:
   - GPL-2.0

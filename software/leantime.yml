@@ -1,8 +1,8 @@
 name: Leantime
 website_url: https://leantime.io
-description: Leantime是一个专为小团队和初创公司设计的精益项目管理系统，帮助从构思到交付的整个项目管理过程。
+description: 为小型团队和初创公司设计的精益项目管理系统，帮助管理从构思到交付的项目。
 licenses:
-  - GPL-2.0
+  - AGPL-3.0
 platforms:
   - PHP
   - Docker

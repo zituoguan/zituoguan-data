@@ -1,6 +1,6 @@
 name: Lidarr
 website_url: https://lidarr.audio/
-description: Lidarr是一个面向Usenet和BitTorrent用户的音乐收藏管理器。
+description: Usenet 和 BitTorrent 用户的音乐收藏管理器。
 licenses:
   - GPL-3.0
 platforms:

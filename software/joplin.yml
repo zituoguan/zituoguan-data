@@ -1,6 +1,6 @@
 name: Joplin
 website_url: https://joplinapp.org/
-description: Joplin是一款带有Markdown编辑器和加密支持的笔记应用，适用于移动和桌面平台。在客户端运行，并通过自托管的Nextcloud或类似服务同步（替代Evernote）。
+description: 一款笔记应用，支持Markdown编辑器和加密功能，适用于移动和桌面平台。在客户端运行，可通过自托管的Nextcloud实例或类似服务进行同步（Evernote的替代品）。
 licenses:
   - MIT
 platforms:

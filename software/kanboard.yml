@@ -1,6 +1,6 @@
 name: Kanboard
 website_url: https://kanboard.org/
-description: 简单且开源的可视化任务板。
+description: 简单的可视化任务看板。
 licenses:
   - MIT
 platforms:

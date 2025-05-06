@@ -1,6 +1,6 @@
 name: Judge0 CE
 website_url: https://judge0.com
-description: 用于编译和运行源代码的开源API。
+description: 用于编译和运行源代码的 API。
 licenses:
   - GPL-3.0
 platforms:

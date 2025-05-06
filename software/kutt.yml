@@ -1,7 +1,7 @@
 name: Kutt
 website_url: https://kutt.it
 source_code_url: https://github.com/thedevs-network/kutt
-description: 一个现代化的 URL 缩短工具，支持自定义域名和自定义短链接。
+description: 现代 URL 缩短器，支持自定义域名和自定义 URL。
 licenses:
   - MIT
 platforms:

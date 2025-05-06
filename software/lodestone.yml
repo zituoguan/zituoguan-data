@@ -1,6 +1,6 @@
 name: Lodestone
 website_url: https://github.com/Lodestone-Team/lodestone
-description: 用于Minecraft和其他多人游戏的免费、开源的服务器托管工具。
+description: 用于 Minecraft 和其他多人游戏的服务器托管工具。
 licenses:
   - AGPL-3.0
 platforms:

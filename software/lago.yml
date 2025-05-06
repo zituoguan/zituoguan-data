@@ -1,6 +1,6 @@
 name: Lago
 website_url: https://www.getlago.com/
-description: 开源的计量和基于使用情况的计费系统。
+description: 计量和基于使用量的计费。
 licenses:
   - AGPL-3.0
 platforms:

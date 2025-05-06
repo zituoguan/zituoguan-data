@@ -1,6 +1,6 @@
 name: KitchenOwl
-website_url: https://tombursch.github.io/kitchenowl/
-description: 一款跨平台的购物清单、食谱存储、费用跟踪和餐饮计划应用，遵循 Material Design 设计语言。
+website_url: https://docs.kitchenowl.org/latest/
+description: 跨平台购物清单、食谱存储、费用跟踪和膳食计划，遵循 Material Design 语言。
 licenses:
   - AGPL-3.0
 platforms:

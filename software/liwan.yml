@@ -1,6 +1,6 @@
 name: Liwan
 website_url: https://liwan.dev/
-description: 简单且注重隐私的网页分析工具。
+description: 隐私优先的网站分析。
 licenses:
   - AGPL-3.0
 platforms:
