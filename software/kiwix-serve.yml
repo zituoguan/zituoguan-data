@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C++
 tags:
-  - 笔记和编辑器
+  - 文档管理 - 电子书
 source_code_url: https://github.com/kiwix/kiwix-tools
 stargazers_count: 568
 updated_at: '2025-04-20'
