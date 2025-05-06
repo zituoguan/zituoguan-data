@@ -1,6 +1,6 @@
 name: OctoPrint
 website_url: https://octoprint.org/
-description: 用于控制消费级3D打印机的灵活Web界面。
+description: 用于控制消费级3D打印机的简洁网页界面。
 licenses:
   - AGPL-3.0
 platforms:

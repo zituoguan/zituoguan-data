@@ -1,6 +1,6 @@
 name: OpenOLAT
 website_url: https://www.openolat.com/?lang=en
-description: OpenOLAT是一个基于Web的学习管理系统，用于教学、教育、评估和交流。
+description: 用于教学、教育、评估和交流的学习管理系统。
 licenses:
   - Apache-2.0
 platforms:

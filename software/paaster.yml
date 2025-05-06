@@ -1,8 +1,8 @@
 name: paaster
 website_url: https://paaster.io
-description: Paaster是一个默认安全的端到端加密的Pastebin，建立在简单性的基础上。
+description: 以简洁为目标构建的端到端加密粘贴板。
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:

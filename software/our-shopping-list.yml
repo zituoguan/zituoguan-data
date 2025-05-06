@@ -1,6 +1,6 @@
 name: Our Shopping List
 website_url: https://github.com/nanawel/our-shopping-list
-description: 简单的共享列表应用程序。典型用途包括购物清单，当然还有任何其他需要协作使用的小型待办事项列表。
+description: 简单的共享清单应用程序，包括购物清单和任何其他需要协作使用的小型待办清单。
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: OctoBot
 website_url: https://www.octobot.cloud/
-description: 开源加密货币交易机器人。
+description: 加密货币交易机器人。
 licenses:
   - GPL-3.0
 platforms:

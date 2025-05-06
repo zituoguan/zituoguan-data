@@ -1,6 +1,6 @@
 name: Novu
 website_url: https://novu.co/
-description: 面向开发人员的自托管/云通知基础设施。
+description: 为开发者提供的通知基础设施。
 licenses:
   - MIT
 platforms:

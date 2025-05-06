@@ -1,6 +1,6 @@
 name: OpenProject
 website_url: https://www.openproject.org
-description: OpenProject是一个基于Web的项目管理系统。
+description: 管理您的项目、任务和目标。通过工作包协作，并将其与您在 Github 上的拉取请求关联。
 licenses:
   - GPL-3.0
 platforms:

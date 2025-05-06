@@ -1,6 +1,6 @@
 name: Open-Meteo
 website_url: https://open-meteo.com/
-description: 具有来自所有主要国家气象服务的开放数据预测、历史和气候数据的开源天气API。
+description: 提供来自各大国家气象服务机构的开放数据天气预报、历史和气候数据的 API。
 licenses:
   - AGPL-3.0
 platforms:

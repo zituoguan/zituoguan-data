@@ -1,7 +1,7 @@
 name: OpenSlides
 website_url: https://openslides.com/
 source_code_url: https://github.com/OpenSlides/OpenSlides
-description: 基于 Web 的演示和议会系统，用于管理和投影议程、动议和议会选举。
+description: 用于管理和投影议程、动议和选举的会议演示与管理系统。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Note Mark
 website_url: https://notemark.docs.enchantedcode.co.uk/
 source_code_url: https://github.com/enchant97/note-mark
-description: 一款极简的基于Web的Markdown笔记应用。
+description: 极简的基于 Web 的 Markdown 笔记应用。
 licenses:
   - AGPL-3.0
 platforms:

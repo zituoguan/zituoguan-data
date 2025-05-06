@@ -1,6 +1,6 @@
 name: OliveTin
-website_url: https://github.com/OliveTin/OliveTin
-description: OliveTin是一个用于运行Linux shell命令的Web界面。
+website_url: https://www.olivetin.app/
+description: 用于运行 Linux Shell 命令的网页界面。
 licenses:
   - AGPL-3.0
 platforms:

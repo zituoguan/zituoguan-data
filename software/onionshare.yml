@@ -2,7 +2,7 @@ name: OnionShare
 website_url: https://github.com/onionshare/onionshare
 description: 安全匿名地共享任意大小的文件。
 licenses:
-  - GPL-2.0
+  - GPL-3.0
 platforms:
   - Python
   - deb

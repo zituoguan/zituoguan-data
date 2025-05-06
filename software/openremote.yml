@@ -1,6 +1,6 @@
 name: OpenRemote
 website_url: https://openremote.io
-description: 开源物联网平台 - 物联网资产管理、流程规则和WHEN-THEN规则、数据可视化、边缘网关。
+description: 物联网资产管理、流程规则与条件规则、数据可视化、边缘网关。
 licenses:
   - AGPL-3.0
 platforms:

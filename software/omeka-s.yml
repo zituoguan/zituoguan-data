@@ -1,6 +1,6 @@
 name: Omeka S
 website_url: https://omeka.org/s/
-description: Omeka S是面向大学、画廊、图书馆、档案馆和博物馆的Web出版系统。它由一个本地网络组成，独立策展的展览共享一个协作构建的项目、媒体和它们的元数据池。
+description: 面向机构的下一代网络发布平台，旨在将数字文化遗产收藏与其他在线资源连接起来。
 licenses:
   - GPL-3.0
 platforms:

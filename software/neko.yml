@@ -1,6 +1,6 @@
 name: Neko
 website_url: https://neko.m1k1o.net
-description: 一个在 Docker 中运行的自托管虚拟浏览器（rabb.it 克隆）。
+description: 在 Docker 中运行并使用 WebRTC 的虚拟浏览器。
 licenses:
   - Apache-2.0
 platforms:

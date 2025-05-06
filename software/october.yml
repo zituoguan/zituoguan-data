@@ -1,6 +1,6 @@
 name: October
 website_url: https://octobercms.com/
-description: 基于Laravel PHP框架的自托管CMS平台。
+description: 基于 Laravel PHP 框架的内容管理系统（CMS）平台。
 licenses:
   - ⊘ Proprietary
 platforms:

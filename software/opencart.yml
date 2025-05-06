@@ -1,6 +1,6 @@
 name: OpenCart
 website_url: https://www.opencart.com
-description: 免费的开源购物车解决方案。
+description: 购物车解决方案。
 licenses:
   - GPL-3.0
 platforms:

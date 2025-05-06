@@ -1,6 +1,6 @@
 name: Oddmuse
 website_url: https://oddmuse.org/
-description: 用Perl编写的简单维基引擎。无需数据库。
+description: 用 Perl 编写的简单 Wiki 引擎，无需数据库。
 licenses:
   - GPL-3.0
 platforms:

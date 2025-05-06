@@ -1,6 +1,6 @@
 name: OpenSearch
 website_url: https://opensearch.org
-description: 开源分布式和RESTful搜索引擎。
+description: 分布式且支持 RESTful 的搜索引擎。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,6 +1,6 @@
 name: Opengist
 website_url: https://github.com/thomiceli/opengist
-description: 由 Git 提供支持的自托管粘贴板。
+description: 由 Git 驱动的粘贴板。
 licenses:
   - AGPL-3.0
 platforms:

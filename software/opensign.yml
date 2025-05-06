@@ -1,7 +1,7 @@
 name: OpenSign
 website_url: https://www.opensignlabs.com
 source_code_url: https://github.com/opensignlabs/opensign
-description: 免费、开源、自托管的文档签署软件（DocuSign 的替代品）。
+description: 文档签署软件（DocuSign 替代品）。
 licenses:
   - AGPL-3.0
 platforms:

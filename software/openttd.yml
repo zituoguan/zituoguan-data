@@ -1,7 +1,7 @@
 name: OpenTTD
 website_url: https://www.openttd.org/
 source_code_url: https://github.com/OpenTTD/OpenTTD
-description: 开源的运输大亨模拟游戏。
+description: 交通大亨模拟游戏。
 licenses:
   - GPL-2.0
 platforms:

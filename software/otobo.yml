@@ -1,6 +1,6 @@
 name: OTOBO
 website_url: https://otobo.io/en/
-description: 灵活的基于Web的票务系统，用于客户服务、帮助台和IT服务管理。
+description: 灵活的基于 Web 的工单系统，用于客户服务、帮助台和 IT 服务管理。
 licenses:
   - GPL-3.0
 platforms:

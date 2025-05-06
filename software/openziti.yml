@@ -1,6 +1,6 @@
 name: OpenZiti
 website_url: https://openziti.github.io/
-description: 全功能、可自托管、零信任、完全网状覆盖网络。开箱即用支持两因素身份验证，适用于所有主要桌面/移动操作系统的客户端。
+description: 功能齐全的零信任全互联覆盖网络。内置双因素认证支持，提供所有主流桌面和移动操作系统的客户端。
 licenses:
   - Apache-2.0
 platforms:

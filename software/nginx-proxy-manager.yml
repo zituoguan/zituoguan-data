@@ -1,10 +1,9 @@
 name: Nginx Proxy Manager
 website_url: https://nginxproxymanager.com/
-description: Nginx Proxy Manager是一种简便的方法，用于实现带SSL终止的反向代理主机。
+description: 用于通过简单而强大的界面管理 Nginx 代理主机的 Docker 容器。
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Web 服务器

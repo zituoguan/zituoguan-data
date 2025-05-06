@@ -1,6 +1,6 @@
 name: NeonLink
 website_url: https://github.com/AlexSciFier/neonlink
-description: 一种带有独特设计的自托管书签服务，使用 Docker 安装简便。
+description: 具有独特设计和简单 Docker 安装的书签服务。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: Newspipe
 website_url: https://git.sr.ht/~cedric/newspipe
-description: Newspipe是一款网络新闻阅读器。
+description: 网络新闻阅读器。
 licenses:
   - AGPL-3.0
 platforms:

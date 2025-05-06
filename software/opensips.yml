@@ -1,6 +1,6 @@
 name: openSIPS
 website_url: https://opensips.org/
-description: OpenSIPS是一个用于语音、视频、即时消息、存在及其他SIP扩展的开源SIP代理/服务器。
+description: 用于语音、视频、即时消息、状态和其他任何SIP扩展的SIP代理/服务器。
 licenses:
   - GPL-2.0
 platforms:

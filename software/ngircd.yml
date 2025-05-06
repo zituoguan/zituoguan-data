@@ -1,6 +1,6 @@
 name: ngircd
 website_url: https://ngircd.barton.de/
-description: 用于小型或私有网络的免费、便携和轻量级Internet Relay Chat（IRC）服务器。
+description: 便携且轻巧的互联网中继聊天服务器，适用于小型或专用网络。
 licenses:
   - GPL-2.0
 platforms:

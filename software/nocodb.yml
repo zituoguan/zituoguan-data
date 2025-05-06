@@ -2,7 +2,7 @@ name: NocoDB
 website_url: https://www.nocodb.com/
 description: 无代码平台，将任何数据库转换为智能电子表格（Airtable或Smartsheet的替代品）。
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker

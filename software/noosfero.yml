@@ -1,6 +1,6 @@
 name: Noosfero
 website_url: https://gitlab.com/noosfero/noosfero
-description: Noosfero是一个用于社会和团结经济网络的Web平台，具有博客、电子资料集、内容管理系统（CMS）、RSS、主题讨论、事件日程和团结经济的集体智能，所有这些功能都在同一系统中。
+description: 一个为社会与团结经济网络打造的平台，集成了博客、电子档案、内容管理系统（CMS）、RSS、专题讨论、活动日程和集体智能于一体，服务于团结经济。
 licenses:
   - AGPL-3.0
 platforms:

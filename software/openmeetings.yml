@@ -1,10 +1,10 @@
 name: Openmeetings
 website_url: https://openmeetings.apache.org/index.html
-description: Openmeetings提供视频会议、即时消息、白板、协作文档编辑和其他集成API函数的Red5 Streaming服务器的团队软件工具。
+description: 视频会议、即时消息、白板、协作文档编辑等群组办公工具，使用 Red5 流媒体服务器的 API 实现远程调用和流媒体功能。
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
   - 协同办公
-source_code_url: https://openmeetings.apache.org/scm.html
+source_code_url: https://github.com/apache/openmeetings

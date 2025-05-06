@@ -1,6 +1,6 @@
 name: OpenRouteService
 website_url: https://openrouteservice.org/
-description: 自托管的路线服务，提供方向、等时线、时间-距离矩阵、路线优化等功能。
+description: 提供路线服务，包括路径规划、等时圈、时间-距离矩阵、路线优化等功能。
 licenses:
   - GPL-3.0
 platforms:
