@@ -1,10 +1,13 @@
-name: "VoucherVault"
-website_url: "https://github.com/l4rm4nd/VoucherVault"
-source_code_url: "https://github.com/l4rm4nd/VoucherVault"
-description: "数字化存储和管理代金券、优惠券、会员卡和礼品卡。支持到期通知、交易历史、文件上传和OIDC单点登录。"
+name: VoucherVault
+website_url: https://github.com/l4rm4nd/VoucherVault
+source_code_url: https://github.com/l4rm4nd/VoucherVault
+description: 数字化存储和管理代金券、优惠券、会员卡和礼品卡。支持到期通知、交易历史、文件上传和OIDC单点登录。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - 资金、预算和管理
+stargazers_count: 269
+updated_at: '2025-05-08'
+archived: false

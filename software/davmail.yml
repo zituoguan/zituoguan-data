@@ -1,7 +1,7 @@
-name: "DavMail"
-website_url: "https://davmail.sourceforge.net/"
-source_code_url: "https://github.com/mguessan/davmail"
-description: "POP/IMAP/SMTP/Caldav/Carddav/LDAP 交换网关，允许用户通过 Outlook Web Access 使用任何邮件或日历客户端连接 Exchange 服务器，无论是在互联网还是防火墙之后。"
+name: DavMail
+website_url: https://davmail.sourceforge.net/
+source_code_url: https://github.com/mguessan/davmail
+description: POP/IMAP/SMTP/Caldav/Carddav/LDAP 交换网关，允许用户通过 Outlook Web Access 使用任何邮件或日历客户端连接 Exchange 服务器，无论是在互联网还是防火墙之后。
 licenses:
   - GPL-2.0
 platforms:
@@ -10,3 +10,6 @@ tags:
   - 通信 - 电子邮件 - 邮件投递代理
   - 日历和联系人
 depends_3rdparty: true
+stargazers_count: 626
+updated_at: '2025-05-12'
+archived: false

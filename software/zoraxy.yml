@@ -1,7 +1,7 @@
-name: "Zoraxy"
-website_url: "https://zoraxy.aroz.org/"
-source_code_url: "https://github.com/tobychui/zoraxy"
-description: "通用的 HTTP 反向代理和转发工具。"
+name: Zoraxy
+website_url: https://zoraxy.aroz.org/
+source_code_url: https://github.com/tobychui/zoraxy
+description: 通用的 HTTP 反向代理和转发工具。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - Web 服务器
+stargazers_count: 4024
+updated_at: '2025-05-04'
+archived: false

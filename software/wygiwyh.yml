@@ -2,7 +2,7 @@ name: WYGIWYH
 website_url: https://github.com/eitchtee/WYGIWYH
 source_code_url: https://github.com/eitchtee/WYGIWYH
 description: 简单而强大的财务跟踪器。
-demo_url: "https://wygiwyh-demo.herculino.com/"
+demo_url: https://wygiwyh-demo.herculino.com/
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
   - Django
 tags:
   - 资金、预算和管理
-stargazers_count: 417
-updated_at: '2025-04-26'
+stargazers_count: 423
+updated_at: '2025-05-12'
 archived: false

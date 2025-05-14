@@ -1,6 +1,6 @@
 name: FreeScout
 website_url: https://freescout.net/
-description: '基于电子邮件的客户支持应用、工单系统和共享邮箱（Zendesk 和 Help Scout 的替代品）。'
+description: 基于电子邮件的客户支持应用、工单系统和共享邮箱（Zendesk 和 Help Scout 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
   - 工单
 source_code_url: https://github.com/freescout-helpdesk/freescout
 demo_url: https://demo.freescout.net/login
-stargazers_count: 3418
-updated_at: '2025-04-26'
+stargazers_count: 3460
+updated_at: '2025-05-13'
 archived: false

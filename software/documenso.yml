@@ -1,7 +1,7 @@
-name: "Documenso"
-website_url: "https://documenso.com"
-source_code_url: "https://github.com/documenso/documenso"
-description: "数字文件签署平台（DocuSign 替代方案）。"
+name: Documenso
+website_url: https://documenso.com
+source_code_url: https://github.com/documenso/documenso
+description: 数字文件签署平台（DocuSign 替代方案）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - 文档管理
+stargazers_count: 10902
+updated_at: '2025-05-13'
+archived: false

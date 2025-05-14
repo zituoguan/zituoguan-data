@@ -1,10 +1,13 @@
-name: "Slink"
-website_url: "https://docs.slinkapp.io/"
-source_code_url: "https://github.com/andrii-kryvoviaz/slink"
-description: "一个旨在让用户完全掌控其媒体分享体验的图片分享平台。"
+name: Slink
+website_url: https://docs.slinkapp.io/
+source_code_url: https://github.com/andrii-kryvoviaz/slink
+description: 一个旨在让用户完全掌控其媒体分享体验的图片分享平台。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - 文件传输 - 单击和拖放上传
+stargazers_count: 645
+updated_at: '2025-05-11'
+archived: false
