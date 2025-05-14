@@ -1,13 +1,13 @@
 name: Aleph
 website_url: https://aleph.occrp.org/
-description: "Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case."
+description: "用于索引大量文档（PDF、Word、HTML）和结构化数据（CSV、XLS、SQL）以便于浏览和搜索的工具。它主要为调查性报道而构建。"
 licenses:
   - MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Search Engines
-  - Knowledge Management Tools
+  - 搜索引擎
+  - 知识管理工具
 source_code_url: "https://github.com/alephdata/aleph"
 demo_url: "https://aleph.occrp.org/"

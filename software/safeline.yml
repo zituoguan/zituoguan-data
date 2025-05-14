@@ -1,11 +1,12 @@
 name: "SafeLine"
 website_url: "https://waf.chaitin.com/"
 source_code_url: "https://github.com/chaitin/SafeLine"
-description: "Web application firewall / reverse proxy to protect your web apps from attacks and exploits."
+description: "Web 应用程序防火墙 / 反向代理，用于保护您的 Web 应用程序免受攻击和漏洞利用。"
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Web Servers
+  - Web 服务器
 demo_url: "https://demo.waf.chaitin.com/"
+

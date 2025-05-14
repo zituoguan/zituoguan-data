@@ -1,10 +1,10 @@
 name: Frappe Helpdesk
 website_url: https://frappe.io/helpdesk
 source_code_url: https://github.com/frappe/helpdesk
-description: Helpdesk software which helps you streamline your company's support, offers an easy setup, clean user interface, and automation tools to resolve customer queries efficiently.
+description: 一款帮助您简化公司支持流程的服务台软件，提供简单的设置、简洁的用户界面和自动化工具，以高效解决客户疑问。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Ticketing
+  - 工单

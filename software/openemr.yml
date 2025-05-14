@@ -1,7 +1,7 @@
 name: "OpenEMR"
 website_url: "https://www.open-emr.org/"
 source_code_url: "https://github.com/openemr/openemr"
-description: "Electronic health records and medical practice management solution."
+description: "电子健康记录和医疗实践管理解决方案。"
 licenses:
   - GPL-3.0
 platforms:
@@ -10,3 +10,4 @@ platforms:
 tags:
   - 健康和健身
 demo_url: "https://www.open-emr.org/demo/"
+
