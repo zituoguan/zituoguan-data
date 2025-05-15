@@ -1,7 +1,7 @@
-name: "Spoolman"
-website_url: "https://github.com/Donkie/Spoolman"
-source_code_url: "https://github.com/Donkie/Spoolman"
-description: "追踪您的3D打印机耗材线轴库存。"
+name: Spoolman
+website_url: https://github.com/Donkie/Spoolman
+source_code_url: https://github.com/Donkie/Spoolman
+description: 追踪您的3D打印机耗材线轴库存。
 licenses:
   - MIT
 platforms:
@@ -11,3 +11,6 @@ tags:
   - 库存管理
   - 制造业
 
+stargazers_count: 1464
+updated_at: '2025-04-14'
+archived: false

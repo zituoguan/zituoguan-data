@@ -1,7 +1,7 @@
-name: "Kapowarr"
-website_url: "https://casvt.github.io/Kapowarr/"
-source_code_url: "https://github.com/Casvt/Kapowarr"
-description: "构建和管理漫画书库。根据您的喜好下载、重命名、移动和转换卷期。"
+name: Kapowarr
+website_url: https://casvt.github.io/Kapowarr/
+source_code_url: https://github.com/Casvt/Kapowarr
+description: 构建和管理漫画书库。根据您的喜好下载、重命名、移动和转换卷期。
 licenses:
   - GPL-3.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - 文档管理 - 电子书
 
+stargazers_count: 583
+updated_at: '2025-04-16'
+archived: false

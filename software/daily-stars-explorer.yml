@@ -1,7 +1,7 @@
-name: "Daily Stars Explorer"
-website_url: "https://emanuelef.github.io/daily-stars-explorer"
-source_code_url: "https://github.com/emanuelef/daily-stars-explorer"
-description: "通过每日星标洞察跟踪 GitHub 仓库趋势，了解其增长和社区兴趣随时间的变化。"
+name: Daily Stars Explorer
+website_url: https://emanuelef.github.io/daily-stars-explorer
+source_code_url: https://github.com/emanuelef/daily-stars-explorer
+description: 通过每日星标洞察跟踪 GitHub 仓库趋势，了解其增长和社区兴趣随时间的变化。
 licenses:
   - MIT
 platforms:
@@ -11,5 +11,8 @@ platforms:
 tags:
   - 分析
 depends_3rdparty: true
-demo_url: "https://emanuelef.github.io/daily-stars-explorer"
+demo_url: https://emanuelef.github.io/daily-stars-explorer
 
+stargazers_count: 197
+updated_at: '2025-05-10'
+archived: false

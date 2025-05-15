@@ -1,7 +1,7 @@
-name: "evcc"
-website_url: "https://evcc.io/"
-source_code_url: "https://github.com/evcc-io/evcc"
-description: "可扩展的电动汽车充电控制器和家庭能源管理系统。"
+name: evcc
+website_url: https://evcc.io/
+source_code_url: https://github.com/evcc-io/evcc
+description: 可扩展的电动汽车充电控制器和家庭能源管理系统。
 licenses:
   - MIT
 platforms:
@@ -11,3 +11,6 @@ platforms:
 tags:
   - 物联网（IoT）
 
+stargazers_count: 4606
+updated_at: '2025-05-14'
+archived: false

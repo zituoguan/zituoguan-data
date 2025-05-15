@@ -1,6 +1,6 @@
 name: Aleph
 website_url: https://aleph.occrp.org/
-description: "用于索引大量文档（PDF、Word、HTML）和结构化数据（CSV、XLS、SQL）以便于浏览和搜索的工具。它主要为调查性报道而构建。"
+description: 用于索引大量文档（PDF、Word、HTML）和结构化数据（CSV、XLS、SQL）以便于浏览和搜索的工具。它主要为调查性报道而构建。
 licenses:
   - MIT
 platforms:
@@ -9,5 +9,8 @@ platforms:
 tags:
   - 搜索引擎
   - 知识管理工具
-source_code_url: "https://github.com/alephdata/aleph"
-demo_url: "https://aleph.occrp.org/"
+source_code_url: https://github.com/alephdata/aleph
+demo_url: https://aleph.occrp.org/
+stargazers_count: 2142
+updated_at: '2025-04-30'
+archived: false

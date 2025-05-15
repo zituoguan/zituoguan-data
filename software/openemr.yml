@@ -1,7 +1,7 @@
-name: "OpenEMR"
-website_url: "https://www.open-emr.org/"
-source_code_url: "https://github.com/openemr/openemr"
-description: "电子健康记录和医疗实践管理解决方案。"
+name: OpenEMR
+website_url: https://www.open-emr.org/
+source_code_url: https://github.com/openemr/openemr
+description: 电子健康记录和医疗实践管理解决方案。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,5 +9,8 @@ platforms:
   - Docker
 tags:
   - 健康和健身
-demo_url: "https://www.open-emr.org/demo/"
+demo_url: https://www.open-emr.org/demo/
 
+stargazers_count: 3440
+updated_at: '2025-05-14'
+archived: false
