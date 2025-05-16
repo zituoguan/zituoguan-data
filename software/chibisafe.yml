@@ -1,5 +1,5 @@
 name: Chibisafe
-website_url: https://chibisafe.moe
+website_url: https://chibisafe.app
 source_code_url: https://github.com/chibisafe/chibisafe
 description: 文件上传服务，旨在易于使用和设置。它接受文件、照片、文档，任何您想要上传的内容，并为您生成可共享的链接，供您发送给他人使用。
 licenses:
