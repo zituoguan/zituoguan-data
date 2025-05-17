@@ -4,18 +4,20 @@
 
 ### 整理
 
-- 6-12 个月没有开发活动的软件可能会从列表中移除
-- 无活跃社区维护且/或存在持续安全问题的软件可能会从列表中移除
-- 问题应自动报告：[!](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [!](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
+-   超过 6-12 个月没有开发活动的软件可能会从列表中移除
+-   无法正常工作的软件可能会从列表中移除
+-   没有活跃社区且无人维护的软件可能会从列表中移除
+-   存在持续、严重安全问题的软件将从列表中移除
+-   问题应自动报告：[![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### 添加软件到列表
 
-- [创建新的 `software/software-name.yml` 文件](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software)，基于 [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md) 中的模板。请使用 [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) 命名文件，例如 `my-awesome-software.yml`。
-- 删除注释和未使用的可选字段
-- 输入描述性的提交信息（例如 `add My Awesome software`）
-- 选择 `Create a new branch for this commit and start a pull request`
-- 点击 `Propose new file`
-- 点击 `Create pull request`
+-   基于 [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md) 中的模板，[创建一个新的 `software/software-name.yml` 文件](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software)。请使用 [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) 命名文件，例如 `my-awesome-software.yml`。
+-   删除注释和未使用的可选字段
+-   输入描述性的提交信息（例如 `add My Awesome software`）
+-   选择 `Create a new branch for this commit and start a pull request`
+-   点击 `Propose new file`
+-   点击 `Create pull request`
 
 如果您不习惯发送拉取请求，请创建一个新的 [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)。
 
@@ -71,32 +73,43 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 
 ### 从列表中移除软件
 
-只需删除 `software/` 下的相应文件并提交拉取请求。
-通过 Github 的网页界面操作：
-- 使用 [前往文件](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) 功能打开相应文件（例如 [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml)）
-- 点击文件视图右上角的 `...` 按钮，然后点击 `Delete file`
-- 在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (原因)` 作为提交信息，在 `extended description` 字段中添加额外上下文，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
+只需删除 `software/` 下的相应文件并提交一个拉取请求。
+要从 Github 的 Web 界面执行此操作：
+-   使用 [转到文件](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) 功能打开相应的文件（例如 [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml)）
+-   点击文件视图右上角的 `...` 按钮，然后点击 `Delete file`
+-   在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (reason)` 作为您的提交消息，在 `extended description` 字段中添加额外上下文，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
+
 
 ### 域名费用
 
-您可以通过在 [Liberapay !!](https://liberapay.com/awesome-selfhosted/) 上承诺少量金额来帮助支付域名注册和续费费用。
+您可以通过在 [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/) 上认捐少量金额来帮助支付域名注册和续订费用。
+
 
 ### 其他指南
 
-除了 [拉取请求模板](.github/PULL_REQUEST_TEMPLATE.md) 中列出的指南外，这些通用规则有助于保持列表一致性：
-- 请避免在项目描述中使用冗余术语，如 _开源_、_免费_、_自托管_ 等，因为它们出现在 awesome-selfhosted 上已暗示这些特性。
-- 描述宜使用较短形式 - 例如，`极简文本冒险游戏` 优于 `一个极简文本冒险游戏` 或 `$PROJECT 是一个极简文本冒险游戏`。
-- 如果项目没有英文文档，请在描述末尾添加 `(文档使用 $LANGUAGE)`。
-- 如果项目作为另一服务或应用的替代品，请在描述末尾提及 `(替代 $PRODUCT1, $PRODUCT2)`。
-- 如果您添加的软件是从另一活跃项目分叉的，请提供/链接到两者之间的明确差异列表。
-- 如果项目是从另一项目分叉的，请在描述末尾添加 `(分叉自 $PROJECT)`。
-- 如果项目分发单一静态二进制文件，请添加其编写使用的编程语言。
+除了 [拉取请求模板](.github/PULL_REQUEST_TEMPLATE.md) 中列出的指南外，这些通用规则有助于保持列表的一致性：
+-   请避免在项目描述中使用冗余术语，例如 _开源_、_免费_、_自托管_... 因为它们在 awesome-selfhosted 上的出现已经暗示了这一点。
+-   描述请使用更短的形式 - 例如，`简约文本冒险游戏` 比 `一个简约的文本冒险游戏` 或 `$PROJECT 是一个简约的文本冒险游戏` 更受欢迎）。
+-   如果项目没有英文文档，请在描述末尾添加 `(文档语言为 $LANGUAGE)`。
+-   如果项目是作为另一个服务或应用程序的替代品呈现的，请在描述末尾提及 `(替代 $PRODUCT1, $PRODUCT2)`。
+-   如果您添加的软件是从另一个活动项目派生的，请提供/链接到两者之间差异的清晰列表。
+-   如果项目是从另一个项目派生的，请在描述末尾添加 `(派生自 $PROJECT)`。
+-   如果项目分发单个静态二进制文件，请添加其编写的编程语言。
+
+### 不符合条件的内容
+
+-   依赖特定云提供商的软件
+-   作为桌面、移动或命令行应用程序，依赖于单独的文件同步/服务器程序的软件
+-   在生成可工作的最终用户应用程序之前需要您编写应用程序代码的软件（库、SDK 等）
+-   充当构建和部署任意应用程序的平台的软件（PaaS、“无服务器”等）
+-   任何通用的容器/部署自动化/虚拟化/... 工具更适合 [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+-   仅仅是将现有应用程序移植到另一个系统（例如，Docker 化）的软件贡献
 
 ### 预设回复
 
-为节省维护者时间，以下为常见问题的预设回复
+为了节省维护者的时间，下面提供了一些针对常见问题的预制回复
 
-#### 无标记版本
+#### 没有标记的版本
 
 >您好，感谢您的贡献。
 >
