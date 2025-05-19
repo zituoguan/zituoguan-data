@@ -2,7 +2,7 @@ name: Liwan
 website_url: https://liwan.dev/
 description: 隐私优先的网站分析。
 licenses:
-  - AGPL-3.0
+  - Apache-2.0
 platforms:
   - Rust
   - Docker
