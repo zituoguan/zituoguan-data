@@ -1,6 +1,6 @@
 name: Pi-hole
 website_url: https://pi-hole.net/
-description: 一个用于管理和监控的具有图形用户界面的Internet广告黑洞。
+description: 带有管理和监控图形用户界面的互联网广告黑洞。
 licenses:
   - EUPL-1.2
 platforms:

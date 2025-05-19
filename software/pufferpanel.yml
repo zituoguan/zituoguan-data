@@ -1,6 +1,6 @@
 name: PufferPanel
 website_url: https://www.pufferpanel.com/
-description: PufferPanel是一个开源的游戏服务器管理面板，专为小型网络和游戏服务器提供商设计。
+description: 游戏服务器管理面板，专为小型网络和游戏服务器提供商设计。
 licenses:
   - Apache-2.0
 platforms:

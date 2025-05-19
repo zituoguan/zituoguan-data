@@ -1,6 +1,6 @@
 name: Plainpad
 website_url: https://alextselegidis.com/get/plainpad/
-description: Plainpad 是一个现代的云记事应用，利用渐进式Web应用技术的最佳特性。
+description: 一款现代化的云端笔记应用程序，利用了渐进式 Web 应用程序技术的最佳特性。
 licenses:
   - GPL-3.0
 platforms:

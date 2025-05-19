@@ -1,6 +1,6 @@
 name: PocketBase
 website_url: https://pocketbase.io/
-description: 用于您的下一个SaaS和移动应用的开源后端，仅需一个文件。
+description: 一个文件搞定您的下一个 SaaS 和移动应用的后端。
 licenses:
   - MIT
 platforms:

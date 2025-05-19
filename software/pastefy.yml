@@ -1,6 +1,6 @@
 name: Pastefy
 website_url: https://pastefy.app/
-description: 美观、简单易用的Pastebin，支持可选的客户端加密、多标签粘贴、API、带有突出显示的编辑器等功能。
+description: 美观、简单且易于部署的 Pastebin，具有可选的客户端加密、多标签粘贴、API、高亮编辑器等功能。
 licenses:
   - MIT
 platforms:

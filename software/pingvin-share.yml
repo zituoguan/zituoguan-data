@@ -1,6 +1,6 @@
 name: Pingvin Share
 website_url: https://github.com/stonith404/pingvin-share
-description: 一款自托管的文件共享平台，兼具轻巧和美观，非常适合无缝高效的文件共享。
+description: 一个结合了轻量和美观的文件共享平台，非常适合无缝高效的文件共享。
 licenses:
   - BSD-2-Clause
 platforms:

@@ -1,6 +1,6 @@
 name: Photoview
 website_url: https://photoview.github.io/
-description: 一款简单易用的个人服务器照片库。它专为摄影师设计，旨在提供一种简单快速的浏览目录的方式，支持数千张高分辨率照片。
+description: 简单易用的个人服务器相册。专为摄影师打造，旨在提供一种简单快捷的方式来浏览包含数千张高分辨率照片的目录。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Pagure
 website_url: https://pagure.io/pagure
-description: 一个轻量级、强大而灵活的以Git为中心的锻造平台，具有为联合和去中心化开发奠定基础的功能。
+description: 一款轻量级、功能强大且灵活的以 Git 为核心的代码托管平台，其特性为联邦式和去中心化开发奠定了基础。
 licenses:
   - GPL-2.0
 platforms:

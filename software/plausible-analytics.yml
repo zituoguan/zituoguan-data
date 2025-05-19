@@ -1,6 +1,6 @@
 name: Plausible Analytics
 website_url: https://plausible.io/
-description: 简单、开源、轻量（< 1 KB）且注重隐私的网络分析工具。
+description: 简单、轻量级（< 1 KB）且注重隐私的网络分析工具。
 licenses:
   - AGPL-3.0
 platforms:

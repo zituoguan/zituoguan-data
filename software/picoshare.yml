@@ -1,6 +1,6 @@
 name: PicoShare
 website_url: https://pico.rocks
-description: 一个极简、易于托管的服务，用于共享图片和其他文件。
+description: 极简、易于托管的服务，用于共享图像和其他文件。
 licenses:
   - AGPL-3.0
 platforms:

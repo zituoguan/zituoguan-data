@@ -1,6 +1,6 @@
 name: QloApps
 website_url: https://qloapps.com/
-description: 一款开源、可定制且直观的基于Web的酒店预订系统和预订引擎。
+description: 可定制且直观的基于网络的酒店预订系统和预订引擎。
 licenses:
   - OSL-3.0
 platforms:

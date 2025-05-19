@@ -1,6 +1,6 @@
 name: PrestaShop
 website_url: https://www.prestashop.com/
-description: PrestaShop提供免费、开源且完全可扩展的电子商务解决方案。
+description: 完全可扩展的电子商务解决方案。
 licenses:
   - OSL-3.0
 platforms:

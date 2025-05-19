@@ -1,6 +1,6 @@
 name: Quizmaster
 website_url: https://github.com/nymanjens/quizmaster
-description: 用于进行测验的Web应用，包括供玩家输入答案的页面。
+description: 用于进行测验的 Web 应用程序，包括供玩家输入答案的页面。
 licenses:
   - Apache-2.0
 platforms:

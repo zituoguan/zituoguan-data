@@ -1,6 +1,6 @@
 name: ProjeQtOr
 website_url: https://www.projeqtor.org/
-description: 一套完整、成熟的、多用户项目管理系统，具有广泛的功能，适用于项目的所有阶段。
+description: 完整、成熟、多用户的项目管理系统，为项目的所有阶段提供广泛的功能。
 licenses:
   - AGPL-3.0
 platforms:

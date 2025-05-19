@@ -1,6 +1,6 @@
 name: Plik
 website_url: https://github.com/root-gg/plik
-description: Plik是一个可伸缩且用户友好的临时文件上传系统。
+description: 可扩展且友好的临时文件上传系统。
 licenses:
   - MIT
 platforms:

@@ -1,13 +1,14 @@
 name: Picsur
 website_url: https://github.com/CaramelFur/Picsur
-description: 一个简单的图像托管平台，可以轻松托管、编辑和共享图像。
+description: 简单的图像托管平台，可让您轻松托管、编辑和共享图像。
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/CaramelFur/Picsur
+demo_url: https://picsur.org/upload
 stargazers_count: 1030
 updated_at: '2024-11-13'
 archived: false

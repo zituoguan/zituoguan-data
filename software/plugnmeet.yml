@@ -1,6 +1,6 @@
 name: plugNmeet
 website_url: https://www.plugnmeet.org/
-description: 可伸缩、高性能、开源的网络会议系统。
+description: 可扩展的高性能网络会议系统。
 licenses:
   - MIT
 platforms:

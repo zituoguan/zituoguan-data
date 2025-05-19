@@ -1,6 +1,6 @@
 name: penpot
 website_url: https://penpot.app/
-description: 面向跨领域团队的基于Web的设计和原型平台。
+description: 基于 Web 的设计和原型平台，适用于跨领域团队。
 licenses:
   - MPL-2.0
 platforms:

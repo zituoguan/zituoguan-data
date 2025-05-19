@@ -1,6 +1,6 @@
 name: PsiTransfer
 website_url: https://github.com/psi-4ward/psitransfer
-description: 简单的开源自托管文件共享解决方案，具有强大的上传/下载恢复和密码保护功能。
+description: 简单的文件共享解决方案，具有强大的上传/下载断点续传和密码保护功能。
 licenses:
   - BSD-2-Clause
 platforms:

@@ -1,6 +1,6 @@
 name: PixelFed
 website_url: https://pixelfed.social
-description: Pixelfed 是一个开源的、联邦化的平台，是 Instagram 的替代品。
+description: 道德的照片分享平台，由 ActivityPub 联邦提供支持（Instagram 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:

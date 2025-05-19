@@ -1,10 +1,11 @@
 name: Pomerium
 website_url: https://www.pomerium.io
-description: 一种具有身份认证的反向代理，是目前已过时的oauth_proxy的继任者。它在将请求代理到后端之前插入了OAuth步骤，以便您可以安全地将您的自托管网站暴露给公共互联网。
+description: 身份感知反向代理，是现已过时的 oauth_proxy 的继任者。它在将您的请求代理到后端之前插入一个 OAuth 步骤，以便您可以安全地将自托管网站暴露到公共互联网。
 licenses:
   - Apache-2.0
 platforms:
   - Go
+  - Docker
 tags:
   - Web 服务器
 source_code_url: https://github.com/pomerium/pomerium

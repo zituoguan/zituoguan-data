@@ -1,6 +1,6 @@
 name: PiGallery 2
 website_url: https://bpatrik.github.io/pigallery2/
-description: 以目录为主的照片展示网站，具有丰富的用户界面，经过优化可在低资源服务器上运行。
+description: 这是一款目录优先的照片画廊网站，拥有丰富的用户界面，并为在低资源服务器上运行进行了优化。
 licenses:
   - MIT
 platforms:

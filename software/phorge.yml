@@ -1,6 +1,6 @@
 name: Phorge
 website_url: https://we.phorge.it/
-description: Phorge是一个开源的、社区驱动的平台，用于协作、管理、组织和审查软件开发项目。
+description: 社区驱动的平台，用于协作、管理、组织和审查软件开发项目。
 licenses:
   - Apache-2.0
 platforms:

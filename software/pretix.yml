@@ -1,8 +1,8 @@
 name: Pretix
 website_url: https://pretix.eu/
-description: 用于事件的基于Django的门票销售平台。
+description: 活动票务销售平台。
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Python
   - Docker

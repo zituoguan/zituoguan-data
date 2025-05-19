@@ -1,7 +1,7 @@
 name: Pinepods
 website_url: https://www.pinepods.online/
 source_code_url: https://github.com/madeofpendletonwool/PinePods
-description: 基于 Rust 的播客管理系统，支持多用户。Pinepods 使用中央数据库，因此诸如收听时间和主题等方面可跨设备保持一致。
+description: 播客管理系统，支持多用户。Pinepods 使用中央数据库，因此收听时间和主题等信息可以在不同设备之间同步。
 licenses:
   - GPL-3.0
 platforms:

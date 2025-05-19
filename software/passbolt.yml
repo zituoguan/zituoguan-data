@@ -1,6 +1,6 @@
 name: Passbolt
 website_url: https://www.passbolt.com/
-description: 专为在任何Web服务器上以协作方式管理密码而设计的密码管理器，使用MySQL数据库后端。
+description: 协作式密码管理器。
 licenses:
   - AGPL-3.0
 platforms:

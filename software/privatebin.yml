@@ -1,6 +1,6 @@
 name: PrivateBin
 website_url: https://privatebin.info/
-description: PrivateBin是一个极简主义的、开源的在线粘贴板/讨论板，服务器对托管的数据毫不知情。
+description: 一个极简的粘贴板/讨论板，服务器对托管数据零感知。
 licenses:
   - Zlib
 platforms:

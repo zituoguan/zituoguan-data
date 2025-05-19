@@ -1,6 +1,6 @@
 name: PictShare
 website_url: https://www.pictshare.net/
-description: PictShare 是一个多语言、开源的图像托管服务，提供简单的调整大小和上传 API。
+description: 多语言图像托管服务，具有简单的调整大小和上传 API。
 licenses:
   - Apache-2.0
 platforms:

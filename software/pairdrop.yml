@@ -1,5 +1,5 @@
 name: Pairdrop
-website_url: https://github.com/schlagmichdoch/pairdrop
+website_url: https://pairdrop.net/
 description: 在浏览器中进行本地文件共享，灵感来自于 Apple 的 AirDrop（Snapdrop 的分支）。
 licenses:
   - GPL-3.0

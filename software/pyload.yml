@@ -2,7 +2,7 @@ name: pyLoad
 website_url: https://pyload.net/
 description: 一款轻量、可定制且可远程管理的下载器，用于支持1-click-hosting网站，如rapidshare.com或uploaded.to。
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Python
 tags:

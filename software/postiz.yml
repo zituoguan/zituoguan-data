@@ -2,7 +2,7 @@ name: Postiz
 website_url: https://postiz.com
 description: 安排帖子发布，跟踪内容的表现，并在一个平台上管理所有社交媒体账户（Buffer、Hootsuite、Sprout Social 的替代品）。
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
