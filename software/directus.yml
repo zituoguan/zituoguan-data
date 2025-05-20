@@ -2,7 +2,7 @@ name: Directus
 website_url: https://directus.io/
 description: 一个用于SQL数据库的即时应用和API。Directus为开发人员提供了一个实时的GraphQL+REST API，可包装新的或现有的SQL数据库，并为非技术用户提供了直观的管理应用。
 licenses:
-  - GPL-3.0
+  - BUSL-1.1
 platforms:
   - Nodejs
   - Docker
