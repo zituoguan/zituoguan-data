@@ -1,7 +1,7 @@
 name: Mergeable
 website_url: https://pvcnt.github.io/mergeable/
 source_code_url: https://github.com/pvcnt/mergeable
-description: A better inbox for GitHub pull requests.
+description: 一个更好的 GitHub 拉取请求收件箱。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 depends_3rdparty: true
 demo_url: https://mergeable.pages.dev/inbox

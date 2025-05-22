@@ -1,6 +1,6 @@
 name: TriliumNext Notes
 website_url: https://github.com/TriliumNext/Notes
-description: Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes).
+description: 跨平台分层笔记应用程序，专注于构建大型个人知识库（Trilium Notes 的分支）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,5 +8,6 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 source_code_url: https://github.com/TriliumNext/Notes
+
