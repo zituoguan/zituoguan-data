@@ -1,7 +1,7 @@
-name: "Statistics for Strava"
-website_url: "https://github.com/robiningelbrecht/statistics-for-strava"
-source_code_url: "https://github.com/robiningelbrecht/statistics-for-strava"
-description: "从 Strava 数据生成的统计仪表板。"
+name: Statistics for Strava
+website_url: https://github.com/robiningelbrecht/statistics-for-strava
+source_code_url: https://github.com/robiningelbrecht/statistics-for-strava
+description: 从 Strava 数据生成的统计仪表板。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,4 +10,7 @@ tags:
   - 分析
   - 健康和健身
 depends_3rdparty: true
-demo_url: "https://statistics-for-strava.robiningelbrecht.be/"
+demo_url: https://statistics-for-strava.robiningelbrecht.be/
+stargazers_count: 564
+updated_at: '2025-05-22'
+archived: false

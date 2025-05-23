@@ -1,12 +1,15 @@
-name: "ByteStash"
-website_url: "https://github.com/jordan-dalby/ByteStash"
-source_code_url: "https://github.com/jordan-dalby/ByteStash"
-description: "一个具有简单Web界面的代码粘贴板（Pastebin）和文件存储服务。支持语法高亮、可选的用户身份验证和公开分享。"
+name: ByteStash
+website_url: https://github.com/jordan-dalby/ByteStash
+source_code_url: https://github.com/jordan-dalby/ByteStash
+description: 一个具有简单Web界面的代码粘贴板（Pastebin）和文件存储服务。支持语法高亮、可选的用户身份验证和公开分享。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - 粘贴板
-demo_url: "https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo"
+demo_url: https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo
 
+stargazers_count: 1384
+updated_at: '2025-03-13'
+archived: false

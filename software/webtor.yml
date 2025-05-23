@@ -1,12 +1,15 @@
-name: "Webtor"
-website_url: "https://github.com/webtor-io/self-hosted"
-source_code_url: "https://github.com/webtor-io/self-hosted"
-description: "基于Web的torrent客户端，支持即时音视频流。"
+name: Webtor
+website_url: https://github.com/webtor-io/self-hosted
+source_code_url: https://github.com/webtor-io/self-hosted
+description: 基于Web的torrent客户端，支持即时音视频流。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - 文件传输 - 点对点文件共享
-demo_url: "https://webtor.io"
+demo_url: https://webtor.io
 
+stargazers_count: 385
+updated_at: '2025-03-21'
+archived: false
