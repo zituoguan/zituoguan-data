@@ -4,7 +4,7 @@ steps:
     module_options:
       source_directory: ./
       output_directory: html
-      exclude_licenses:
+      #exclude_licenses:
         # - ⊘ Proprietary
         # - BSD-3-Clause-No-Military-License
         # - BUSL-1.1
