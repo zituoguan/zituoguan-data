@@ -1,13 +1,13 @@
 name: Cronicle
 website_url: https://cronicle.net/
 source_code_url: https://github.com/jhuckaby/Cronicle
-description: Simple, distributed task scheduler and runner with a web based UI.
+description: 简单的分布式任务调度程序和运行程序，具有基于网络的用户界面。
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Automation
+  - 自动化
 stargazers_count: 5575
 updated_at: '2026-04-02'
 archived: false

@@ -1,14 +1,14 @@
 name: autokitteh
 website_url: https://autokitteh.com/
 source_code_url: https://github.com/autokitteh/autokitteh
-description: Durable workflow automation in just a few lines of code.
+description: 用仅几行代码实现持久的工作流自动化。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Docker
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 stargazers_count: 1113
 updated_at: '2026-02-18'
 archived: false

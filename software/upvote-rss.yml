@@ -1,14 +1,14 @@
 name: Upvote RSS
 website_url: https://www.upvote-rss.com/
 source_code_url: https://github.com/johnwarne/upvote-rss
-description: Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more.
+description: 从 Reddit、Hacker News、Lemmy、Mbin 等生成丰富的 RSS 源。
 licenses:
   - MIT
 platforms:
   - Docker
   - PHP
 tags:
-  - Feed Readers
+  - 订阅阅读器
 depends_3rdparty: true
 demo_url: https://www.upvote-rss.com/
 stargazers_count: 474

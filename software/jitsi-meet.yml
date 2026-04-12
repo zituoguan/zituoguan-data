@@ -1,6 +1,6 @@
 name: Jitsi Meet
 website_url: https://jitsi.org/Projects/JitsiMeet
-description: WebRTC application that uses Jitsi Videobridge to provide high quality, scalable video conferences.
+description: 使用 Jitsi Videobridge 提供高质量、可扩展视频会议的 WebRTC 应用程序。
 licenses:
   - Apache-2.0
 platforms:

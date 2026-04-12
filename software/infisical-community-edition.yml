@@ -1,7 +1,7 @@
 name: Infisical Community Edition
 website_url: https://infisical.com/
 source_code_url: https://github.com/Infisical/infisical
-description: Platform for secrets, certificates, and privileged access management.
+description: 平台用于管理机密、证书和特权访问。
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
   - deb
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 25677
 updated_at: '2026-04-02'
 archived: false

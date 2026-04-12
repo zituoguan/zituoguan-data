@@ -1,6 +1,6 @@
 name: Kimai
 website_url: https://www.kimai.org/
-description: Track work time and print out a summary of your activities on demand.
+description: 追踪工作时间，并按需打印活动摘要报告。
 licenses:
   - AGPL-3.0
 platforms:

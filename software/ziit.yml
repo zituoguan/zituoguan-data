@@ -1,13 +1,13 @@
 name: Ziit
 website_url: https://ziit.app
 source_code_url: https://github.com/0pandadev/ziit
-description: The Swiss army knife of code time tracking (alternative to WakaTime).
+description: 代码时间追踪的瑞士军刀（WakaTime 替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Time Tracking
+  - 时间追踪
 stargazers_count: 214
 updated_at: '2026-01-03'
 archived: false

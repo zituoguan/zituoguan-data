@@ -1,14 +1,14 @@
 name: AnythingLLM
 website_url: https://anythingllm.com/
 source_code_url: https://github.com/Mintplex-Labs/anything-llm
-description: All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.
+description: 一体化桌面和 Docker 人工智能应用程序，具有内置 RAG、AI 代理、无代码代理生成器、MCP 兼容性等。
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Generative Artificial Intelligence (GenAI)
+  - 生成式人工智能（GenAI）
 stargazers_count: 57463
 updated_at: '2026-04-02'
 archived: false

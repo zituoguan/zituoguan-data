@@ -1,7 +1,7 @@
 name: Anubis
 website_url: https://anubis.techaro.lol/
 source_code_url: https://github.com/TecharoHQ/anubis
-description: Web AI firewall utility which protects upstream resources from scraper bots.
+description: 网络人工智能防火墙实用程序，保护上游资源免受爬虫机器人的侵害。
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
   - Go
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 18185
 updated_at: '2026-03-24'
 archived: false

@@ -1,13 +1,13 @@
 name: ShipShipShip
 website_url: https://shipshipship.io
 source_code_url: https://github.com/GauthierNelkinsky/ShipShipShip
-description: Changelog and roadmap platform that bridges project management and customer communication.
+description: 连接项目管理与客户沟通的变更日志与路线图平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 demo_url: https://demo.shipshipship.io/admin
 stargazers_count: 275
 updated_at: '2026-02-18'

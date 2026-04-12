@@ -1,10 +1,10 @@
 name: 42links
 website_url: https://42links.tuxproject.de
 source_code_url: https://code.rosaelefanten.org/42links
-description: Bookmarking server supporting multiple accounts.
+description: 支持多账户的书签服务器。
 licenses:
   - BSD-3-Clause-No-Military-License
 platforms:
   - CommonLisp
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接共享

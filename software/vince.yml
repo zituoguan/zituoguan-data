@@ -1,7 +1,7 @@
 name: Vince
 website_url: https://www.vinceanalytics.com/
 source_code_url: https://github.com/vinceanalytics/vince
-description: Web analytics and dashboard (alternative to Google Analytics).
+description: 网站分析与仪表盘（Google Analytics 替代品）。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - K8S
   - deb
 tags:
-  - Analytics
+  - 分析
 stargazers_count: 2001
 updated_at: '2025-09-01'
 archived: false

@@ -1,7 +1,7 @@
 name: LLMKube
 website_url: https://llmkube.com
 source_code_url: https://github.com/defilantech/LLMKube
-description: Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API.
+description: 面向 llama.cpp 原生 LLM 推理的 Kubernetes Operator，支持 GPU 调度、Apple Silicon Metal 加速及兼容 OpenAI 的 API。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Generative Artificial Intelligence (GenAI)
+  - 生成式人工智能（GenAI）
 stargazers_count: 40
 updated_at: '2026-04-01'
 archived: false

@@ -1,14 +1,14 @@
 name: Domain Locker
 website_url: https://domain-locker.com
 source_code_url: https://github.com/lissy93/domain-locker
-description: Domain name portfolio management and tracker.
+description: 域名投资组合管理和追踪器。
 licenses:
   - MIT
 platforms:
   - Deno
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://demo.domain-locker.com
 stargazers_count: 1236
 updated_at: '2026-03-16'

@@ -1,14 +1,14 @@
 name: PrivyDrop
 website_url: https://www.privydrop.app
 source_code_url: https://github.com/david-bai00/PrivyDrop
-description: Simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC.
+description: 基于 WebRTC 的简洁易用点对点文本、图片与文件传输工具，支持断点续传。
 platforms:
   - Docker
   - Nodejs
 licenses:
   - MIT
 tags:
-  - File Transfer - Peer-to-peer Filesharing
+  - 文件传输 - 点对点文件共享
 stargazers_count: 124
 updated_at: '2026-03-28'
 archived: false

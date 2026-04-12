@@ -1,14 +1,14 @@
 name: myCart
 website_url: https://github.com/shurco/mycart
 source_code_url: https://github.com/shurco/mycart
-description: Shopping cart in 1 file (with support for payment by card or cryptocurrency).
+description: 单文件购物车（支持银行卡或加密货币支付）。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - E-commerce
+  - 电子商务
 depends_3rdparty: true
 stargazers_count: 346
 updated_at: '2026-03-19'

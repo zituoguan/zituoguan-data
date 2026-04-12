@@ -1,14 +1,14 @@
 name: AFFiNE Community Edition
 website_url: https://affine.pro/
 source_code_url: https://github.com/toeverything/AFFiNE
-description: Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro).
+description: 下一代知识库，汇集规划、整理和创建。隐私优先，可定制且开箱即用（Notion 和 Miro 的替代品）。
 licenses:
   - MIT
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Knowledge Management Tools
+  - 知识管理工具
 demo_url: https://app.affine.pro/
 stargazers_count: 66897
 updated_at: '2026-04-02'

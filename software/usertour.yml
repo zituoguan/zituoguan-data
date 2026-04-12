@@ -1,12 +1,12 @@
 name: Usertour
 website_url: https://www.usertour.io/
-description: User onboarding platform allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly.
+description: 用户引导平台，可轻松创建应用内产品演示、清单和问卷。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 source_code_url: https://github.com/usertour/usertour/
 stargazers_count: 1960
 updated_at: '2026-03-28'

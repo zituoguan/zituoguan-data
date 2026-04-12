@@ -1,14 +1,14 @@
 name: Saltcorn
 website_url: https://saltcorn.com/
 source_code_url: https://github.com/saltcorn/saltcorn
-description: No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications.
+description: 无代码数据库应用构建器，适用于 Web 和移动应用。集成用户界面、数据后端、持久化工作流、邮件、PDF 生成和 AI 应用于一体的平台。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Software Development - Low Code
+  - 软件开发 - 低代码
 stargazers_count: 2005
 updated_at: '2026-04-02'
 archived: false

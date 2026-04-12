@@ -1,6 +1,6 @@
 name: Subsonic
 website_url: http://www.subsonic.org/pages/index.jsp
-description: Web-based media streamer and jukebox.
+description: 基于 Web 的媒体流媒体和点歌机。
 licenses:
   - ⊘ Proprietary
 platforms:

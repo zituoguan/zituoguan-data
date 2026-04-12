@@ -1,13 +1,13 @@
 name: SOLECTRUS
 website_url: https://solectrus.de
 source_code_url: https://github.com/solectrus/solectrus
-description: Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations.
+description: 光伏仪表盘，展示能量生产与消耗，并计算成本与节省。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Internet of Things (IoT)
+  - 物联网（IoT）
 demo_url: https://demo.solectrus.de
 stargazers_count: 150
 updated_at: '2026-04-02'

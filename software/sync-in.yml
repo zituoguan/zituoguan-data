@@ -1,16 +1,16 @@
 name: Sync-in
 website_url: https://sync-in.com
 source_code_url: https://github.com/Sync-in/server
-description: File storage, syncing, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients.
+description: 支持实时编辑、权限管理、桌面/命令行客户端的文件存储、同步、分享与协作平台。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - File Transfer & Synchronization
-  - File Transfer - Web-based File Managers
-  - Groupware
+  - 文件传输和同步
+  - 文件传输 - 几月 Web 的文件管理器
+  - 协同办公司
 demo_url: https://sync-in.com/docs/demo
 related_software_url: https://github.com/Sync-in/desktop
 stargazers_count: 975

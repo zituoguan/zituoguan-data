@@ -1,13 +1,13 @@
 name: OmniTools
 website_url: https://omnitools.app/
 source_code_url: https://github.com/iib0011/omni-tools
-description: Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...).
+description: 强大的基于 Web 的日常工具集合（编码、图像/视频处理、PDF 操作或数字运算等）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 8981
 updated_at: '2026-03-29'
 archived: false

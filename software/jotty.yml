@@ -1,13 +1,13 @@
 name: Jotty
 website_url: https://jotty.page
-description: Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
+description: 轻量但功能强大的个人文件管理、笔记和清单替代方案。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Note-taking & Editors
-  - Task Management & To-do Lists
+  - 笔记和编辑器
+  - 任务管理和待办清单
 source_code_url: https://github.com/fccview/jotty
 stargazers_count: 1730
 updated_at: '2026-03-20'

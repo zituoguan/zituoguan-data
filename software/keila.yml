@@ -1,6 +1,6 @@
 name: Keila
 website_url: https://www.keila.io
-description: Reliable and easy-to-use newsletter tool (alternative to Mailchimp and Sendinblue).
+description: 可靠且易于使用的新闻通讯工具（Mailchimp 和 Sendinblue 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:

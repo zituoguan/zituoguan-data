@@ -1,13 +1,13 @@
 name: Many Notes
 website_url: https://github.com/brufdev/many-notes
 source_code_url: https://github.com/brufdev/many-notes
-description: Markdown note-taking web application designed for simplicity.
+description: 以简洁为设计理念的 Markdown 笔记 Web 应用。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 stargazers_count: 931
 updated_at: '2025-12-08'
 archived: false

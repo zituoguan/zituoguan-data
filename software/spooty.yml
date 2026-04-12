@@ -1,13 +1,13 @@
 name: Spooty
 website_url: https://github.com/Raiper34/spooty
-description: Download tracks/playlists/albums from Spotify. It can also subscribe to a playlist or author page and download new songs upon release.
+description: 从 Spotify 下载曲目、播放列表和专辑，并可订阅播放列表或作者页面，在有新歌发布时自动下载。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Media Management
+  - 媒体管理
 source_code_url: https://github.com/Raiper34/spooty
 depends_3rdparty: true
 stargazers_count: 1173

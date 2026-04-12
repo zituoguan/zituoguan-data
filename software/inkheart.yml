@@ -1,13 +1,13 @@
 name: Inkheart
 website_url: https://gitlab.com/Nystik/inkheart
 source_code_url: https://gitlab.com/Nystik/inkheart
-description: Lightweight PDF library and reader.
+description: 轻量级 PDF 库和阅读器。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 stargazers_count: 19
 updated_at: '2026-01-28'
 archived: false

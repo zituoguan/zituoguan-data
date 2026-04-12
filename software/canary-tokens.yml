@@ -1,14 +1,14 @@
 name: Canary Tokens
 website_url: https://canarytokens.org
 source_code_url: https://github.com/thinkst/opencanary
-description: Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access.
+description: 生成轻量级的嵌入式蜜罐触发器（称为金丝雀令牌）以检测未授权的访问。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
   - Python
 tags:
-  - Network Utilities
+  - 网络工具
 stargazers_count: 2824
 updated_at: '2026-03-30'
 archived: false

@@ -1,13 +1,13 @@
 name: Seerr
 website_url: https://github.com/seerr-team/seerr
-description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr).
+description: 管理你的媒体库请求，支持 Plex、Jellyfin 和 Emby 媒体服务器（Overseerr 的分支）。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Media Management
+  - 媒体管理
 source_code_url: https://github.com/seerr-team/seerr
 stargazers_count: 10592
 updated_at: '2026-04-02'

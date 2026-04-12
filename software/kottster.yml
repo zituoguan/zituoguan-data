@@ -1,14 +1,14 @@
 name: Kottster
 website_url: https://kottster.app/
 source_code_url: https://github.com/kottster/kottster
-description: Low-code admin panel that connects to your database and automatically generates pages to view and manage your data.
+description: 低代码管理面板，可连接数据库并自动生成用于查看和管理数据的页面。
 licenses:
   - Apache-2.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Database Management
+  - 数据库管理
 demo_url: https://demo.kottster.app/
 stargazers_count: 1144
 updated_at: '2026-01-16'

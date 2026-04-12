@@ -1,7 +1,7 @@
 name: OpenCloud
 website_url: https://docs.opencloud.eu/
 source_code_url: https://github.com/opencloud-eu/opencloud
-description: File Sharing and Collaboration Platform.
+description: 文件共享与协作平台。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Go
   - Nodejs
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 stargazers_count: 5057
 updated_at: '2026-04-02'
 archived: false

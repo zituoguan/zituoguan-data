@@ -1,5 +1,5 @@
-name: Network Utilities
-description: 'Network utilities are tools and software that help manage, monitor, and troubleshoot computer networks.'
+name: 网络工具
+description: '网络工具是帮助管理、监控和排查计算机网络故障的工具和软件。'
 external_links:
   - title: awesome-sysadmin/Monitoring
     url: https://github.com/awesome-foss/awesome-sysadmin#monitoring

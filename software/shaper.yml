@@ -1,6 +1,6 @@
 name: Shaper
 website_url: https://taleshape.com/shaper/docs
-description: Build Data Dashboards all in SQL. Powered by DuckDB.
+description: 纯用 SQL 构建数据仪表盘，由 DuckDB 驱动。
 licenses:
   - MPL-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Python
   - Go
 tags:
-  - Analytics
+  - 分析
 source_code_url: https://github.com/taleshape-com/shaper
 demo_url: https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt
 stargazers_count: 1078

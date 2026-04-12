@@ -1,13 +1,13 @@
 name: Listaway
 website_url: https://github.com/jeffrpowell/listaway/
 source_code_url: https://github.com/jeffrpowell/listaway
-description: List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists).
+description: 列表管理应用，用于创建和公开分享条目列表。支持身份验证、管理工具、条目备注与优先级，以及可选的随机 URL 公开只读链接（Amazon Lists 的替代品）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 stargazers_count: 7
 updated_at: '2026-02-24'
 archived: false

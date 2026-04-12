@@ -1,12 +1,12 @@
 name: Cronmaster
 website_url: https://github.com/fccview/cronmaster
-description: Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.
+description: Cronjob 管理用户界面，具有易读的语法、实时日志和您的 cronjob 的日志历史记录。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - 自动化
 source_code_url: https://github.com/fccview/cronmaster
 stargazers_count: 1138
 updated_at: '2026-03-25'

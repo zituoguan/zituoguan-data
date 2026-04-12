@@ -1,14 +1,14 @@
 name: Khoj
 website_url: https://khoj.dev/
 source_code_url: https://github.com/khoj-ai/khoj
-description: Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI.
+description: 你的 AI 第二大脑。从网络或本地文档中获取答案，构建自定义智能体，安排自动化任务，进行深度研究。将任意在线或本地 LLM 变成你的个人自主 AI。
 licenses:
   - AGPL-3.0
 platforms:
   - Python
   - Docker
 tags:
-  - Generative Artificial Intelligence (GenAI)
+  - 生成式人工智能（GenAI）
 demo_url: https://app.khoj.dev/
 stargazers_count: 33824
 updated_at: '2026-03-26'

@@ -1,14 +1,14 @@
 name: gobookmarks
 website_url: https://github.com/arran4/gobookmarks
 source_code_url: https://github.com/arran4/gobookmarks
-description: Landing page to display bookmarks stored in GitHub, GitLab or local Git.
+description: 显示存储在 GitHub、GitLab 或本地 Git 中的书签的登录页面。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 stargazers_count: 11
 updated_at: '2026-03-31'
 archived: false

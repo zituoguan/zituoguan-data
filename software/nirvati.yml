@@ -1,11 +1,11 @@
 name: "Nirvati"
 website_url: "https://nirvati.org"
 source_code_url: "https://gitlab.com/nirvati-ug/nirvati/backend"
-description: "Easily 1-click spin up popular self-hosted apps from a convenient web interface."
+description: "通过便捷的 Web 界面轻松一键部署热门的自托管应用。"
 licenses:
   - AGPL-3.0
 platforms:
   - Rust
   - K8S
 tags:
-  - Self-hosting Solutions
+  - 自托管解决方案

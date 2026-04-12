@@ -1,13 +1,13 @@
 name: Rybbit
 website_url: https://rybbit.com/
 source_code_url: https://github.com/rybbit-io/rybbit
-description: Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics).
+description: 易于部署且更直观的 Web 与产品分析工具（Google Analytics 的替代方案）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Analytics
+  - 分析
 demo_url: https://demo.rybbit.com/1
 stargazers_count: 11935
 updated_at: '2026-03-31'

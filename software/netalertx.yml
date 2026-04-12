@@ -1,13 +1,13 @@
 name: NetAlertX
 website_url: https://netalertx.com/
 source_code_url: https://github.com/netalertx/NetAlertX
-description: Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
+description: 网络入侵和存在检测器。扫描连接到您网络的设备，并在发现新的未知设备时发出警报。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Network Utilities
+  - 网络工具
 stargazers_count: 5967
 updated_at: '2026-04-01'
 archived: false

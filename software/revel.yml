@@ -1,14 +1,14 @@
 name: Revel
 website_url: https://www.letsrevel.io
 source_code_url: https://github.com/letsrevel/revel-backend
-description: Community-focused event management and ticketing platform.
+description: 面向社区的活动管理与票务平台。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Polls and Events
+  - 投票和事件
 depends_3rdparty: true
 demo_url: https://demo.letsrevel.io
 related_software_url: https://github.com/letsrevel

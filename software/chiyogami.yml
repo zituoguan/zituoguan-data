@@ -2,13 +2,13 @@ name: Chiyogami
 website_url: https://github.com/rhee876527/chiyogami
 source_code_url: https://github.com/rhee876527/chiyogami
 demo_url: https://chiyogami.myaddr.dev/
-description: Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more.
+description: 带有 API、客户端加密、用户账户、语法高亮、Markdown 渲染等功能的粘贴板。
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
 tags:
-  - Pastebins
+  - 粘贴板
 stargazers_count: 74
 updated_at: '2026-03-23'
 archived: false

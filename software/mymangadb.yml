@@ -1,13 +1,13 @@
 name: MyMangaDB
 website_url: https://github.com/FabianRolfMatthiasNoll/MyMangaDB
 source_code_url: https://github.com/FabianRolfMatthiasNoll/MyMangaDB
-description: Manga collection manager with automatic metadata, MyAnimeList import and detailed collection statistics.
+description: 漫画收藏管理器，支持自动获取元数据、MyAnimeList 导入及详细的收藏统计。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 depends_3rdparty: true
 stargazers_count: 16
 updated_at: '2025-12-22'

@@ -1,13 +1,13 @@
 name: jetlog
 website_url: https://github.com/pbogre/jetlog
 source_code_url: https://github.com/pbogre/jetlog
-description: Personal flight tracker and viewer.
+description: 个人飞行跟踪器和查看器。
 licenses:
   - GPL-2.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 297
 updated_at: '2026-02-24'
 archived: false

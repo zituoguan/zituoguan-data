@@ -1,14 +1,14 @@
 name: Jirafeau
 website_url: https://gitlab.com/jirafeau/Jirafeau
 source_code_url: https://gitlab.com/jirafeau/Jirafeau
-description: One-click-fileshare project. Select your file, upload, and share a link. That's it.
+description: 一键文件共享项目。选择文件，上传，然后分享链接。就是这么简单。
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 stargazers_count: 29
 updated_at: '2026-01-25'
 archived: false

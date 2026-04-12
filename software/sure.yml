@@ -1,12 +1,12 @@
 name: Sure
 website_url: https://github.com/we-promise/sure
-description: Personal finance application for everyone (fork of Maybe).
+description: 面向所有人的个人财务应用（Maybe 的分支）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 财务、预算和管理
 source_code_url: https://github.com/we-promise/sure
 stargazers_count: 7612
 updated_at: '2026-04-02'

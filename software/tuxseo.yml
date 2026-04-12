@@ -1,15 +1,15 @@
 name: TuxSEO
 website_url: https://tuxseo.com/
 source_code_url: https://github.com/rasulkireev/TuxSEO
-description: Create automated blog content for your business, using AI.
+description: 使用 AI 为您的企业自动生成博客内容。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Generative Artificial Intelligence (GenAI)
-  - Blogging Platforms
+  - 生成式人工智能（GenAI）
+  - 博客平台
 depends_3rdparty: true
 stargazers_count: 52
 updated_at: '2026-03-19'

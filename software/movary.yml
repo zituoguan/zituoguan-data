@@ -1,14 +1,14 @@
 name: Movary
 website_url: https://github.com/leepeuker/movary
 source_code_url: https://github.com/leepeuker/movary
-description: Web app to track and rate your watched movies.
+description: 用于追踪和评分已观看电影的 Web 应用。
 licenses:
   - MIT
 platforms:
   - Docker
   - PHP
 tags:
-  - Miscellaneous
+  - 杂项
 depends_3rdparty: true
 demo_url: https://github.com/leepeuker/movary?tab=readme-ov-file#demo
 stargazers_count: 713

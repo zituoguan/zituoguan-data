@@ -1,14 +1,14 @@
 name: RapidForge
 website_url: https://rapidforge.io/
 source_code_url: https://github.com/rapidforge-io/rapidforge
-description: Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua.
+description: 轻量级平台，用于构建 Webhook、定时任务和页面。可用 Bash 或 Lua 实现自定义逻辑。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Nodejs
 tags:
-  - Software Development - IDE & Tools
+  - 软件开发 - IDE 和工具
 stargazers_count: 35
 updated_at: '2026-04-02'
 archived: false

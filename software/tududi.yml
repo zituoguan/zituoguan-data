@@ -1,13 +1,13 @@
 name: tududi
 website_url: https://tududi.com/
 source_code_url: https://github.com/chrisvel/tududi
-description: Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration.
+description: 具备分层结构、智能重复任务和无缝 Telegram 集成的任务管理工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 stargazers_count: 2300
 updated_at: '2026-04-01'
 archived: false

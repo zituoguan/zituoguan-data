@@ -1,7 +1,7 @@
 name: Lyrion Music Server
 website_url: https://lyrion.org/
 source_code_url: https://github.com/lms-community/slimserver
-description: Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server).
+description: 服务器软件，可控制各种 Squeezebox/Slim Devices 音频播放器及兼容硬件（前身为 Logitech Media Server）。
 licenses:
   - GPL-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
   - Perl
 tags:
-  - Media Streaming - Audio Streaming
+  - 流媒体 - 音频流媒体
 related_software_url: https://lyrion.org/extensions/applications/
 stargazers_count: 1673
 updated_at: '2026-03-29'

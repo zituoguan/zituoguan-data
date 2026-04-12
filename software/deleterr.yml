@@ -1,12 +1,12 @@
 name: Deleterr
 website_url: https://github.com/rfsbraz/deleterr
-description: Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules.
+description: 自动化媒体清理工具，根据可配置的规则从 Plex、Sonarr 和 Radarr 中删除已看过和陈旧的内容。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Media Management
+  - 媒体管理
 source_code_url: https://github.com/rfsbraz/deleterr
 stargazers_count: 279
 updated_at: '2026-03-12'

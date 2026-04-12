@@ -1,7 +1,7 @@
 name: Medama Analytics
 website_url: https://oss.medama.io
 source_code_url: https://github.com/medama-io/medama
-description: Privacy-first website analytics. Tiny, simple, and cookie-free.
+description: 隐私优先的网站分析工具。轻量、简洁且无 Cookie。
 licenses:
   - Apache-2.0
   - MIT
@@ -9,7 +9,7 @@ platforms:
   - Docker
   - Go
 tags:
-  - Analytics
+  - 分析
 demo_url: https://demo.medama.io
 stargazers_count: 611
 updated_at: '2026-01-18'

@@ -1,6 +1,6 @@
 name: Cozy Cloud
 website_url: https://cozy.io/
-description: Personal cloud where you can manage and sync your files, notes, contacts, passwords, and documents.
+description: 个人云平台，您可以在其中管理和同步您的文件、笔记、联系人、密码和文档。
 licenses:
   - GPL-3.0
 platforms:

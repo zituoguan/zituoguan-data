@@ -1,13 +1,13 @@
 name: Calibre Web Automated
 website_url: https://github.com/crocodilestick/Calibre-Web-Automated
 source_code_url: https://github.com/crocodilestick/Calibre-Web-Automated
-description: All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web).
+description: 一体化解决方案，结合了 Calibre-Web 的现代轻量级网络界面和 Calibre 的强大、多功能的功能集（Calibre Web 的分支）。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Document Management - E-books
+  - 文档管理 - 电子书
 stargazers_count: 5303
 updated_at: '2026-03-11'
 archived: false

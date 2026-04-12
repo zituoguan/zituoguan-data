@@ -1,14 +1,14 @@
 name: Pangolin
 website_url: https://digpangolin.com/
 source_code_url: https://github.com/fosrl/pangolin
-description: Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale).
+description: 身份感知的隧道反向代理，具有仪表盘 UI、访问控制和基于 WireGuard 的隧道（Cloudflare Tunnel、Tailscale 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Web Servers
-  - Remote Access
+  - Web 服务器
+  - 远程访问
 stargazers_count: 19801
 updated_at: '2026-03-31'
 archived: false

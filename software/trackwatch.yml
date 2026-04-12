@@ -1,13 +1,13 @@
 name: TrackWatch
 website_url: https://trackwatch.emlopezr.com
 source_code_url: https://github.com/emlopezr/trackwatch
-description: Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar).
+description: Spotify 自动音乐发行追踪器，支持邮件通知、唱片集生成和无效曲目清理（Release Radar 替代品）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Media Management
+  - 媒体管理
 depends_3rdparty: true
 stargazers_count: 17
 updated_at: '2026-03-27'

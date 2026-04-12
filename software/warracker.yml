@@ -1,13 +1,13 @@
 name: Warracker
 website_url: https://warracker.com
 source_code_url: https://github.com/sassanix/Warracker
-description: Warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire.
+description: 保修期追踪工具，可监控到期日、上传收据/文件，并在保修到期前提醒。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 stargazers_count: 1384
 updated_at: '2026-03-31'
 archived: false

@@ -1,14 +1,14 @@
 name: Colanode
 website_url: https://colanode.com
 source_code_url: https://github.com/colanode/colanode
-description: Collaboration suite with real-time messaging, rich text pages, file management, and dynamic databases - built for offline work (alternative to Slack, Notion).
+description: 协作套件，具有实时消息传递、富文本页面、文件管理和动态数据库 - 为离线工作而构建（Slack、Notion 的替代品）。
 licenses:
   - Apache-2.0
 platforms:
   - K8S
   - Docker
 tags:
-  - Groupware
+  - 协同办公
 stargazers_count: 4726
 updated_at: '2026-02-21'
 archived: false

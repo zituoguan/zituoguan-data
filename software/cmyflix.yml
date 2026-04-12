@@ -1,14 +1,14 @@
 name: cmyflix
 website_url: https://github.com/farfalleflickan/cmyflix
 source_code_url: https://github.com/farfalleflickan/cmyflix
-description: Minimalist Plex/Jellyfin alternative to stream video.
+description: 简洁的 Plex/Jellyfin 替代品，用于视频流传输。
 licenses:
   - AGPL-3.0
 platforms:
   - C
   - deb
 tags:
-  - Media Streaming - Multimedia Streaming
+  - 流媒体 - 多媒体流媒体
 stargazers_count: 190
 updated_at: '2025-12-18'
 archived: false

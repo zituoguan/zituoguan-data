@@ -1,11 +1,11 @@
 name: "b1gMail"
 website_url: "https://www.b1gmail.eu"
 source_code_url: "https://codeberg.org/b1gMail/b1gMail"
-description: "Complete email solution that runs on any webspace with PHP and MariaDB. It supports POP3 catchall mailboxes and can also integrate with Postfix or b1gMailServer if you're running your own server."
+description: "完整的电子邮件解决方案，可在任何具有 PHP 和 MariaDB 的网络空间上运行。它支持 POP3 通配符邮箱，并且如果您运行自己的服务器，还可以与 Postfix 或 b1gMailServer 集成。"
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
-  - Communication - Email - Complete Solutions
+  - 通信 - 电子邮件 - 完整解决方案
 related_software_url: "https://www.b1gmail.eu/en/start/addon-b1gmailserver/"

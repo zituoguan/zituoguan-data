@@ -1,14 +1,14 @@
-# Contributing
+# 贡献指南
 
-Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), [`bug`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [`curation`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration).
+不知道从哪里开始？查看标有[`帮助需求`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)、[`错误`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug)和[`审核`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration)的工单。
 
-### Curation
+### 审核
 
-- Software with no development activity for 6-12 months may be removed from the list
-- Non-working software may be removed from the list
-- Unmaintained software without an active community may be removed from the list
-- Software with persistent, serious security issues will be removed from the list
-- Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
+- 6-12 个月内没有开发活动的软件可能会从列表中删除
+- 无法工作的软件可能会从列表中删除
+- 没有活跃社区的无人维护软件可能会从列表中删除
+- 存在持久性、严重安全问题的软件将从列表中删除
+- 问题应自动报告：[![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### 添加软件到列表
 
@@ -80,54 +80,54 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 -   在 `Commit changes` 对话框中，输入 `Remove SOFTWARE_NAME (reason)` 作为您的提交消息，在 `extended description` 字段中添加额外上下文，选择 `Create a new branch for this commit and start a pull request.`，然后点击 `Commit Changes`
 
 
-### Domain name costs
+### 域名成本
 
-You can help cover domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
+您可以通过在 [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/) 上承诺一小笔金额来帮助支付域名注册和续费成本。
 
 
-### Other guidelines
+### 其他指南
 
-In addition to guidelines listed in the [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md), these general rules help keep the list consistent:
-- Please avoid redundant terms in project descriptions, such as _open-source_, _free_, _self-hosted_... as their presence on awesome-selfhosted already implies this.
-- Prefer shorter forms for descriptions - for example, `Minimalist text adventure game` would be preferred to `A minimalist text adventure game` or `$PROJECT is a minimalist text adventure game`).
-- If the the project has no documentation in English, please add `(documentation in $LANGUAGE)` at the end of the description.
-- If the project is presented as an alternative to another service or application, please mention it as `(alternative to $PRODUCT1, $PRODUCT2)` at the end of the description.
-- If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
-- If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
-- If the project distributes a single static binary, please add the programming language in which it is written.
+除了 [Pull Request 模板](.github/PULL_REQUEST_TEMPLATE.md) 中列出的指南外，以下一般规则有助于保持列表的一致性：
+- 请在项目描述中避免使用冗余的术语，如 _open-source_（开源）、_free_（免费）、_self-hosted_（自托管）等，因为它们在 awesome-selfhosted 中的出现已经意味着这一点。
+- 优先使用更简洁的描述形式 - 例如，`Minimalist text adventure game`（极简文字冒险游戏）相比 `A minimalist text adventure game` 或 `$PROJECT is a minimalist text adventure game` 更受欢迎。
+- 如果项目没有英文文档，请在描述末尾添加 `(documentation in $LANGUAGE)`（$LANGUAGE 语言的文档）。
+- 如果项目被呈现为另一项服务或应用程序的替代品，请在描述末尾提及 `(alternative to $PRODUCT1, $PRODUCT2)`（$PRODUCT1、$PRODUCT2 的替代品）。
+- 如果您添加的软件是从另一个活跃项目中分叉的，请提供/链接到两者之间差异的清单。
+- 如果项目是从另一个项目分叉的，请在描述末尾添加 `(fork of $PROJECT)`（$PROJECT 的分支）。
+- 如果项目发布单个静态二进制文件，请添加其编写的编程语言。
 
-### What does not qualify
+### 不符合条件的软件
 
-- Software that depends on a specific cloud provider
-- Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
-- Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
-- Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
-- Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-- Software contributions that merely port an existing application to another system (e.g., Dockerization)
+- 依赖于特定云提供商的软件
+- 桌面、移动或命令行应用程序，需要依赖单独的文件同步/服务器程序
+- 需要您在生成可工作的终端用户应用程序之前编写应用程序代码的软件（库、SDK 等）
+- 作为构建和部署任意应用程序的平台的软件（PaaS、"无服务器"等）
+- 任何通用的容器/部署自动化/虚拟化等工具更适合[awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- 仅将现有应用程序转移到另一个系统的软件贡献（例如 Docker 化）
 
-### Canned replies
+### 预设回复
 
-To save maintainers time, a few premade replies for common issues can be found below
+为节省维护人员时间，下面是一些常见问题的预设回复
 
-#### No tagged releases
+#### 没有标记的版本
 
->Hi, thanks for your contribution.
+> 您好，感谢您的贡献。
 >
->However, there are no tagged releases for this project. Our guidelines require that _Any software project you are adding was first released more than 4 months ago._ We encourage you to create a release now and/or a simple [changelog](https://keepachangelog.com/en/1.1.0/) that will help users keep track of changes in the software (especially breaking changes or changes requiring configuration tweaks), and will allow administrators to install a known working, unchanging version (as opposed to always installing the latest development version).
+> 但是，此项目没有标记的版本。我们的指南要求_您添加的任何软件项目必须在 4 个月前首次发布。_我们鼓励您立即创建一个版本和/或一个简单的[更改日志](https://keepachangelog.com/en/1.1.0/)，这将帮助用户跟踪软件中的更改（尤其是破坏性更改或需要配置调整的更改），并允许管理员安装已知的可工作的、不变的版本（而不是始终安装最新的开发版本）。
 >
->Once this is done, the project may be resubmitted to awesome-selfhosted when the first release reaches the age of 4 months.
+> 完成后，当第一个版本达到 4 个月的年龄时，可以将项目重新提交到 awesome-selfhosted。
 >
->Thanks for understanding, and good luck with this project.
+> 感谢您的理解，祝项目顺利。
 
-#### First release less than 4 months old
+#### 首个版本不足 4 个月
 
->Hi, thanks for your contribution.
+> 您好，感谢您的贡献。
 >
->Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need not rely on the latest development version to use the project.
+> 目前，此项目有一个版本，但尚未满 4 个月。我们的指南要求您添加的任何软件项目必须在超过 4 个月前首次发布。只有在创建版本后才能开始计数，以确保用户不需要依赖最新的开发版本来使用项目。
 >
->I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is four months old, feel free to resubmit it to awesome-selfhosted, or you can create an issue instead (we don't close issues; we just tag them to indicate they need to mature).
+> 我现在继续关闭它以保持 PR 部分专注于活跃任务。一旦首个版本满 4 个月，欢迎将其重新提交到 awesome-selfhosted，或者您也可以改为创建一个工单（我们不关闭工单；我们只是标记它们以指示它们需要成熟）。
 >
->感谢您的理解，祝项目顺利。
+> 感谢您的理解，祝项目顺利。
 
 ### 其他操作
 

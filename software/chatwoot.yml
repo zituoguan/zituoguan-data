@@ -1,6 +1,6 @@
 name: Chatwoot
 website_url: https://www.chatwoot.com
-description: Customer communication platform (alternative to Intercom and Zendesk).
+description: 客户沟通平台（Intercom 和 Zendesk 的替代品）。
 licenses:
   - ⊘ Proprietary
 platforms:

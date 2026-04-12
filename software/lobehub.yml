@@ -1,14 +1,14 @@
 name: LobeHub
 website_url: https://www.lobehub.com
 source_code_url: https://github.com/lobehub/lobehub
-description: Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking.
+description: 现代化 AI 对话框架，支持多种 AI 提供商，一键安装 MCP 市场及 Artifacts / Thinking 功能。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Generative Artificial Intelligence (GenAI)
+  - 生成式人工智能（GenAI）
 related_software_url: https://lobehub.com/mcp
 stargazers_count: 74659
 updated_at: '2026-04-02'

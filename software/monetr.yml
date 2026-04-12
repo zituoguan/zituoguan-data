@@ -1,14 +1,14 @@
 name: monetr
 website_url: https://monetr.app/
 source_code_url: https://github.com/monetr/monetr
-description: Budgeting application focused on planning for recurring expenses.
+description: 专注于规划周期性支出的预算应用。
 licenses:
   - FSL-1.1-MIT
 platforms:
   - Docker
   - K8S
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 stargazers_count: 621
 updated_at: '2026-04-02'
 archived: false

@@ -1,14 +1,14 @@
 name: Automad
 website_url: https://automad.org/
 source_code_url: https://github.com/marcantondahmen/automad
-description: Flat-file content management system and template engine.
+description: 基于文件的内容管理系统和模板引擎。
 licenses:
   - MIT
 platforms:
   - PHP
   - Docker
 tags:
-  - Content Management Systems (CMS)
+  - 内容管理系统（CMS）
 demo_url: https://try.automad.org/
 stargazers_count: 882
 updated_at: '2026-04-01'

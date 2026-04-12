@@ -1,13 +1,13 @@
 name: Open Archiver
 website_url: https://openarchiver.com/
 source_code_url: https://github.com/LogicLabs-OU/OpenArchiver
-description: Email archiving solution with full-text search and eDiscovery search features.
+description: 具有全文搜索和电子发现搜索功能的电子邮件归档解决方案。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 档案和数字保存（DP）
 demo_url: https://github.com/LogicLabs-OU/OpenArchiver?tab=readme-ov-file#-live-demo
 stargazers_count: 1899
 updated_at: '2026-03-30'

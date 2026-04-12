@@ -1,13 +1,13 @@
 name: Econumo
 website_url: https://econumo.com
 source_code_url: https://github.com/econumo/econumo
-description: Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets.
+description: 个人和家庭财务管理的预算应用程序，支持多种货币、联合账户和预算。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 demo_url: https://demo.econumo.com
 stargazers_count: 68
 updated_at: '2026-02-26'

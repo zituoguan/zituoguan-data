@@ -1,14 +1,14 @@
 name: Operational.co
 website_url: https://operational.co
 source_code_url: https://github.com/operational-co/operational.co
-description: Receive alerts in a live timeline from your product.
+description: 在实时时间线中接收来自您产品的警报。
 licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://app.operational.co/?signinas=kevin
 stargazers_count: 443
 updated_at: '2026-03-18'

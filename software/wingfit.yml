@@ -1,14 +1,14 @@
 name: Wingfit
 website_url: https://wingfit.fr
 source_code_url: https://github.com/itskovacs/wingfit
-description: Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data.
+description: 极简主义健身应用，用于规划锻炼、追踪个人纪录并利用智能手表数据。
 licenses:
   - CC-BY-SA-4.0
 platforms:
   - Python
   - Docker
 tags:
-  - Health and Fitness
+  - 健康和健身
 demo_url: https://wingfit.fr/home
 stargazers_count: 473
 updated_at: '2025-08-11'

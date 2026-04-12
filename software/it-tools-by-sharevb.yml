@@ -1,13 +1,13 @@
 name: IT-Tools by sharevb
 website_url: https://github.com/sharevb/it-tools
 source_code_url: https://github.com/sharevb/it-tools
-description: Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools)).
+description: 开发者的实用在线工具集合（[it-tools](https://github.com/CorentinTh/it-tools) 的分支）。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项
 demo_url: https://sharevb-it-tools.vercel.app/
 stargazers_count: 1257
 updated_at: '2026-03-29'

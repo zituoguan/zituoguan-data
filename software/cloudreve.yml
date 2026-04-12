@@ -1,13 +1,13 @@
 name: Cloudreve
 website_url: https://cloudreve.org/
-description: File management and sharing system, supports multiple storage providers.
+description: 文件管理和共享系统，支持多个存储供应商。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Go
 tags:
-  - File Transfer & Synchronization
+  - 文件传输和同步
 source_code_url: https://github.com/cloudreve/cloudreve
 demo_url: https://demo.cloudreve.org
 stargazers_count: 27278

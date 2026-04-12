@@ -1,12 +1,12 @@
 name: fx
 website_url: https://github.com/rikhuijzer/fx
-description: Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky).
+description: 微博工具，提供内置语法高亮、移动发布等功能（Twitter、Bluesky 的替代方案）。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Blogging Platforms
+  - 博客平台
 source_code_url: https://github.com/rikhuijzer/fx
 stargazers_count: 293
 updated_at: '2026-03-09'

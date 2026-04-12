@@ -1,14 +1,14 @@
 name: Kaneo
 website_url: https://kaneo.app/
 source_code_url: https://github.com/usekaneo/kaneo
-description: Project management platform focused on simplicity and efficiency.
+description: 注重简洁与高效的项目管理平台。
 licenses:
   - MIT
 platforms:
   - K8S
   - Docker
 tags:
-  - Software Development - Project Management
+  - 软件开发 - 项目管理
 demo_url: https://demo.kaneo.app/
 stargazers_count: 3374
 updated_at: '2026-04-02'

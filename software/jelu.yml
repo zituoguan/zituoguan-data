@@ -1,7 +1,7 @@
 name: Jelu
 website_url: https://bayang.github.io/jelu-web
 source_code_url: https://github.com/bayang/jelu
-description: Read and to-read list book tracker.
+description: 已读和待读书单追踪器。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: "Iceshrimp.NET"
 website_url: "https://iceshrimp.net"
 source_code_url: "https://iceshrimp.dev/iceshrimp/iceshrimp.net"
-description: "Federated microblogging server that communicates over ActivityPub."
+description: "基于 ActivityPub 协议通信的联邦式微博客服务器。"
 licenses:
   - EUPL-1.2
 platforms:
@@ -9,4 +9,4 @@ platforms:
   - C#
   - Docker
 tags:
-  - Communication - Social Networks and Forums
+  - 通信 - 社交网络和论坛

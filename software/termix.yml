@@ -1,13 +1,13 @@
 name: Termix
 website_url: https://docs.termix.site/
 source_code_url: https://github.com/Termix-SSH/Termix
-description: Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+description: 无需客户端的 Web 服务器管理平台，支持 SSH 终端、隧道和文件编辑。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - Remote Access
+  - 远程访问
 stargazers_count: 12070
 updated_at: '2026-03-29'
 archived: false

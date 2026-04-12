@@ -1,6 +1,6 @@
 name: Keygen
 website_url: https://keygen.sh/
-description: Software licensing and distribution API.
+description: 软件授权与分发 API。
 licenses:
   - ⊘ Proprietary
 platforms:
