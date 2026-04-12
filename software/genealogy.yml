@@ -1,13 +1,13 @@
 name: Genealogy
 website_url: https://genealogy.kreaweb.be/
 source_code_url: https://github.com/MGeurts/genealogy
-description: Record family members and their relationships and build a family tree.
+description: 记录家庭成员及其关系并构建家谱。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
-  - Genealogy
+  - 家谱研究
 demo_url: https://genealogy.kreaweb.be/
 stargazers_count: 324
 updated_at: '2026-03-30'

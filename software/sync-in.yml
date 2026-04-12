@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 文件传输和同步
-  - 文件传输 - 几月 Web 的文件管理器
-  - 协同办公司
+  - 文件传输 - 基于 Web 的文件管理器
+  - 协同办公
 demo_url: https://sync-in.com/docs/demo
 related_software_url: https://github.com/Sync-in/desktop
 stargazers_count: 975

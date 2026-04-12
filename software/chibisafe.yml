@@ -8,7 +8,7 @@ platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传
 stargazers_count: 2616
 updated_at: '2025-12-19'
 archived: false

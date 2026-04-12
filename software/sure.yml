@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 财务、预算和管理
+  - 资金、预算和管理
 source_code_url: https://github.com/we-promise/sure
 stargazers_count: 7612
 updated_at: '2026-04-02'

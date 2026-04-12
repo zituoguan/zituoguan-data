@@ -1,14 +1,14 @@
 name: Eonvelope
 website_url: https://dacid99.gitlab.io/eonvelope
 source_code_url: https://gitlab.com/dacid99/eonvelope
-description: Email archiving software that allows you to preserve your emails for an indefinite long period of time.
+description: 一款电子邮件归档软件，可让您将邮件无限期保存。
 licenses:
   - AGPL-3.0
 platforms:
   - K8S
   - Docker
 tags:
-  - Archiving and Digital Preservation (DP)
+  - 档案和数字保存（DP）
 stargazers_count: 7
 updated_at: '2026-03-29'
 archived: false

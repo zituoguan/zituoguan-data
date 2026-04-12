@@ -1,17 +1,17 @@
 name: Flare
 website_url: https://github.com/FlintSH/Flare
 source_code_url: https://github.com/FlintSH/Flare
-description: A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more.
+description: 一款非臃肿、现代且高度可配置的文件/截图存储服务器，支持 ShareX、Flameshot 和 Spectacle。提供 OCR 搜索等功能。
 licenses:
   - MIT
 platforms:
   - Docker
   - Nodejs
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
-  - File Transfer - Web-based File Managers
-  - File Transfer - Object Storage & File Servers
-  - URL Shorteners
+  - 文件传输 - 单机和拖放上传
+  - 文件传输 - 基于 Web 的文件管理器
+  - 文件传输 - 对象存储和文件服务器
+  - URL 缩短服务
 stargazers_count: 111
 updated_at: '2026-04-01'
 archived: false
