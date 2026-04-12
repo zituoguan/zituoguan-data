@@ -1,6 +1,6 @@
 name: Reactive Resume
 website_url: https://rxresu.me/
-description: 一种独特的简历构建工具，考虑了您的隐私。完全安全、可定制、便携、开源且永久免费。
+description: 独特的简历生成器，注重隐私保护。完全安全、可定制、可移植、开源且永久免费。
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,23 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/AmruthPillai/Reactive-Resume
-demo_url: https://rxresu.me/app/dashboard/
-stargazers_count: 33260
-updated_at: '2025-10-08'
+demo_url: https://rxresu.me/
+stargazers_count: 36096
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: v5.0.15
+  published_at: '2026-04-01'
+commit_history:
+  2025-05: 3
+  2025-06: 1
+  2025-07: 3
+  2025-08: 1
+  2025-09: 4
+  2025-10: 51
+  2025-11: 25
+  2025-12: 10
+  2026-01: 240
+  2026-02: 59
+  2026-03: 60
+  2026-04: 3

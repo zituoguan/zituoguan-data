@@ -1,6 +1,6 @@
 name: MeshCentral
 website_url: https://meshcentral.com/
-description: 运行您自己的 Web 服务器，以远程管理和控制本地网络或互联网上任何地方的计算机。
+description: 运行自己的 Web 服务器，远程管理和控制本地网络或互联网上的任意计算机。
 licenses:
   - Apache-2.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 远程访问
 source_code_url: https://github.com/Ylianst/MeshCentral
-stargazers_count: 5541
-updated_at: '2025-10-03'
+stargazers_count: 6352
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: 1.1.58
+  published_at: '2026-03-25'
+commit_history:
+  2025-05: 46
+  2025-06: 40
+  2025-07: 25
+  2025-08: 16
+  2025-09: 26
+  2025-10: 37
+  2025-11: 34
+  2025-12: 48
+  2026-01: 32
+  2026-02: 44
+  2026-03: 38
+  2026-04: 3

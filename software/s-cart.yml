@@ -1,14 +1,30 @@
 name: s-cart
 website_url: https://s-cart.org/
-description: S-Cart 是一个基于 Laravel 框架构建的免费个人和企业电子商务网站项目。
+description: 基于 Laravel 框架构建的个人和企业电子商务网站。
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - 电子商务
-source_code_url: https://github.com/s-cart/s-cart
+source_code_url: https://github.com/gp247net/s-cart
 demo_url: https://demo.s-cart.org/
-stargazers_count: 724
-updated_at: '2025-08-31'
-archived: true
+stargazers_count: 7
+updated_at: '2025-11-26'
+archived: false
+current_release:
+  tag: 1.0.1
+  published_at: '2025-08-30'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 4
+  2025-09: 2
+  2025-10: 0
+  2025-11: 2
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

@@ -5,7 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Django
+  - Python
 tags:
   - 密码管理器
 source_code_url: https://gitlab.com/passit

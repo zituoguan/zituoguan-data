@@ -1,7 +1,7 @@
 name: LHA
 website_url: https://github.com/javalikescript/lha
 source_code_url: https://github.com/javalikescript/lha
-description: 轻量级家庭自动化应用程序，可使用 Blockly、HTML 或 Lua 完全扩展。它包括 ConBee、Philips Hue 或 Z-Wave JS 等扩展。
+description: 轻量级家庭自动化应用，支持通过 Blockly、HTML 或 Lua 完全扩展，内置 ConBee、Philips Hue 和 Z-Wave JS 等扩展。
 licenses:
   - MIT
 platforms:
@@ -9,5 +9,21 @@ platforms:
 tags:
   - 物联网（IoT）
 stargazers_count: 12
-updated_at: '2025-09-28'
+updated_at: '2026-03-15'
 archived: false
+current_release:
+  tag: v0.2.3
+  published_at: '2025-05-18'
+commit_history:
+  2025-05: 19
+  2025-06: 7
+  2025-07: 1
+  2025-08: 3
+  2025-09: 3
+  2025-10: 0
+  2025-11: 0
+  2025-12: 3
+  2026-01: 0
+  2026-02: 5
+  2026-03: 1
+  2026-04: 0

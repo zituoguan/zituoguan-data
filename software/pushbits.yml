@@ -1,6 +1,6 @@
 name: PushBits
 website_url: https://github.com/pushbits/server
-description: 一个通过 Matrix 中继推送通知的通知服务器，类似于 PushBullet 和 Gotify。
+description: 用于通过 Matrix 转发推送通知的通知服务器，类似于 PushBullet 和 Gotify。
 licenses:
   - ISC
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/pushbits/server
-stargazers_count: 345
-updated_at: '2025-05-29'
+stargazers_count: 355
+updated_at: '2026-01-10'
 archived: false
+current_release:
+  tag: v0.10.7
+  published_at: '2025-05-29'
+commit_history:
+  2025-05: 3
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 4
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

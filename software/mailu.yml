@@ -1,6 +1,6 @@
 name: Mailu
 website_url: https://mailu.io/
-description: 简单但功能齐全的邮件服务器，以 Docker 镜像集的形式提供。
+description: 简洁而功能完备的邮件服务器，以一组 Docker 镜像形式提供。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/Mailu/Mailu
-stargazers_count: 6832
-updated_at: '2025-10-07'
+stargazers_count: 7134
+updated_at: '2026-03-20'
 archived: false
+current_release:
+  tag: 2024.06.49
+  published_at: '2026-03-20'
+commit_history:
+  2025-05: 3
+  2025-06: 5
+  2025-07: 0
+  2025-08: 42
+  2025-09: 1
+  2025-10: 10
+  2025-11: 0
+  2025-12: 4
+  2026-01: 4
+  2026-02: 0
+  2026-03: 7
+  2026-04: 0

@@ -1,6 +1,6 @@
 name: Dagu
-website_url: https://dagu.readthedocs.io/
-source_code_url: https://github.com/dagu-dev/dagu
+website_url: https://docs.dagu.cloud/
+source_code_url: https://github.com/dagucloud/dagu
 description: 功能强大的 Cron 替代品，具有 Web UI。它允许您以声明性的 YAML 格式将命令之间的依赖关系定义为有向无环图（DAG）。
 licenses:
   - GPL-3.0
@@ -8,7 +8,23 @@ platforms:
   - Go
   - Docker
 tags:
-  - 媒体管理
-stargazers_count: 2635
-updated_at: '2025-10-08'
+  - 自动化
+stargazers_count: 3240
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: v2.3.11
+  published_at: '2026-03-30'
+commit_history:
+  2025-05: 39
+  2025-06: 144
+  2025-07: 100
+  2025-08: 85
+  2025-09: 44
+  2025-10: 65
+  2025-11: 43
+  2025-12: 72
+  2026-01: 71
+  2026-02: 97
+  2026-03: 207
+  2026-04: 47

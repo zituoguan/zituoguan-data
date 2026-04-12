@@ -1,6 +1,6 @@
 name: Mailman
 website_url: https://www.list.org/
-description: 管理电子邮件讨论和电子通讯列表。
+description: 管理电子邮件讨论组和电子通讯订阅列表。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Send
-website_url: https://github.com/timvisee/send
-description: 简单、私密、端到端加密的临时文件分享，最初由 Mozilla 构建。
+website_url: https://gitlab.com/timvisee/send
+description: 简单、私密、端到端加密的临时文件分享工具，最初由 Mozilla 构建。
 licenses:
   - MPL-2.0
 platforms:
@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 点对点文件共享
-source_code_url: https://github.com/timvisee/send
-related_software_url: https://github.com/timvisee/send#clients
-stargazers_count: 5487
+source_code_url: https://gitlab.com/timvisee/send
+demo_url: https://send.vis.ee/
+related_software_url: https://gitlab.com/timvisee/send#clients
+stargazers_count: 300
 updated_at: '2025-07-01'
 archived: false

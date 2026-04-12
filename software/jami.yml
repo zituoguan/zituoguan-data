@@ -1,6 +1,6 @@
 name: Jami
 website_url: https://jami.net/
-description: 保护用户隐私和自由的通用通信平台。
+description: Universal communication platform which preserves the user's privacy and freedoms.
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Maddy Mail Server
 website_url: https://maddy.email/
-description: 一体化邮件服务器，实现了SMTP（MTA和MX）和IMAP。用单个守护程序替代了Postfix、Dovecot、OpenDKIM、OpenSPF、OpenDMARC。
+description: 一体化邮件服务器，实现了 SMTP（MTA 和 MX）与 IMAP 协议。用单一守护进程替代 Postfix、Dovecot、OpenDKIM、OpenSPF 和 OpenDMARC。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/foxcpp/maddy
-stargazers_count: 5687
-updated_at: '2025-03-09'
+stargazers_count: 5911
+updated_at: '2026-03-31'
 archived: false
+current_release:
+  tag: v0.9.2
+  published_at: '2026-03-26'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 19
+  2026-02: 1
+  2026-03: 25
+  2026-04: 0

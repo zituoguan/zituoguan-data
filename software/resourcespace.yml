@@ -1,6 +1,6 @@
 name: ResourceSpace
 website_url: https://www.resourcespace.com
-description: ResourceSpace是一款开源数字资产管理软件，是组织数字资产的简单、快速和免费方式。
+description: 简单、快速且免费的数字资产管理方式。
 licenses:
   - BSD-4-Clause
 platforms:

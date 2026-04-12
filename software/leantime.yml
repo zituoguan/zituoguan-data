@@ -1,6 +1,6 @@
 name: Leantime
 website_url: https://leantime.io
-description: 为小型团队和初创公司设计的精益项目管理系统，帮助管理从构思到交付的项目。
+description: 面向小型团队和初创企业的精益项目管理系统，助力从创意构思到交付落地的全程项目管理。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/leantime/leantime
-stargazers_count: 8310
-updated_at: '2025-10-07'
+stargazers_count: 9458
+updated_at: '2026-03-12'
 archived: false
+current_release:
+  tag: v3.7.3
+  published_at: '2026-03-12'
+commit_history:
+  2025-05: 79
+  2025-06: 72
+  2025-07: 48
+  2025-08: 42
+  2025-09: 25
+  2025-10: 7
+  2025-11: 20
+  2025-12: 1
+  2026-01: 105
+  2026-02: 88
+  2026-03: 46
+  2026-04: 0

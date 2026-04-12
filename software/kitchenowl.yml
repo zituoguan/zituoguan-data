@@ -1,6 +1,6 @@
 name: KitchenOwl
 website_url: https://docs.kitchenowl.org/latest/
-description: 跨平台购物清单、食谱存储、费用跟踪和膳食计划，遵循 Material Design 语言。
+description: 遵循 Material Design 设计语言的跨平台购物清单、食谱存储、支出追踪和膳食计划工具。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 食谱管理
 source_code_url: https://github.com/TomBursch/kitchenowl
-stargazers_count: 2738
-updated_at: '2025-09-21'
+stargazers_count: 3197
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: v0.7.6
+  published_at: '2026-01-24'
+commit_history:
+  2025-05: 23
+  2025-06: 38
+  2025-07: 24
+  2025-08: 8
+  2025-09: 15
+  2025-10: 12
+  2025-11: 9
+  2025-12: 6
+  2026-01: 20
+  2026-02: 2
+  2026-03: 7
+  2026-04: 2

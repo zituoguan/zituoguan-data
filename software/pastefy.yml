@@ -1,6 +1,6 @@
 name: Pastefy
 website_url: https://pastefy.app/
-description: 美观、简单且易于部署的 Pastebin，具有可选的客户端加密、多标签粘贴、API、高亮编辑器等功能。
+description: 美观、简洁且易于部署的粘贴板，支持可选的客户端加密、多标签粘贴、API、语法高亮编辑器等功能。
 licenses:
   - MIT
 platforms:
@@ -11,6 +11,22 @@ tags:
   - 粘贴板
 source_code_url: https://github.com/interaapps/pastefy
 related_software_url: https://github.com/topics/pastefy-addon
-stargazers_count: 356
-updated_at: '2025-05-22'
+stargazers_count: 421
+updated_at: '2026-03-18'
 archived: false
+current_release:
+  tag: 7.2.1
+  published_at: '2026-03-18'
+commit_history:
+  2025-05: 26
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 5
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 24
+  2026-04: 0

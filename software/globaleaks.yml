@@ -1,6 +1,6 @@
 name: GlobaLeaks
 website_url: https://www.globaleaks.org/
-source_code_url: https://github.com/globaleaks/whistleblowing-software
+source_code_url: https://github.com/globaleaks/globaleaks-whistleblowing-software
 demo_url: https://demo.globaleaks.org
 description: 一个举报软件，使任何人都能轻松设置和维护一个安全的报告平台。
 licenses:
@@ -11,6 +11,22 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-stargazers_count: 1398
-updated_at: '2025-10-08'
+stargazers_count: 1455
+updated_at: '2026-03-28'
 archived: false
+current_release:
+  tag: v5.0.89
+  published_at: '2026-03-19'
+commit_history:
+  2025-05: 29
+  2025-06: 25
+  2025-07: 74
+  2025-08: 68
+  2025-09: 95
+  2025-10: 50
+  2025-11: 33
+  2025-12: 33
+  2026-01: 23
+  2026-02: 63
+  2026-03: 25
+  2026-04: 0

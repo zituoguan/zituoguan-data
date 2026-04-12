@@ -1,6 +1,6 @@
 name: Mediawiki
 website_url: https://www.mediawiki.org/wiki/MediaWiki
-description: 维基软件包，为维基百科和所有其他维基媒体项目提供支持，每月为数亿用户提供服务。
+description: 为维基百科及所有维基媒体项目提供支持的维基软件，每月服务数亿用户。
 licenses:
   - GPL-2.0
 platforms:

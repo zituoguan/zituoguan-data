@@ -1,6 +1,6 @@
 name: Omeka S
 website_url: https://omeka.org/s/
-description: 面向机构的下一代网络发布平台，旨在将数字文化遗产收藏与其他在线资源连接起来。
+description: 面向希望将数字文化遗产馆藏与其他在线资源相连接的机构的下一代 Web 发布平台。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 档案和数字保存（DP）
 source_code_url: https://github.com/omeka/omeka-s
-stargazers_count: 446
-updated_at: '2025-10-08'
+stargazers_count: 477
+updated_at: '2026-03-30'
 archived: false
+current_release:
+  tag: v4.2.0
+  published_at: '2025-12-04'
+commit_history:
+  2025-05: 9
+  2025-06: 9
+  2025-07: 12
+  2025-08: 1
+  2025-09: 9
+  2025-10: 45
+  2025-11: 22
+  2025-12: 7
+  2026-01: 16
+  2026-02: 4
+  2026-03: 4
+  2026-04: 0

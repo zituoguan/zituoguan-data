@@ -1,7 +1,7 @@
 name: "pacebin"
-website_url: "https://git.swurl.xyz/swirl/pacebin.git/about/"
-source_code_url: "https://git.swurl.xyz/swirl/pacebin.git"
-description: "超简约的粘贴板和文件上传服务，专注于小可执行文件大小、可移植性和易于配置。"
+website_url: "https://git.crueter.xyz/crueter/pacebin"
+source_code_url: "https://git.crueter.xyz/crueter/pacebin"
+description: "超精简的粘贴板和文件上传服务，注重小巧的可执行文件体积、可移植性和易于配置。"
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,4 +9,4 @@ platforms:
 tags:
   - 粘贴板
   - 文件传输 - 单击和拖放上传
-demo_url: https://paste.swurl.xyz
+demo_url: "https://paste.crueter.xyz"

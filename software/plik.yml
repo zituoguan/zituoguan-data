@@ -1,6 +1,6 @@
 name: Plik
 website_url: https://github.com/root-gg/plik
-description: 可扩展且友好的临时文件上传系统。
+description: 可扩展且易用的临时文件上传系统。
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,22 @@ tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/root-gg/plik
 demo_url: https://plik.root.gg/
-stargazers_count: 1650
-updated_at: '2025-06-13'
+stargazers_count: 1732
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: 1.4.2
+  published_at: '2026-03-31'
+commit_history:
+  2025-05: 0
+  2025-06: 7
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 7
+  2026-01: 0
+  2026-02: 274
+  2026-03: 242
+  2026-04: 2

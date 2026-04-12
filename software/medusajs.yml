@@ -1,6 +1,6 @@
 name: MedusaJs
 website_url: https://medusajs.com/
-description: 无头商务引擎，使开发人员能够创建令人惊叹的数字商务体验。
+description: 无头商务引擎，帮助开发者构建出色的数字商务体验。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ tags:
   - 电子商务
 source_code_url: https://github.com/medusajs/medusa
 demo_url: https://next.medusajs.com/
-stargazers_count: 30836
-updated_at: '2025-10-08'
+stargazers_count: 32508
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: v2.13.5
+  published_at: '2026-03-25'
+commit_history:
+  2025-05: 190
+  2025-06: 141
+  2025-07: 118
+  2025-08: 145
+  2025-09: 199
+  2025-10: 197
+  2025-11: 109
+  2025-12: 163
+  2026-01: 152
+  2026-02: 79
+  2026-03: 54
+  2026-04: 6

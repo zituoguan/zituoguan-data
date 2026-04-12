@@ -1,6 +1,6 @@
 name: Magento Open Source
 website_url: https://business.adobe.com/products/magento/magento-commerce.html
-description: 领先的开放式全渠道创新提供商。
+description: 领先的开放式全渠道创新解决方案提供商。
 licenses:
   - OSL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 电子商务
 source_code_url: https://github.com/magento/magento2
-stargazers_count: 11938
-updated_at: '2025-10-06'
+stargazers_count: 12072
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: 2.4.9-beta1
+  published_at: '2026-03-10'
+commit_history:
+  2025-05: 422
+  2025-06: 594
+  2025-07: 748
+  2025-08: 673
+  2025-09: 682
+  2025-10: 660
+  2025-11: 908
+  2025-12: 806
+  2026-01: 609
+  2026-02: 316
+  2026-03: 286
+  2026-04: 7

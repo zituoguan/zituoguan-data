@@ -1,6 +1,6 @@
 name: Mobilizon
 website_url: https://mobilizon.org
-description: 一个联合工具，可帮助您查找、创建和组织活动和群组。
+description: 联邦化工具，帮助你发现、创建和组织活动与群组。
 licenses:
   - AGPL-3.0
 platforms:

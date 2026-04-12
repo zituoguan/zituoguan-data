@@ -1,6 +1,6 @@
 name: QuickShare
 website_url: https://ihexxa.github.io/quickshare.site/
-description: 在不同设备之间进行快速简单的文件共享。
+description: 在不同设备间实现快速简便的文件共享。
 licenses:
   - LGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/ihexxa/quickshare
-stargazers_count: 588
-updated_at: '2025-08-27'
+stargazers_count: 629
+updated_at: '2026-03-26'
 archived: false
+current_release:
+  tag: v0.11.4
+  published_at: '2026-01-30'
+commit_history:
+  2025-05: 5
+  2025-06: 1
+  2025-07: 3
+  2025-08: 1
+  2025-09: 0
+  2025-10: 1
+  2025-11: 0
+  2025-12: 0
+  2026-01: 12
+  2026-02: 5
+  2026-03: 5
+  2026-04: 0

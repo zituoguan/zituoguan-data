@@ -1,6 +1,6 @@
 name: RELATE
 website_url: https://documen.tician.de/relate/
-description: RELATE是一个基于Web的课程软件包，包括灵活的规则、统计、多课程支持和课程日历等功能。
+description: '课程管理套件，包含灵活规则、统计、多课程支持、课程日历等功能。'
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,19 @@ platforms:
 tags:
   - 学习和课程
 source_code_url: https://github.com/inducer/relate
-stargazers_count: 418
-updated_at: '2025-10-01'
+stargazers_count: 422
+updated_at: '2026-04-01'
 archived: false
+commit_history:
+  2025-05: 10
+  2025-06: 5
+  2025-07: 18
+  2025-08: 6
+  2025-09: 19
+  2025-10: 57
+  2025-11: 10
+  2025-12: 13
+  2026-01: 15
+  2026-02: 27
+  2026-03: 32
+  2026-04: 3

@@ -1,7 +1,7 @@
-name: Readeck
-website_url: https://readeck.org/en/
-source_code_url: https://codeberg.org/readeck/readeck
-description: Readeck 是一个简单的 Web 应用程序，允许您保存喜欢并希望永久保留的网页可读内容。将其视为书签管理器和稍后阅读工具。
+name: "Readeck"
+website_url: "https://readeck.org/en/"
+source_code_url: "https://codeberg.org/readeck/readeck"
+description: "保存你喜欢并想永久保留的网页可读内容。可视为书签管理器和稍后阅读工具。"
 licenses:
   - AGPL-3.0
 platforms:

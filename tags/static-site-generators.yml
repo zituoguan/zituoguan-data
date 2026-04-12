@@ -1,8 +1,8 @@
 name: 静态网站生成器
 description: '[静态网站生成器](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators)根据原始数据、纯文本文件和一组模板生成完整的静态 HTML 网站。'
 redirect:
-  - title: staticsitegenerators.net
-    url: https://staticsitegenerators.net
+  - title: staticsitegenerators.bevry.me
+    url: https://staticsitegenerators.bevry.me
   - title: staticgen.com
     url: https://www.staticgen.com
 related_tags:

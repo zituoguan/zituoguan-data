@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-感谢您抽出时间建议将新的软件添加到awesome-selfhosted！ 
+<!-- 请勿删除下方文本。请确保相关选项已勾选 [x] -->
 
-请填写以下信息（除非另有说明，否则所有字段都是必填的）：
+感谢您抽出时间为 awesome-selfhosted 提出新软件建议！
 
 
 ```yaml
@@ -31,7 +31,7 @@ platforms:
   - Python
   - PHP
   - Nodejs
-  - Deb
+  - deb
   - Docker
 # 标签列表（类别），请参见 https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags 获取完整的标签列表
 tags:
@@ -48,11 +48,10 @@ related_software_url: "https://my.awesome.softwar.e/apps"
 
 ```
 
-为确保您的问题迅速处理，请检查以下事项（在方框中打勾 `[x]`）：
-
-- [ ] 每次提出问题，请提交一个软件项目。这有助于审查并加快纳入速度。
-- [ ] 你已在存储库中搜索了任何相关的[问题](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)或[PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls)，包括已关闭的问题。
-- [ ] 你要添加的任何软件在[awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)、[staticgen.com](https://www.staticgen.com/)、[staticsitegenerators.net](https://staticsitegenerators.net/)或[dbdb.io](https://dbdb.io/browse)中尚未列出。
-- [ ] 你要添加到列表的任何软件项目都在积极维护。
-- [ ] 你要添加的任何软件项目在4个月前已发布。
-- [ ] 你要添加的任何软件项目都有可行的安装说明。
+为确保您的问题能够被迅速处理，请检查以下内容（请勾选 `[x]`）：
+- [ ] 每个 issue 只提交一个项目，以便于审核并加快收录速度。
+- [ ] 您已在仓库中搜索过相关的 [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) 或 [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls)，包括已关闭的内容。
+- [ ] 您要添加的软件未在 [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)、[staticgen.com](https://www.staticgen.com/)、[staticsitegenerators.bevry.me](https://staticsitegenerators.bevry.me/)、[dbdb.io](https://dbdb.io/browse) 等列表中出现。
+- [ ] 您要添加的软件项目目前处于活跃维护状态。
+- [ ] 您要添加的软件项目首次发布距今已超过 4 个月。
+- [ ] 您要添加的软件项目有可用的安装说明。

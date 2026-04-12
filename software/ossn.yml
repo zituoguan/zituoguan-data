@@ -1,6 +1,6 @@
 name: OSSN
 website_url: https://www.opensource-socialnetwork.org/
-description: 一款社交网络软件，可用于搭建社交网站，帮助用户与拥有相似职业或个人兴趣的人建立社交关系。
+description: 社交网络软件，允许您创建社交网络网站，帮助成员与拥有相似职业或个人兴趣的人建立社交关系。
 licenses:
   - CAL-1.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/opensource-socialnetwork/opensource-socialnetwork
-stargazers_count: 1157
-updated_at: '2025-10-08'
+stargazers_count: 1199
+updated_at: '2026-03-18'
 archived: false
+current_release:
+  tag: '9.4'
+  published_at: '2026-03-18'
+commit_history:
+  2025-05: 4
+  2025-06: 0
+  2025-07: 3
+  2025-08: 36
+  2025-09: 51
+  2025-10: 63
+  2025-11: 5
+  2025-12: 23
+  2026-01: 3
+  2026-02: 26
+  2026-03: 46
+  2026-04: 0

@@ -1,6 +1,6 @@
 name: reader
 website_url: https://github.com/lemon24/reader
-description: 一个基于Python的Feed阅读器Web应用和库（您可以使用它构建自己的阅读器），只依赖标准库和纯Python。
+description: 仅依赖标准库和纯 Python 的订阅阅读器 Web 应用与库（可用于自定义构建）。
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 订阅阅读器
 source_code_url: https://github.com/lemon24/reader
-stargazers_count: 500
-updated_at: '2025-10-06'
+stargazers_count: 529
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: '3.22'
+  published_at: '2026-04-01'
+commit_history:
+  2025-05: 6
+  2025-06: 1
+  2025-07: 1
+  2025-08: 0
+  2025-09: 25
+  2025-10: 9
+  2025-11: 88
+  2025-12: 13
+  2026-01: 24
+  2026-02: 18
+  2026-03: 80
+  2026-04: 6

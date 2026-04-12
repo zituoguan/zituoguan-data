@@ -1,6 +1,6 @@
 name: PrivateBin
 website_url: https://privatebin.info/
-description: 一个极简的粘贴板/讨论板，服务器对托管数据零感知。
+description: 极简的 Pastebin/讨论板，服务器对托管数据零知情。
 licenses:
   - Zlib
 platforms:
@@ -9,6 +9,22 @@ tags:
   - 粘贴板
 source_code_url: https://github.com/PrivateBin/PrivateBin
 demo_url: https://privatebin.net/
-stargazers_count: 7626
-updated_at: '2025-10-08'
+stargazers_count: 8171
+updated_at: '2026-03-29'
 archived: false
+current_release:
+  tag: 1.7.9
+  published_at: '2025-11-13'
+commit_history:
+  2025-05: 7
+  2025-06: 119
+  2025-07: 246
+  2025-08: 31
+  2025-09: 47
+  2025-10: 116
+  2025-11: 74
+  2025-12: 22
+  2026-01: 50
+  2026-02: 59
+  2026-03: 19
+  2026-04: 0

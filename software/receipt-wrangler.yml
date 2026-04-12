@@ -1,7 +1,7 @@
 name: Receipt Wrangler
 website_url: https://receiptwrangler.io
-source_code_url: https://github.com/Receipt-Wrangler/receipt-wrangler-api
-description: 由 AI 驱动的易于使用的收据管理器。允许用户轻松快速地创建收据、分类等功能。
+source_code_url: https://github.com/Receipt-Wrangler/receipt-wrangler
+description: 易用的发票管理器，AI 驱动。用户可轻松快速创建发票、分类等。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,22 @@ tags:
   - 资金、预算和管理
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
-stargazers_count: 161
-updated_at: '2025-10-02'
+stargazers_count: 209
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: v6.7.0
+  published_at: '2026-01-05'
+commit_history:
+  2025-05: 14
+  2025-06: 1
+  2025-07: 3
+  2025-08: 20
+  2025-09: 84
+  2025-10: 11
+  2025-11: 0
+  2025-12: 2
+  2026-01: 50
+  2026-02: 0
+  2026-03: 59
+  2026-04: 18

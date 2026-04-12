@@ -1,5 +1,5 @@
 name: Answer
-website_url: https://answer.dev/
+website_url: https://answer.apache.org
 description: 基于知识的社区软件。您可以用它快速搭建产品技术支持、客户支持、用户交流等问答社区。
 licenses:
   - Apache-2.0
@@ -8,7 +8,23 @@ platforms:
   - Go
 tags:
   - 通信 - 社交网络和论坛
-source_code_url: https://github.com/answerdev/answer
-stargazers_count: 14993
-updated_at: '2025-09-02'
+source_code_url: https://github.com/apache/answer
+stargazers_count: 15444
+updated_at: '2026-02-03'
 archived: false
+current_release:
+  tag: v2.0.0
+  published_at: '2026-02-03'
+commit_history:
+  2025-05: 48
+  2025-06: 29
+  2025-07: 8
+  2025-08: 19
+  2025-09: 15
+  2025-10: 27
+  2025-11: 10
+  2025-12: 73
+  2026-01: 59
+  2026-02: 1
+  2026-03: 0
+  2026-04: 0

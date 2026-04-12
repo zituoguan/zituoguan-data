@@ -1,11 +1,11 @@
 name: Psono
 website_url: https://psono.com/
-description: 适用于公司的密码管理器。
+description: 面向企业的密码管理器。
 licenses:
   - Apache-2.0
 platforms:
   - Python
 tags:
   - 密码管理器
-source_code_url: https://gitlab.com/psono/psono-fileserver
+source_code_url: https://gitlab.com/esaqa/psono/psono-fileserver
 demo_url: https://www.psono.pw

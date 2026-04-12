@@ -1,7 +1,7 @@
-name: "lesma"
-website_url: "https://lesma.eu"
-source_code_url: "https://gitlab.com/ogarcia/lesma"
-description: "一个简单的粘贴应用，兼容浏览器和命令行。"
+name: lesma
+website_url: https://lesma.eu
+source_code_url: https://gitlab.com/ogarcia/lesma
+description: 简洁的粘贴应用，兼容浏览器和命令行使用。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,4 +9,10 @@ platforms:
   - Docker
 tags:
   - 粘贴板
-demo_url: "https://lesma.eu"
+demo_url: https://lesma.eu
+stargazers_count: 7
+updated_at: '2026-01-21'
+archived: false
+current_release:
+  tag: 1.3.2
+  published_at: '2026-01-21'

@@ -1,6 +1,6 @@
 name: OpenBudgeteer
 website_url: https://github.com/TheAxelander/OpenBudgeteer
-description: 基于桶式预算原则的预算应用程序。
+description: 基于桶式预算原则的预算管理应用。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 资金、预算和管理
 source_code_url: https://github.com/TheAxelander/OpenBudgeteer
-stargazers_count: 886
-updated_at: '2025-07-28'
+stargazers_count: 946
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: '1.11'
+  published_at: '2025-12-17'
+commit_history:
+  2025-05: 2
+  2025-06: 2
+  2025-07: 3
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 6
+  2025-12: 9
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

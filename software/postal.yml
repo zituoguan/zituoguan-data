@@ -1,6 +1,6 @@
 name: Postal
 website_url: https://docs.postalserver.io/
-description: 功能齐全的邮件服务器，可供网站和 Web 服务器使用。
+description: 面向网站和 Web 服务器的完整且功能齐全的邮件服务器。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/postalserver/postal
-stargazers_count: 15953
-updated_at: '2025-10-03'
+stargazers_count: 16429
+updated_at: '2026-02-01'
 archived: false
+current_release:
+  tag: 3.3.5
+  published_at: '2026-02-01'
+commit_history:
+  2025-05: 1
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 10
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 2
+  2026-03: 0
+  2026-04: 0

@@ -1,6 +1,6 @@
 name: Mere Medical
 website_url: https://meremedical.co/
-description: 集中管理来自 Epic MyChart、Cerner 和 OnPatient 患者门户的所有医疗记录。注重隐私，支持自托管，离线优先。
+description: 在一处统一管理来自 Epic MyChart、Cerner 和 OnPatient 患者门户的所有医疗记录。注重隐私、支持自托管且优先支持离线使用。
 licenses:
   - GPL-3.0
 platforms:
@@ -11,6 +11,22 @@ tags:
 source_code_url: https://github.com/cfu288/mere-medical
 demo_url: https://demo.meremedical.co
 depends_3rdparty: true
-stargazers_count: 129
-updated_at: '2025-09-07'
+stargazers_count: 263
+updated_at: '2026-02-17'
 archived: false
+current_release:
+  tag: 2026.01.22
+  published_at: '2026-01-22'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 12
+  2025-10: 10
+  2025-11: 9
+  2025-12: 5
+  2026-01: 30
+  2026-02: 4
+  2026-03: 0
+  2026-04: 0

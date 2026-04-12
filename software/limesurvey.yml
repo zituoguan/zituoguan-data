@@ -1,6 +1,6 @@
 name: LimeSurvey
 website_url: https://www.limesurvey.org
-description: 功能丰富的在线问卷调查软件。支持广泛的调查逻辑。
+description: 功能丰富的 Web 问卷调查软件，支持复杂的调查逻辑。
 licenses:
   - GPL-2.0
 platforms:
@@ -9,6 +9,19 @@ tags:
   - 投票和事件
 source_code_url: https://github.com/LimeSurvey/LimeSurvey
 demo_url: https://demo.limesurvey.org
-stargazers_count: 3367
-updated_at: '2025-10-08'
+stargazers_count: 3559
+updated_at: '2026-04-02'
 archived: false
+commit_history:
+  2025-05: 82
+  2025-06: 72
+  2025-07: 68
+  2025-08: 54
+  2025-09: 51
+  2025-10: 58
+  2025-11: 65
+  2025-12: 42
+  2026-01: 32
+  2026-02: 43
+  2026-03: 83
+  2026-04: 12

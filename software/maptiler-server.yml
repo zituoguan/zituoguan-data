@@ -1,6 +1,6 @@
 name: MapTiler Server
 website_url: https://www.maptiler.com/server/
-description: 托管 OpenStreetMap 矢量瓦片、卫星图像、自有地理数据以及来自 PostGIS 数据库的数据。
+description: 托管 OpenStreetMap 矢量瓦片、卫星影像、自有地理数据及 PostGIS 数据库中的数据。
 licenses:
   - ⊘ Proprietary
 platforms:

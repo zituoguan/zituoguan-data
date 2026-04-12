@@ -1,6 +1,6 @@
 name: Mixpost
 website_url: https://mixpost.app/
-description: 社交媒体管理软件，可在一个地方轻松创建、安排、发布和管理社交媒体内容（Hootsuite、Buffer 和其他社交媒体工具的替代品）。
+description: 社交媒体管理软件，可在一处轻松创建、定时、发布和管理社交媒体内容（Hootsuite 和 Buffer 的替代品）。
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/inovector/MixpostApp
-stargazers_count: 108
+stargazers_count: 123
 updated_at: '2025-05-28'
 archived: false
+current_release:
+  tag: v2.1.0
+  published_at: '2025-05-28'
+commit_history:
+  2025-05: 3
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

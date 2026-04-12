@@ -1,0 +1,30 @@
+name: Directory Lister
+website_url: https://www.directorylister.com/
+description: 简单的基于PHP的目录列表器，列出一个目录及其所有子目录，并允许您在其中导航。
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - 文件传输 - 基于 Web 的文件管理器
+source_code_url: https://github.com/DirectoryLister/DirectoryLister
+stargazers_count: 2505
+updated_at: '2026-04-02'
+archived: false
+current_release:
+  tag: 5.4.1
+  published_at: '2026-02-07'
+commit_history:
+  2025-05: 22
+  2025-06: 6
+  2025-07: 4
+  2025-08: 9
+  2025-09: 0
+  2025-10: 16
+  2025-11: 10
+  2025-12: 14
+  2026-01: 0
+  2026-02: 11
+  2026-03: 0
+  2026-04: 9

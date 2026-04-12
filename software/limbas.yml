@@ -1,6 +1,6 @@
 name: Limbas
 website_url: https://www.limbas.com/en/
-description: 用于创建数据库驱动的业务应用程序的数据库框架。作为一个图形化数据库前端，它能够高效处理数据库存，并灵活开发便捷的数据库应用程序。
+description: 用于创建数据库驱动业务应用的数据库框架。作为图形化数据库前端，支持高效处理数据存量并灵活开发便捷的数据库应用。
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/limbas/limbas
-stargazers_count: 56
-updated_at: '2025-07-02'
+stargazers_count: 58
+updated_at: '2025-11-25'
 archived: false
+current_release:
+  tag: v7.0.25
+  published_at: '2025-11-25'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 1
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

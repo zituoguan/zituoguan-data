@@ -1,7 +1,7 @@
 name: "rs-short"
 website_url: "https://git.42l.fr/42l/rs-short"
 source_code_url: "https://git.42l.fr/42l/rs-short"
-description: "一个用 Rust 编写的轻量级链接缩短器，具有缓存、防垃圾机器人保护和钓鱼检测等功能。"
+description: "用 Rust 编写的轻量级短链接服务，具备缓存、防垃圾机器人和钓鱼检测等功能。"
 licenses:
   - MPL-2.0
 platforms:

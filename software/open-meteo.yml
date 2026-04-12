@@ -1,6 +1,6 @@
 name: Open-Meteo
 website_url: https://open-meteo.com/
-description: 提供来自各大国家气象服务机构的开放数据天气预报、历史和气候数据的 API。
+description: 提供来自各主要国家气象服务机构的开放数据预报、历史数据和气候数据的天气 API。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - 杂项
 source_code_url: https://github.com/open-meteo/open-meteo
 demo_url: https://open-meteo.com/en/docs
-stargazers_count: 3723
-updated_at: '2025-10-03'
+stargazers_count: 5083
+updated_at: '2026-03-31'
 archived: false
+current_release:
+  tag: 1.4.0
+  published_at: '2024-12-31'
+commit_history:
+  2025-05: 26
+  2025-06: 16
+  2025-07: 43
+  2025-08: 54
+  2025-09: 24
+  2025-10: 20
+  2025-11: 29
+  2025-12: 21
+  2026-01: 21
+  2026-02: 20
+  2026-03: 34
+  2026-04: 0

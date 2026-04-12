@@ -1,7 +1,7 @@
 name: wanderer
-website_url: https://github.com/Flomp/wanderer
-source_code_url: https://github.com/Flomp/wanderer
-description: 路径数据库，您可以上传录制的轨迹或创建新轨迹，并添加各种元数据以构建易于搜索的目录。
+website_url: https://github.com/open-wanderer/wanderer
+source_code_url: https://github.com/open-wanderer/wanderer
+description: 轨迹数据库，可上传记录的轨迹或新建轨迹，并添加多种元数据，构建易于检索的目录。
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,6 +11,22 @@ platforms:
 tags:
   - 地图和全球定位系统（GPS）
 demo_url: https://demo.wanderer.to
-stargazers_count: 2975
-updated_at: '2025-10-05'
+stargazers_count: 3471
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: v0.18.5
+  published_at: '2026-02-20'
+commit_history:
+  2025-05: 8
+  2025-06: 129
+  2025-07: 60
+  2025-08: 58
+  2025-09: 38
+  2025-10: 10
+  2025-11: 0
+  2025-12: 0
+  2026-01: 23
+  2026-02: 67
+  2026-03: 29
+  2026-04: 1

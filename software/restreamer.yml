@@ -1,6 +1,6 @@
 name: Restreamer
 website_url: https://datarhei.github.io/restreamer/
-description: Restreamer允许您在网站上进行H.264实时视频流，无需使用流媒体提供商。
+description: 无需流媒体服务商，即可在你的网站上访问 H.264 实时视频流。
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 流媒体 - 视频流媒体
 source_code_url: https://github.com/datarhei/restreamer
-stargazers_count: 4649
-updated_at: '2025-03-03'
+stargazers_count: 4973
+updated_at: '2025-12-29'
 archived: false
+current_release:
+  tag: v2.12.0
+  published_at: '2024-09-13'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 1
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

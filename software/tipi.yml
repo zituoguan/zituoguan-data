@@ -1,13 +1,29 @@
 name: Tipi
 website_url: https://runtipi.io/
-description: Homeserver manager. One command setup, one click installs for your favorites self-hosted apps.
+description: 家庭服务器管理器。一条命令完成部署，一键安装你喜爱的自托管应用。
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
   - 自托管解决方案
-source_code_url: https://github.com/meienberger/runtipi
-stargazers_count: 8822
-updated_at: '2025-10-07'
+source_code_url: https://github.com/runtipi/runtipi
+stargazers_count: 9331
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: v4.8.2
+  published_at: '2026-04-01'
+commit_history:
+  2025-05: 99
+  2025-06: 13
+  2025-07: 10
+  2025-08: 44
+  2025-09: 71
+  2025-10: 64
+  2025-11: 27
+  2025-12: 8
+  2026-01: 28
+  2026-02: 0
+  2026-03: 42
+  2026-04: 8

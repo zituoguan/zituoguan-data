@@ -1,6 +1,6 @@
 name: RosarioSIS
 website_url: https://www.rosariosis.org/
-description: RosarioSIS，用于学校管理的免费学生信息系统。
+description: 用于学校管理的学生信息系统。包含学生人口统计、成绩、排课、考勤、学生账单、纪律与餐饮等模块。
 licenses:
   - GPL-2.0
 platforms:
@@ -9,3 +9,9 @@ tags:
   - 学习和课程
 source_code_url: https://gitlab.com/francoisjacquet/rosariosis/
 demo_url: https://www.rosariosis.org/demo/
+stargazers_count: 65
+updated_at: '2026-03-29'
+archived: false
+current_release:
+  tag: v12.7.5
+  published_at: '2026-03-14'

@@ -1,6 +1,6 @@
 name: Matchering
 website_url: https://github.com/sergree/matchering
-description: 自动化母带处理（LANDR、eMastered 和 MajorDecibel 的替代方案）。
+description: 自动化音乐母带处理工具（LANDR、eMastered 和 MajorDecibel 的替代品）。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/sergree/matchering
-stargazers_count: 2259
-updated_at: '2025-09-29'
+stargazers_count: 2467
+updated_at: '2026-03-15'
 archived: false
+current_release:
+  tag: 2.0.6
+  published_at: '2022-10-19'
+commit_history:
+  2025-05: 1
+  2025-06: 2
+  2025-07: 2
+  2025-08: 2
+  2025-09: 2
+  2025-10: 1
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 1
+  2026-04: 0

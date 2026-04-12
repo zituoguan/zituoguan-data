@@ -1,6 +1,6 @@
 name: yt-dlp Web UI
-website_url: https://github.com/marcopeocchi/yt-dlp-web-ui
-description: 用于yt-dlp的Web GUI。
+website_url: https://github.com/marcopiovanello/yt-dlp-web-ui
+description: yt-dlp 的网页图形界面。
 licenses:
   - MPL-2.0
 platforms:
@@ -9,7 +9,23 @@ platforms:
   - Nodejs
 tags:
   - 媒体管理
-source_code_url: https://github.com/marcopeocchi/yt-dlp-web-ui
-stargazers_count: 2032
-updated_at: '2025-09-01'
+source_code_url: https://github.com/marcopiovanello/yt-dlp-web-ui
+stargazers_count: 2402
+updated_at: '2026-01-21'
 archived: false
+current_release:
+  tag: v3.2.6
+  published_at: '2025-03-15'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 1
+  2025-08: 6
+  2025-09: 1
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 1
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

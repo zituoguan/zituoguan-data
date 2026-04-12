@@ -1,6 +1,6 @@
 name: TeslaMate
-website_url: https://github.com/adriankumpf/teslamate
-description: 一款适用于特斯拉车辆的强大数据记录器。
+website_url: https://github.com/teslamate-org/teslamate
+description: 一款强大的特斯拉车辆数据记录器。
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,23 @@ platforms:
   - Docker
 tags:
   - 杂项
-source_code_url: https://github.com/adriankumpf/teslamate
-stargazers_count: 7191
-updated_at: '2025-10-04'
+source_code_url: https://github.com/teslamate-org/teslamate
+stargazers_count: 7840
+updated_at: '2026-03-22'
 archived: false
+current_release:
+  tag: v3.0.0
+  published_at: '2026-02-28'
+commit_history:
+  2025-05: 26
+  2025-06: 14
+  2025-07: 37
+  2025-08: 18
+  2025-09: 8
+  2025-10: 31
+  2025-11: 18
+  2025-12: 17
+  2026-01: 17
+  2026-02: 37
+  2026-03: 36
+  2026-04: 0

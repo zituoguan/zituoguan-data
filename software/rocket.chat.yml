@@ -1,6 +1,6 @@
 name: Rocket.Chat
 website_url: https://rocket.chat/
-description: 与 Gitter.im 或 Slack 类似的团队聊天解决方案。
+description: 以数据保护为首要的通信平台（Gitter.im 和 Slack 的替代方案）。
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,22 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/RocketChat/Rocket.Chat
-stargazers_count: 43568
-updated_at: '2025-10-08'
+stargazers_count: 45075
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: 8.3.0-rc.3
+  published_at: '2026-03-30'
+commit_history:
+  2025-05: 151
+  2025-06: 128
+  2025-07: 166
+  2025-08: 124
+  2025-09: 130
+  2025-10: 168
+  2025-11: 137
+  2025-12: 303
+  2026-01: 143
+  2026-02: 203
+  2026-03: 163
+  2026-04: 6

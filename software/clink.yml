@@ -1,6 +1,6 @@
 name: "clink"
-website_url: "https://git.swurl.xyz/swirl/clink.git/about/"
-source_code_url: "https://git.swurl.xyz/swirl/clink.git"
+website_url: "https://git.crueter.xyz/crueter/clink"
+source_code_url: "https://git.crueter.xyz/crueter/clink"
 description: "一个超轻量的链接缩短服务，采用纯 C 语言编写，专注于小型可执行文件、可移植性和易配置性。"
 licenses:
   - AGPL-3.0
@@ -8,4 +8,4 @@ platforms:
   - C
 tags:
   - URL 缩短服务
-demo_url: "https://short.swurl.xyz"
+demo_url: "https://short.crueter.xyz"

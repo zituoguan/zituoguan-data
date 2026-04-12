@@ -1,6 +1,6 @@
 name: Mathesar
 website_url: https://mathesar.org/
-description: 直观的用户界面，用于协同管理数据，适用于各种技术水平的用户。基于 Postgres 构建 – 连接现有数据库或设置新数据库。
+description: 直观的协作数据管理界面，适合各技术水平的用户使用。基于 Postgres 构建，可连接现有数据库或新建数据库。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,23 @@ platforms:
   - Python
 tags:
   - 数据库管理
-source_code_url: https://github.com/centerofci/mathesar
-stargazers_count: 4503
-updated_at: '2025-10-07'
+source_code_url: https://github.com/mathesar-foundation/mathesar
+stargazers_count: 4909
+updated_at: '2026-03-16'
 archived: false
+current_release:
+  tag: 0.9.0
+  published_at: '2026-02-10'
+commit_history:
+  2025-05: 325
+  2025-06: 311
+  2025-07: 414
+  2025-08: 365
+  2025-09: 334
+  2025-10: 236
+  2025-11: 325
+  2025-12: 296
+  2026-01: 45
+  2026-02: 8
+  2026-03: 2
+  2026-04: 0

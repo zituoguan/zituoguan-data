@@ -10,6 +10,22 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/filegator/filegator
 demo_url: https://demo.filegator.io
-stargazers_count: 2775
-updated_at: '2025-07-01'
+stargazers_count: 2936
+updated_at: '2026-03-03'
 archived: false
+current_release:
+  tag: v7.13.4
+  published_at: '2026-03-03'
+commit_history:
+  2025-05: 4
+  2025-06: 0
+  2025-07: 3
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 8
+  2026-02: 0
+  2026-03: 2
+  2026-04: 0

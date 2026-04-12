@@ -8,7 +8,4 @@ platforms:
   - Go
 tags:
   - 通信 - 社交网络和论坛
-source_code_url: https://github.com/superseriousbusiness/gotosocial
-stargazers_count: 4167
-updated_at: '2025-10-08'
-archived: false
+source_code_url: https://codeberg.org/superseriousbusiness/gotosocial

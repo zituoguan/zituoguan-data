@@ -8,3 +8,9 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://gitlab.com/famedly/conduit
+stargazers_count: 938
+updated_at: '2026-03-05'
+archived: false
+current_release:
+  tag: v0.10.12
+  published_at: '2026-02-12'

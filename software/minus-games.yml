@@ -8,6 +8,22 @@ platforms:
   - Rust
 tags:
   - 游戏 - 管理工具和控制面板
-stargazers_count: 29
-updated_at: '2025-10-03'
+stargazers_count: 42
+updated_at: '2026-03-13'
 archived: false
+current_release:
+  tag: v0.9.16
+  published_at: '2026-03-13'
+commit_history:
+  2025-05: 2
+  2025-06: 3
+  2025-07: 3
+  2025-08: 2
+  2025-09: 1
+  2025-10: 2
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 1
+  2026-03: 1
+  2026-04: 0

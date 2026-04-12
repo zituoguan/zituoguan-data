@@ -1,6 +1,6 @@
 name: Roundup Issue Tracker
 website_url: https://www.roundup-tracker.org/
-description: 一个易于使用和安装的问题跟踪系统，提供命令行、Web、REST、XML-RPC 和电子邮件接口。设计时考虑了灵活性 - 不仅仅是另一个缺陷跟踪器。
+description: 易用易装的问题跟踪系统，支持命令行、Web、REST、XML-RPC 和电子邮件接口。注重灵活性设计，不只是另一个缺陷跟踪器。
 licenses:
   - MIT
   - ZPL-2.0

@@ -1,6 +1,6 @@
 name: rustypaste
 website_url: https://github.com/orhun/rustypaste
-description: 一个极简的文件上传/粘贴服务。
+description: 极简的文件上传/粘贴板服务。
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - 粘贴板
 source_code_url: https://github.com/orhun/rustypaste
-stargazers_count: 980
-updated_at: '2025-10-06'
+stargazers_count: 1147
+updated_at: '2026-03-30'
 archived: false
+current_release:
+  tag: v0.16.1
+  published_at: '2025-03-21'
+commit_history:
+  2025-05: 6
+  2025-06: 2
+  2025-07: 6
+  2025-08: 6
+  2025-09: 18
+  2025-10: 7
+  2025-11: 7
+  2025-12: 3
+  2026-01: 6
+  2026-02: 9
+  2026-03: 6
+  2026-04: 0

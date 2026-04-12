@@ -1,6 +1,6 @@
 name: OpenMediaVault
 website_url: https://www.openmediavault.org/
-description: 基于 Debian Linux 的网络附加存储（NAS）解决方案。它包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等多种服务。
+description: 基于 Debian Linux 的网络附加存储 (NAS) 解决方案。包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等众多服务。
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,19 @@ platforms:
 tags:
   - 自托管解决方案
 source_code_url: https://github.com/openmediavault/openmediavault
-stargazers_count: 6048
-updated_at: '2025-10-07'
+stargazers_count: 6610
+updated_at: '2026-04-02'
 archived: false
+commit_history:
+  2025-05: 33
+  2025-06: 38
+  2025-07: 55
+  2025-08: 35
+  2025-09: 23
+  2025-10: 56
+  2025-11: 108
+  2025-12: 61
+  2026-01: 97
+  2026-02: 45
+  2026-03: 53
+  2026-04: 8

@@ -1,6 +1,6 @@
 name: MTA:SA
 website_url: https://multitheftauto.com/
-description: 为 Rockstar North 的《侠盗猎车手》系列游戏添加网络游戏功能，该功能在原版游戏中并不存在。
+description: 为 Rockstar North 的《侠盗猎车手》系列游戏添加网络联机功能，这些游戏原本并不具备此功能。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - 游戏
 source_code_url: https://github.com/multitheftauto/mtasa-blue
 depends_3rdparty: true
-stargazers_count: 1571
-updated_at: '2025-10-08'
+stargazers_count: 1718
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: v1.6.0
+  published_at: '2023-06-16'
+commit_history:
+  2025-05: 77
+  2025-06: 15
+  2025-07: 92
+  2025-08: 172
+  2025-09: 144
+  2025-10: 147
+  2025-11: 140
+  2025-12: 50
+  2026-01: 133
+  2026-02: 200
+  2026-03: 81
+  2026-04: 16

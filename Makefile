@@ -8,7 +8,7 @@ install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \
-	pip3 install --force git+https://github.com/zituoguan/hecat.git
+	pip3 install --force git+https://github.com/zituoguan/hecat.git@1.6.0
 
 .PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
@@ -29,7 +29,7 @@ awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml
 
-.PHONY: awesome_lint # 检查数据是否符合awesome-selfhosted的指南 (严格模式)
+.PHONY: awesome_lint_strict # 检查数据是否符合awesome-selfhosted的指南 (严格模式)
 awesome_lint_strict:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint-strict.yml

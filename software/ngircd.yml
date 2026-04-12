@@ -1,6 +1,6 @@
 name: ngircd
 website_url: https://ngircd.barton.de/
-description: 便携且轻巧的互联网中继聊天服务器，适用于小型或专用网络。
+description: 适用于小型或私有网络的便携轻量级互联网中继聊天 (IRC) 服务器。
 licenses:
   - GPL-2.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - 通信 - IRC
 source_code_url: https://github.com/ngircd/ngircd
-stargazers_count: 505
-updated_at: '2025-09-12'
+stargazers_count: 550
+updated_at: '2025-12-19'
 archived: false
+current_release:
+  tag: rel-27
+  published_at: '2024-04-26'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 1
+  2025-10: 0
+  2025-11: 0
+  2025-12: 2
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

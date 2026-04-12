@@ -1,6 +1,6 @@
 name: Ombi
 website_url: https://ombi.io/
-description: 内容请求系统，适用于 Plex/Emby，可连接 SickRage、CouchPotato、Sonarr，功能不断增加。
+description: 适用于 Plex/Emby 的内容请求系统，可连接 SickRage、CouchPotato、Sonarr，功能不断增长。
 licenses:
   - GPL-2.0
 platforms:
@@ -10,6 +10,22 @@ tags:
   - 媒体管理
 source_code_url: https://github.com/Ombi-app/Ombi
 demo_url: https://app.ombi.io/
-stargazers_count: 3959
-updated_at: '2025-10-06'
+stargazers_count: 4068
+updated_at: '2026-03-27'
 archived: false
+current_release:
+  tag: v4.57.4
+  published_at: '2026-03-27'
+commit_history:
+  2025-05: 19
+  2025-06: 0
+  2025-07: 12
+  2025-08: 38
+  2025-09: 36
+  2025-10: 42
+  2025-11: 6
+  2025-12: 1
+  2026-01: 38
+  2026-02: 78
+  2026-03: 37
+  2026-04: 0

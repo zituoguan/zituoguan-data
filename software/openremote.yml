@@ -1,6 +1,6 @@
 name: OpenRemote
 website_url: https://openremote.io
-description: 物联网资产管理、流程规则与条件规则、数据可视化、边缘网关。
+description: 物联网资产管理、流程规则和 WHEN-THEN 规则、数据可视化、边缘网关。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/openremote/openremote
 demo_url: https://demo.openremote.io/
-stargazers_count: 1531
-updated_at: '2025-10-07'
+stargazers_count: 1713
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: 1.20.2
+  published_at: '2026-03-24'
+commit_history:
+  2025-05: 19
+  2025-06: 27
+  2025-07: 27
+  2025-08: 21
+  2025-09: 38
+  2025-10: 27
+  2025-11: 21
+  2025-12: 32
+  2026-01: 46
+  2026-02: 54
+  2026-03: 39
+  2026-04: 2

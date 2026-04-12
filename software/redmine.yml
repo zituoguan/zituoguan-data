@@ -1,6 +1,6 @@
 name: Redmine
 website_url: https://www.redmine.org/
-description: Redmine是一款灵活的项目管理Web应用。
+description: 灵活的项目管理 Web 应用。
 licenses:
   - GPL-2.0
 platforms:

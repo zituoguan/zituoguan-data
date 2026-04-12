@@ -1,7 +1,7 @@
 name: Sosse
 website_url: https://sosse.readthedocs.io/en/stable/
 source_code_url: https://gitlab.com/biolds1/sosse
-description: Selenium基础的搜索引擎和网络爬虫，具有离线存档功能。
+description: 基于 Selenium 的搜索引擎与爬虫，支持离线归档。
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - 搜索引擎
   - 档案和数字保存（DP）
+stargazers_count: 2
+updated_at: '2026-03-24'
+archived: false

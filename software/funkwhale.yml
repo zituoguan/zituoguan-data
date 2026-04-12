@@ -5,7 +5,6 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Python
-  - Django
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://dev.funkwhale.audio/funkwhale
