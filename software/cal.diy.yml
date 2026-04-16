@@ -1,13 +1,13 @@
-name: Cal.com
-website_url: https://cal.com/
+name: Cal.diy
+website_url: https://cal.diy/
 description: 在线预约调度系统。
 licenses:
-  - AGPL-3.0
+  - MIT
 platforms:
   - Node.js
 tags:
   - 预订和日程安排
-source_code_url: https://github.com/calcom/cal.com
+source_code_url: https://github.com/calcom/cal.diy
 demo_url: https://app.cal.com/bailey
 stargazers_count: 40943
 updated_at: '2026-04-01'
