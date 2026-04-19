@@ -1,7 +1,6 @@
 name: FileRise
 website_url: https://github.com/error311/FileRise
-description: Web file manager with uploads, tagging, share links, gallery/table views, and an in-browser editor.
-description_zh: 基于 Web 的文件管理器，支持上传、标签、分享链接、图库/表格视图以及内置编辑器。
+description: 基于 Web 的文件管理器，支持上传、标签、分享链接、图库/表格视图以及内置编辑器。
 licenses:
   - MIT
 platforms:

@@ -1,6 +1,6 @@
 name: Immich
 website_url: https://immich.app/
-description: Photo and video backup solution directly from your mobile phone (alternative to Google Photos).
+description: 直接从您的手机备份照片和视频的解决方案（Google Photos 的替代品）。
 licenses:
   - AGPL-3.0
 platforms:
