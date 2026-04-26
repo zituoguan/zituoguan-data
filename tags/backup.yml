@@ -2,6 +2,4 @@ name: 备份
 description: '[备份](https://en.wikipedia.org/wiki/Backup)软件。'
 related_tags:
   - 档案和数字保存（DP）
-redirect:
-  - title: awesome-sysadmin/Backups
-    url: https://github.com/awesome-foss/awesome-sysadmin#backups
+  

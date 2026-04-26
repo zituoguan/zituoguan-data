@@ -1,7 +1,3 @@
 name: 监控和状态页面
 description: 用于[监控](https://en.wikipedia.org/wiki/Monitoring#Computing)系统、网络、应用程序和网站的软件。
-redirect:
-  - title: awesome-sysadmin/监控
-    url: https://github.com/awesome-foss/awesome-sysadmin#monitoring--status-pages
-  - title: awesome-sysadmin/指标和指标收集
-    url: https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection
+
