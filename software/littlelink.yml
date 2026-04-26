@@ -4,7 +4,7 @@ description: 简洁的个人主页链接工具，提供 100+ 品牌按钮（Link
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 个人仪表板
 source_code_url: https://github.com/sethcottle/littlelink

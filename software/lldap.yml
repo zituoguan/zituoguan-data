@@ -7,3 +7,4 @@ platforms:
   - Rust
 tags:
   - 身份管理 - LDAP
+source_code_url: https://github.com/nitnelave/lldap

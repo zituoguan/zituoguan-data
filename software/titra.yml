@@ -4,7 +4,7 @@ description: 为自由职业者和小团队提供的时间跟踪解决方案。
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
+  - JavaScript
   - Docker
 tags:
   - 软件开发 - 项目管理

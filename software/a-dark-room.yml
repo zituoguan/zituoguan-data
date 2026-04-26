@@ -4,7 +4,7 @@ description: 适用于浏览器的极简主义文本冒险游戏。
 licenses:
   - MPL-2.0
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 游戏
 source_code_url: https://github.com/doublespeakgames/adarkroom

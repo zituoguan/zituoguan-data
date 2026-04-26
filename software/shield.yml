@@ -7,3 +7,4 @@ platforms:
   - Go
 tags:
   - 备份
+source_code_url: https://github.com/starkandwayne/shield

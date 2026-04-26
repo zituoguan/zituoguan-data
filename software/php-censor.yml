@@ -7,3 +7,4 @@ platforms:
   - PHP
 tags:
   - 持续集成和持续部署
+source_code_url: https://github.com/php-censor/php-censor

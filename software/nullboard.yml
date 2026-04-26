@@ -4,7 +4,7 @@ description: 单页极简看板；紧凑、易读且使用快捷。
 licenses:
   - BSD-2-Clause
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/apankrat/nullboard

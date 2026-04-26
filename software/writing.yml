@@ -4,7 +4,7 @@ description: 轻量级无干扰文本编辑器，基于浏览器（支持Markdow
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 笔记和编辑器
 source_code_url: https://github.com/josephernest/writing

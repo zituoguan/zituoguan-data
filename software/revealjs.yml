@@ -4,7 +4,7 @@ description: 使用 HTML 轻松创建漂亮演示文稿的框架。
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 杂项
 source_code_url: https://github.com/hakimel/reveal.js

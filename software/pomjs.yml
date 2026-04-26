@@ -4,7 +4,7 @@ description: 随机密码生成器。
 licenses:
   - GPL-2.0
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 杂项
 source_code_url: https://github.com/joho1968/POMjs

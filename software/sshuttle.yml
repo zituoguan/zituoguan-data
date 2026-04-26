@@ -1,9 +1,10 @@
 name: sshuttle
 website_url: https://github.com/sshuttle/sshuttle
-description: “穷人版”VPN。
+description: 透明代理服务器,可作为穷人版的 VPN 使用。通过 ssh 进行转发。无需管理员权限。支持 Linux 和 MacOS。支持 DNS 隧道。
 licenses:
   - LGPL-2.1
 platforms:
   - Python
 tags:
   - 虚拟专用网络（VPN）
+source_code_url: https://github.com/sshuttle/sshuttle

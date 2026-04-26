@@ -7,3 +7,4 @@ platforms:
   - Go
 tags:
   - 虚拟专用网络（VPN）
+source_code_url: https://github.com/slackhq/nebula

@@ -4,7 +4,7 @@ description: 一款旨在提升浏览 Web 目录体验的主题，使用 mod_aut
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/oupala/apaxy

@@ -7,3 +7,4 @@ platforms:
   - Python
 tags:
   - DNS - 控制面板与域名管理
+source_code_url: https://github.com/github/octodns

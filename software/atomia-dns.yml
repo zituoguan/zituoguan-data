@@ -7,3 +7,4 @@ platforms:
   - Perl
 tags:
   - DNS - 控制面板与域名管理
+source_code_url: https://github.com/atomia/atomiadns/

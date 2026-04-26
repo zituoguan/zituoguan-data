@@ -4,7 +4,7 @@ description: 在浏览器中的 XMPP 聊天客户端。
 licenses:
   - MPL-2.0
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 通信 - XMPP - Web 客户端
 source_code_url: https://github.com/conversejs/converse.js

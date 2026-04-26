@@ -7,3 +7,4 @@ platforms:
   - Perl
 tags:
   - 部署自动化
+source_code_url: https://github.com/starkandwayne/genesis

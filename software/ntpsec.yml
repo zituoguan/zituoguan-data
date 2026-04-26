@@ -3,7 +3,6 @@ website_url: https://www.ntpsec.org/
 description: 基于 NTP Classic 衍生的安全、加固且经过改进的网络时间协议实现。
 licenses:
   - BSD-2-Clause
-  - Custom
 platforms:
   - C
 tags:

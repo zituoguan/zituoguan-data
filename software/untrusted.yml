@@ -1,6 +1,6 @@
 name: untrusted
 website_url: https://github.com/AlexNisnevich/untrusted
-description: 一款为极客和开发人员设计的独特益智游戏，通过阅读和编写Javascript来解决游戏中的谜题。
+description: 一款为极客和开发人员设计的独特益智游戏，通过阅读和编写JavaScript来解决游戏中的谜题。
 licenses:
   - CC-BY-NC-SA-3.0
 platforms:

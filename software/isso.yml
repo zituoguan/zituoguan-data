@@ -1,6 +1,6 @@
 name: Isso
 website_url: https://isso-comments.de/
-description: 用Python和Javascript编写的轻量级评论服务器。旨在成为Disqus的即插即用替代方案。
+description: 用Python和JavaScript编写的轻量级评论服务器。旨在成为Disqus的即插即用替代方案。
 licenses:
   - MIT
 platforms:

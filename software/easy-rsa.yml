@@ -7,3 +7,4 @@ platforms:
   - Shell
 tags:
   - 身份管理 - 工具和 Web 界面
+source_code_url: https://github.com/OpenVPN/easy-rsa

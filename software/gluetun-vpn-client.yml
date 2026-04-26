@@ -4,6 +4,7 @@ description: 多 VPN 提供商的 Docker VPN 客户端，支持 OpenVPN/WireGuar
 licenses:
   - MIT
 platforms:
-  - docker
+  - Docker
 tags:
   - 虚拟专用网络（VPN）
+source_code_url: https://github.com/qdm12/gluetun

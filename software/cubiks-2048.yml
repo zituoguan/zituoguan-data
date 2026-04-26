@@ -4,7 +4,7 @@ description: 2048游戏的3D克隆。
 licenses:
   - CC-BY-NC-4.0
 platforms:
-  - Javascript
+  - JavaScript
 tags:
   - 游戏
 source_code_url: https://github.com/Kshitij-Banerjee/Cubiks-2048
