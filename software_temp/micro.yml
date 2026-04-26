@@ -1,0 +1,10 @@
+name: Micro
+website_url: https://micro-editor.github.io/
+description: 现代直观的终端文本编辑器。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 编辑器
+source_code_url: https://github.com/zyedidia/micro

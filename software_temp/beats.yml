@@ -1,0 +1,10 @@
+name: Beats
+website_url: https://www.elastic.co/beats/
+description: 单一用途的数据收集器，将数据从数百或数千台机器发送到 Logstash 或 Elasticsearch。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/elastic/beats

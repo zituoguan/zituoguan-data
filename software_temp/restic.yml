@@ -1,0 +1,10 @@
+name: Restic
+website_url: https://restic.net/
+description: 简单、快速、可验证、安全且高效的远程备份工具。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Go
+tags:
+  - 备份
+source_code_url: https://github.com/restic/restic

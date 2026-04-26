@@ -1,0 +1,12 @@
+name: ZITADEL
+website_url: https://zitadel.com/
+description: 云原生身份与访问管理解决方案，提供安全认证、授权和身份管理平台。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - 身份管理 - 工具和 Web 界面
+source_code_url: https://github.com/zitadel/zitadel

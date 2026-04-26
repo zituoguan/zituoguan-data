@@ -1,0 +1,10 @@
+name: QEMU
+website_url: https://www.qemu.org/
+description: 通用机器模拟器和虚拟化器。
+licenses:
+  - LGPL-2.1
+platforms:
+  - C
+tags:
+  - 虚拟化
+source_code_url: https://gitlab.com/qemu-project/qemu

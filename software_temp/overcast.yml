@@ -1,0 +1,10 @@
+name: Overcast
+website_url: https://andrewchilds.github.io/overcast/
+description: 跨云服务商部署虚拟机，并通过 SSH 并行运行命令和脚本。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - 部署自动化
+source_code_url: https://github.com/andrewchilds/overcast

@@ -1,0 +1,11 @@
+name: OpenWISP
+website_url: https://openwisp.org/
+description: 基于 OpenWRT 路由器和接入点的开源网络管理系统。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - 网络配置管理
+demo_url: https://openwisp.org/demo.html
+source_code_url: https://github.com/openwisp

@@ -1,0 +1,11 @@
+name: Concourse
+website_url: https://concourse-ci.org/
+description: 以流水线为一等公民、每一步都容器化的 CI 工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 持续集成和持续部署
+demo_url: https://ci.concourse-ci.org/
+source_code_url: https://github.com/concourse/concourse

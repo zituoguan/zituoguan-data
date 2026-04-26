@@ -1,0 +1,10 @@
+name: XtreemFS
+website_url: https://www.xtreemfs.org/
+description: 面向联合 IT 基础设施的分布式、复制和容错文件系统。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Java
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/xtreemfs/xtreemfs

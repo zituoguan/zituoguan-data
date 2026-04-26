@@ -1,0 +1,10 @@
+name: OpenNebula
+website_url: https://opennebula.org/
+description: 构建和管理企业云，支持虚拟化服务、容器化应用和无服务器计算。
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+tags:
+  - 虚拟化
+source_code_url: https://github.com/OpenNebula/one

@@ -1,0 +1,10 @@
+name: OpenAFS
+website_url: https://www.openafs.org/
+description: 支持只读副本和多操作系统的分布式网络文件系统。
+licenses:
+  - IPL-1.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://git.openafs.org/?p=openafs.git;a=summary

@@ -1,0 +1,10 @@
+name: ImapSync
+website_url: http://imapsync.lamiral.info/
+description: 简单的 IMAP 邮箱迁移工具，可将邮箱复制到其他服务器。
+licenses:
+  - NLPL
+platforms:
+  - Perl
+tags:
+  - 邮件客户端
+source_code_url: https://github.com/imapsync/imapsync

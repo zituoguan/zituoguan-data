@@ -1,0 +1,9 @@
+name: easy-rsa
+website_url: https://github.com/OpenVPN/easy-rsa
+description: 用于构建和管理 PKI CA 的 Bash 脚本。
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+tags:
+  - 身份管理 - 工具和 Web 界面

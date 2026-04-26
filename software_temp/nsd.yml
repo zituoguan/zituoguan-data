@@ -1,0 +1,10 @@
+name: NSD
+website_url: https://www.nlnetlabs.nl/projects/nsd/about/
+description: 以速度、可靠性、稳定性和安全性为目标开发的权威 DNS 名称服务器。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://github.com/NLnetLabs/nsd

@@ -1,0 +1,10 @@
+name: mitmproxy
+website_url: https://mitmproxy.org/
+description: 用于拦截、查看和修改网络流量的 Python 工具，排查网络问题非常有用。
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - 故障排查
+source_code_url: https://github.com/mitmproxy/mitmproxy

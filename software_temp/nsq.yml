@@ -1,0 +1,10 @@
+name: NSQ
+website_url: https://nsq.io/
+description: 实时分布式消息平台。
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - 队列
+source_code_url: https://github.com/nsqio/nsq

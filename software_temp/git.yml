@@ -1,0 +1,10 @@
+name: Git
+website_url: https://git-scm.com/
+description: 分布式修订控制和源码管理（SCM），强调速度。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 版本控制
+source_code_url: https://github.com/git/git

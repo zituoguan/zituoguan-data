@@ -1,0 +1,10 @@
+name: Cobbler
+website_url: https://cobbler.github.io/
+description: Linux 安装服务器，可快速搭建网络安装环境。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 部署自动化
+source_code_url: https://github.com/cobbler/cobbler

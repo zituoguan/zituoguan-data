@@ -1,0 +1,10 @@
+name: fpm
+website_url: https://fpm.readthedocs.io/en/latest/
+description: 多格式通用包创建工具。
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - 打包
+source_code_url: https://github.com/jordansissel/fpm

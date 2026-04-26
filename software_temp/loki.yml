@@ -1,0 +1,10 @@
+name: Loki
+website_url: https://grafana.com/oss/loki/
+description: 日志聚合系统，设计用于存储和查询所有应用和基础设施的日志。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - 日志管理
+source_code_url: https://github.com/grafana/loki

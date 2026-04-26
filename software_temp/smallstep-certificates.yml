@@ -1,0 +1,10 @@
+name: Smallstep Certificates
+website_url: https://smallstep.com/certificates/
+description: 私有证书颁发机构（X.509 & SSH）及相关自动化证书管理工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 身份管理 - 工具和 Web 界面
+source_code_url: https://github.com/smallstep/certificates

@@ -1,0 +1,10 @@
+name: Monit
+website_url: https://mmonit.com/monit/#home
+description: 管理和监控 Unix 系统的小工具。
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - 监控和状态页面
+source_code_url: https://bitbucket.org/tildeslash/monit/src/master/

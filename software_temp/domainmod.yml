@@ -1,0 +1,10 @@
+name: DomainMOD
+website_url: https://domainmod.org
+description: 在中心位置管理你的域名和其他互联网资产。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - DNS - 控制面板与域名管理
+source_code_url: https://github.com/domainmod/domainmod

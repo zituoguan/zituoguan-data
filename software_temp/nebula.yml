@@ -1,0 +1,9 @@
+name: Nebula
+website_url: https://github.com/slackhq/nebula
+description: 注重性能、简洁和安全的可扩展 P2P VPN。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 虚拟专用网络（VPN）

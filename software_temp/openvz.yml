@@ -1,0 +1,10 @@
+name: OpenVZ
+website_url: https://openvz.org
+description: Linux 的基于容器的虚拟化。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 软件容器
+source_code_url: https://src.openvz.org/projects/OVZ

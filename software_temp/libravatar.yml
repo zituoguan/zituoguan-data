@@ -1,0 +1,10 @@
+name: Libravatar
+website_url: https://www.libravatar.org/
+description: 向其他网站分发头像（个人资料图片）的服务。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - 身份管理 - 工具和 Web 界面
+source_code_url: https://git.linux-kernel.at/oliver/ivatar/

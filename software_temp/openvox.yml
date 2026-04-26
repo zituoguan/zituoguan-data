@@ -1,0 +1,11 @@
+name: OpenVox
+website_url: https://voxpupuli.org/openvox/
+description: Puppet 最后一个开源版本的社区分支，一款软件配置管理工具，内置专属的声明式语言用于描述系统配置。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+  - C
+tags:
+  - 配置管理
+source_code_url: https://github.com/OpenVoxProject/openvox

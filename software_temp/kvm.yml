@@ -1,0 +1,11 @@
+name: KVM
+website_url: https://www.linux-kvm.org
+description: Linux 内核虚拟化基础设施。
+licenses:
+  - GPL-2.0
+  - LGPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟化
+source_code_url: https://git.kernel.org/pub/scm/virt/kvm/kvm.git/

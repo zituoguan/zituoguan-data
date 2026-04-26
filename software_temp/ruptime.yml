@@ -1,0 +1,9 @@
+name: ruptime
+website_url: https://github.com/alexmyczko/ruptime
+description: 经典系统状态服务器。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Shell
+tags:
+  - 监控和状态页面

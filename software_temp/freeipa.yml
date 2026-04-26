@@ -1,0 +1,12 @@
+name: FreeIPA
+website_url: https://www.freeipa.org/
+description: 集成安全信息管理解决方案，结合 Linux（Fedora）、389 Directory Server、Kerberos、NTP、DNS 和 Dogtag 证书系统（Web 界面和命令行管理工具）。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - C
+  - JavaScript
+tags:
+  - 身份管理 - LDAP
+source_code_url: https://pagure.io/freeipa

@@ -1,0 +1,10 @@
+name: Consul
+website_url: https://www.consul.io/
+description: Consul 是一个用于服务发现、监控和配置的工具。
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - 服务发现
+source_code_url: https://github.com/hashicorp/consul

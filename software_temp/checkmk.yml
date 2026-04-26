@@ -1,0 +1,11 @@
+name: checkmk
+website_url: https://checkmk.com/
+description: 应用、服务器和网络的综合监控解决方案。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - PHP
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/Checkmk/checkmk

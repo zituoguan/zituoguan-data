@@ -1,0 +1,10 @@
+name: OpenVPN
+website_url: https://community.openvpn.net
+description: 使用 SSL/TLS 进行密钥交换的自定义安全协议。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://github.com/OpenVPN/openvpn

@@ -1,0 +1,10 @@
+name: Collectd
+website_url: https://collectd.org/
+description: 系统统计信息收集守护进程。
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/collectd/collectd

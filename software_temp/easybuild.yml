@@ -1,0 +1,10 @@
+name: EasyBuild
+website_url: https://easybuild.io/
+description: EasyBuild 以高效的方式为高性能计算（HPC）系统构建软件和模块文件。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 构建和软件组织工具
+source_code_url: https://github.com/easybuilders/easybuild-easyconfigs

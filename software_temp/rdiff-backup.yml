@@ -1,0 +1,10 @@
+name: Rdiff-backup
+website_url: https://rdiff-backup.net/
+description: 反向增量备份工具，可通过网络或本地使用。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 备份
+source_code_url: https://github.com/rdiff-backup/rdiff-backup

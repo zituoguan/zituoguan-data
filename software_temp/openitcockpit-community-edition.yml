@@ -1,0 +1,12 @@
+name: openITCOCKPIT Community Edition
+website_url: https://openitcockpit.io/
+description: 监控套件，支持与 Naemon、Checkmk、Grafana 等无缝集成。
+licenses:
+  - GPL-3.0
+platforms:
+  - deb
+  - Docker
+tags:
+  - 监控和状态页面
+demo_url: https://demo.openitcockpit.io/
+source_code_url: https://github.com/it-novum/openITCOCKPIT

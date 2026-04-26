@@ -1,0 +1,10 @@
+name: WireGuard
+website_url: https://www.wireguard.com/
+description: 基于椭圆曲线和公钥加密的高速 VPN。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://www.wireguard.com/repositories/

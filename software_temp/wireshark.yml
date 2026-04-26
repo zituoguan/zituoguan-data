@@ -1,0 +1,10 @@
+name: Wireshark
+website_url: https://www.wireshark.org/
+description: 世界领先的网络协议分析器。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 故障排查
+source_code_url: https://gitlab.com/wireshark/wireshark

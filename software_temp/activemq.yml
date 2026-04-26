@@ -1,0 +1,10 @@
+name: ActiveMQ
+website_url: https://activemq.apache.org/
+description: Java 消息中间件。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 队列
+source_code_url: https://github.com/apache/activemq

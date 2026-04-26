@@ -1,0 +1,10 @@
+name: KeyCloak
+website_url: https://www.keycloak.org
+description: 开源身份与访问管理。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 身份管理 - 单点登录（SSO）
+source_code_url: https://github.com/keycloak/keycloak

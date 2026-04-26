@@ -1,0 +1,10 @@
+name: Fluentd
+website_url: https://www.fluentd.org/
+description: 统一日志层的数据收集器。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - 日志管理
+source_code_url: https://github.com/fluent/fluentd

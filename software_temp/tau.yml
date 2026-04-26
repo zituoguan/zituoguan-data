@@ -1,0 +1,12 @@
+name: Tau
+website_url: https://taubyte.com
+description: 轻松构建云计算平台，支持无服务器 WebAssembly、前端托管、CI/CD、对象存储、K/V 数据库和消息队列。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+  - Rust
+  - Docker
+tags:
+  - PaaS
+source_code_url: https://github.com/taubyte/tau

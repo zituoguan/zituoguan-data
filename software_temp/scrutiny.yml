@@ -1,0 +1,9 @@
+name: Scrutiny
+website_url: https://github.com/AnalogJ/scrutiny
+description: 硬盘 S.M.A.R.T 监控 Web UI，支持历史趋势与真实故障阈值。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 监控和状态页面

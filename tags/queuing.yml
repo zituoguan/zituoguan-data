@@ -1,0 +1,2 @@
+name: 队列
+description: '[消息队列](https://en.wikipedia.org/wiki/Message_queue)和[消息中间件](https://en.wikipedia.org/wiki/Message_broker)软件，通常用于进程间通信（IPC）或同一进程内线程间通信。'

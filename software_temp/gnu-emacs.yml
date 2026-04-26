@@ -1,0 +1,10 @@
+name: GNU Emacs
+website_url: https://www.gnu.org/software/emacs/
+description: 可扩展、可定制的文本编辑器及更多功能。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 编辑器
+source_code_url: https://github.com/emacs-mirror/emacs

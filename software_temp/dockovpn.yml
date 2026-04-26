@@ -1,0 +1,10 @@
+name: Dockovpn
+website_url: https://dockovpn.io
+description: 即开即用的无状态 Docker 化 OpenVPN 服务器，启动时间小于 2 秒。
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://github.com/dockovpn/dockovpn

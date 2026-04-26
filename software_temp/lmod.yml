@@ -1,0 +1,10 @@
+name: Lmod
+website_url: https://www.tacc.utexas.edu/research-development/tacc-projects/lmod
+description: 基于 Lua 的模块系统，轻松处理 MODULEPATH 层级问题。
+licenses:
+  - MIT
+platforms:
+  - Lua
+tags:
+  - 构建和软件组织工具
+source_code_url: https://github.com/TACC/Lmod

@@ -1,0 +1,10 @@
+name: Webmin
+website_url: https://www.webmin.com/
+description: Unix 系统管理的 Web 界面。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Perl
+tags:
+  - 控制面板
+source_code_url: https://github.com/webmin/webmin

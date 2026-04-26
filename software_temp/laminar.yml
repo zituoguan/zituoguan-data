@@ -1,0 +1,10 @@
+name: Laminar
+website_url: https://laminar.ohwg.net
+description: 快速、轻量、简单且灵活的持续集成。
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/ohwgiles/laminar

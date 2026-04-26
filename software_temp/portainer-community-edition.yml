@@ -1,0 +1,10 @@
+name: Portainer Community Edition
+website_url: https://www.portainer.io/
+description: 简单易用的 Docker 管理界面。
+licenses:
+  - Zlib
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://github.com/portainer/portainer

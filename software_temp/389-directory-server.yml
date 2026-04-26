@@ -1,0 +1,10 @@
+name: 389 Directory Server
+website_url: https://www.port389.org/
+description: 企业级开源 LDAP 服务器，适用于 Linux。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 身份管理 - LDAP
+source_code_url: https://github.com/389ds/389-ds-base

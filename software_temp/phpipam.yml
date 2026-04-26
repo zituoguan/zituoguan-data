@@ -1,0 +1,10 @@
+name: phpIPAM
+website_url: https://phpipam.net/
+description: 开源 IP 地址管理，支持 PowerDNS 集成。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 网络配置管理
+source_code_url: https://github.com/phpipam/phpipam

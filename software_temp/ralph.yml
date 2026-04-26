@@ -1,0 +1,12 @@
+name: Ralph
+website_url: https://ralph.allegro.tech/
+description: 适用于大型数据中心和小型局域网的资产管理、DCIM 和 CMDB 系统。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - IT 资产管理
+demo_url: https://github.com/allegro/ralph#live-demo
+source_code_url: https://github.com/allegro/ralph

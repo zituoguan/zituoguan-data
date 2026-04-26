@@ -1,0 +1,11 @@
+name: GlusterFS
+website_url: https://www.gluster.org/
+description: 软件定义的分布式存储，可扩展到数 PB，支持对象、块和文件存储接口。
+licenses:
+  - GPL-2.0
+  - LGPL-3.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/gluster/glusterfs

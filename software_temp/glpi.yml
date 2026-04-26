@@ -1,0 +1,10 @@
+name: GLPI
+website_url: https://www.glpi-project.org/
+description: 信息资源管理器，带有额外的管理界面。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - IT 资产管理
+source_code_url: https://github.com/glpi-project/glpi

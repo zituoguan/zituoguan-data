@@ -1,0 +1,10 @@
+name: Designate
+website_url: https://wiki.openstack.org/wiki/Designate
+description: OpenStack 的 DNSaaS 服务。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - DNS - 控制面板与域名管理
+source_code_url: https://opendev.org/openstack/designate

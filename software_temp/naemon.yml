@@ -1,0 +1,10 @@
+name: Naemon
+website_url: https://www.naemon.org/
+description: 基于 Nagios 4 内核的网络监控工具，性能增强并有新特性。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/naemon/naemon-core

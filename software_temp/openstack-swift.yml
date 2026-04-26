@@ -1,0 +1,10 @@
+name: Openstack Swift
+website_url: https://docs.openstack.org/developer/swift/
+description: 高可用、分布式、最终一致性的对象/Blob 存储。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 分布式文件系统
+source_code_url: https://opendev.org/openstack/swift

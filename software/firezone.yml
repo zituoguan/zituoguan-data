@@ -7,7 +7,7 @@ platforms:
   - Elixir
   - Docker
 tags:
-  - 远程访问
+  - 虚拟专用网络（VPN）
 source_code_url: https://github.com/firezone/firezone
 stargazers_count: 8548
 updated_at: '2026-04-02'

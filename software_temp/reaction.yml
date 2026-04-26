@@ -1,0 +1,10 @@
+name: reaction
+website_url: https://reaction.ppom.me/
+description: 轻量级守护进程，扫描程序输出中的重复模式并自动采取相应措施。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - 日志管理
+source_code_url: https://framagit.org/ppom/reaction

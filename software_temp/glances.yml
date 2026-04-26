@@ -1,0 +1,10 @@
+name: glances
+website_url: https://nicolargo.github.io/glances/
+description: 开源、跨平台的实时监控工具，支持 CLI 和 Web 仪表盘，多种导出选项。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/nicolargo/glances

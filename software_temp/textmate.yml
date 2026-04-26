@@ -1,0 +1,10 @@
+name: TextMate
+website_url: https://macromates.com/
+description: OS X 图形化文本编辑器。
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - 编辑器
+source_code_url: https://github.com/textmate/textmate/

@@ -1,0 +1,2 @@
+name: 身份管理 - LDAP
+description: '[轻量级目录访问协议（LDAP）](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) 是一种开放、中立、行业标准的应用协议，用于通过 IP 网络访问和维护分布式目录信息服务。'

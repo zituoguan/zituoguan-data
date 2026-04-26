@@ -1,0 +1,11 @@
+name: Fog
+website_url: https://www.fogproject.org/
+description: 克隆/镜像解决方案与救援套件。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Shell
+tags:
+  - 杂项
+source_code_url: https://github.com/FOGProject/fogproject

@@ -1,0 +1,10 @@
+name: Proxmox Backup Server
+website_url: https://www.proxmox.com/en/proxmox-backup-server
+description: 企业级、客户端-服务器架构的备份解决方案，可备份虚拟机、容器和物理主机。
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - 备份
+source_code_url: https://git.proxmox.com/?p=proxmox-backup.git;a=tree

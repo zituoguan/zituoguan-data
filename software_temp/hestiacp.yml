@@ -1,0 +1,13 @@
+name: HestiaCP
+website_url: https://hestiacp.com/
+description: Web 服务器控制面板（VestaCP 分支）。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Shell
+  - Other
+tags:
+  - 控制面板
+demo_url: https://demo.hestiacp.com:8083/login/
+source_code_url: https://github.com/hestiacp/hestiacp

@@ -1,0 +1,10 @@
+name: Burp
+website_url: https://burp.grke.org/
+description: 网络备份和恢复程序。
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - 备份
+source_code_url: https://github.com/grke/burp

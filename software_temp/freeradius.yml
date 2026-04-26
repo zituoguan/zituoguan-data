@@ -1,0 +1,10 @@
+name: FreeRADIUS
+website_url: https://freeradius.org/
+description: 多协议策略服务器（radiusd），实现 RADIUS、DHCP、BFD 和 ARP 及相关客户端/PAM 库/Apache 模块。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 身份管理 - LDAP
+source_code_url: https://github.com/FreeRADIUS/freeradius-server

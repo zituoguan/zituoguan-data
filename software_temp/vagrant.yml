@@ -1,0 +1,10 @@
+name: Vagrant
+website_url: https://www.vagrantup.com/
+description: 构建完整开发环境的工具。
+licenses:
+  - BUSL-1.1
+platforms:
+  - Ruby
+tags:
+  - 虚拟化
+source_code_url: https://github.com/hashicorp/vagrant

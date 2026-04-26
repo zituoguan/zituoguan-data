@@ -1,0 +1,12 @@
+name: Linux Dash
+website_url: https://github.com/afaqurk/linux-dash
+description: 针对 GNU/Linux 机器的低开销 Web 监控仪表盘。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Go
+  - Python
+  - PHP
+tags:
+  - 监控和状态页面

@@ -1,0 +1,10 @@
+name: CloudSlang
+website_url: https://www.cloudslang.io/
+description: 基于流程的编排工具，用于管理已部署应用，支持 Docker。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 部署自动化
+source_code_url: https://github.com/CloudSlang/score

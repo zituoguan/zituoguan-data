@@ -1,0 +1,10 @@
+name: Kubo
+website_url: https://github.com/ipfs/kubo
+description: IPFS 的实现，一个全球、版本化、点对点的文件系统，旨在连接所有计算设备。
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Go
+tags:
+  - 分布式文件系统

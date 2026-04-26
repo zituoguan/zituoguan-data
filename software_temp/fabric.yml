@@ -1,0 +1,10 @@
+name: Fabric
+website_url: https://www.fabfile.org/
+description: 用于简化通过 SSH 部署应用或系统管理任务的 Python 库和 CLI 工具。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+tags:
+  - 部署自动化
+source_code_url: https://github.com/fabric/fabric

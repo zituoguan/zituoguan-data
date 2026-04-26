@@ -1,0 +1,10 @@
+name: Chrony
+website_url: https://chrony-project.org/
+description: 功能全面的网络时间协议（NTP）实现。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 时间服务器
+source_code_url: https://gitlab.com/chrony/chrony

@@ -1,0 +1,9 @@
+name: omnibus-ruby
+website_url: https://github.com/chef/omnibus
+description: 跨平台轻松为项目创建全栈安装包。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - 打包

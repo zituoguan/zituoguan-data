@@ -1,0 +1,13 @@
+name: Kubero
+website_url: https://www.kubero.dev/
+description: 基于 Kubernetes 的自托管 Heroku PaaS 替代，支持 GitOps。
+licenses:
+  - GPL-3.0
+platforms:
+  - K8S
+  - Nodejs
+  - Go
+tags:
+  - PaaS
+demo_url: https://demo.kubero.dev/
+source_code_url: https://github.com/kubero-dev/kubero

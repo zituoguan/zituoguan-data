@@ -1,0 +1,10 @@
+name: LibreNMS
+website_url: https://www.librenms.org
+description: 功能丰富的网络监控系统，支持多种设备。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/librenms/librenms

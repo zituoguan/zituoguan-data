@@ -1,0 +1,11 @@
+name: Bareos
+website_url: https://www.bareos.org/
+description: 跨网络备份解决方案，可对所有主流操作系统的数据进行保存、归档和恢复。
+licenses:
+  - AGPL-3.0
+platforms:
+  - C++
+  - C
+tags:
+  - 备份
+source_code_url: https://github.com/bareos/bareos

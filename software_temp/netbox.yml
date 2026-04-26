@@ -1,0 +1,11 @@
+name: netbox
+website_url: https://netbox.dev/
+description: IP 地址管理（IPAM）和数据中心基础设施管理（DCIM）工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 配置管理数据库
+demo_url: https://demo.netbox.dev/
+source_code_url: https://github.com/netbox-community/netbox

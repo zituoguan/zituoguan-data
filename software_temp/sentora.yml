@@ -1,0 +1,10 @@
+name: Sentora
+website_url: https://sentora.org/
+description: Linux、BSD 的开源 Web 托管控制面板（ZPanel 分支）。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 控制面板
+source_code_url: https://github.com/sentora/sentora-core

@@ -1,0 +1,10 @@
+name: Docker Compose
+website_url: https://docs.docker.com/compose/
+description: 定义和运行多容器 Docker 应用。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://github.com/docker/compose

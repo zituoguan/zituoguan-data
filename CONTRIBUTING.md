@@ -42,7 +42,7 @@ external_links:
     url: https://github.com/awesome-foss/awesome-sysadmin#code-review
 # (可选) 如果设置此项，软件项目将无法引用此标签，页面将显示一个提示框，要求访问这些链接
 redirect:
-  - title: awesome-sysadmin/持续集成与持续部署
+  - title: awesome-sysadmin/持续集成和持续部署
     url: https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment
 
 ```

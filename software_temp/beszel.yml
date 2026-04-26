@@ -1,0 +1,10 @@
+name: Beszel
+website_url: https://beszel.dev/
+description: 轻量级服务器监控平台，支持 Docker 统计、历史数据和告警功能。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/henrygd/beszel

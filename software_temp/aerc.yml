@@ -1,0 +1,10 @@
+name: aerc
+website_url: https://aerc-mail.org/
+description: 以纯文本和开发者功能为重点的终端邮件客户端。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 邮件客户端
+source_code_url: https://git.sr.ht/~rjarry/aerc

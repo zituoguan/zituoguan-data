@@ -1,0 +1,10 @@
+name: Sylpheed
+website_url: https://sylpheed.sraoss.jp/en/
+description: Claws Mail 的前身，仍在开发的轻量级邮件客户端。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 邮件客户端
+source_code_url: https://github.com/sylpheed-mail/sylpheed

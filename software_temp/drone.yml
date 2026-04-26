@@ -1,0 +1,10 @@
+name: drone
+website_url: https://drone.io/
+description: 基于 Docker、用 Go 编写的持续交付平台。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/drone/drone

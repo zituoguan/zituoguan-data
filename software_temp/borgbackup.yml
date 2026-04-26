@@ -1,0 +1,10 @@
+name: BorgBackup
+website_url: https://www.borgbackup.org/
+description: 支持去重、压缩和认证加密的归档工具。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - 备份
+source_code_url: https://github.com/borgbackup/borg

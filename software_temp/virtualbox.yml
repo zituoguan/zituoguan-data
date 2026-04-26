@@ -1,0 +1,11 @@
+name: VirtualBox
+website_url: https://www.virtualbox.org/
+description: Oracle 公司出品的虚拟化产品。
+licenses:
+  - GPL-3.0
+  - CDDL-1.0
+platforms:
+  - C++
+tags:
+  - 虚拟化
+source_code_url: https://www.virtualbox.org/browser/vbox

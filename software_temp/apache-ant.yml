@@ -1,0 +1,10 @@
+name: Apache Ant
+website_url: https://ant.apache.org/
+description: 自动化构建工具，类似于 make，是一个库和命令行工具，其任务是驱动在构建文件中描述的目标和扩展点，这些目标和扩展点彼此依赖。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 自动化
+source_code_url: https://github.com/apache/ant

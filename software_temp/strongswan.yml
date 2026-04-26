@@ -1,0 +1,10 @@
+name: strongSwan
+website_url: https://www.strongswan.org/
+description: Linux 下完整的 IPsec 实现。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://github.com/strongswan/strongswan

@@ -1,0 +1,10 @@
+name: Perkeep
+website_url: https://perkeep.org/
+description: 一组用于建模、存储、搜索、共享和同步数据的开源格式、协议和软件（前身为 Camlistore）。
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/perkeep/perkeep

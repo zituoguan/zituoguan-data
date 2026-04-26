@@ -1,0 +1,10 @@
+name: Icinga
+website_url: https://www.icinga.com/
+description: Nagios 分支，功能已超越原版，支持集群监控。
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/Icinga/icinga2

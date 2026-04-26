@@ -1,0 +1,10 @@
+name: Brackets
+website_url: https://brackets.io/
+description: 面向网页设计师和前端开发者的代码编辑器。
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - 编辑器
+source_code_url: https://github.com/brackets-cont/brackets

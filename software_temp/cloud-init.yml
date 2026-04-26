@@ -1,0 +1,11 @@
+name: cloud-init
+website_url: https://cloud-init.io/
+description: 自动化配置虚拟机、云实例或网络中机器的初始化工具。
+licenses:
+  - GPL-3.0
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 配置管理
+source_code_url: https://github.com/canonical/cloud-init

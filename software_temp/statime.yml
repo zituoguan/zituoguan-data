@@ -1,0 +1,11 @@
+name: Statime
+website_url: https://github.com/pendulum-project/statime
+description: 用 Rust 实现的精确时间协议（PTP）。
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - 时间服务器
+source_code_url: https://github.com/pendulum-project/statime

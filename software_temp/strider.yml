@@ -1,0 +1,10 @@
+name: Strider
+website_url: https://strider-cd.github.io/
+description: 开源持续部署/持续集成平台。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/Strider-CD/strider

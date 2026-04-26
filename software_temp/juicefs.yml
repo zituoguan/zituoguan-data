@@ -1,0 +1,10 @@
+name: JuiceFS
+website_url: https://juicefs.com/
+description: 基于 Redis 和 S3 构建的分布式 POSIX 文件系统。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/juicedata/juicefs

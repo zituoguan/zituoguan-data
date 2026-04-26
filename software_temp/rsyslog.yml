@@ -1,0 +1,10 @@
+name: rsyslog
+website_url: https://www.rsyslog.com/
+description: 超快的日志处理系统。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 日志管理
+source_code_url: https://github.com/rsyslog/rsyslog

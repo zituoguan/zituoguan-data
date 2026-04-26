@@ -1,0 +1,10 @@
+name: ISPConfig
+website_url: https://www.ispconfig.org
+description: 通过浏览器直接管理 Linux 服务器。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+tags:
+  - 控制面板
+source_code_url: https://git.ispconfig.org/ispconfig/ispconfig3

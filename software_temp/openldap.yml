@@ -1,0 +1,10 @@
+name: OpenLDAP
+website_url: https://www.openldap.org/
+description: 轻量级目录访问协议的开源实现（服务器、库和客户端）。
+licenses:
+  - OLDAP-2.8
+platforms:
+  - C
+tags:
+  - 身份管理 - LDAP
+source_code_url: https://git.openldap.org/openldap/openldap

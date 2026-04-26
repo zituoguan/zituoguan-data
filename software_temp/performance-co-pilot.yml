@@ -1,0 +1,11 @@
+name: Performance Co-Pilot
+website_url: http://pcp.io
+description: 轻量级、分布式系统性能分析框架。
+licenses:
+  - LGPL-2.1
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/performancecopilot/pcp

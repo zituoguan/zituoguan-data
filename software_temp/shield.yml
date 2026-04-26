@@ -1,0 +1,9 @@
+name: Shield
+website_url: https://github.com/starkandwayne/shield
+description: 数据库系统备份与恢复的可插拔架构。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 备份

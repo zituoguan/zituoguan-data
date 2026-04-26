@@ -1,0 +1,10 @@
+name: djbdns
+website_url: https://cr.yp.to/djbdns.html
+description: 一组 DNS 应用，包括 tinydns。
+licenses:
+  - CC0-1.0
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://salsa.debian.org/debian/djbdns

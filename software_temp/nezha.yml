@@ -1,0 +1,11 @@
+name: Nezha
+website_url: https://nezha.wiki/en_US/
+description: 轻量级服务器与网站监控及运维工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Shell
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/nezhahq/nezha

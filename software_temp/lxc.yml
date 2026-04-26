@@ -1,0 +1,10 @@
+name: LXC
+website_url: https://linuxcontainers.org/lxc/
+description: Linux 内核容器特性的用户空间接口。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 软件容器
+source_code_url: https://github.com/lxc/lxc

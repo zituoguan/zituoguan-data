@@ -1,0 +1,10 @@
+name: Coolify
+website_url: https://coolify.io/
+description: 开源自托管 Heroku/Netlify 替代方案。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - PaaS
+source_code_url: https://github.com/coollabsio/coolify

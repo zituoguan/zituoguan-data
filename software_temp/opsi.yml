@@ -1,0 +1,12 @@
+name: OPSI
+website_url: https://www.opsi.org
+description: Linux 和 Windows 的硬件/软件清单、客户端管理、部署和补丁。
+licenses:
+  - GPL-3.0
+  - AGPL-3.0
+platforms:
+  - OVF
+  - Python
+tags:
+  - IT 资产管理
+source_code_url: https://github.com/opsi-org/

@@ -1,0 +1,11 @@
+name: GoCD
+website_url: https://www.go.cd/
+description: 持续交付服务器。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Ruby
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/gocd/gocd

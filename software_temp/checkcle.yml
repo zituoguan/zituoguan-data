@@ -1,0 +1,10 @@
+name: CheckCle
+website_url: https://checkcle.io
+description: 对全栈系统、应用程序和基础设施进行无缝实时监控。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/operacle/checkcle

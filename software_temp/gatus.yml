@@ -1,0 +1,12 @@
+name: Gatus
+website_url: https://gatus.io
+description: 自动化服务健康状态仪表盘。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/TwiN/gatus
+demo_url: https://status.twin.sh

@@ -1,0 +1,10 @@
+name: SPF Toolbox
+website_url: https://spftoolbox.com
+description: 用于查询 SPF、MX、Whois 等 DNS 记录的应用。
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - DNS - 控制面板与域名管理
+source_code_url: https://github.com/charlesabarnes/SPFtoolbox

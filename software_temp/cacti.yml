@@ -1,0 +1,10 @@
+name: Cacti
+website_url: https://www.cacti.net
+description: 基于 Web 的网络监控与绘图工具。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/Cacti/cacti

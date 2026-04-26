@@ -1,0 +1,9 @@
+name: Observium Community Edition
+website_url: http://www.observium.org/
+description: 网络监控与管理平台，提供实时网络健康与性能洞察。
+licenses:
+  - QPL-1.0
+platforms:
+  - PHP
+tags:
+  - 监控和状态页面

@@ -1,0 +1,10 @@
+name: Jenkins
+website_url: https://jenkins-ci.org/
+description: 持续集成服务器。
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/jenkinsci/jenkins/

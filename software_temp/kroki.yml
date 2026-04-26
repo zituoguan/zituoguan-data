@@ -1,0 +1,10 @@
+name: Kroki
+website_url: https://kroki.io
+description: 基于文本描述生成图表的 API。
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - 绘图
+source_code_url: https://github.com/yuzutech/kroki

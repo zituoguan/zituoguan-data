@@ -1,0 +1,10 @@
+name: systemd-nspawn
+website_url: https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html
+description: 轻量级、类似 chroot 的环境，可直接在 systemd 下运行操作系统或命令。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 软件容器
+source_code_url: https://github.com/systemd/systemd

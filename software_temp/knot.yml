@@ -1,0 +1,10 @@
+name: Knot
+website_url: https://www.knot-dns.cz/
+description: 高性能权威 DNS 服务器。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://gitlab.nic.cz/knot/knot-dns

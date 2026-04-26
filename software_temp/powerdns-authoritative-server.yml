@@ -1,0 +1,10 @@
+name: PowerDNS Authoritative Server
+website_url: https://doc.powerdns.com/authoritative/
+description: 支持多种后端的多功能名称服务器。
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - DNS - 服务器
+source_code_url: https://github.com/PowerDNS/pdns

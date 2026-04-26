@@ -1,0 +1,9 @@
+name: PHP Censor
+website_url: https://github.com/php-censor/php-censor
+description: 面向 PHP 项目的自托管持续集成服务器。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - PHP
+tags:
+  - 持续集成和持续部署

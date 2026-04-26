@@ -1,0 +1,10 @@
+name: DRBD
+website_url: https://linbit.com/drbd/
+description: 分布式复制存储系统，作为 Linux 内核驱动实现。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/LINBIT/drbd

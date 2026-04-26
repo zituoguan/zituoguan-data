@@ -1,0 +1,10 @@
+name: Mutt
+website_url: http://www.mutt.org/
+description: 小巧但功能强大的文本邮件客户端。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 邮件客户端
+source_code_url: https://gitlab.com/muttmua/mutt

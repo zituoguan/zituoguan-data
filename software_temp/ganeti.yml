@@ -1,0 +1,11 @@
+name: Ganeti
+website_url: https://www.ganeti.org/
+description: 基于 KVM 和 Xen 的集群虚拟服务器管理工具。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+  - Haskell
+tags:
+  - 虚拟化
+source_code_url: https://github.com/ganeti/ganeti

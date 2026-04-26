@@ -1,0 +1,10 @@
+name: Xen
+website_url: https://www.xenproject.org/
+description: 适用于 32/64 位 Intel / AMD（IA 64）和 PowerPC 970 架构的虚拟机监控器。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟化
+source_code_url: https://xenbits.xenproject.org/gitweb/?p=xen.git;a=tree;hb=HEAD

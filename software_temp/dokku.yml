@@ -1,0 +1,13 @@
+name: Dokku
+website_url: https://dokku.com/
+description: 开源 PaaS（Heroku 替代）。
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Shell
+  - Go
+  - deb
+tags:
+  - PaaS
+source_code_url: https://github.com/dokku/dokku

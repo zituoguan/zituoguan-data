@@ -1,0 +1,9 @@
+name: lldap
+website_url: https://github.com/nitnelave/lldap
+description: 轻量级（简化版）LDAP 实现，带有简单直观的 Web 界面和 GraphQL 支持。
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - 身份管理 - LDAP

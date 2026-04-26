@@ -1,0 +1,10 @@
+name: Haroopad
+website_url: http://pad.haroopress.com/
+description: 支持实时预览的 Markdown 编辑器。
+licenses:
+  - GPL-3.0
+platforms:
+  - JavaScript
+tags:
+  - 编辑器
+source_code_url: https://github.com/rhiokim/haroopad

@@ -1,0 +1,10 @@
+name: Rake
+website_url: https://ruby.github.io/rake/
+description: 类似于 Make 的构建自动化工具，用 Ruby 编写并可扩展。
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - 自动化
+source_code_url: https://github.com/ruby/rake

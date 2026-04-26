@@ -1,0 +1,10 @@
+name: etcd
+website_url: https://etcd.io/
+description: 分布式 K/V 存储，通过 SSL PKI 认证和 REST HTTP API 提供共享配置与服务发现。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 服务发现
+source_code_url: https://github.com/coreos/etcd

@@ -1,0 +1,10 @@
+name: MooseFS
+website_url: https://moosefs.com/
+description: 容错的网络分布式文件系统。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/moosefs/moosefs

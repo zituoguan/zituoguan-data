@@ -1,0 +1,11 @@
+name: Adagios
+website_url: http://adagios.org/
+description: 基于 Web 的 Nagios 配置与监控界面（替代标准界面），并提供 REST 接口。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/opinkerfi/adagios

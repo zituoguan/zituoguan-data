@@ -1,0 +1,9 @@
+name: Genesis
+website_url: https://github.com/starkandwayne/genesis
+description: 多环境 BOSH 部署的模板框架。
+licenses:
+  - MIT
+platforms:
+  - Perl
+tags:
+  - 部署自动化

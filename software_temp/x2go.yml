@@ -1,0 +1,10 @@
+name: X2go
+website_url: https://wiki.x2go.org/doku.php
+description: 基于 NoMachine/NX 协议的 Linux 远程桌面软件。
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - 远程桌面客户端
+source_code_url: https://code.x2go.org/gitweb

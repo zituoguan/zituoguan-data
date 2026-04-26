@@ -1,0 +1,10 @@
+name: Claws Mail
+website_url: http://www.claws-mail.org/
+description: 基于 GTK+ 的老牌邮件客户端（及新闻阅读器）。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 邮件客户端
+source_code_url: https://git.claws-mail.org/?p=claws.git;a=tree

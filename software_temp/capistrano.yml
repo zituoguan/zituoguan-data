@@ -1,0 +1,10 @@
+name: Capistrano
+website_url: https://capistranorb.com/
+description: 通过 SSH（基于 rake）同时、顺序或滚动方式将应用部署到任意数量的机器。
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - 部署自动化
+source_code_url: https://github.com/capistrano/capistrano

@@ -1,0 +1,11 @@
+name: Munin
+website_url: https://munin-monitoring.org/
+description: 网络资源监控工具。
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+  - Shell
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/munin-monitoring/munin

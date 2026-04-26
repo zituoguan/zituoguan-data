@@ -1,0 +1,10 @@
+name: VSCodium
+website_url: https://vscodium.com/
+description: 基于 [微软 VS Code](https://code.visualstudio.com/) 的开源跨平台可扩展代码编辑器，去除了非自由部分。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+tags:
+  - 编辑器
+source_code_url: https://github.com/VSCodium/vscodium

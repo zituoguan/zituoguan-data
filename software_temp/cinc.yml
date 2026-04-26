@@ -1,0 +1,10 @@
+name: CINC
+website_url: https://cinc.sh/
+description: Chef 的免费发行版，一款配置管理工具，使用纯 Ruby 领域特定语言（DSL）来编写系统配置"食谱"（recipes）。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - 配置管理
+source_code_url: https://gitlab.com/cinc-project/upstream/chef

@@ -1,0 +1,10 @@
+name: RRDtool
+website_url: https://oss.oetiker.ch/rrdtool/
+description: 行业标准、高性能的时间序列数据记录与绘图系统。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/oetiker/rrdtool-1.x

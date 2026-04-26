@@ -1,0 +1,12 @@
+name: Mercurial
+website_url: https://www.mercurial-scm.org/
+description: 分布式源码控制管理工具。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - C
+  - Rust
+tags:
+  - 版本控制
+source_code_url: https://repo.mercurial-scm.org/hg/file/tip

@@ -1,0 +1,10 @@
+name: Packer
+website_url: https://www.packer.io/
+description: 从单一源配置为多平台创建一致的机器镜像的工具。
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - 虚拟化
+source_code_url: https://github.com/hashicorp/packer

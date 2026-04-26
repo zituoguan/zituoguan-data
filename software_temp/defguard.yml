@@ -1,0 +1,10 @@
+name: DefGuard
+website_url: https://defguard.net/
+description: 真正的企业级 WireGuard，支持 MFA/2FA 和 SSO。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://github.com/DefGuard

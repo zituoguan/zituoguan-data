@@ -1,0 +1,10 @@
+name: OpenWrt
+website_url: https://openwrt.org/
+description: 基于 Linux 的路由器，支持 Mesh 网络、Snort IPS、AQM 等多种功能。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 路由器
+source_code_url: https://git.openwrt.org/openwrt/openwrt.git

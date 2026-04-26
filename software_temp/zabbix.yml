@@ -1,0 +1,10 @@
+name: Zabbix
+website_url: https://www.zabbix.com/
+description: 企业级网络与应用监控软件。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 监控和状态页面
+source_code_url: https://git.zabbix.com/projects/ZBX/repos/zabbix/browse

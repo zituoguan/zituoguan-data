@@ -1,0 +1,10 @@
+name: Froxlor
+website_url: https://froxlor.org/
+description: 轻量级服务器管理软件，支持 Nginx 和 PHP-FPM。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - 控制面板
+source_code_url: https://github.com/Froxlor/Froxlor/

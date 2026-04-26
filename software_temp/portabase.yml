@@ -1,0 +1,10 @@
+name: Portabase
+website_url: https://portabase.io/
+description: 服务器仪表盘工具，简化数据库实例的备份与恢复操作。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 备份
+source_code_url: https://github.com/Portabase/portabase

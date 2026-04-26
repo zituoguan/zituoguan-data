@@ -1,0 +1,10 @@
+name: PhpSysInfo
+website_url: https://phpsysinfo.github.io/phpsysinfo/
+description: 可自定义的 PHP 脚本，优雅展示系统信息。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/phpsysinfo/phpsysinfo

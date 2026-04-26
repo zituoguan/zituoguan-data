@@ -1,0 +1,10 @@
+name: Eclipse
+website_url: https://www.eclipse.org/
+description: 用 Java 编写、可扩展插件系统的 IDE。
+licenses:
+  - EPL-1.0
+platforms:
+  - Java
+tags:
+  - 编辑器
+source_code_url: https://git.eclipse.org/c/

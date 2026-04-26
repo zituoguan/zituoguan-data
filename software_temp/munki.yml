@@ -1,0 +1,10 @@
+name: munki
+website_url: https://www.munki.org/munki/
+description: 基于 Web 服务器的软件包及元数据仓库，便于 macOS 管理员管理软件安装。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 部署自动化
+source_code_url: https://github.com/munki/munki

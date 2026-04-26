@@ -1,0 +1,10 @@
+name: Cockpit Project
+website_url: https://cockpit-project.org/
+description: 服务器的 Web 图形界面。
+licenses:
+  - LGPL-2.1
+platforms:
+  - C
+tags:
+  - 控制面板
+source_code_url: https://github.com/cockpit-project/cockpit

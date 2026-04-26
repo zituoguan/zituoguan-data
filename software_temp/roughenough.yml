@@ -1,0 +1,11 @@
+name: Roughenough
+website_url: https://github.com/int08h/roughenough
+description: Roughtime 安全时间同步客户端和服务器。
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - 时间服务器
+source_code_url: https://github.com/int08h/roughenough

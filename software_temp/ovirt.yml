@@ -1,0 +1,10 @@
+name: oVirt
+website_url: https://www.ovirt.org/
+description: 管理虚拟机、存储和虚拟网络。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 虚拟化
+source_code_url: https://github.com/oVirt

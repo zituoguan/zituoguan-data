@@ -1,0 +1,9 @@
+name: cadvisor
+website_url: https://github.com/google/cadvisor
+description: 分析运行中容器的资源使用和性能特征。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 监控和状态页面

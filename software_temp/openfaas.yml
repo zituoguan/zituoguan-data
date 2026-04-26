@@ -1,0 +1,10 @@
+name: OpenFaaS
+website_url: https://www.openfaas.com/
+description: Docker 和 Kubernetes 的无服务器函数平台。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - PaaS
+source_code_url: https://github.com/openfaas/faas

@@ -1,0 +1,10 @@
+name: Wazuh
+website_url: https://wazuh.com/
+description: 统一 XDR 与 SIEM，保护终端和云工作负载。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/wazuh/wazuh

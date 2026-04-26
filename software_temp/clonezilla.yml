@@ -1,0 +1,12 @@
+name: Clonezilla
+website_url: https://clonezilla.org/
+description: 分区和磁盘镜像/克隆程序。
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+  - Shell
+  - Other
+tags:
+  - 杂项
+source_code_url: https://clonezilla.org/downloads/src/

@@ -1,0 +1,10 @@
+name: Docker
+website_url: https://www.docker.com/
+description: 为开发者和系统管理员构建、发布和运行分布式应用的平台。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://www.docker.com/community/open-source/

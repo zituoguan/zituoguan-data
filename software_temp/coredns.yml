@@ -1,0 +1,10 @@
+name: CoreDNS
+website_url: https://coredns.io/
+description: 灵活的 DNS 服务器。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - DNS - 服务器
+source_code_url: https://github.com/coredns/coredns

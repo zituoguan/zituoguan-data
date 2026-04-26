@@ -1,0 +1,10 @@
+name: rConfig
+website_url: https://www.rconfig.com/
+description: 网络设备配置管理工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 网络配置管理
+source_code_url: https://github.com/rconfig/rconfig

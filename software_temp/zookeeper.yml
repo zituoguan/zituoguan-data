@@ -1,0 +1,11 @@
+name: ZooKeeper
+website_url: https://zookeeper.apache.org/
+description: ZooKeeper 是一个集中式服务，用于维护配置信息、命名、分布式同步和组服务。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - C++
+tags:
+  - 服务发现
+source_code_url: https://github.com/apache/zookeeper

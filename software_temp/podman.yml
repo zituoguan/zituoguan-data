@@ -1,0 +1,10 @@
+name: Podman
+website_url: https://podman.io
+description: 无守护进程的容器引擎，支持以 root 或 rootless 模式运行。可直接 `alias docker=podman`。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://github.com/containers/podman

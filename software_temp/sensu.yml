@@ -1,0 +1,10 @@
+name: Sensu
+website_url: https://sensu.io/
+description: 针对弹性基础设施和分布式应用的监控工具。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/sensu/sensu-go

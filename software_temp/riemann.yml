@@ -1,0 +1,10 @@
+name: Riemann
+website_url: https://riemann.io/
+description: 灵活快速的事件处理器，支持复杂事件/指标分析。
+licenses:
+  - EPL-1.0
+platforms:
+  - Java
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/riemann/riemann

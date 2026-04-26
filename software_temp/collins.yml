@@ -1,0 +1,11 @@
+name: Collins
+website_url: https://tumblr.github.io/collins/
+description: Tumblr 的基础设施事实与知识源。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Scala
+tags:
+  - 配置管理数据库
+source_code_url: https://github.com/tumblr/collins

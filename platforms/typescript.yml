@@ -1,0 +1,2 @@
+name: TypeScript
+description: "TypeScript 是一种由微软开发和维护的开源编程语言，是 JavaScript 的一个超集，添加了静态类型和基于类的面向对象编程。TypeScript 代码最终会被编译为标准的 JavaScript。更多信息请参见 https://zh.wikipedia.org/wiki/TypeScript。"

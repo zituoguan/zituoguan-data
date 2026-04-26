@@ -1,0 +1,10 @@
+name: Bazel
+website_url: https://www.bazel.io/
+description: 一个快速、可扩展、多语言且可扩展的构建系统。由 Google 使用。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 自动化
+source_code_url: https://github.com/bazelbuild/bazel/

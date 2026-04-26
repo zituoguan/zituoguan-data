@@ -1,0 +1,10 @@
+name: Rsnapshot
+website_url: https://rsnapshot.org/
+description: 基于 rsync 的文件系统快照工具。
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - 备份
+source_code_url: https://github.com/rsnapshot/rsnapshot

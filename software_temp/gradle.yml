@@ -1,0 +1,11 @@
+name: Gradle
+website_url: https://gradle.org/
+description: 另一种构建自动化系统。
+licenses:
+  - Apache-2.0
+platforms:
+  - Groovy
+  - Java
+tags:
+  - 自动化
+source_code_url: https://github.com/gradle/gradle

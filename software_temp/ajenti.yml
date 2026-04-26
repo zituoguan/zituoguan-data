@@ -1,0 +1,11 @@
+name: Ajenti
+website_url: https://ajenti.org/
+description: Linux 和 BSD 的控制面板。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Shell
+tags:
+  - 控制面板
+source_code_url: https://github.com/ajenti/ajenti

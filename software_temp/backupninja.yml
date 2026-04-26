@@ -1,0 +1,9 @@
+name: Backupninja
+website_url: https://0xacab.org/liberate/backupninja
+description: 轻量级、可扩展的元备份系统，提供集中方式配置和协调多种备份工具。
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+tags:
+  - 备份

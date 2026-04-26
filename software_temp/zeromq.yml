@@ -1,0 +1,10 @@
+name: ZeroMQ
+website_url: https://zeromq.org/
+description: 轻量级队列系统。
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - 队列
+source_code_url: https://github.com/zeromq

@@ -1,0 +1,10 @@
+name: Docker Swarm
+website_url: https://docs.docker.com/engine/swarm/
+description: 管理 Docker 引擎集群。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://github.com/moby/swarmkit

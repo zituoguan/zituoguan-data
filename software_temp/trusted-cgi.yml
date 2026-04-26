@@ -1,0 +1,11 @@
+name: Trusted-CGI
+website_url: https://github.com/reddec/trusted-cgi
+description: 轻量级自托管 lambda/应用/cgi/无服务器函数平台。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - deb
+  - Docker
+tags:
+  - PaaS

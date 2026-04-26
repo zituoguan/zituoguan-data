@@ -1,0 +1,10 @@
+name: Fusion Directory
+website_url: https://www.fusiondirectory.org
+description: 基于 OpenLDAP 的企业目录和服务管理。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - 身份管理 - 工具和 Web 界面
+source_code_url: https://github.com/fusiondirectory/fusiondirectory

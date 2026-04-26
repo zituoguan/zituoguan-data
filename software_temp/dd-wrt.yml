@@ -1,0 +1,10 @@
+name: DD-WRT
+website_url: https://dd-wrt.com/
+description: 基于 Linux 的无线路由器和接入点固件，最初为 Linksys WRT54G 设计。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 路由器
+source_code_url: https://svn.dd-wrt.com/

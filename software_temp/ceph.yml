@@ -1,0 +1,10 @@
+name: Ceph
+website_url: https://ceph.com/en/
+description: 分布式对象、块和文件存储平台。
+licenses:
+  - LGPL-3.0
+platforms:
+  - C++
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/ceph/ceph

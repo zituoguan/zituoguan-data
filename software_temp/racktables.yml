@@ -1,0 +1,11 @@
+name: RackTables
+website_url: https://racktables.org/
+description: 数据中心和机房资产管理，如硬件资产、网络地址、机架空间、网络配置等文档化。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - IT 资产管理
+demo_url: https://www.racktables.org/demo.php
+source_code_url: https://github.com/RackTables/racktables

@@ -1,0 +1,11 @@
+name: tcollector
+website_url: http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html
+description: 从本地采集器收集数据并推送到 OpenTSDB。
+licenses:
+  - LGPL-3.0
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/OpenTSDB/tcollector/

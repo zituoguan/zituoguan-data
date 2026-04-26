@@ -1,0 +1,10 @@
+name: PHP Server Monitor
+website_url: https://www.phpservermonitor.org/
+description: 开源服务器和网站监控工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/phpservermon/phpservermon

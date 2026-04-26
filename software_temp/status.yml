@@ -1,0 +1,10 @@
+name: Status
+website_url: https://github.com/dani3l0/Status
+description: 适合小型家庭服务器的简单轻量系统监控工具，带美观 Web 界面。
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - 监控和状态页面
+demo_url: https://status.enshittification.social/

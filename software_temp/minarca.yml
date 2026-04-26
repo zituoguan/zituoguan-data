@@ -1,0 +1,10 @@
+name: Minarca
+website_url: https://minarca.org/
+description: 客户端-服务器备份平台，提供集中式 Web 控制台，支持通过 GUI 或 CLI 管理和恢复 Linux、Windows 和 macOS 备份。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - 备份
+source_code_url: https://gitlab.com/ikus-soft/minarca

@@ -1,0 +1,10 @@
+name: Graphite
+website_url: https://graphite.readthedocs.org/en/latest/
+description: 可扩展的图形服务器。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/graphite-project/graphite-web

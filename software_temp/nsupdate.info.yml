@@ -1,0 +1,11 @@
+name: nsupdate.info
+website_url: https://www.nsupdate.info/
+description: 动态 DNS 服务。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - DNS - 控制面板与域名管理
+demo_url: https://www.nsupdate.info/account/register/
+source_code_url: https://github.com/nsupdate-info/nsupdate.info

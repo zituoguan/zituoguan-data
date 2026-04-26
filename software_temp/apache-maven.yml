@@ -1,0 +1,10 @@
+name: Apache Maven
+website_url: https://maven.apache.org/
+description: 主要用于 Java 的构建自动化工具。一个软件项目管理和理解工具。基于项目对象模型（POM）的概念，Maven 可以从一处信息管理项目的构建、报告和文档。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 自动化
+source_code_url: https://github.com/apache/maven

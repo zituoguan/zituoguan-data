@@ -1,0 +1,10 @@
+name: Remmina
+website_url: https://www.remmina.org/
+description: 功能丰富的 Linux 及类 Unix 远程桌面应用。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 远程桌面客户端
+source_code_url: https://gitlab.com/Remmina/Remmina

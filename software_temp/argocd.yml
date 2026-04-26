@@ -1,0 +1,10 @@
+name: ArgoCD
+website_url: https://argo-cd.readthedocs.io/en/stable/
+description: 面向 Kubernetes 的声明式 GitOps 持续交付工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/argoproj/argo-cd

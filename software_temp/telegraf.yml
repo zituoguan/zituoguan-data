@@ -1,0 +1,9 @@
+name: Telegraf
+website_url: https://github.com/influxdata/telegraf
+description: 插件驱动的服务器代理，用于采集、处理、聚合和写入指标。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 指标和指标采集

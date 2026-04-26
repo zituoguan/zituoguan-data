@@ -1,0 +1,10 @@
+name: GNU Make
+website_url: https://www.gnu.org/software/make/
+description: 最流行的自动化构建工具之一，适用于多种用途。make 控制从源文件生成可执行文件和其他非源文件。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 自动化
+source_code_url: https://git.savannah.gnu.org/cgit/make.git

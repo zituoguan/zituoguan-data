@@ -1,0 +1,10 @@
+name: Thruk
+website_url: https://www.thruk.org/
+description: 多后端监控 Web 界面，支持 Naemon、Nagios、Icinga 和 Shinken。
+licenses:
+  - GPL-1.0
+platforms:
+  - Perl
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/sni/Thruk

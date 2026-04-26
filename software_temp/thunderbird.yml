@@ -1,0 +1,11 @@
+name: Thunderbird
+website_url: https://www.thunderbird.net/
+description: 免费、易于设置和自定义的邮件应用。
+licenses:
+  - MPL-2.0
+platforms:
+  - C
+  - C++
+tags:
+  - 邮件客户端
+source_code_url: https://hg.mozilla.org/comm-central/file

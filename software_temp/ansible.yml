@@ -1,0 +1,10 @@
+name: Ansible
+website_url: https://www.ansible.com/
+description: 提供配置管理、应用部署等功能的自动化工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - 配置管理
+source_code_url: https://github.com/ansible/ansible

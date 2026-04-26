@@ -1,0 +1,10 @@
+name: Grafana
+website_url: https://grafana.com/
+description: Graphite 和 InfluxDB 的仪表盘与图形编辑器。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/grafana/grafana

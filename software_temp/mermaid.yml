@@ -1,0 +1,11 @@
+name: Mermaid
+website_url: https://mermaid-js.github.io/mermaid-live-editor/
+description: 具有独特简洁语法的 JavaScript 绘图模块，可集成到 Grafana 等多种工具。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - 绘图
+source_code_url: https://github.com/mermaid-js/mermaid-live-editor

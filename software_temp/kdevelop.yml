@@ -1,0 +1,10 @@
+name: KDevelop
+website_url: https://www.kdevelop.org/
+description: KDE 团队开发的 IDE。
+licenses:
+  - GFDL-1.2
+platforms:
+  - C++
+tags:
+  - 编辑器
+source_code_url: https://invent.kde.org/kdevelop/kdevelop

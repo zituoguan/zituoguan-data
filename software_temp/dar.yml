@@ -1,0 +1,10 @@
+name: Dar
+website_url: http://dar.linux.free.fr/
+description: Disk ARchive，功能丰富、健壮的归档和备份软件，类似 tar。
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - 备份
+source_code_url: https://github.com/Edrusb/DAR

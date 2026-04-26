@@ -1,0 +1,10 @@
+name: TahoeLAFS
+website_url: https://tahoe-lafs.org/trac/tahoe-lafs
+description: 安全、去中心化、容错的点对点分布式数据存储和文件系统。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 分布式文件系统
+source_code_url: https://github.com/tahoe-lafs/tahoe-lafs

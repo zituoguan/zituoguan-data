@@ -1,0 +1,10 @@
+name: DadaMail
+website_url: https://dadamailproject.com/
+description: 用 Perl 编写的邮件列表管理器。
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - 杂项
+source_code_url: https://sourceforge.net/projects/dadamail/files/

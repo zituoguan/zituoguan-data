@@ -1,0 +1,11 @@
+name: RANCID
+website_url: https://www.shrubbery.net/rancid/
+description: 监控网络设备配置并维护变更历史。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Perl
+  - Shell
+tags:
+  - 网络配置管理
+source_code_url: https://github.com/haussli/rancid

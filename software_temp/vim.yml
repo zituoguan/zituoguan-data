@@ -1,0 +1,10 @@
+name: Vim
+website_url: https://www.vim.org
+description: 高度可配置的文本编辑器，提升编辑效率。
+licenses:
+  - Vim
+platforms:
+  - C
+tags:
+  - 编辑器
+source_code_url: https://github.com/vim/vim

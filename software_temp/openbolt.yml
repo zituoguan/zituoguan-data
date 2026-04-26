@@ -1,0 +1,10 @@
+name: OpenBolt
+website_url: https://voxpupuli.org/openvox/
+description: 编排工具，用于运行编排工作流或一次性任务/脚本，以自动化节点的配置和管理。是最后一个开源版本的 [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm) 的社区分支。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - 自动化
+source_code_url: https://github.com/OpenVoxProject/openbolt

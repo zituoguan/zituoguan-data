@@ -1,0 +1,11 @@
+name: Spack
+website_url: https://spack.io/
+description: 灵活的软件包管理器，支持多版本、多配置、多平台和多编译器。
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 构建和软件组织工具
+source_code_url: https://github.com/spack/spack

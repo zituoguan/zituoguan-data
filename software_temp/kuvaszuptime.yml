@@ -1,0 +1,11 @@
+name: KuvaszUptime
+website_url: https://kuvasz-uptime.dev
+description: 高性能、稳定的可用性与 SSL 监控服务，支持可品牌化状态页面、IAC、Prometheus 集成及完整的 REST API。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/kuvasz-uptime/kuvasz
+demo_url: https://kuvasz-uptime.dev/demo/

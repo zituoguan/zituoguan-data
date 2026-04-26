@@ -1,0 +1,9 @@
+name: Diamond
+website_url: https://github.com/python-diamond/Diamond
+description: 收集系统指标并发布到 Graphite（及其他）的守护进程。
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - 指标和指标采集

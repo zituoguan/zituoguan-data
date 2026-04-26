@@ -1,0 +1,10 @@
+name: Woodpecker
+website_url: https://woodpecker-ci.org/
+description: Drone 的社区分支，使用 Docker 容器。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/woodpecker-ci/woodpecker

@@ -1,0 +1,10 @@
+name: OpenNTPD
+website_url: https://www.openntpd.org/
+description: 免费、易用的网络时间协议实现。
+licenses:
+  - ISC
+platforms:
+  - C
+tags:
+  - 时间服务器
+source_code_url: https://github.com/openntpd-portable/openntpd-openbsd/

@@ -1,0 +1,10 @@
+name: Lustre
+website_url: https://www.lustre.org/
+description: 并行分布式文件系统，常用于大规模集群计算。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 分布式文件系统
+source_code_url: https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary

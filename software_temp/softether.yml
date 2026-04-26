@@ -1,0 +1,10 @@
+name: SoftEther
+website_url: https://www.softether.org/
+description: 多协议软件 VPN，功能强大。
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://github.com/SoftEtherVPN/SoftEtherVPN/

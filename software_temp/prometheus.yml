@@ -1,0 +1,10 @@
+name: Prometheus
+website_url: https://prometheus.io/
+description: 服务监控系统与时序数据库。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/prometheus/prometheus

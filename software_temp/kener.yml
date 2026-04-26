@@ -1,0 +1,11 @@
+name: Kener
+website_url: https://kener.ing/
+description: 带有事件管理功能的状态页面，易于使用和自定义。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/rajnandan1/kener

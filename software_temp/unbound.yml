@@ -1,0 +1,10 @@
+name: Unbound
+website_url: https://nlnetlabs.nl/projects/unbound/about/
+description: 支持验证、递归和缓存的 DNS 解析器。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://github.com/NLnetLabs/unbound

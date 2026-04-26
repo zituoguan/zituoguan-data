@@ -1,0 +1,10 @@
+name: Alerta
+website_url: https://alerta.io/
+description: 分布式、可扩展且灵活的监控系统。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/alerta/alerta

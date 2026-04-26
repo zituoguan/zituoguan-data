@@ -1,0 +1,12 @@
+name: Sysdig
+website_url: https://www.sysdig.com/
+description: 捕获 Linux 实例的系统状态和活动，并进行保存、过滤和分析。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Lua
+  - C
+tags:
+  - 故障排查
+source_code_url: https://github.com/draios/sysdig

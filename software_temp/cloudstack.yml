@@ -1,0 +1,11 @@
+name: CloudStack
+website_url: https://cloudstack.apache.org/
+description: 用于创建、管理和部署基础设施云服务的云计算软件。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Python
+tags:
+  - 部署自动化
+source_code_url: https://github.com/apache/cloudstack

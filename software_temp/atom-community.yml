@@ -1,0 +1,9 @@
+name: Atom Community
+website_url: https://github.com/atom-community/atom
+description: '[atom](https://github.com/atom/atom) 的分支，来自 Github 的可定制文本编辑器。'
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - 编辑器

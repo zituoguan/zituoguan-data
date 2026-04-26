@@ -1,0 +1,12 @@
+name: Virtualmin
+website_url: https://www.virtualmin.com/
+description: Linux 和 BSD 系统的强大灵活的 Web 托管控制面板。
+licenses:
+  - GPL-3.0
+platforms:
+  - Shell
+  - Perl
+  - Other
+tags:
+  - 控制面板
+source_code_url: https://github.com/virtualmin

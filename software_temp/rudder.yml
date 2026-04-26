@@ -1,0 +1,10 @@
+name: Rudder
+website_url: https://www.rudder.io/
+description: 基于 CFEngine 的可扩展动态配置管理系统，支持补丁、安全与合规。
+licenses:
+  - GPL-3.0
+platforms:
+  - Scala
+tags:
+  - 配置管理
+source_code_url: https://github.com/Normation/rudder

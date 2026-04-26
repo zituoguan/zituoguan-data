@@ -1,0 +1,12 @@
+name: pfSense CE
+website_url: https://www.pfsense.org/
+description: 基于 FreeBSD 的免费网络防火墙发行版，内核定制并集成第三方自由软件包。
+licenses:
+  - Apache-2.0
+platforms:
+  - Shell
+  - PHP
+  - Other
+tags:
+  - 路由器
+source_code_url: https://github.com/pfsense/pfsense

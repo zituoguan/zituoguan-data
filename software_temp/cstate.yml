@@ -1,0 +1,11 @@
+name: cState
+website_url: https://cstate.netlify.app/
+description: 基于 Hugo 的静态状态页面，设计简洁、JS 极少、HTML/CSS 极轻量，支持高度自定义、可选管理面板、只读 API，兼容 IE8+。
+licenses:
+  - MIT
+platforms:
+  - HTML
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/cstate/cstate
+demo_url: https://cstate.mnts.lt/

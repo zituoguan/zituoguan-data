@@ -1,0 +1,10 @@
+name: Flume
+website_url: https://flume.apache.org/
+description: 高效收集、聚合和传输大量日志数据的分布式、可靠服务。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 日志管理
+source_code_url: https://github.com/apache/flume

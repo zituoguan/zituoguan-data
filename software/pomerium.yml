@@ -8,6 +8,7 @@ platforms:
   - Docker
 tags:
   - Web 服务器
+  - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/pomerium/pomerium
 stargazers_count: 4729
 updated_at: '2026-04-02'

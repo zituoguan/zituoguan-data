@@ -1,0 +1,10 @@
+name: Nano
+website_url: https://nano-editor.org
+description: 易用、可定制的文本编辑器。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 编辑器
+source_code_url: https://git.savannah.gnu.org/cgit/nano.git/tree/

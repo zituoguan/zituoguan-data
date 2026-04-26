@@ -1,0 +1,10 @@
+name: Authelia
+website_url: https://www.authelia.com/
+description: Web 应用的单点登录多因素门户。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 身份管理 - 单点登录（SSO）
+source_code_url: https://github.com/authelia/authelia

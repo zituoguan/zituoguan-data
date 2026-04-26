@@ -1,0 +1,11 @@
+name: dashdot
+website_url: https://github.com/MauriceNino/dashdot
+description: 面向小型私有服务器的简单现代服务器仪表盘。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - 监控和状态页面
+demo_url: https://dash.mauz.dev/

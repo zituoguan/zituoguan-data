@@ -1,0 +1,11 @@
+name: Chocolatey
+website_url: https://chocolatey.org/
+description: Windows 的包管理器。
+licenses:
+  - Apache-2.0
+platforms:
+  - C#
+  - PowerShell
+tags:
+  - 杂项
+source_code_url: https://github.com/chocolatey/choco

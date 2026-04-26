@@ -1,0 +1,10 @@
+name: Darcs
+website_url: https://darcs.net/
+description: 跨平台版本控制系统，类似 git、mercurial 或 svn，但采用完全不同的思路：关注变更而非快照。
+licenses:
+  - GPL-2.0
+platforms:
+  - Haskell
+tags:
+  - 版本控制
+source_code_url: https://darcs.net/releases/

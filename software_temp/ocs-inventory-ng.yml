@@ -1,0 +1,11 @@
+name: OCS Inventory NG
+website_url: https://ocsinventory-ng.org/
+description: 适用于 IT 部门所有设备的资产管理与部署解决方案。
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+  - Perl
+tags:
+  - IT 资产管理
+source_code_url: https://github.com/OCSInventory-NG

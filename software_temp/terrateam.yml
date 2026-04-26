@@ -1,0 +1,11 @@
+name: Terrateam
+website_url: https://terrateam.io
+description: 针对 Terraform 和 OpenTofu 工作流的 GitOps 优先自动化平台，支持自托管运行器。
+licenses:
+  - MPL-2.0
+platforms:
+  - OCaml
+  - Docker
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/terrateamio/terrateam

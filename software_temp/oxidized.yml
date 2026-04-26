@@ -1,0 +1,9 @@
+name: Oxidized
+website_url: https://github.com/ytti/oxidized
+description: 网络设备配置备份工具。
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - 网络配置管理

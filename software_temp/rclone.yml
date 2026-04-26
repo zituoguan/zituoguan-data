@@ -1,0 +1,10 @@
+name: rclone
+website_url: https://rclone.org/
+description: 命令行程序，用于在不同云存储提供商之间同步文件和目录。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 备份
+source_code_url: https://github.com/rclone/rclone

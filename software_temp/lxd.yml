@@ -1,0 +1,10 @@
+name: LXD
+website_url: https://linuxcontainers.org/lxd/
+description: 容器“管理器”，为 LXC 提供更好的用户体验。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 软件容器
+source_code_url: https://github.com/lxc/lxd

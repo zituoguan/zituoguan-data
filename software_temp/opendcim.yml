@@ -1,0 +1,12 @@
+name: openDCIM
+website_url: https://opendcim.org/
+description: GPL v3 授权的数据中心资产管理（DCIM）工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - JavaScript
+tags:
+  - IT 资产管理
+source_code_url: https://github.com/opendcim/openDCIM
+demo_url: https://opendcim.org/demo.html

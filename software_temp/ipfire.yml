@@ -1,0 +1,12 @@
+name: IPFire
+website_url: https://www.ipfire.org/
+description: 免费的网络防火墙发行版，基于 Linux 操作系统，提供易于使用的 Web 管理控制台。
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+  - PHP
+  - Other
+tags:
+  - 路由器
+source_code_url: https://github.com/ipfire/ipfire-2.x

@@ -1,0 +1,10 @@
+name: ocserv
+website_url: https://www.infradead.org/ocserv/
+description: 兼容 Cisco AnyConnect 的 VPN 服务器。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - 虚拟专用网络（VPN）
+source_code_url: https://gitlab.com/ocserv/ocserv

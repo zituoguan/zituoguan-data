@@ -1,0 +1,10 @@
+name: Poweradmin
+website_url: https://www.poweradmin.org/
+description: PowerDNS 服务器的 Web 控制面板。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - DNS - 控制面板与域名管理
+source_code_url: https://github.com/poweradmin/poweradmin

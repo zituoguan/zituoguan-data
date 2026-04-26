@@ -1,0 +1,11 @@
+name: eZ Server Monitor
+website_url: https://www.ezservermonitor.com
+description: 轻量级简单的 Linux 仪表盘监控，提供 Web 和 Bash 应用。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Shell
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/shevabam/ezservermonitor-web

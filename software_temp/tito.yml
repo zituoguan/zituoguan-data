@@ -1,0 +1,9 @@
+name: tito
+website_url: https://github.com/dgoodwin/tito
+description: 为基于 git 的项目构建 RPM 包。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 打包

@@ -1,0 +1,9 @@
+name: rtop
+website_url: https://github.com/rapidloop/rtop
+description: 基于 SSH 的交互式远程系统监控工具。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 监控和状态页面

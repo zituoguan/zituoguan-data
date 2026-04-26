@@ -1,0 +1,10 @@
+name: Yadifa
+website_url: https://www.yadifa.eu/
+description: 由 .eu 从零开发，简洁、小巧、轻量且符合 RFC 的名称服务器实现。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://github.com/yadifa/yadifa

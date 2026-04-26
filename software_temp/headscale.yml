@@ -1,0 +1,9 @@
+name: Headscale
+website_url: https://github.com/juanfont/headscale
+description: '[Tailscale](https://tailscale.com) 的自托管分支，跨平台客户端，易用，内置（实验性）监控工具。'
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - 虚拟专用网络（VPN）

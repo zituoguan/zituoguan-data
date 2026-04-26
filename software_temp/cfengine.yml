@@ -1,0 +1,10 @@
+name: CFEngine
+website_url: https://cfengine.com/
+description: 用于大规模计算机系统自动配置和维护的配置管理系统。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - 配置管理
+source_code_url: https://github.com/cfengine/core

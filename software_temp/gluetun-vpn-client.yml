@@ -1,0 +1,9 @@
+name: Gluetun VPN client
+website_url: https://github.com/qdm12/gluetun
+description: 多 VPN 提供商的 Docker VPN 客户端，支持 OpenVPN/WireGuard、DNS over TLS，内置代理。
+licenses:
+  - MIT
+platforms:
+  - docker
+tags:
+  - 虚拟专用网络（VPN）

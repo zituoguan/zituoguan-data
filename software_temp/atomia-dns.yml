@@ -1,0 +1,9 @@
+name: Atomia DNS
+website_url: https://github.com/atomia/atomiadns/
+description: DNS 管理系统。
+licenses:
+  - ISC
+platforms:
+  - Perl
+tags:
+  - DNS - 控制面板与域名管理

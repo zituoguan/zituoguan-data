@@ -1,0 +1,10 @@
+name: Databasus
+website_url: https://databasus.com/
+description: 支持 PostgreSQL、MySQL、MariaDB 和 MongoDB 的备份工具，提供 Web UI、外部存储（本地、S3、FTP、Google Drive 等）、通知（webhook、Discord、Slack 等）及团队管理功能。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 备份
+source_code_url: https://github.com/databasus/databasus

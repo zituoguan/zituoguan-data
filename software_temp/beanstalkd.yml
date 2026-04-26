@@ -1,0 +1,10 @@
+name: BeanstalkD
+website_url: https://beanstalkd.github.io/
+description: 简单快速的工作队列。
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - 队列
+source_code_url: https://github.com/beanstalkd/beanstalkd

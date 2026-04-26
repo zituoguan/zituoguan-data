@@ -1,0 +1,10 @@
+name: CDS
+website_url: https://ovh.github.io/cds/
+description: 企业级持续交付与 DevOps 自动化开源平台。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/ovh/cds

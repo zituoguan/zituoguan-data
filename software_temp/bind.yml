@@ -1,0 +1,10 @@
+name: Bind
+website_url: https://www.isc.org/bind/
+description: 多功能、经典、完整的名称服务器软件。
+licenses:
+  - MPL-2.0
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://gitlab.isc.org/isc-projects/bind9

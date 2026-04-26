@@ -1,0 +1,11 @@
+name: FaynoSync
+website_url: https://faynosync.com
+description: 自托管动态更新服务器，支持统计功能和多种更新器，提供灵活的应用更新与数据洞察功能。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - 部署自动化
+source_code_url: https://github.com/ku9nov/faynoSync

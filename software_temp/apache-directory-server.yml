@@ -1,0 +1,10 @@
+name: Apache Directory Server
+website_url: https://directory.apache.org/apacheds/
+description: 可扩展、可嵌入的目录服务器，兼容 LDAPv3，支持 Kerberos 5、变更密码协议、触发器、存储过程、队列和视图。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - 身份管理 - LDAP
+source_code_url: https://github.com/apache/directory-server

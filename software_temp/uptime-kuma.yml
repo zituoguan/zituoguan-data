@@ -1,0 +1,10 @@
+name: Uptime Kuma
+website_url: https://uptime.kuma.pet/
+description: 现代化自托管监控工具，界面简洁，支持丰富的通知方式。
+licenses:
+  - MIT
+platforms:
+  - NodeJS
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/louislam/uptime-kuma

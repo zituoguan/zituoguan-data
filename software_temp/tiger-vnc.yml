@@ -1,0 +1,10 @@
+name: Tiger VNC
+website_url: https://tigervnc.org/
+description: 高性能多平台 VNC 客户端和服务器。
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - 远程桌面客户端
+source_code_url: https://github.com/TigerVNC/tigervnc

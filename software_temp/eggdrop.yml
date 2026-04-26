@@ -1,0 +1,10 @@
+name: Eggdrop
+website_url: https://www.eggheads.org/
+description: 最早的 IRC 机器人，仍在积极开发中。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - ChatOps
+source_code_url: https://github.com/eggheads/eggdrop

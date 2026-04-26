@@ -1,0 +1,10 @@
+name: Duplicati
+website_url: https://www.duplicati.com
+description: 备份客户端，可将加密、增量、压缩的备份安全地存储到云存储服务和远程文件服务器。
+licenses:
+  - LGPL-2.1
+platforms:
+  - C#
+tags:
+  - 备份
+source_code_url: https://github.com/duplicati/duplicati

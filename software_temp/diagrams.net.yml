@@ -1,0 +1,11 @@
+name: Diagrams.net
+website_url: https://app.diagrams.net/
+description: 又名 [Draw.io](https://app.diagrams.net/)。易用的图表 UI，内置丰富模板。
+licenses:
+  - Apache-2.0
+platforms:
+  - JavaScript
+  - Docker
+tags:
+  - 绘图
+source_code_url: https://github.com/jgraph/drawio

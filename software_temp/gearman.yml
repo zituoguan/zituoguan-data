@@ -1,0 +1,10 @@
+name: Gearman
+website_url: http://gearman.org/
+description: 快速多语言队列/作业处理平台。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C++
+tags:
+  - 队列
+source_code_url: https://github.com/gearman/gearmand

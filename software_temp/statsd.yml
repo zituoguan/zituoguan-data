@@ -1,0 +1,9 @@
+name: Statsd
+website_url: https://github.com/etsy/statsd/
+description: 监听计数器、定时器等统计信息的守护进程，通过 UDP 或 TCP 接收并聚合后发送到后端服务。
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - 指标和指标采集

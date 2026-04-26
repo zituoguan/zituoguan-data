@@ -1,0 +1,10 @@
+name: Buildbot
+website_url: https://buildbot.net/
+description: 基于 Python 的持续集成工具包。
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - 持续集成和持续部署
+source_code_url: https://github.com/buildbot/buildbot

@@ -1,0 +1,10 @@
+name: dnsmasq
+website_url: https://www.thekelleys.org.uk/dnsmasq/doc.html
+description: 为小型网络提供 DNS、DHCP、路由通告和网络引导等基础设施。
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - DNS - 服务器
+source_code_url: https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree

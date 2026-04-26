@@ -1,0 +1,11 @@
+name: OPNsense
+website_url: https://opnsense.org/
+description: 基于 FreeBSD 的开源防火墙和路由器，支持流量整形、负载均衡和 VPN。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - C
+  - PHP
+tags:
+  - 路由器
+source_code_url: https://github.com/opnsense

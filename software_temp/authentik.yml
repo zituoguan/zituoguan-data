@@ -1,0 +1,10 @@
+name: Authentik
+website_url: https://goauthentik.io/
+description: 灵活的身份提供者，支持多种协议（OAuth 2.0、SAML、LDAP 和 Radius）。
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - 身份管理 - 单点登录（SSO）
+source_code_url: https://github.com/goauthentik/authentik

@@ -1,0 +1,12 @@
+name: tirreno
+website_url: https://www.tirreno.com/
+description: 应用层安全工具，保护应用程序免受威胁、欺诈和滥用。
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/tirrenotechnologies/tirreno
+demo_url: https://play.tirreno.com/

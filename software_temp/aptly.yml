@@ -1,0 +1,10 @@
+name: aptly
+website_url: https://www.aptly.info/
+description: Debian 仓库管理的瑞士军刀。
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - 打包
+source_code_url: https://github.com/aptly-dev/aptly

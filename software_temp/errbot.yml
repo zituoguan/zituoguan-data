@@ -1,0 +1,10 @@
+name: Errbot
+website_url: https://errbot.io/
+description: 基于插件的聊天机器人，易于部署、扩展和维护。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - ChatOps
+source_code_url: https://github.com/errbotio/errbot

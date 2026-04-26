@@ -1,0 +1,10 @@
+name: VictoriaMetrics
+website_url: https://victoriametrics.com/
+description: 快速、经济高效的时序数据库和监控解决方案，可直接替换 Prometheus，支持 PromQL/MetricsQL。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - 指标和指标采集
+source_code_url: https://github.com/VictoriaMetrics/VictoriaMetrics

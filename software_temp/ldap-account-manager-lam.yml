@@ -1,0 +1,10 @@
+name: LDAP Account Manager (LAM)
+website_url: https://www.ldap-account-manager.org/lamcms/
+description: 用于管理 LDAP 目录中条目（如用户、组、DHCP 设置）的 Web 前端。
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - 身份管理 - 工具和 Web 界面
+source_code_url: https://github.com/LDAPAccountManager/lam/

@@ -1,0 +1,10 @@
+name: OneUptime
+website_url: https://oneuptime.com
+description: 用于监控和管理在线服务的综合解决方案。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面
+source_code_url: https://github.com/oneuptime/oneuptime

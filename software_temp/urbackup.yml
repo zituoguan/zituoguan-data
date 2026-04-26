@@ -1,0 +1,11 @@
+name: UrBackup
+website_url: https://www.urbackup.org/
+description: 面向 Windows、MacOS 和 Linux 的开源客户端/服务器网络备份。
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+  - C++
+tags:
+  - 备份
+source_code_url: https://github.com/uroni/urbackup_backend

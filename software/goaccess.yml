@@ -1,12 +1,13 @@
 name: GoAccess
 website_url: http://goaccess.io/
-description: 实时网络日志分析器和交互式查看器，可在终端中运行。
+description: 实时 Web 日志分析器和交互式查看器，可在终端或浏览器中运行。
 licenses:
-  - GPL-2.0
+  - MIT
 platforms:
   - C
 tags:
   - 分析
+  - 日志管理
 source_code_url: https://github.com/allinurl/goaccess
 stargazers_count: 20378
 updated_at: '2026-03-31'
