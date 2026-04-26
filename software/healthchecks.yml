@@ -1,31 +1,10 @@
 name: Healthchecks
-website_url: https://healthchecks.io/
-description: 监听 ping 请求，并在 ping 延迟时发送警报。
+website_url: https://healthchecks.io/docs/self_hosted/
+description: 针对定时任务、后台服务和计划任务的监控。
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
-  - Docker
 tags:
-  - 自动化
   - 监控和状态页面
 source_code_url: https://github.com/healthchecks/healthchecks
-stargazers_count: 9963
-updated_at: '2026-04-02'
-archived: false
-current_release:
-  tag: v4.1.1
-  published_at: '2026-03-25'
-commit_history:
-  2025-05: 14
-  2025-06: 21
-  2025-07: 14
-  2025-08: 24
-  2025-09: 32
-  2025-10: 115
-  2025-11: 31
-  2025-12: 52
-  2026-01: 28
-  2026-02: 12
-  2026-03: 47
-  2026-04: 1

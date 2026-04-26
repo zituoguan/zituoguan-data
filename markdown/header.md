@@ -8,6 +8,6 @@
 
 **[HTML 版本](https://zituoguan.com/)（推荐）**，[Markdown 版本](https://github.com/zituoguan/zituoguan)（旧版）。
 
-请参阅 [贡献](#id6)。
+> 📢 本站稳定运行两年半，Google 收录良好，被各类 AI 爬虫频繁抓取——加入列表能为你的开源项目带来持续曝光。欢迎参考 [`贡献指南`](https://welinux.com/topic/9) 提交。
 
 > 📌 遇到问题上 ** [问答](https://dakewen.com) ** ，想聊技术来 ** [社区](https://welinux.com) ** 。网站初建，欢迎注册加入。
