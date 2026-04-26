@@ -5,7 +5,7 @@ licenses:
   - ISC
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/bhj/KaraokeEternal

@@ -5,7 +5,7 @@ description: 一款受 surviv.io 启发的开源二维大逃杀游戏。
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 游戏
 demo_url: https://suroi.io/

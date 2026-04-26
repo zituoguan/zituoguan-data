@@ -4,7 +4,7 @@ description: Manage my Damn Life（MMDL）是一个用于管理 CalDAV 任务和
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 日历和联系人

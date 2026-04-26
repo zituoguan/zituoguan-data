@@ -4,7 +4,7 @@ description: 实时移动和网页分析、崩溃报告和推送通知平台。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 分析

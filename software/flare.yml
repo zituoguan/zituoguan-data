@@ -6,7 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 文件传输 - 单击和拖放上传
   - 文件传输 - 基于 Web 的文件管理器

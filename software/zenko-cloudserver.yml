@@ -5,7 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/scality/cloudserver

@@ -4,7 +4,7 @@ description: 实时协作的Web白板，可用于图表、绘图和笔记。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - 定制通信系统

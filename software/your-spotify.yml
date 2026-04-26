@@ -4,7 +4,7 @@ description: 允许您记录Spotify播放活动，并通过Web应用程序提供
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 个人仪表板

@@ -5,7 +5,7 @@ description: 功能丰富的客户端代码演练场，支持 React、Vue、Svel
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 软件开发 - IDE 和工具
 depends_3rdparty: true

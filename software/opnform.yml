@@ -6,7 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 投票和事件

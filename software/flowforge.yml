@@ -4,7 +4,7 @@ description: 以可靠、可扩展和安全的方式部署 Node-RED 应用程序
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
   - K8S
 tags:

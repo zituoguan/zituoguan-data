@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Shell
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/NuSkooler/enigma-bbs

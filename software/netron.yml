@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Python
-  - Nodejs
+  - Node.js
 tags:
   - 分析
 source_code_url: https://github.com/lutzroeder/netron

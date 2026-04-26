@@ -5,7 +5,7 @@ licenses:
   - OSL-3.0
 platforms:
   - PHP
-  - Nodejs
+  - Node.js
 tags:
   - 预订和日程安排
 source_code_url: https://github.com/Qloapps/QloApps

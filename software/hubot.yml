@@ -4,7 +4,7 @@ description: 可定制的自动化机器人。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - ChatOps
 source_code_url: https://github.com/hubotio/hubot

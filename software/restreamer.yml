@@ -4,7 +4,7 @@ description: 无需流媒体服务商，即可在你的网站上访问 H.264 实
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 流媒体 - 视频流媒体

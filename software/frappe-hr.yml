@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - Python
-  - Nodejs
+  - Node.js
 tags:
   - 人力资源管理（HRM）
 stargazers_count: 7715

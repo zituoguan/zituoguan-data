@@ -4,7 +4,7 @@ description: 创建协作式白板（文档以法语提供）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 杂项
 source_code_url: https://codeberg.org/ladigitale/digiboard

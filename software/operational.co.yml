@@ -5,7 +5,7 @@ description: 在实时时间线中接收来自您产品的警报。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 杂项

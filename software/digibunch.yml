@@ -4,7 +4,7 @@ description: 创建链接捆绑，与您的学员或同事分享。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 书签和链接分享

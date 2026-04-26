@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
   - deb
-  - Nodejs
+  - Node.js
 tags:
   - 流媒体 - 音频流媒体
   - 文档管理 - 电子书

@@ -4,7 +4,7 @@ description: 使用静态 Markdown 文件的知识库平台。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 维基
 source_code_url: https://github.com/ryanlelek/Raneto

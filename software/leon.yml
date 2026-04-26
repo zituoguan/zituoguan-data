@@ -4,7 +4,7 @@ description: 可部署在自己服务器上的个人助手。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 自动化
 source_code_url: https://github.com/leon-ai/leon

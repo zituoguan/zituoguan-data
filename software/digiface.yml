@@ -4,7 +4,7 @@ description: 使用 Avataaars 库创建头像（法语文档）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 杂项
 source_code_url: https://codeberg.org/ladigitale/digiface

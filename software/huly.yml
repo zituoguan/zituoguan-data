@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - K8S
-  - Nodejs
+  - Node.js
 tags:
   - 软件开发 - 项目管理
 demo_url: https://app.huly.io

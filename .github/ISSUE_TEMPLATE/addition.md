@@ -30,7 +30,7 @@ platforms:
   - Java
   - Python
   - PHP
-  - Nodejs
+  - Node.js
   - deb
   - Docker
 # 标签列表（类别），请参见 https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags 获取完整的标签列表

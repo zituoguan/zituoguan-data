@@ -4,7 +4,7 @@ description: 创建简单的思维导图（法语文档）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 知识管理工具

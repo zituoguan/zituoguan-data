@@ -6,7 +6,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 书签和链接分享

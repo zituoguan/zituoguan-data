@@ -4,7 +4,7 @@ description: 基于 Web 的 CNC 铣床控制器界面，支持 Grbl、Smoothiewa
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 制造业
 source_code_url: https://github.com/cncjs/cncjs/

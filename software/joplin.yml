@@ -4,7 +4,7 @@ description: 笔记应用程序，具有 Markdown 编辑器和加密支持，适
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 笔记和编辑器
 source_code_url: https://github.com/laurent22/joplin

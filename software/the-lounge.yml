@@ -4,7 +4,7 @@ description: 自托管的 Web IRC 客户端。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - IRC

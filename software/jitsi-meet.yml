@@ -4,7 +4,7 @@ description: 使用 Jitsi Videobridge 提供高质量、可扩展视频会议的
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
   - deb
 tags:

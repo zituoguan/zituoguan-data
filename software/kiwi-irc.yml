@@ -4,7 +4,7 @@ description: 支持主题的响应式 Web IRC 客户端。
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 通信 - IRC
 source_code_url: https://github.com/kiwiirc/kiwiirc

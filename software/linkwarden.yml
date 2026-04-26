@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 书签和链接分享
 source_code_url: https://github.com/linkwarden/linkwarden

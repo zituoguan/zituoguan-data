@@ -6,7 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 网络工具
 stargazers_count: 2834

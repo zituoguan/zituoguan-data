@@ -4,7 +4,7 @@ source_code_url: https://github.com/david-bai00/PrivyDrop
 description: 基于 WebRTC 的简洁易用点对点文本、图片与文件传输工具，支持断点续传。
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 licenses:
   - MIT
 tags:

@@ -4,7 +4,7 @@ description: 类似Trello的开源看板（kanban）。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/wekan/wekan

@@ -4,7 +4,7 @@ description: 浏览个人照片和视频，支持标签、移动端友好和 AI 
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 相册

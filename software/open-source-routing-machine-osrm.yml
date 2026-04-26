@@ -1,6 +1,6 @@
 name: Open Source Routing Machine (OSRM)
 website_url: http://project-osrm.org/
-description: 高性能路由引擎，设计用于运行在OpenStreetMap数据上，并提供HTTP API、C++库接口和Nodejs包装器。
+description: 高性能路由引擎，设计用于运行在OpenStreetMap数据上，并提供HTTP API、C++库接口和Node.js包装器。
 licenses:
   - BSD-2-Clause
 platforms:

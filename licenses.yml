@@ -175,6 +175,14 @@
   name: Q Public License 1.0
   url: https://spdx.org/licenses/QPL-1.0.html
 
-- identifier:  OLDAP-2.8
+- identifier: OLDAP-2.8
   name: Open LDAP Public License v2.8
   url: https://spdx.org/licenses/OLDAP-2.8.html
+
+- identifier: QPL-1.0
+  name: Q Public License 1.0
+  url: https://spdx.org/licenses/QPL-1.0.html
+
+- identifier: Vim
+  name: Vim License
+  url: https://spdx.org/licenses/Vim.html

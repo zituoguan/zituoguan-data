@@ -4,7 +4,7 @@ description: 快速轻松地创建多媒体演示文稿（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 办公套件

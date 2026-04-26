@@ -5,7 +5,7 @@ description: 更好用的 GitHub Pull Request 收件箱。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
   - K8S
 tags:

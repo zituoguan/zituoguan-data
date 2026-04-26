@@ -4,7 +4,7 @@ description: 非常极简的 RSS 阅读器。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 订阅阅读器
 source_code_url: https://github.com/georgemandis/bubo-rss

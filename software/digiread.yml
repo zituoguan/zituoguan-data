@@ -4,7 +4,7 @@ description: 使用 Mozilla 的 Readability 清理在线页面和文章（文档
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 杂项

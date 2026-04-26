@@ -4,7 +4,7 @@ description: CMS 与 Web 应用开发平台。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/keystonejs/keystone

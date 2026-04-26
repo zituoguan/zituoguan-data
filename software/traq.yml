@@ -5,7 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - PHP
-  - Nodejs
+  - Node.js
 tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/nirix/traq

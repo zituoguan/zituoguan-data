@@ -4,7 +4,7 @@ description: 同步媒体、聊天等，支持任意数量的频道。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 流媒体 - 视频流媒体
 source_code_url: https://github.com/calzoneman/sync

@@ -4,7 +4,7 @@ description: 简单、安全、快速的实时视频会议，支持高达 4K 和
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - 视频会议

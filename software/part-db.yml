@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - PHP
-  - Nodejs
+  - Node.js
 tags:
   - 库存管理
 demo_url: https://demo.part-db.de/en/

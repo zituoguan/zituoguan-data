@@ -4,7 +4,7 @@ description: 直接连接数据库和 API，并使用数据创建精美图表。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 数据库管理

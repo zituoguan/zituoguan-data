@@ -4,7 +4,7 @@ description: 具有 GUI 管理工具的音乐流媒体服务器。支持 Mac、W
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/IrosTheBeggar/mStream

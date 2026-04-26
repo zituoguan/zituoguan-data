@@ -5,7 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/coralproject/talk

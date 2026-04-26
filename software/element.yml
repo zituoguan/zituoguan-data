@@ -4,7 +4,7 @@ description: 用于Web、iOS和Android的功能齐全的Matrix客户端。
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/element-hq/element-web

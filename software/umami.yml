@@ -4,7 +4,7 @@ description: 简单、快速、注重隐私的Google Analytics替代方案。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 分析

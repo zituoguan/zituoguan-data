@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
   - 媒体管理
 source_code_url: https://github.com/seerr-team/seerr

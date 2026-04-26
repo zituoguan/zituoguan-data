@@ -5,7 +5,7 @@ description: 将多个来源的播放记录到多个 scrobbling 服务中。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 流媒体 - 音频流媒体

@@ -4,7 +4,7 @@ description: 快速、高度可扩展且事件驱动的 SMTP 服务器。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: https://github.com/haraka/Haraka

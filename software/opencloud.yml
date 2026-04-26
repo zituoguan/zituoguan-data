@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - Go
-  - Nodejs
+  - Node.js
 tags:
   - 文件传输和同步
 stargazers_count: 5057

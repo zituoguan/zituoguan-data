@@ -5,7 +5,7 @@ description: 一个极简分析工具。追踪 10-30 天内的事件。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 分析

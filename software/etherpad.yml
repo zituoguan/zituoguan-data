@@ -4,7 +4,7 @@ description: 高度可定制的在线编辑器，支持实时协作编辑。
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 办公套件

@@ -4,7 +4,7 @@ description: 一个协作套件，支持实时同步文档更改。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 办公套件

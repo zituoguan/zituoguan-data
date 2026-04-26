@@ -5,7 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - K8S
-  - Nodejs
+  - Node.js
   - Go
 tags:
   - PaaS

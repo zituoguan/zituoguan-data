@@ -4,7 +4,7 @@ description: 去中心化的类应用微博服务器/社交网络服务，适用
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - 社交网络和论坛

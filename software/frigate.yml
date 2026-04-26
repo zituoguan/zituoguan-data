@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
   - Python
-  - Nodejs
+  - Node.js
 tags:
   - 视频监控
 source_code_url: https://github.com/blakeblackshear/frigate

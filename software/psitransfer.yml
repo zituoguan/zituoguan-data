@@ -4,7 +4,7 @@ description: 简洁的文件共享方案，支持可靠的上传/下载断点续
 licenses:
   - BSD-2-Clause
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/psi-4ward/psitransfer

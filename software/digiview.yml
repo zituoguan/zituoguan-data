@@ -4,7 +4,7 @@ description: 以无干扰的界面查看 YouTube 视频（法语文档）.
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 杂项

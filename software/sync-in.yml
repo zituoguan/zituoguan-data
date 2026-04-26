@@ -5,7 +5,7 @@ description: 支持实时编辑、权限管理、桌面/命令行客户端的文
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 文件传输和同步

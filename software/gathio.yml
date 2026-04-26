@@ -5,7 +5,7 @@ description: 自毁、可分享、无需注册的事件页面。
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 投票和事件

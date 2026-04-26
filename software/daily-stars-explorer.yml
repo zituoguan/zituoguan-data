@@ -6,7 +6,7 @@ licenses:
   - MIT
 platforms:
   - Go
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 分析

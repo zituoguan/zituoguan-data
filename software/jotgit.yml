@@ -4,7 +4,7 @@ description: 基于 Git 的实时协作代码编辑。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 编辑器
 source_code_url: https://github.com/jdleesmiller/jotgit

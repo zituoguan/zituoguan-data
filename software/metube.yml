@@ -5,7 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Python
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 媒体管理

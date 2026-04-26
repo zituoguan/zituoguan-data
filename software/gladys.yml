@@ -4,7 +4,7 @@ description: 注重隐私的家庭助理。
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 物联网（IoT）

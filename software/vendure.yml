@@ -4,7 +4,7 @@ description: 一个无界面的商业框架。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 电子商务
 source_code_url: https://github.com/vendurehq/vendure

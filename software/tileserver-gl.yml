@@ -4,7 +4,7 @@ description: 使用 GL 样式的矢量和栅格地图。由 Mapbox GL Native 进
 licenses:
   - BSD-2-Clause
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 地图和全球定位系统（GPS）

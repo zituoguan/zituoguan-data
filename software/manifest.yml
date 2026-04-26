@@ -4,7 +4,7 @@ description: 仅需一个 YAML 文件即可完成的完整后端。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 软件开发 - 低代码
 source_code_url: https://github.com/mnfst/manifest

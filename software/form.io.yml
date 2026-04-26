@@ -4,7 +4,7 @@ description: 一种利用拖放表单构建器的 REST API 构建平台，应用
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 软件开发 - API 管理

@@ -4,7 +4,7 @@ description: Git 和持续集成/交付平台。
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Nodejs
+  - Node.js
   - Java
 tags:
   - 软件开发 - 项目管理

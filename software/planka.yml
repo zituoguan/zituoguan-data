@@ -4,7 +4,7 @@ description: 实时看板，用于工作组（Trello 的替代品）。
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
   - K8S
 tags:

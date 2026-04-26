@@ -1,10 +1,10 @@
 name: PhotoStructure
 website_url: https://photostructure.com/
-description: 将您家庭的所有照片和视频自动组织成一个有趣而美丽的网站。通过Docker、NodeJS或本地桌面安装程序运行。
+description: 将您家庭的所有照片和视频自动组织成一个有趣而美丽的网站。通过Docker、Node.js或本地桌面安装程序运行。
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 相册
 source_code_url: https://photostructure.com/

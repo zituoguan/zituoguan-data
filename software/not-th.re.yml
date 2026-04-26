@@ -5,7 +5,7 @@ description: 简单的粘贴分享平台，具有客户端加密功能，配备 
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 粘贴板

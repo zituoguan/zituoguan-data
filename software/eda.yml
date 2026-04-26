@@ -4,7 +4,7 @@ description: 用于数据分析和可视化的Web应用程序。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 分析

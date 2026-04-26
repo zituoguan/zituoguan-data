@@ -4,7 +4,7 @@ description: Wordle克隆。类似猜谜游戏Mastermind，但你需要猜测单
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 游戏
 source_code_url: https://github.com/clupasq/word-mastermind

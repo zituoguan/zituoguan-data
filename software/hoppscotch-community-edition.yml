@@ -4,7 +4,7 @@ description: 快速且美观的 API 请求构建器。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 软件开发 - API 管理

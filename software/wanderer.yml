@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - Go
-  - Nodejs
+  - Node.js
 tags:
   - 地图和全球定位系统（GPS）
 demo_url: https://demo.wanderer.to

@@ -5,7 +5,7 @@ description: 数字文件签署平台（DocuSign 替代方案）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 文档管理

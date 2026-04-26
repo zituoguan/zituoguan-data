@@ -4,7 +4,7 @@ description: 录制并分享音频文件（文档为法语）。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 文件传输 - 单击和拖放上传

@@ -4,7 +4,7 @@ description: 一款注重可扩展的现场编辑工具的内容管理系统 (CM
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/apostrophecms/apostrophe

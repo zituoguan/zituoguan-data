@@ -4,7 +4,7 @@ description: 仅仅是一个博客平台。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 博客平台
 source_code_url: https://github.com/TryGhost/Ghost

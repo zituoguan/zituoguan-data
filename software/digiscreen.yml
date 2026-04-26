@@ -4,7 +4,7 @@ description: 课堂交互式白板/墙纸，支持远程和面对面教学（法
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - PHP
 tags:
   - 学习和课程

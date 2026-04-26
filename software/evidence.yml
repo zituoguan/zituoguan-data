@@ -4,7 +4,7 @@ description: 基于代码的BI工具。使用SQL和Markdown编写报告，并以
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 数据库管理
 source_code_url: https://github.com/evidence-dev/evidence

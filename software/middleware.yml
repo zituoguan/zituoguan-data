@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
   - Python
-  - Nodejs
+  - Node.js
 tags:
   - 分析
 stargazers_count: 1579

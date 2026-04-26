@@ -4,7 +4,7 @@ description: 一个漂亮的自托管个人服务器操作系统。可安装在R
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 自托管解决方案

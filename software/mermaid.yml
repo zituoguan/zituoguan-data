@@ -4,7 +4,7 @@ description: 具有独特简洁语法的 JavaScript 绘图模块，可集成到 
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 绘图

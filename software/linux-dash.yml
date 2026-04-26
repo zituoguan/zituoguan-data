@@ -4,7 +4,7 @@ description: 针对 GNU/Linux 机器的低开销 Web 监控仪表盘。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Go
   - Python
   - PHP

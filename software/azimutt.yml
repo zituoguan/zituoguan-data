@@ -6,7 +6,7 @@ licenses:
   - MIT
 platforms:
   - Elixir
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 数据库管理

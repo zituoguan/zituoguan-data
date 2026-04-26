@@ -6,7 +6,7 @@ licenses:
   - SSPL-1.0
 platforms:
   - Rust
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 软件开发 - API 管理

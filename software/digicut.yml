@@ -4,7 +4,7 @@ description: 使用 FFMPEG.wasm 剪辑音频和视频文件（文档为法语）
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 杂项
 source_code_url: https://codeberg.org/ladigitale/digicut

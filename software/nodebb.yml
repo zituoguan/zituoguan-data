@@ -4,7 +4,7 @@ description: 面向现代网络构建的论坛软件。
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - 社交网络和论坛

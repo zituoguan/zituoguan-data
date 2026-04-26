@@ -5,7 +5,7 @@ description: 一体化桌面和 Docker 人工智能应用程序，具有内置 R
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 生成式人工智能（GenAI）

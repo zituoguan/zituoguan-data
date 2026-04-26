@@ -4,7 +4,7 @@ description: 针对您的家庭实验室（homelab）的功能丰富的主页，
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 个人仪表板

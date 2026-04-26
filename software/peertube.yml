@@ -4,7 +4,7 @@ description: 使用P2P（BitTorrent）直接在Web浏览器中进行的分散式
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 流媒体 - 视频流媒体
 source_code_url: https://github.com/Chocobozzz/PeerTube

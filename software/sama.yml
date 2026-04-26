@@ -5,7 +5,7 @@ description: 下一代自托管聊天服务器和客户端。
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 通信 - 定制通信系统

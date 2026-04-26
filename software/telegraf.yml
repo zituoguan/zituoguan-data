@@ -7,3 +7,4 @@ platforms:
   - Go
 tags:
   - 指标和指标采集
+source_code_url: https://github.com/influxdata/telegraf

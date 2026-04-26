@@ -5,7 +5,7 @@ description: 带有现代 UI 的书签管理器，具备自动内容和元数据
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 书签和链接分享

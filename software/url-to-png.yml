@@ -5,7 +5,7 @@ description: 使用 Playwright 进行并行渲染的 URL 到 PNG 实用工具，
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
   - 杂项

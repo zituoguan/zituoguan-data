@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
   - K8S
-  - Nodejs
+  - Node.js
 tags:
   - 软件开发 - 本地化
 source_code_url: https://github.com/ever-co/ever-traduora

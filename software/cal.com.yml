@@ -4,7 +4,7 @@ description: 在线预约调度系统。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 预订和日程安排
 source_code_url: https://github.com/calcom/cal.com

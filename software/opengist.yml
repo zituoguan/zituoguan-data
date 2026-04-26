@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
   - Go
-  - Nodejs
+  - Node.js
 tags:
   - 粘贴板
 source_code_url: https://github.com/thomiceli/opengist

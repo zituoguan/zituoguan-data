@@ -4,6 +4,7 @@ description: 监听计数器、定时器等统计信息的守护进程，通过 
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
 tags:
   - 指标和指标采集
+source_code_url: https://github.com/etsy/statsd/
