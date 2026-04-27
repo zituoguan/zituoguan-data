@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 维基
-source_code_url: https://github.com/BookStackApp/BookStack
+source_code_url: https://codeberg.org/bookstack/bookstack
 demo_url: https://www.bookstackapp.com/#demo
 stargazers_count: 18552
 updated_at: '2026-03-23'
