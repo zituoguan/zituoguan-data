@@ -1,6 +1,6 @@
 name: Endurain
 website_url: https://docs.endurain.com/
-source_code_url: https://github.com/endurain-project/endurain
+source_code_url: https://codeberg.org/endurain-project/endurain
 description: 健身追踪服务，旨在让用户完全控制他们的数据和托管环境。
 licenses:
   - AGPL-3.0
