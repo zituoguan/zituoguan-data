@@ -1,5 +1,5 @@
 name: UUSEC WAF
-website_url: https://uuwaf.uusec.com
+website_url: https://waf.uusec.com/
 source_code_url: https://github.com/Safe3/uusec-waf
 description: 行业领先的高性能、AI 与语义技术 Web 应用防火墙和 API 安全网关（nginx 分支）。
 licenses:
