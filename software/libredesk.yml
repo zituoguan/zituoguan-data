@@ -1,7 +1,7 @@
 name: Libredesk
 website_url: https://libredesk.io/
 source_code_url: https://github.com/abhinavxd/libredesk
-description: 现代化客户支持工单系统，单二进制文件应用。
+description: 现代化全渠道客户支持平台，支持实时聊天、电子邮件等，单二进制文件应用。
 licenses:
   - AGPL-3.0
 platforms:
@@ -13,6 +13,7 @@ tags:
 stargazers_count: 2387
 updated_at: '2026-03-31'
 archived: false
+demo_url: "https://demo.libredesk.io"
 current_release:
   tag: v1.0.3
   published_at: '2026-02-26'
