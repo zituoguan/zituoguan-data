@@ -8,9 +8,9 @@ platforms:
   - Python
 tags:
   - 数据库管理
-source_code_url: https://github.com/mindsdb/minds-platform
-stargazers_count: 39168
-updated_at: '2026-04-30'
+source_code_url: https://github.com/mindsdb/minds
+stargazers_count: 39283
+updated_at: '2026-06-08'
 archived: false
 current_release:
   tag: v26.0.1
