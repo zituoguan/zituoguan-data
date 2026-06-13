@@ -6,6 +6,5 @@ licenses:
   - GPL-3.0
 platforms:
   - Rust
-  - deb
 tags:
   - Video Surveillance
