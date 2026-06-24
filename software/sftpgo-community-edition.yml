@@ -11,15 +11,13 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/drakkan/sftpgo
-stargazers_count: 11866
-updated_at: '2026-03-28'
+stargazers_count: 12186
+updated_at: '2026-06-08'
 archived: false
 current_release:
-  tag: v2.7.1
-  published_at: '2026-03-13'
+  tag: v2.7.3
+  published_at: '2026-05-30'
 commit_history:
-  2025-05: 12
-  2025-06: 10
   2025-07: 17
   2025-08: 17
   2025-09: 24
@@ -29,4 +27,6 @@ commit_history:
   2026-01: 9
   2026-02: 13
   2026-03: 15
-  2026-04: 0
+  2026-04: 5
+  2026-05: 27
+  2026-06: 7

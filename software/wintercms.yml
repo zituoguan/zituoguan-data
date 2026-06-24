@@ -8,15 +8,13 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/wintercms/winter
-stargazers_count: 1487
-updated_at: '2026-04-02'
+stargazers_count: 1496
+updated_at: '2026-06-19'
 archived: false
 current_release:
   tag: v1.2.12
   published_at: '2026-02-20'
 commit_history:
-  2025-05: 17
-  2025-06: 9
   2025-07: 11
   2025-08: 7
   2025-09: 12
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 9
   2026-02: 18
   2026-03: 9
-  2026-04: 6
+  2026-04: 8
+  2026-05: 10
+  2026-06: 4

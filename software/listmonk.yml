@@ -10,15 +10,13 @@ tags:
   - 通信 - 电子邮件 - 邮件列表和通讯
 source_code_url: https://github.com/knadh/listmonk
 demo_url: https://demo.listmonk.app/
-stargazers_count: 19419
-updated_at: '2026-03-31'
+stargazers_count: 21730
+updated_at: '2026-06-23'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-04-01'
+  published_at: '2026-06-22'
 commit_history:
-  2025-05: 19
-  2025-06: 11
   2025-07: 11
   2025-08: 11
   2025-09: 21
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 22
   2026-02: 25
   2026-03: 46
-  2026-04: 0
+  2026-04: 20
+  2026-05: 25
+  2026-06: 12

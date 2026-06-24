@@ -8,14 +8,16 @@ platforms:
 tags:
   - 资金、预算和管理
 source_code_url: https://github.com/we-promise/sure
-stargazers_count: 7612
-updated_at: '2026-04-02'
+stargazers_count: 8767
+updated_at: '2026-06-21'
 archived: false
 current_release:
-  tag: v0.6.9
-  published_at: '2026-03-31'
+  tag: v0.7.2-alpha.8
+  published_at: '2026-06-21'
 commit_history:
   2026-01: 303
   2026-02: 142
   2026-03: 140
-  2026-04: 7
+  2026-04: 132
+  2026-05: 241
+  2026-06: 174

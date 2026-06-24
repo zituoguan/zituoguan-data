@@ -8,3 +8,13 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/woodpecker-ci/woodpecker
+stargazers_count: 7297
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v3.15.0
+  published_at: '2026-05-28'
+commit_history:
+  2026-04: 122
+  2026-05: 143
+  2026-06: 85

@@ -9,15 +9,13 @@ platforms:
   - K8S
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 27886
-updated_at: '2026-03-27'
+stargazers_count: 28763
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v2.15.0
-  published_at: '2026-03-20'
+  tag: v2.15.2-rc1
+  published_at: '2026-06-17'
 commit_history:
-  2025-05: 15
-  2025-06: 14
   2025-07: 28
   2025-08: 23
   2025-09: 24
@@ -27,4 +25,6 @@ commit_history:
   2026-01: 45
   2026-02: 22
   2026-03: 19
-  2026-04: 0
+  2026-04: 21
+  2026-05: 29
+  2026-06: 33

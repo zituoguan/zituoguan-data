@@ -1,6 +1,6 @@
-name: "Calagopus"
-website_url: "https://calagopus.com"
-source_code_url: "https://github.com/calagopus/panel"
+name: Calagopus
+website_url: https://calagopus.com
+source_code_url: https://github.com/calagopus/panel
 description: 现代化游戏服务器管理面板，支持部署、监控和管理 Minecraft、Hytale 等游戏服务器。
 licenses:
   - MIT
@@ -10,3 +10,13 @@ platforms:
   - deb
 tags:
   - 游戏 - 管理工具和控制面板
+stargazers_count: 428
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: release-1.0.11
+  published_at: '2026-06-21'
+commit_history:
+  2026-04: 203
+  2026-05: 185
+  2026-06: 119

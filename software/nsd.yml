@@ -8,3 +8,13 @@ platforms:
 tags:
   - DNS - 服务器
 source_code_url: https://github.com/NLnetLabs/nsd
+stargazers_count: 552
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: NSD_4_14_2_REL
+  published_at: '2026-03-19'
+commit_history:
+  2026-04: 3
+  2026-05: 5
+  2026-06: 30

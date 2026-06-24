@@ -1,6 +1,6 @@
-name: "Helium"
-website_url: "https://www.heliumedu.com"
-source_code_url: "https://github.com/HeliumEdu/platform"
+name: Helium
+website_url: https://www.heliumedu.com
+source_code_url: https://github.com/HeliumEdu/platform
 description: 学生课程规划工具，支持彩色编码的作业、成绩和笔记管理，带智能通知和多设备同步。
 licenses:
   - MIT
@@ -9,4 +9,11 @@ platforms:
   - Docker
 tags:
   - 学习和课程
-demo_url: "https://app.heliumedu.com"
+demo_url: https://app.heliumedu.com
+stargazers_count: 5
+updated_at: '2026-06-19'
+archived: false
+commit_history:
+  2026-04: 76
+  2026-05: 97
+  2026-06: 50

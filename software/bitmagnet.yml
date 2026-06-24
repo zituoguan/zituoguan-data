@@ -11,15 +11,13 @@ tags:
   - 档案和数字保存（DP）
   - 文件传输 - 点对点文件共享
   - 搜索引擎
-stargazers_count: 3937
-updated_at: '2025-07-01'
+stargazers_count: 4120
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: v0.10.0
-  published_at: '2025-03-02'
+  tag: v0.10.1-beta.1
+  published_at: '2026-05-21'
 commit_history:
-  2025-05: 5
-  2025-06: 1
   2025-07: 1
   2025-08: 0
   2025-09: 0
@@ -30,3 +28,5 @@ commit_history:
   2026-02: 0
   2026-03: 0
   2026-04: 0
+  2026-05: 1
+  2026-06: 0

@@ -1,6 +1,6 @@
-name: "ImgCompress"
-website_url: "https://imgcompress.karimzouine.com"
-source_code_url: "https://github.com/karimz1/imgcompress"
+name: ImgCompress
+website_url: https://imgcompress.karimzouine.com
+source_code_url: https://github.com/karimz1/imgcompress
 description: 完全运行于 Docker 的图像处理工具，支持压缩、格式转换、调整尺寸、批量处理，以及使用本地 AI 去除背景。
 licenses:
   - GPL-3.0
@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 杂项
+stargazers_count: 249
+updated_at: '2026-06-20'
+archived: false
+current_release:
+  tag: release_0.8.2
+  published_at: '2026-06-04'
+commit_history:
+  2026-04: 72
+  2026-05: 74
+  2026-06: 36

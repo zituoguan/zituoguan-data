@@ -1,6 +1,6 @@
-name: "DDraceNetwork"
-website_url: "https://ddnet.org/"
-source_code_url: "https://github.com/ddnet/ddnet"
+name: DDraceNetwork
+website_url: https://ddnet.org/
+source_code_url: https://github.com/ddnet/ddnet
 description: DDRace 的合作平台游戏版本，基于 Teeworlds 修改，具有独特的合作玩法。
 licenses:
   - Zlib
@@ -8,3 +8,10 @@ platforms:
   - C++
 tags:
   - 游戏
+stargazers_count: 788
+updated_at: '2026-06-22'
+archived: false
+commit_history:
+  2026-04: 135
+  2026-05: 192
+  2026-06: 144

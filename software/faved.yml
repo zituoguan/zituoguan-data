@@ -1,6 +1,6 @@
-name: "Faved"
-website_url: "https://faved.dev/"
-source_code_url: "https://github.com/denho/faved"
+name: Faved
+website_url: https://faved.dev/
+source_code_url: https://github.com/denho/faved
 description: 精心设计的书签管理器，结合强大的标签、即时搜索和简洁无干扰的界面，专为大型收藏和高效工作流优化。
 licenses:
   - MIT
@@ -8,5 +8,15 @@ platforms:
   - Docker
 tags:
   - 书签和链接分享
-demo_url: "https://demo.faved.dev/"
+demo_url: https://demo.faved.dev/
 
+stargazers_count: 1139
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v2.9.1
+  published_at: '2026-06-23'
+commit_history:
+  2026-04: 3
+  2026-05: 1
+  2026-06: 5

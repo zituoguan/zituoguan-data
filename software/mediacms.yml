@@ -10,15 +10,13 @@ tags:
   - 流媒体 - 视频流媒体
   - 内容管理系统（CMS）
 source_code_url: https://github.com/mediacms-io/mediacms
-stargazers_count: 4810
-updated_at: '2026-02-07'
+stargazers_count: 4978
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v7.6.0
-  published_at: '2026-02-07'
+  tag: v8.3.1
+  published_at: '2026-06-23'
 commit_history:
-  2025-05: 1
-  2025-06: 6
   2025-07: 11
   2025-08: 4
   2025-09: 19
@@ -29,3 +27,5 @@ commit_history:
   2026-02: 10
   2026-03: 0
   2026-04: 0
+  2026-05: 28
+  2026-06: 8

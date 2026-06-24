@@ -8,3 +8,10 @@ platforms:
 tags:
   - 时间服务器
 source_code_url: https://github.com/openntpd-portable/openntpd-openbsd/
+stargazers_count: 23
+updated_at: '2026-04-22'
+archived: false
+commit_history:
+  2026-04: 6
+  2026-05: 0
+  2026-06: 0

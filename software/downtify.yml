@@ -1,6 +1,6 @@
-name: "Downtify"
-website_url: "https://downtify.henriquesebastiao.com"
-source_code_url: "https://github.com/henriquesebastiao/downtify"
+name: Downtify
+website_url: https://downtify.henriquesebastiao.com
+source_code_url: https://github.com/henriquesebastiao/downtify
 description: 下载 Spotify 音乐并保留专辑封面和元数据。
 licenses:
   - GPL-3.0
@@ -9,3 +9,13 @@ platforms:
 tags:
   - 媒体管理
 depends_3rdparty: true
+stargazers_count: 301
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: 2.8.0
+  published_at: '2026-06-02'
+commit_history:
+  2026-04: 50
+  2026-05: 68
+  2026-06: 40

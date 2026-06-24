@@ -10,15 +10,13 @@ platforms:
 tags:
   - 软件开发 - API 管理
 depends_3rdparty: true
-stargazers_count: 18609
-updated_at: '2026-04-02'
+stargazers_count: 19744
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: 1.10.58
-  published_at: '2026-04-01'
+  tag: 2.0.77
+  published_at: '2026-06-23'
 commit_history:
-  2025-05: 325
-  2025-06: 239
   2025-07: 211
   2025-08: 241
   2025-09: 309
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 329
   2026-02: 308
   2026-03: 454
-  2026-04: 40
+  2026-04: 496
+  2026-05: 297
+  2026-06: 233

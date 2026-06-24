@@ -1,6 +1,6 @@
-name: "flowctl"
-website_url: "https://flowctl.net"
-source_code_url: "https://github.com/cvhariharan/flowctl"
+name: flowctl
+website_url: https://flowctl.net
+source_code_url: https://github.com/cvhariharan/flowctl
 description: 支持审批、远程执行和调度的自助式工作流执行平台。
 licenses:
   - Apache-2.0
@@ -9,4 +9,14 @@ platforms:
   - Docker
 tags:
   - 自动化
-demo_url: "https://demo.flowctl.net"
+demo_url: https://demo.flowctl.net
+stargazers_count: 320
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v0.13.0-beta.0
+  published_at: '2026-06-13'
+commit_history:
+  2026-04: 40
+  2026-05: 18
+  2026-06: 20

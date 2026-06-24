@@ -1,6 +1,6 @@
-name: "Request Inbox"
-website_url: "https://request-inbox.com/"
-source_code_url: "https://github.com/jesusnoseq/request-inbox"
+name: Request Inbox
+website_url: https://request-inbox.com/
+source_code_url: https://github.com/jesusnoseq/request-inbox
 description: 用于测试和调试的 HTTP 请求收集与检查工具，支持创建收件箱、捕获请求详情和配置自定义响应。
 licenses:
   - Apache-2.0
@@ -8,4 +8,14 @@ platforms:
   - Docker
 tags:
   - 软件开发 - 测试
-demo_url: "https://request-inbox.com/"
+demo_url: https://request-inbox.com/
+stargazers_count: 4
+updated_at: '2026-06-21'
+archived: false
+current_release:
+  tag: v1.1.0
+  published_at: '2025-10-11'
+commit_history:
+  2026-04: 11
+  2026-05: 6
+  2026-06: 1

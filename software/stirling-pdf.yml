@@ -9,15 +9,13 @@ platforms:
 tags:
   - 文档管理
 source_code_url: https://github.com/Stirling-Tools/Stirling-PDF
-stargazers_count: 76104
-updated_at: '2026-04-02'
+stargazers_count: 83729
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v2.9.0
-  published_at: '2026-04-02'
+  tag: v2.13.1
+  published_at: '2026-06-19'
 commit_history:
-  2025-05: 95
-  2025-06: 136
   2025-07: 115
   2025-08: 87
   2025-09: 88
@@ -27,4 +25,6 @@ commit_history:
   2026-01: 131
   2026-02: 102
   2026-03: 116
-  2026-04: 16
+  2026-04: 121
+  2026-05: 118
+  2026-06: 216

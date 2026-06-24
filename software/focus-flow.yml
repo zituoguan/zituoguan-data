@@ -1,6 +1,6 @@
-name: "Focus Flow"
-website_url: "https://github.com/francesco-gaglione/focus_flow_cloud"
-source_code_url: "https://github.com/francesco-gaglione/focus_flow_cloud"
+name: Focus Flow
+website_url: https://github.com/francesco-gaglione/focus_flow_cloud
+source_code_url: https://github.com/francesco-gaglione/focus_flow_cloud
 description: 基于番茄工作法的完整时间管理生态系统。
 licenses:
   - MIT
@@ -10,3 +10,13 @@ platforms:
 tags:
   - 任务管理和待办清单
   - 时间追踪
+stargazers_count: 38
+updated_at: '2026-06-16'
+archived: false
+current_release:
+  tag: v1.3.0
+  published_at: '2026-06-16'
+commit_history:
+  2026-04: 6
+  2026-05: 86
+  2026-06: 36

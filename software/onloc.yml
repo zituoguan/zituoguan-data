@@ -11,3 +11,13 @@ tags:
   - 远程访问
   - 地图和全球定位系统（GPS）
 related_software_url: https://github.com/onloc-app/onloc-android
+stargazers_count: 8
+updated_at: '2026-06-14'
+archived: false
+current_release:
+  tag: 1.2.5
+  published_at: '2026-06-04'
+commit_history:
+  2026-04: 12
+  2026-05: 4
+  2026-06: 19

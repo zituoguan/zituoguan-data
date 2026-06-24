@@ -10,12 +10,12 @@ platforms:
   - Node.js
 tags:
   - 文件传输和同步
-stargazers_count: 5057
-updated_at: '2026-04-02'
+stargazers_count: 5620
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v6.0.0
-  published_at: '2026-03-31'
+  tag: v7.2.0-beta.3
+  published_at: '2026-06-23'
 commit_history:
   2025-10: 82
   2025-11: 140
@@ -23,4 +23,6 @@ commit_history:
   2026-01: 147
   2026-02: 86
   2026-03: 98
-  2026-04: 4
+  2026-04: 117
+  2026-05: 152
+  2026-06: 122

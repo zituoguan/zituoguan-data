@@ -9,7 +9,7 @@ platforms:
 tags:
   - 档案和数字保存（DP）
 demo_url: https://github.com/LogicLabs-OU/OpenArchiver?tab=readme-ov-file#-live-demo
-stargazers_count: 1899
+stargazers_count: 2111
 updated_at: '2026-03-30'
 archived: false
 current_release:
@@ -22,3 +22,5 @@ commit_history:
   2026-02: 4
   2026-03: 8
   2026-04: 0
+  2026-05: 0
+  2026-06: 0

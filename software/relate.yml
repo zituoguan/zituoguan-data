@@ -1,6 +1,6 @@
 name: RELATE
 website_url: https://documen.tician.de/relate/
-description: '课程管理套件，包含灵活规则、统计、多课程支持、课程日历等功能。'
+description: 课程管理套件，包含灵活规则、统计、多课程支持、课程日历等功能。
 licenses:
   - MIT
 platforms:
@@ -8,12 +8,10 @@ platforms:
 tags:
   - 学习和课程
 source_code_url: https://github.com/inducer/relate
-stargazers_count: 422
-updated_at: '2026-04-01'
+stargazers_count: 425
+updated_at: '2026-06-16'
 archived: false
 commit_history:
-  2025-05: 10
-  2025-06: 5
   2025-07: 18
   2025-08: 6
   2025-09: 19
@@ -23,4 +21,6 @@ commit_history:
   2026-01: 15
   2026-02: 27
   2026-03: 32
-  2026-04: 3
+  2026-04: 36
+  2026-05: 24
+  2026-06: 13

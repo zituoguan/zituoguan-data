@@ -1,6 +1,6 @@
-name: "Aastro"
-website_url: "https://starwalkn.github.io/aastro-docs"
-source_code_url: "https://github.com/starwalkn/aastro"
+name: Aastro
+website_url: https://starwalkn.github.io/aastro-docs
+source_code_url: https://github.com/starwalkn/aastro
 description: 用 Go 编写的可扩展 API 网关。
 licenses:
   - Apache-2.0
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 软件开发 - API 管理
+stargazers_count: 10
+updated_at: '2026-06-19'
+archived: false
+current_release:
+  tag: v0.5.1
+  published_at: '2026-06-19'
+commit_history:
+  2026-04: 40
+  2026-05: 65
+  2026-06: 9

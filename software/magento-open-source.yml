@@ -8,15 +8,13 @@ platforms:
 tags:
   - 电子商务
 source_code_url: https://github.com/magento/magento2
-stargazers_count: 12072
-updated_at: '2026-04-02'
+stargazers_count: 12136
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: 2.4.9-beta1
-  published_at: '2026-03-10'
+  tag: 2.4.9
+  published_at: '2026-05-12'
 commit_history:
-  2025-05: 422
-  2025-06: 594
   2025-07: 748
   2025-08: 673
   2025-09: 682
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 609
   2026-02: 316
   2026-03: 286
-  2026-04: 7
+  2026-04: 281
+  2026-05: 395
+  2026-06: 170

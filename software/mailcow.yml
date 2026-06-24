@@ -9,15 +9,13 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/mailcow/mailcow-dockerized
-stargazers_count: 12461
-updated_at: '2026-03-31'
+stargazers_count: 12996
+updated_at: '2026-05-26'
 archived: false
 current_release:
-  tag: 2026-03b
-  published_at: '2026-03-31'
+  tag: 2026-05c
+  published_at: '2026-05-26'
 commit_history:
-  2025-05: 27
-  2025-06: 8
   2025-07: 18
   2025-08: 33
   2025-09: 84
@@ -27,4 +25,6 @@ commit_history:
   2026-01: 25
   2026-02: 14
   2026-03: 74
-  2026-04: 0
+  2026-04: 2
+  2026-05: 28
+  2026-06: 0

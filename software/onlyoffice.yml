@@ -9,15 +9,13 @@ platforms:
 tags:
   - 办公套件
 source_code_url: https://github.com/ONLYOFFICE/DocumentServer
-stargazers_count: 6386
-updated_at: '2026-03-06'
+stargazers_count: 6636
+updated_at: '2026-06-16'
 archived: false
 current_release:
-  tag: v9.3.1
-  published_at: '2026-03-03'
+  tag: v9.4.0
+  published_at: '2026-05-19'
 commit_history:
-  2025-05: 1
-  2025-06: 5
   2025-07: 3
   2025-08: 2
   2025-09: 0
@@ -28,3 +26,5 @@ commit_history:
   2026-02: 3
   2026-03: 4
   2026-04: 0
+  2026-05: 5
+  2026-06: 2

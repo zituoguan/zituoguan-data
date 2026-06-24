@@ -8,15 +8,13 @@ platforms:
 tags:
   - 物联网（IoT）
 source_code_url: https://github.com/WebThingsIO/gateway
-stargazers_count: 2641
-updated_at: '2026-04-01'
+stargazers_count: 2638
+updated_at: '2026-04-21'
 archived: false
 current_release:
   tag: 2.1.0-beta.2
   published_at: '2026-04-01'
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 5
   2025-08: 2
   2025-09: 1
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 0
   2026-02: 4
   2026-03: 1
-  2026-04: 8
+  2026-04: 11
+  2026-05: 0
+  2026-06: 0

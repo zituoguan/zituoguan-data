@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 健康和健身
-stargazers_count: 1095
-updated_at: '2026-03-20'
+stargazers_count: 1142
+updated_at: '2026-05-24'
 archived: false
 current_release:
-  tag: v1.2.1
-  published_at: '2026-03-20'
+  tag: v1.3.2
+  published_at: '2026-05-24'
 commit_history:
   2025-10: 178
   2025-11: 83
@@ -22,4 +22,6 @@ commit_history:
   2026-01: 117
   2026-02: 76
   2026-03: 104
-  2026-04: 0
+  2026-04: 100
+  2026-05: 192
+  2026-06: 0

@@ -10,15 +10,13 @@ tags:
   - 笔记和编辑器
 source_code_url: https://github.com/usememos/memos
 demo_url: https://demo.usememos.com/explore
-stargazers_count: 58500
-updated_at: '2026-04-02'
+stargazers_count: 61018
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v0.27.0-rc.1
-  published_at: '2026-03-31'
+  tag: v0.29.1
+  published_at: '2026-06-05'
 commit_history:
-  2025-05: 67
-  2025-06: 82
   2025-07: 118
   2025-08: 60
   2025-09: 25
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 113
   2026-02: 67
   2026-03: 106
-  2026-04: 6
+  2026-04: 88
+  2026-05: 47
+  2026-06: 39

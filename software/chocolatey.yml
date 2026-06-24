@@ -9,3 +9,13 @@ platforms:
 tags:
   - 杂项
 source_code_url: https://github.com/chocolatey/choco
+stargazers_count: 11424
+updated_at: '2026-06-11'
+archived: false
+current_release:
+  tag: 2.7.3
+  published_at: '2026-06-10'
+commit_history:
+  2026-04: 11
+  2026-05: 15
+  2026-06: 3

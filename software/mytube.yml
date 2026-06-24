@@ -1,6 +1,6 @@
-name: "MyTube"
-website_url: "https://github.com/franklioxygen/MyTube"
-source_code_url: "https://github.com/franklioxygen/MyTube"
+name: MyTube
+website_url: https://github.com/franklioxygen/MyTube
+source_code_url: https://github.com/franklioxygen/MyTube
 description: 支持 yt-dlp 的视频下载器和播放器，带有频道订阅、云端上传支持和本地媒体库管理功能。
 licenses:
   - MIT
@@ -10,4 +10,11 @@ platforms:
 tags:
   - 媒体管理
 depends_3rdparty: true
-demo_url: "https://mytube-demo.vercel.app"
+demo_url: https://mytube-demo.vercel.app
+stargazers_count: 1024
+updated_at: '2026-06-23'
+archived: false
+commit_history:
+  2026-04: 188
+  2026-05: 135
+  2026-06: 130

@@ -9,15 +9,13 @@ platforms:
   - Docker
 tags:
   - 资金、预算和管理
-stargazers_count: 1633
-updated_at: '2026-04-02'
+stargazers_count: 1729
+updated_at: '2026-06-14'
 archived: false
 current_release:
-  tag: 2.2.1
-  published_at: '2026-03-24'
+  tag: 3.0.0-alpha.1
+  published_at: '2026-06-14'
 commit_history:
-  2025-05: 9
-  2025-06: 3
   2025-07: 0
   2025-08: 25
   2025-09: 15
@@ -27,4 +25,6 @@ commit_history:
   2026-01: 2
   2026-02: 12
   2026-03: 73
-  2026-04: 17
+  2026-04: 187
+  2026-05: 0
+  2026-06: 28

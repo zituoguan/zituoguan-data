@@ -1,6 +1,6 @@
-name: "Ferron"
-website_url: "https://ferron.sh/"
-source_code_url: "https://github.com/ferronweb/ferron"
+name: Ferron
+website_url: https://ferron.sh/
+source_code_url: https://github.com/ferronweb/ferron
 description: 用 Rust 编写的快速、内存安全的 Web 服务器。
 licenses:
   - MIT
@@ -10,3 +10,13 @@ platforms:
   - deb
 tags:
   - Web 服务器
+stargazers_count: 2055
+updated_at: '2026-06-19'
+archived: false
+current_release:
+  tag: 2.8.1
+  published_at: '2026-06-17'
+commit_history:
+  2026-04: 28
+  2026-05: 57
+  2026-06: 67

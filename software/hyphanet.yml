@@ -8,15 +8,13 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/hyphanet/fred
-stargazers_count: 1165
-updated_at: '2026-03-28'
+stargazers_count: 1185
+updated_at: '2026-05-10'
 archived: false
 current_release:
   tag: build01506
   published_at: '2026-02-15'
 commit_history:
-  2025-05: 56
-  2025-06: 87
   2025-07: 28
   2025-08: 38
   2025-09: 3
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 6
   2026-02: 13
   2026-03: 6
-  2026-04: 0
+  2026-04: 3
+  2026-05: 11
+  2026-06: 0

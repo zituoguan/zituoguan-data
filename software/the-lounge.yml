@@ -10,15 +10,13 @@ tags:
   - 通信 - IRC
 source_code_url: https://github.com/thelounge/thelounge
 demo_url: https://demo.thelounge.chat/
-stargazers_count: 6205
-updated_at: '2026-01-03'
+stargazers_count: 6276
+updated_at: '2026-06-18'
 archived: false
 current_release:
-  tag: v4.4.3
-  published_at: '2024-04-06'
+  tag: v4.5.1-rc.1
+  published_at: '2026-06-18'
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 1
   2025-08: 0
   2025-09: 8
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 2
   2026-02: 0
   2026-03: 0
-  2026-04: 0
+  2026-04: 52
+  2026-05: 6
+  2026-06: 12

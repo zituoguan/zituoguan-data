@@ -8,3 +8,13 @@ platforms:
 tags:
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/smallstep/certificates
+stargazers_count: 8610
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v0.30.2
+  published_at: '2026-03-23'
+commit_history:
+  2026-04: 55
+  2026-05: 41
+  2026-06: 33

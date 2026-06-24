@@ -10,12 +10,10 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/NuSkooler/enigma-bbs
-stargazers_count: 626
-updated_at: '2026-04-02'
+stargazers_count: 651
+updated_at: '2026-06-23'
 archived: false
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 0
   2025-08: 2
   2025-09: 24
@@ -25,4 +23,6 @@ commit_history:
   2026-01: 4
   2026-02: 4
   2026-03: 2
-  2026-04: 9
+  2026-04: 123
+  2026-05: 18
+  2026-06: 5

@@ -8,3 +8,13 @@ platforms:
 tags:
   - 指标和指标采集
 source_code_url: https://github.com/influxdata/telegraf
+stargazers_count: 17645
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v1.39.0
+  published_at: '2026-06-08'
+commit_history:
+  2026-04: 130
+  2026-05: 129
+  2026-06: 123

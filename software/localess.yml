@@ -10,15 +10,13 @@ tags:
   - 内容管理系统（CMS）
   - 软件开发 - 本地化
 depends_3rdparty: true
-stargazers_count: 70
-updated_at: '2026-03-31'
+stargazers_count: 72
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: v3.0.1
-  published_at: '2026-03-12'
+  tag: v3.2.0
+  published_at: '2026-06-11'
 commit_history:
-  2025-05: 10
-  2025-06: 12
   2025-07: 15
   2025-08: 0
   2025-09: 3
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 72
   2026-02: 52
   2026-03: 65
-  2026-04: 0
+  2026-04: 28
+  2026-05: 52
+  2026-06: 8

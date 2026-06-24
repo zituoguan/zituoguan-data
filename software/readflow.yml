@@ -1,6 +1,6 @@
 name: Readflow
 website_url: https://readflow.app
-description: '轻量级新闻阅读器，拥有现代化界面和功能：全文搜索、自动分类、归档、离线支持和通知。'
+description: 轻量级新闻阅读器，拥有现代化界面和功能：全文搜索、自动分类、归档、离线支持和通知。
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,15 +9,13 @@ platforms:
 tags:
   - 订阅阅读器
 source_code_url: https://github.com/ncarlier/readflow
-stargazers_count: 467
+stargazers_count: 470
 updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v1.2.0
   published_at: '2024-03-04'
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 0
   2025-08: 1
   2025-09: 0
@@ -28,3 +26,5 @@ commit_history:
   2026-02: 10
   2026-03: 0
   2026-04: 0
+  2026-05: 0
+  2026-06: 0

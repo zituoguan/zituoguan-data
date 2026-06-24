@@ -8,15 +8,13 @@ platforms:
 tags:
   - 密码管理器
 source_code_url: https://github.com/nilsteampassnet/TeamPass
-stargazers_count: 1783
-updated_at: '2026-03-29'
+stargazers_count: 1790
+updated_at: '2026-06-15'
 archived: false
 current_release:
-  tag: 3.1.7.4
-  published_at: '2026-03-29'
+  tag: 3.2.0.3
+  published_at: '2026-06-15'
 commit_history:
-  2025-05: 54
-  2025-06: 38
   2025-07: 55
   2025-08: 13
   2025-09: 53
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 331
   2026-02: 205
   2026-03: 187
-  2026-04: 0
+  2026-04: 149
+  2026-05: 204
+  2026-06: 162

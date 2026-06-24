@@ -1,6 +1,6 @@
-name: "Pingvin Share X"
-website_url: "https://github.com/smp46/pingvin-share-x"
-source_code_url: "https://github.com/smp46/pingvin-share-x"
+name: Pingvin Share X
+website_url: https://github.com/smp46/pingvin-share-x
+source_code_url: https://github.com/smp46/pingvin-share-x
 description: 文件分享平台，支持登录、反向分享、分享有效期、S3 存储桶、高级认证和 ClamAV 安全扫描（Pingvin Share 的分支）。
 licenses:
   - BSD-2-Clause
@@ -9,3 +9,13 @@ platforms:
   - Node.js
 tags:
   - 文件传输 - 单击和拖放上传
+stargazers_count: 203
+updated_at: '2026-06-20'
+archived: false
+current_release:
+  tag: v1.20.1
+  published_at: '2026-06-18'
+commit_history:
+  2026-04: 30
+  2026-05: 24
+  2026-06: 20

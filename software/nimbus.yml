@@ -1,6 +1,6 @@
-name: "Nimbus"
-website_url: "https://nimbus.turboot.com/"
-source_code_url: "https://github.com/Turbootzz/Nimbus"
+name: Nimbus
+website_url: https://nimbus.turboot.com/
+source_code_url: https://github.com/Turbootzz/Nimbus
 description: 支持拖放的现代化家庭实验室仪表板，提供可视化编辑器和简单配置。
 licenses:
   - AGPL-3.0
@@ -8,4 +8,14 @@ platforms:
   - Docker
 tags:
   - 个人仪表板
-demo_url: "https://nimbus.turboot.com/"
+demo_url: https://nimbus.turboot.com/
+stargazers_count: 110
+updated_at: '2026-06-06'
+archived: false
+current_release:
+  tag: v1.2.2
+  published_at: '2026-03-24'
+commit_history:
+  2026-04: 0
+  2026-05: 10
+  2026-06: 1

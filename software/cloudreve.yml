@@ -10,15 +10,13 @@ tags:
   - 文件传输和同步
 source_code_url: https://github.com/cloudreve/cloudreve
 demo_url: https://demo.cloudreve.org
-stargazers_count: 27278
-updated_at: '2026-03-26'
+stargazers_count: 28169
+updated_at: '2026-06-13'
 archived: false
 current_release:
-  tag: 4.15.0
-  published_at: '2026-03-14'
+  tag: 4.16.1
+  published_at: '2026-06-06'
 commit_history:
-  2025-05: 31
-  2025-06: 40
   2025-07: 18
   2025-08: 28
   2025-09: 16
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 23
   2026-02: 19
   2026-03: 11
-  2026-04: 0
+  2026-04: 1
+  2026-05: 6
+  2026-06: 12

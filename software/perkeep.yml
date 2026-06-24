@@ -8,3 +8,13 @@ platforms:
 tags:
   - 分布式文件系统
 source_code_url: https://github.com/perkeep/perkeep
+stargazers_count: 7117
+updated_at: '2026-02-01'
+archived: false
+current_release:
+  tag: v0.12
+  published_at: '2025-11-11'
+commit_history:
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0

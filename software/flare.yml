@@ -12,15 +12,13 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
   - 文件传输 - 对象存储和文件服务器
   - URL 缩短服务
-stargazers_count: 111
-updated_at: '2026-04-01'
+stargazers_count: 120
+updated_at: '2026-06-20'
 archived: false
 current_release:
-  tag: v1.7.3
-  published_at: '2026-03-07'
+  tag: v1.7.5
+  published_at: '2026-06-20'
 commit_history:
-  2025-05: 38
-  2025-06: 13
   2025-07: 56
   2025-08: 6
   2025-09: 38
@@ -30,4 +28,6 @@ commit_history:
   2026-01: 3
   2026-02: 9
   2026-03: 15
-  2026-04: 7
+  2026-04: 14
+  2026-05: 2
+  2026-06: 6

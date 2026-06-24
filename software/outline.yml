@@ -10,15 +10,13 @@ tags:
   - 维基
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
-stargazers_count: 37920
-updated_at: '2026-04-02'
+stargazers_count: 39045
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v1.6.1
-  published_at: '2026-03-18'
+  tag: v1.8.1
+  published_at: '2026-06-06'
 commit_history:
-  2025-05: 118
-  2025-06: 74
   2025-07: 141
   2025-08: 145
   2025-09: 90
@@ -28,4 +26,6 @@ commit_history:
   2026-01: 148
   2026-02: 149
   2026-03: 146
-  2026-04: 11
+  2026-04: 208
+  2026-05: 201
+  2026-06: 171

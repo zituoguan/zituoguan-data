@@ -8,3 +8,13 @@ platforms:
 tags:
   - 分布式文件系统
 source_code_url: https://github.com/juicedata/juicefs
+stargazers_count: 14084
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v1.4.0-rc1
+  published_at: '2026-06-18'
+commit_history:
+  2026-04: 123
+  2026-05: 62
+  2026-06: 53

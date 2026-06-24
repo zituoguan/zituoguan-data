@@ -8,3 +8,13 @@ platforms:
 tags:
   - 队列
 source_code_url: https://github.com/apache/activemq
+stargazers_count: 2439
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: activemq-6.2.6
+  published_at: '2026-05-27'
+commit_history:
+  2026-04: 41
+  2026-05: 38
+  2026-06: 36

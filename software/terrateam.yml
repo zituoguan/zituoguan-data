@@ -9,3 +9,13 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/terrateamio/terrateam
+stargazers_count: 1241
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: 20260623-0852-51270c0
+  published_at: '2026-06-23'
+commit_history:
+  2026-04: 46
+  2026-05: 66
+  2026-06: 32

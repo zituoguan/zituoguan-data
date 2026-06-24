@@ -1,6 +1,6 @@
-name: "Cardea"
-website_url: "https://github.com/hectorm/cardea"
-source_code_url: "https://github.com/hectorm/cardea"
+name: Cardea
+website_url: https://github.com/hectorm/cardea
+source_code_url: https://github.com/hectorm/cardea
 description: 支持访问控制、会话录制和可选 TPM 密钥保护的 SSH 跳板服务器。
 licenses:
   - EUPL-1.2
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 远程访问
+stargazers_count: 28
+updated_at: '2026-06-14'
+archived: false
+current_release:
+  tag: v1.9.1
+  published_at: '2026-06-14'
+commit_history:
+  2026-04: 47
+  2026-05: 38
+  2026-06: 40

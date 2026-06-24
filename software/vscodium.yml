@@ -8,3 +8,13 @@ platforms:
 tags:
   - 编辑器
 source_code_url: https://github.com/VSCodium/vscodium
+stargazers_count: 32084
+updated_at: '2026-05-24'
+archived: false
+current_release:
+  tag: 1.121.03429
+  published_at: '2026-05-22'
+commit_history:
+  2026-04: 33
+  2026-05: 31
+  2026-06: 0

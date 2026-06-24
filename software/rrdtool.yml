@@ -8,3 +8,13 @@ platforms:
 tags:
   - 指标和指标采集
 source_code_url: https://github.com/oetiker/rrdtool-1.x
+stargazers_count: 1099
+updated_at: '2026-06-01'
+archived: false
+current_release:
+  tag: v1.10.3
+  published_at: '2026-05-25'
+commit_history:
+  2026-04: 11
+  2026-05: 72
+  2026-06: 1

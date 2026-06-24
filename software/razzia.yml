@@ -1,6 +1,6 @@
-name: "Razzia"
-website_url: "https://github.com/Ralex91/Razzia"
-source_code_url: "https://github.com/Ralex91/Razzia"
+name: Razzia
+website_url: https://github.com/Ralex91/Razzia
+source_code_url: https://github.com/Ralex91/Razzia
 description: 专为小型自托管活动设计的测验游戏平台（Kahoot! 的替代品）。
 licenses:
   - MIT
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 游戏
+stargazers_count: 919
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: 3.0.0
+  published_at: '2026-05-09'
+commit_history:
+  2026-04: 64
+  2026-05: 3
+  2026-06: 9

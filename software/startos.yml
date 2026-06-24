@@ -8,15 +8,13 @@ platforms:
 tags:
   - 自托管解决方案
 source_code_url: https://github.com/Start9Labs/start-os
-stargazers_count: 1655
-updated_at: '2026-04-01'
+stargazers_count: 1931
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v0.4.0-beta.0
-  published_at: '2026-04-01'
+  tag: v0.4.0-beta.9
+  published_at: '2026-05-13'
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 0
   2025-08: 0
   2025-09: 0
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 0
   2026-02: 12
   2026-03: 189
-  2026-04: 14
+  2026-04: 92
+  2026-05: 86
+  2026-06: 95

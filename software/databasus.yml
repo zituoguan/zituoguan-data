@@ -8,3 +8,13 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/databasus/databasus
+stargazers_count: 7508
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: v3.47.0
+  published_at: '2026-06-22'
+commit_history:
+  2026-04: 24
+  2026-05: 123
+  2026-06: 42

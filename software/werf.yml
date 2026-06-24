@@ -8,3 +8,13 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/werf/werf
+stargazers_count: 4696
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v2.73.0
+  published_at: '2026-06-23'
+commit_history:
+  2026-04: 76
+  2026-05: 32
+  2026-06: 36

@@ -11,15 +11,13 @@ tags:
   - 网络工具
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
-stargazers_count: 10035
-updated_at: '2026-03-20'
+stargazers_count: 10851
+updated_at: '2026-06-15'
 archived: false
 current_release:
-  tag: v5.2.2
-  published_at: '2026-03-20'
+  tag: v6.5.0
+  published_at: '2026-06-15'
 commit_history:
-  2025-05: 0
-  2025-06: 9
   2025-07: 6
   2025-08: 6
   2025-09: 5
@@ -29,4 +27,6 @@ commit_history:
   2026-01: 15
   2026-02: 6
   2026-03: 5
-  2026-04: 0
+  2026-04: 251
+  2026-05: 111
+  2026-06: 39

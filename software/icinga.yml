@@ -8,3 +8,13 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/Icinga/icinga2
+stargazers_count: 2210
+updated_at: '2026-06-23'
+archived: false
+current_release:
+  tag: v2.16.1
+  published_at: '2026-05-21'
+commit_history:
+  2026-04: 102
+  2026-05: 10
+  2026-06: 13

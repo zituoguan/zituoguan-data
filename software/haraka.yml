@@ -8,15 +8,13 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 邮件传输代理
 source_code_url: https://github.com/haraka/Haraka
-stargazers_count: 5589
-updated_at: '2026-04-02'
+stargazers_count: 5590
+updated_at: '2026-06-12'
 archived: false
 current_release:
-  tag: v3.1.5
-  published_at: '2026-04-02'
+  tag: v3.3.1
+  published_at: '2026-06-12'
 commit_history:
-  2025-05: 1
-  2025-06: 1
   2025-07: 3
   2025-08: 0
   2025-09: 0
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 5
   2026-02: 3
   2026-03: 16
-  2026-04: 4
+  2026-04: 8
+  2026-05: 16
+  2026-06: 19

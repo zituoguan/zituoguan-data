@@ -8,15 +8,13 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/seaweedfs/seaweedfs
-stargazers_count: 31317
-updated_at: '2026-04-02'
+stargazers_count: 33100
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: '4.18'
-  published_at: '2026-04-02'
+  tag: '4.35'
+  published_at: '2026-06-22'
 commit_history:
-  2025-05: 61
-  2025-06: 110
   2025-07: 150
   2025-08: 102
   2025-09: 47
@@ -26,4 +24,6 @@ commit_history:
   2026-01: 347
   2026-02: 238
   2026-03: 303
-  2026-04: 31
+  2026-04: 360
+  2026-05: 364
+  2026-06: 244

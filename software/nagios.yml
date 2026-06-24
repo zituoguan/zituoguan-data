@@ -8,3 +8,13 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/NagiosEnterprises/nagioscore
+stargazers_count: 2016
+updated_at: '2026-06-02'
+archived: false
+current_release:
+  tag: nagios-4.5.13
+  published_at: '2026-05-28'
+commit_history:
+  2026-04: 13
+  2026-05: 2
+  2026-06: 2

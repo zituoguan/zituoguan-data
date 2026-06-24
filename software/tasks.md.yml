@@ -8,15 +8,13 @@ platforms:
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/BaldissaraMatheus/Tasks.md
-stargazers_count: 2076
+stargazers_count: 2136
 updated_at: '2026-03-08'
 archived: false
 current_release:
   tag: 3.3.0
   published_at: '2026-03-08'
 commit_history:
-  2025-05: 31
-  2025-06: 0
   2025-07: 18
   2025-08: 17
   2025-09: 6
@@ -27,3 +25,5 @@ commit_history:
   2026-02: 0
   2026-03: 1
   2026-04: 0
+  2026-05: 0
+  2026-06: 0

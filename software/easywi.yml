@@ -9,15 +9,13 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/easy-wi/developer/
-stargazers_count: 243
+stargazers_count: 245
 updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: 6.2.5
   published_at: '2023-10-04'
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 0
   2025-08: 0
   2025-09: 0
@@ -28,3 +26,5 @@ commit_history:
   2026-02: 0
   2026-03: 1
   2026-04: 0
+  2026-05: 0
+  2026-06: 0

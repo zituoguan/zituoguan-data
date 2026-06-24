@@ -8,3 +8,13 @@ platforms:
 tags:
   - DNS - 控制面板与域名管理
 source_code_url: https://github.com/domainmod/domainmod
+stargazers_count: 589
+updated_at: '2025-01-04'
+archived: false
+current_release:
+  tag: v4.23.0
+  published_at: '2025-01-04'
+commit_history:
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0

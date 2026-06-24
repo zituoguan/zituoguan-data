@@ -1,6 +1,6 @@
-name: "plumio"
-website_url: "https://plumio.app/"
-source_code_url: "https://github.com/albertasaftei/plumio"
+name: plumio
+website_url: https://plumio.app/
+source_code_url: https://github.com/albertasaftei/plumio
 description: 支持实时预览、文档加密、多用户和多组织的 Markdown 笔记应用。
 licenses:
   - AGPL-3.0
@@ -9,4 +9,14 @@ platforms:
   - Docker
 tags:
   - 笔记和编辑器
-demo_url: "https://demo.plumio.app/homepage"
+demo_url: https://demo.plumio.app/homepage
+stargazers_count: 126
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: v2.10.0
+  published_at: '2026-06-22'
+commit_history:
+  2026-04: 65
+  2026-05: 69
+  2026-06: 29

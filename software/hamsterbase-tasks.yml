@@ -1,6 +1,6 @@
-name: "HamsterBase Tasks"
-website_url: "https://tasks.hamsterbase.com"
-source_code_url: "https://github.com/hamsterbase/tasks"
+name: HamsterBase Tasks
+website_url: https://tasks.hamsterbase.com
+source_code_url: https://github.com/hamsterbase/tasks
 description: 帮助整理创意和规划项目的工具，支持计划、组织、构建和发布。
 licenses:
   - AGPL-3.0
@@ -8,4 +8,14 @@ platforms:
   - Docker
 tags:
   - 任务管理和待办清单
-demo_url: "https://tasks-app.hamsterbase.com"
+demo_url: https://tasks-app.hamsterbase.com
+stargazers_count: 323
+updated_at: '2026-06-12'
+archived: false
+current_release:
+  tag: android-2026.04.0900
+  published_at: '2026-04-10'
+commit_history:
+  2026-04: 50
+  2026-05: 31
+  2026-06: 4
