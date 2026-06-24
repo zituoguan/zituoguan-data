@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 粘贴板
+  - 代码粘贴工具
 source_code_url: https://github.com/DarrenOfficial/dpaste
 stargazers_count: 639
 updated_at: '2026-02-20'

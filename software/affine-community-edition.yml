@@ -8,7 +8,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 知识管理工具
+  - 知识管理
 demo_url: https://app.affine.pro/
 stargazers_count: 69723
 updated_at: '2026-06-24'

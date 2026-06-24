@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/PhiTux/DailyTxT
 demo_url: https://dailytxt.phitux.de
 stargazers_count: 485

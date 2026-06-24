@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C++
 tags:
-  - 编辑器
+  - 代码编辑器
 source_code_url: https://github.com/textmate/textmate/
 stargazers_count: 14575
 updated_at: '2021-10-12'

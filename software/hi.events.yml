@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 预订和日程安排
+  - 预约与日程管理
   - 电子商务
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
 stargazers_count: 3883

@@ -7,7 +7,7 @@ platforms:
   - Python
   - Docker
 tags:
-  - 档案和数字保存（DP）
+  - 档案和数字保存
 source_code_url: https://github.com/ArchiveBox/ArchiveBox
 demo_url: https://demo.archivebox.io/
 stargazers_count: 27157

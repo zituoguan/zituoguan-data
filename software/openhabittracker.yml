@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 任务管理和待办清单
-  - 时间追踪
+  - 工时记录
 demo_url: https://pwa.openhabittracker.net
 stargazers_count: 255
 updated_at: '2026-06-16'

@@ -6,5 +6,5 @@ licenses:
 platforms:
   - C++
 tags:
-  - 队列
+  - 消息队列
 source_code_url: https://github.com/zeromq

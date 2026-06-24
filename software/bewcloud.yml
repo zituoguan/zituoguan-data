@@ -9,8 +9,8 @@ platforms:
 tags:
   - 文件传输和同步
   - 协同办公
-  - 订阅阅读器
-  - 笔记和编辑器
+  - RSS 阅读器
+  - 笔记工具
   - 相册
 related_software_url: https://github.com/bewcloud
 stargazers_count: 1200

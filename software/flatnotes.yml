@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/dullage/flatnotes
 demo_url: https://demo.flatnotes.io
 stargazers_count: 3124

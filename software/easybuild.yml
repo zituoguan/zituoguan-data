@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 构建和软件组织工具
+  - 构建工具
 source_code_url: https://github.com/easybuilders/easybuild-easyconfigs
 stargazers_count: 446
 updated_at: '2026-06-23'

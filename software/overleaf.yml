@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/overleaf/overleaf
 stargazers_count: 17856
 updated_at: '2026-06-24'

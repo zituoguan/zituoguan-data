@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Lua
 tags:
-  - 构建和软件组织工具
+  - 构建工具
 source_code_url: https://github.com/TACC/Lmod
 stargazers_count: 602
 updated_at: '2026-06-23'

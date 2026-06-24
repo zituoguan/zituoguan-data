@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Perl
 tags:
-  - 资源规划
+  - 企业资源规划（ERP）
 source_code_url: https://github.com/ledgersmb/LedgerSMB
 stargazers_count: 548
 updated_at: '2026-06-22'

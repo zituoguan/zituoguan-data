@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 指标和指标采集
+  - 指标采集
 source_code_url: https://github.com/OpenTSDB/tcollector/
 stargazers_count: 510
 updated_at: '2024-06-10'

@@ -7,7 +7,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/ncarlier/readflow
 stargazers_count: 470
 updated_at: '2026-02-27'

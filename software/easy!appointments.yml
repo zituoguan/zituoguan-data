@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 预订和日程安排
+  - 预约与日程管理
 source_code_url: https://github.com/alextselegidis/easyappointments
 demo_url: https://demo.easyappointments.org/
 stargazers_count: 4230

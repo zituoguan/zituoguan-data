@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/hitobito/hitobito
 demo_url: https://demo.hitobito.com/en/users/sign_in
 stargazers_count: 473

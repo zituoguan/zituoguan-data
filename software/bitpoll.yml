@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/fsinfuhh/Bitpoll
 demo_url: https://bitpoll.de/
 stargazers_count: 307

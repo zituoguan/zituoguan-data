@@ -7,7 +7,7 @@ platforms:
   - Rust
   - Docker
 tags:
-  - 粘贴板
+  - 代码粘贴工具
 source_code_url: https://github.com/matze/wastebin
 demo_url: https://bin.bloerg.net
 stargazers_count: 802

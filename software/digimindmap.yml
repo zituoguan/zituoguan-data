@@ -7,6 +7,6 @@ platforms:
   - Node.js
   - PHP
 tags:
-  - 知识管理工具
+  - 知识管理
 source_code_url: https://codeberg.org/ladigitale/digimindmap
 demo_url: https://ladigitale.dev/digimindmap/#/

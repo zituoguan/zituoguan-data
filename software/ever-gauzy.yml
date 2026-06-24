@@ -8,9 +8,9 @@ platforms:
   - Docker
   - Node.js
 tags:
-  - 时间追踪
+  - 工时记录
   - 库存管理
-  - 资源规划
+  - 企业资源规划（ERP）
   - 任务管理和待办清单
 demo_url: https://demo.gauzy.co
 stargazers_count: 3742

@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 资金、预算和管理
+  - 财务与预算管理
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
 stargazers_count: 233

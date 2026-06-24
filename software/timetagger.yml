@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 时间追踪
+  - 工时记录
 source_code_url: https://github.com/almarklein/timetagger
 demo_url: https://timetagger.app/app/demo
 stargazers_count: 1741

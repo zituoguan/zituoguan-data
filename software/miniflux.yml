@@ -8,7 +8,7 @@ platforms:
   - deb
   - Docker
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/miniflux/v2
 stargazers_count: 9394
 updated_at: '2026-06-23'

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/heyform/heyform
 stargazers_count: 8853
 updated_at: '2026-06-24'

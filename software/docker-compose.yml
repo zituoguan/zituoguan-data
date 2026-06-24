@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 软件容器
+  - 容器
 source_code_url: https://github.com/docker/compose
 stargazers_count: 37594
 updated_at: '2026-06-23'

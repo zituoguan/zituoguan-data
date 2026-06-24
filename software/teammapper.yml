@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Node.js
 tags:
-  - 知识管理工具
+  - 知识管理
 source_code_url: https://github.com/b310-digital/teammapper
 demo_url: https://map.kits.blog
 stargazers_count: 471

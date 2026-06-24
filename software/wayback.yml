@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 档案和数字保存（DP）
+  - 档案和数字保存
 source_code_url: https://github.com/wabarc/wayback
 stargazers_count: 2206
 updated_at: '2026-05-31'

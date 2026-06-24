@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 粘贴板
+  - 代码粘贴工具
 source_code_url: https://github.com/snypy
 demo_url: https://app.snypy.com

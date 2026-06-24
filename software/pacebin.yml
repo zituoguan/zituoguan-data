@@ -7,6 +7,6 @@ licenses:
 platforms:
   - C
 tags:
-  - 粘贴板
+  - 代码粘贴工具
   - 文件传输 - 单击和拖放上传
 demo_url: "https://paste.crueter.xyz"

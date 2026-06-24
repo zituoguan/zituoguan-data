@@ -7,7 +7,7 @@ platforms:
   - PHP
   - deb
 tags:
-  - 资源规划
+  - 企业资源规划（ERP）
   - 客户关系管理（CRM）
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php

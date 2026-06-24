@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - 绘图
+  - 图表绘制
 source_code_url: https://github.com/yuzutech/kroki
 stargazers_count: 4201
 updated_at: '2026-06-23'

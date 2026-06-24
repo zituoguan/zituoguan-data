@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 打包
+  - 包管理
 source_code_url: https://github.com/jordansissel/fpm
 stargazers_count: 11483
 updated_at: '2026-04-22'

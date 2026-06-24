@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - 队列
+  - 消息队列
 source_code_url: https://github.com/apache/activemq
 stargazers_count: 2439
 updated_at: '2026-06-23'

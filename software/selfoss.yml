@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/fossar/selfoss
 stargazers_count: 2464
 updated_at: '2026-05-31'

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 粘贴板
+  - 代码粘贴工具
 source_code_url: https://github.com/algolia/sup3rS3cretMes5age
 stargazers_count: 567
 updated_at: '2026-06-22'

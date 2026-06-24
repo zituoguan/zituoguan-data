@@ -7,7 +7,7 @@ platforms:
   - JavaScript
   - Docker
 tags:
-  - 绘图
+  - 图表绘制
 source_code_url: https://github.com/jgraph/drawio
 stargazers_count: 6314
 updated_at: '2026-06-19'

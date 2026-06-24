@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C
 tags:
-  - 软件容器
+  - 容器
 source_code_url: https://github.com/systemd/systemd
 stargazers_count: 16422
 updated_at: '2026-06-24'

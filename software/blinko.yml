@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/blinkospace/blinko
 stargazers_count: 10605
 updated_at: '2026-06-20'

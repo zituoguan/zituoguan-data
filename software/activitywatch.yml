@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 时间追踪
+  - 工时记录
 source_code_url: https://github.com/ActivityWatch/activitywatch
 stargazers_count: 17991
 updated_at: '2026-06-23'

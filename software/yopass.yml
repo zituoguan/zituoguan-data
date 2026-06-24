@@ -7,7 +7,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 粘贴板
+  - 代码粘贴工具
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/

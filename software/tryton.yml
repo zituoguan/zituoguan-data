@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Python
 tags:
-  - 资源规划
+  - 企业资源规划（ERP）
 source_code_url: https://foss.heptapod.net/tryton/tryton
 demo_url: https://www.tryton.org/demo

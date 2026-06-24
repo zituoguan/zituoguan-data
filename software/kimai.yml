@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 时间追踪
+  - 工时记录
 source_code_url: https://github.com/kimai/kimai
 demo_url: https://www.kimai.org/demo/
 stargazers_count: 4759

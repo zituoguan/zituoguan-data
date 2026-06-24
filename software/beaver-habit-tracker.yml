@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 时间追踪
+  - 工时记录
 demo_url: https://beaverhabits.com/demo
 stargazers_count: 1776
 updated_at: '2026-06-21'

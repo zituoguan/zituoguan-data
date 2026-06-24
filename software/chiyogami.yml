@@ -8,7 +8,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 粘贴板
+  - 代码粘贴工具
 stargazers_count: 74
 updated_at: '2026-06-06'
 archived: false

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 预订和日程安排
+  - 预约与日程管理
 source_code_url: https://github.com/calcom/cal.diy
 demo_url: https://app.cal.com/bailey
 stargazers_count: 45792

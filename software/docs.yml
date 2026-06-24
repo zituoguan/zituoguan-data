@@ -7,8 +7,8 @@ licenses:
 platforms:
   - K8S
 tags:
-  - 笔记和编辑器
-  - 知识管理工具
+  - 笔记工具
+  - 知识管理
 stargazers_count: 16608
 updated_at: '2026-06-23'
 archived: false

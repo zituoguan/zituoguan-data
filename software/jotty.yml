@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 笔记和编辑器
+  - 笔记工具
   - 任务管理和待办清单
 source_code_url: https://github.com/fccview/jotty
 stargazers_count: 1905

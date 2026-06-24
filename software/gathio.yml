@@ -8,7 +8,7 @@ platforms:
   - Node.js
   - Docker
 tags:
-  - 投票和事件
+  - 投票和活动
 demo_url: https://gath.io/
 stargazers_count: 453
 updated_at: '2026-05-20'

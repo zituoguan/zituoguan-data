@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://framagit.org/les/gancio
 demo_url: https://demo.gancio.org/

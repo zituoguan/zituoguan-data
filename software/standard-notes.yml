@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.com/
 stargazers_count: 6522

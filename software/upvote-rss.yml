@@ -8,7 +8,7 @@ platforms:
   - Docker
   - PHP
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 depends_3rdparty: true
 demo_url: https://www.upvote-rss.com/
 stargazers_count: 487

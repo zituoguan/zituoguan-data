@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C++
 tags:
-  - 编辑器
+  - 代码编辑器
 source_code_url: https://github.com/notepad-plus-plus/notepad-plus-plus
 stargazers_count: 28479
 updated_at: '2026-06-23'

@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Python
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://git.sr.ht/~cedric/newspipe
 demo_url: https://www.newspipe.org/signup

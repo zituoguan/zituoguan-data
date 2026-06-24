@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 文档管理
-  - 档案和数字保存（DP）
+  - 档案和数字保存
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
 stargazers_count: 42429

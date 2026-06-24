@@ -7,8 +7,8 @@ platforms:
   - Node.js
   - Docker
 tags:
-  - 预订和日程安排
-  - 投票和事件
+  - 预约与日程管理
+  - 投票和活动
 source_code_url: https://github.com/lukevella/rallly
 demo_url: https://app.rallly.co
 stargazers_count: 5135

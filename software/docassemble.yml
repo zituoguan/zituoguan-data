@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/jhpyle/docassemble
 demo_url: https://demo.docassemble.org/run/legal
 stargazers_count: 960

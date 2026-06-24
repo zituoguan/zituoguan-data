@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 软件容器
+  - 容器
 source_code_url: https://github.com/moby/swarmkit
 stargazers_count: 3618
 updated_at: '2026-06-09'

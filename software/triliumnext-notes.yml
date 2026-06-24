@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - 笔记和编辑器
+  - 笔记工具
 source_code_url: https://github.com/TriliumNext/Trilium
 stargazers_count: 36557
 updated_at: '2026-06-24'

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 制造业
+  - 制造设备管理
 source_code_url: https://github.com/cncjs/cncjs/
 stargazers_count: 2614
 updated_at: '2026-05-15'

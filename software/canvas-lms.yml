@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 学习和课程
+  - 在线学习与课程
 source_code_url: https://github.com/instructure/canvas-lms
 demo_url: https://canvas.instructure.com/
 stargazers_count: 6693

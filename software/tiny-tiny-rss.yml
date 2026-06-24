@@ -7,7 +7,7 @@ platforms:
   - Docker
   - PHP
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/tt-rss/tt-rss
 stargazers_count: 767
 updated_at: '2026-06-23'

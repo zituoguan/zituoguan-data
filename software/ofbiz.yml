@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - 资源规划
+  - 企业资源规划（ERP）
 source_code_url: https://github.com/apache/ofbiz-framework
 stargazers_count: 1062
 updated_at: '2026-06-23'

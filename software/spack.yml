@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 构建和软件组织工具
+  - 构建工具
 source_code_url: https://github.com/spack/spack
 stargazers_count: 5076
 updated_at: '2026-06-24'

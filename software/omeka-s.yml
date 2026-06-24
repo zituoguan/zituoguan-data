@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 档案和数字保存（DP）
+  - 档案和数字保存
 source_code_url: https://github.com/omeka/omeka-s
 stargazers_count: 494
 updated_at: '2026-06-18'

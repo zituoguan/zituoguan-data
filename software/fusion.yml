@@ -8,7 +8,7 @@ platforms:
   - Go
   - Docker
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 stargazers_count: 2119
 updated_at: '2026-03-03'
 archived: false

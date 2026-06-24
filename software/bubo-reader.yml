@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/georgemandis/bubo-rss
 demo_url: https://bubo-rss-demo.netlify.app/
 stargazers_count: 233

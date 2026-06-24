@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 会议管理
-  - 预订和日程安排
+  - 预约与日程管理
 demo_url: https://demo.openslides.org/login
 stargazers_count: 618
 updated_at: '2026-06-12'

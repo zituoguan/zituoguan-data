@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/LimeSurvey/LimeSurvey
 demo_url: https://demo.limesurvey.org
 stargazers_count: 3647

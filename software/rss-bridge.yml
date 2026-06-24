@@ -7,7 +7,7 @@ platforms:
   - PHP
   - Docker
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/RSS-Bridge/rss-bridge
 stargazers_count: 9025
 updated_at: '2026-06-05'

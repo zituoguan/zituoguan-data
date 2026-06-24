@@ -7,7 +7,7 @@ platforms:
   - PHP
   - Node.js
 tags:
-  - 预订和日程安排
+  - 预约与日程管理
 source_code_url: https://github.com/Qloapps/QloApps
 demo_url: https://demo.qloapps.com/
 stargazers_count: 13792

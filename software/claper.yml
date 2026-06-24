@@ -7,7 +7,7 @@ platforms:
   - Elixir
   - Docker
 tags:
-  - 投票和事件
+  - 投票和活动
 source_code_url: https://github.com/ClaperCo/Claper
 stargazers_count: 763
 updated_at: '2026-06-05'

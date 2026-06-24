@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - 订阅阅读器
+  - RSS 阅读器
 source_code_url: https://github.com/stringer-rss/stringer
 stargazers_count: 4116
 updated_at: '2026-06-22'

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Python
 tags:
-  - 文档管理 - 机构知识库和数字图书馆软件
+  - 文档管理 - 机构知识库和数字图书馆
 source_code_url: https://github.com/inveniosoftware/invenio-app-rdm
 demo_url: https://inveniordm.web.cern.ch/
 related_software_url: https://inveniosoftware.org/products/rdm/

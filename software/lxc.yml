@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C
 tags:
-  - 软件容器
+  - 容器
 source_code_url: https://github.com/lxc/lxc
 stargazers_count: 5207
 updated_at: '2026-06-22'

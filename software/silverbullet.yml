@@ -8,8 +8,8 @@ platforms:
   - Docker
   - Deno
 tags:
-  - 笔记和编辑器
-  - 粘贴板
+  - 笔记工具
+  - 代码粘贴工具
 demo_url: https://play.silverbullet.md/
 related_software_url: https://silverbullet.md/Libraries
 stargazers_count: 5520

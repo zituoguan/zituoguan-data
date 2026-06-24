@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 队列
+  - 消息队列
 source_code_url: https://github.com/nsqio/nsq
 stargazers_count: 25739
 updated_at: '2025-06-29'

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 指标和指标采集
+  - 指标采集
 source_code_url: https://github.com/statsd/statsd
 stargazers_count: 18049
 updated_at: '2025-05-20'

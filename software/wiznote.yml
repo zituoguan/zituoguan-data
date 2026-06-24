@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 知识管理工具
+  - 知识管理
 source_code_url: https://www.wiz.cn/docker
 demo_url: https://www.wiz.cn/
 related_software_url: https://www.wiz.cn/download.html

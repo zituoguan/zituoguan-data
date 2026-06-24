@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 制造业
+  - 制造设备管理
 source_code_url: https://github.com/OctoPrint/OctoPrint
 stargazers_count: 9021
 updated_at: '2026-06-23'
