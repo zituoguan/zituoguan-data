@@ -126,7 +126,7 @@ steps:
         - '^https://asciinema.org/' # Times out from CI
         - '^https://git.whamcloud.com/' # Always returns 403 (Cloudflare) in CI
         - '^https://wiki.mumble.info/wiki/Main_Page' # Certificate expired / 503 in CI
-        - '^https://savannah\.gnu\.org/cgit/nano\.git/tree/' # Times out from CI
+        - '^https://git\.savannah\.gnu\.org/cgit/' # Times out from CI (nano, mediagoblin, etc.)
         - '^https://www.salut-a-toi.org/' # Times out from CI
         - '^https://git.samba.org/samba.git/' # Times out from CI
         - '^https://git.openafs.org/' # SSL cert errors in CI
@@ -157,3 +157,28 @@ steps:
         - '^https://wikiss\.tuxfamily\.org/' # Times out in CI
         - '^https://git\.claws-mail\.org/' # TLSv1 protocol version error in CI
         - '^http://www\.claws-mail\.org/' # TLSv1 protocol version error in CI
+        - '^https://4gaboards\.com' # HTTP 415 in CI but loads in browser
+        - '^https://autokitteh\.com/' # HTTP 202 in CI but loads in browser
+        - '^https://cloud-init\.io/' # HTTP 403 in CI but loads in browser
+        - '^https://www\.courier-mta\.org/' # HTTP 415 in CI but loads in browser
+        - '^https://damselfly\.info' # HTTP 202 in CI but loads in browser
+        - '^https://gibbonedu\.org/' # HTTP 415 in CI but loads in browser
+        - '^https://juntagrico\.org/' # HTTP 415 in CI but loads in browser
+        - '^https://www\.karaoke-eternal\.com' # HTTP 415 in CI but loads in browser
+        - '^https://openquartermaster\.com/' # HTTP 415 in CI but loads in browser
+        - '^https://owncloud\.org/' # HTTP 415 in CI but loads in browser
+        - '^https://pi-hole\.net/' # HTTP 415 in CI but loads in browser
+        - '^https://leomoon\.com/downloads/web-apps/wiki-go/' # HTTP 415 in CI but loads in browser
+        - '^https://git\.ispconfig\.org/' # Times out from CI but project active
+        - '^https://git\.openldap\.org/' # Times out from CI but project active
+        - '^https://repo\.mercurial-scm\.org/' # Times out from CI but project active
+        - '^https://git\.sr\.ht/' # Times out from CI
+        - '^https://www\.mantisbt\.org/' # Times out from CI but project active
+        - '^https://demo\.linkding\.link/' # Demo site times out from CI
+        - '^https://www\.rconfig\.com/' # Times out from CI but project active
+        - '^https://www\.cmsmadesimple\.org/' # Network unreachable from CI
+        - '^http://svn\.cmsmadesimple\.org/' # Network unreachable from CI
+        - '^https://flatpress\.org/' # Network unreachable from CI but project active
+        - '^https://cr\.yp\.to/' # Connection timeout in CI
+        - '^https://drupalcommerce\.org' # HTTP 520 (Cloudflare origin error) in CI
+        - '^https://www\.ezservermonitor\.com' # HTTP 503 in CI
