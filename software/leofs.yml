@@ -1,5 +1,5 @@
 name: LeoFS
-website_url: https://leo-project.net
+website_url: https://github.com/leo-project/leofs
 description: 高可用、分布式、最终一致性的对象/Blob 存储。
 licenses:
   - Apache-2.0

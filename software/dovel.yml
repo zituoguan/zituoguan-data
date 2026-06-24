@@ -1,5 +1,5 @@
 name: Dovel
-website_url: https://dovel.email
+website_url: https://github.com/mildred/dovel
 description: 根据简单的配置文件发送和接收电子邮件的 SMTP 服务器，可选择提供用于浏览电子邮件的 Web 界面。
 licenses:
   - LGPL-3.0
@@ -7,4 +7,4 @@ platforms:
   - Go
 tags:
   - 通信 - 电子邮件 - 完整解决方案
-source_code_url: https://dovel.email/server/tree.html
+source_code_url: https://github.com/mildred/dovel

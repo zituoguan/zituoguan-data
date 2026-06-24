@@ -7,4 +7,4 @@ platforms:
   - C
 tags:
   - 分布式文件系统
-source_code_url: https://git.openafs.org/?p=openafs.git;a=summary
+source_code_url: https://gerrit.openafs.org

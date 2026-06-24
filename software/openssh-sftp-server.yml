@@ -8,4 +8,4 @@ platforms:
   - deb
 tags:
   - 文件传输和同步
-source_code_url: https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/
+source_code_url: https://github.com/openbsd/src/tree/master/usr.bin/ssh

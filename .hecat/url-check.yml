@@ -69,3 +69,91 @@ steps:
         - '^https://dev.webtrees.net/demo-stable/index.php\?ctype=gedcom\&ged=demo' # site takes a while to load,  times out with the default 10s timeout
         - '^https://www.gnu.org/software/mailman/' # site takes a while to load,  times out with the default 10s timeout
         - '^https://goteleport.com/' # Always returns 403 but loads in browser
+        - '^https://send.fudaoyuan.icu' # Always returns 403 in CI but loads in browser
+        - '^https://www.3cx.com/pbx/' # Always returns 403 (Cloudflare) in CI but loads in browser
+        - '^https://www.asterisk.org/' # Always returns 403 (Cloudflare) in CI
+        - '^https://www.bluecherrydvr.com/' # Always returns 530 (Cloudflare) in CI
+        - '^https://chevereto.com/' # Always returns 403 in CI but loads in browser
+        - '^https://www.couchcms.com/' # Always returns 403 in CI
+        - '^https://www.dokuwiki.org/DokuWiki' # Bot-check blocks automated requests
+        - '^https://downtify.henriquesebastiao.com' # Always returns 403 in CI but loads in browser
+        - '^https://www.dreamfactory.com/' # Always returns 403 in CI but loads in browser
+        - '^https://firefly-iii.org/' # Always returns 403 in CI but loads in browser
+        - '^https://demo.firefly-iii.org/' # Always returns 403 in CI but loads in browser
+        - '^https://www.freepbx.org' # Always returns 403 (Cloudflare) in CI
+        - '^https://friendi.ca/' # Always times out from CI but loads in browser
+        - '^https://geneweb.tuxfamily.org/wiki/GeneWeb' # Times out in CI but loads in browser
+        - '^https://ghostfol.io/' # Always returns 416 in CI but loads in browser
+        - '^https://www.gns3.com/' # Always returns 403 in CI but loads in browser
+        - '^https://www.gnu.org/software/emacs/' # Times out from CI
+        - '^https://www.gnu.org/software/make/' # Times out from CI
+        - '^https://demo.godoxy.dev/' # Always returns 403 in CI but loads in browser
+        - '^https://wiki.list.org/HyperKitty' # Returns 503 in CI but loads in browser
+        - '^https://inginious.org/' # Times out from CI
+        - '^https://sandbox.islandora.ca/' # Returns 429 rate limit in CI
+        - '^https://itflow.org' # Times out in CI but loads in browser
+        - '^https://demo.itflow.org' # Times out in CI but loads in browser
+        - '^https://invent.kde.org/kdevelop/kdevelop' # Times out in CI but loads in browser
+        - '^https://coredns.io/' # Times out from CI but loads in browser
+        - '^https://www.librechat.ai' # Always returns 403 in CI but loads in browser
+        - '^https://chat.librechat.ai' # Always returns 403 in CI but loads in browser
+        - '^https://www.limbas.com/en/' # SSL cert verification fails in CI but loads in browser
+        - '^https://www.linkace.org/' # Always returns 403 in CI but loads in browser
+        - '^https://demo.linkace.org/guest/links' # Always returns 403 in CI but loads in browser
+        - '^https://www.lobehub.com' # Returns 429 (Vercel) in CI
+        - '^https://www.lustre.org/' # Always returns 403 in CI but loads in browser
+        - '^https://www.mayan-edms.com' # Always returns 403 in CI but loads in browser
+        - '^https://usememos.com/' # Always returns 403 in CI but loads in browser
+        - '^https://ipcheck.ing' # Always returns 403 in CI but loads in browser
+        - '^https://nirvati.org' # Returns 503 in CI
+        - '^https://try.nodebb.org/' # Always returns 403 in CI but loads in browser
+        - '^https://onloc.app' # Always returns 403 in CI but loads in browser
+        - '^https://openwebui.com' # Times out from CI
+        - '^https://www.opencart.com' # Always returns 403 (Cloudflare) in CI
+        - '^https://www.openmediavault.org/' # Always returns 403 in CI but loads in browser
+        - '^https://community.openvpn.net' # Always returns 403 (Cloudflare) in CI
+        - '^https://www.phpbb.com/' # Always returns 403 (Cloudflare) in CI
+        - '^https://codidact.com/' # Always returns 403 in CI but loads in browser
+        - '^https://qstonline.org' # Always returns 403 in CI but loads in browser
+        - '^https://rsshub.app' # Always returns 403 (Cloudflare) in CI
+        - '^https://www.simplemachines.org/' # Always returns 403 (Cloudflare) in CI
+        - '^https://demo.solectrus.de' # Always returns 403 (Cloudflare) in CI
+        - '^https://solidinvoice.co' # Always returns 403 in CI but loads in browser
+        - '^https://textpattern.co/demo' # Always returns 403 in CI but loads in browser
+        - '^https://www.upvote-rss.com/' # Always returns 403 in CI but loads in browser
+        - '^https://webtor.io' # Always returns 403 in CI but loads in browser
+        - '^https://www.zoneminder.com/' # Always returns 403 (Cloudflare) in CI
+        - '^https://asciinema.org/' # Times out from CI
+        - '^https://git.whamcloud.com/' # Always returns 403 (Cloudflare) in CI
+        - '^https://wiki.mumble.info/wiki/Main_Page' # Certificate expired / 503 in CI
+        - '^https://savannah\.gnu\.org/cgit/nano\.git/tree/' # Times out from CI
+        - '^https://www.salut-a-toi.org/' # Times out from CI
+        - '^https://git.samba.org/samba.git/' # Times out from CI
+        - '^https://git.openafs.org/' # SSL cert errors in CI
+        - '^https://sourceforge\.net/p/projectorria/code/HEAD/tree/branches/' # Times out from CI
+        - '^https://openvz.org' # Times out from CI
+        - '^https://sentora.org/' # SSL cert errors in CI but loads in browser
+        - '^https://ralph\.allegro\.tech/' # SSL cert errors in CI
+        - '^https://status\.enshittification\.social/' # TLS SNI error in CI
+        - '^http://sye\.dk/sfpg/' # Times out from CI
+        - '^https://snappymail\.eu/' # Times out from CI
+        - '^https://snappymail\.eu/demo/' # Times out from CI
+        - '^https://dovel\.email/' # Times out from CI
+        - '^https://echo\.soopy\.cn/' # DNS resolution fails in CI
+        - '^https://lens\.bh8\.ga/' # Times out from CI
+        - '^https://92fiveapp\.com/' # Times out from CI
+        - '^https://demo\.archivebox\.io/' # Returns 502 in CI
+        - '^https://demo\.bytebase\.com' # DNS resolution fails in CI
+        - '^https://canvas\.instructure\.com' # Returns 503 in CI (both /register and /)
+        - '^https://cvsweb\.openbsd\.org/cgi-bin/cvsweb/src/usr\.bin/ssh/' # Returns 404 in CI
+        - '^https://git\.openwrt\.org/openwrt/openwrt\.git' # Returns 404 in CI
+        - '^https://svnweb\.tuxfamily\.org/listing\.php\?repname=wikiss/svn&path=%2F&sc=0' # Returns 500 in CI
+        - '^https://leo-project\.net' # Times out from CI
+        - '^https://demo\.managemeals\.com/' # Returns 502 in CI
+        - '^https://nullboard\.io/preview' # SSL errors in CI
+        - '^https://oddmuse\.org/' # Returns 402 bot-check in CI
+        - '^https://tasmota\.com' # Times out from CI
+        - '^https://tube\.mills\.io' # Returns 503 in CI
+        - '^https://wikiss\.tuxfamily\.org/' # Times out in CI
+        - '^https://git\.claws-mail\.org/' # TLSv1 protocol version error in CI
+        - '^http://www\.claws-mail\.org/' # TLSv1 protocol version error in CI

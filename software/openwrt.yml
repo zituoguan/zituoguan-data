@@ -7,4 +7,4 @@ platforms:
   - C
 tags:
   - 路由器
-source_code_url: https://git.openwrt.org/openwrt/openwrt.git
+source_code_url: https://github.com/openwrt/openwrt

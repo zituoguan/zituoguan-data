@@ -1,6 +1,6 @@
 
 name: 92five
-website_url: https://92fiveapp.com/
+website_url: https://github.com/chintanbanugaria/92five
 description: 自托管的项目管理应用。
 licenses:
   - ⊘ Proprietary
@@ -8,4 +8,4 @@ platforms:
   - PHP
 tags:
   - 软件开发 - 项目管理
-source_code_url: https://92fiveapp.com/
+source_code_url: https://github.com/chintanbanugaria/92five

@@ -1,5 +1,5 @@
 name: OpenVZ
-website_url: https://openvz.org
+website_url: https://github.com/OpenVZ
 description: Linux 的基于容器的虚拟化。
 licenses:
   - GPL-2.0

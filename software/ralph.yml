@@ -1,5 +1,5 @@
 name: Ralph
-website_url: https://ralph.allegro.tech/
+website_url: https://github.com/allegro/ralph
 description: 适用于大型数据中心和小型局域网的资产管理、DCIM 和 CMDB 系统。
 licenses:
   - Apache-2.0

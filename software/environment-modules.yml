@@ -1,5 +1,5 @@
 name: Environment Modules
-website_url: https://cea-hpc.github.io/modules/
+website_url: https://modules.readthedocs.io/
 description: Environment Modules 通过 modulefiles 动态修改用户环境。
 licenses:
   - GPL-2.0

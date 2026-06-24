@@ -1,5 +1,5 @@
 name: SRS
-website_url: https://ossrs.io/
+website_url: https://ossrs.net
 description: 一个简单、高效和实时的视频服务器，支持RTMP、WebRTC、HLS、HTTP-FLV和SRT。
 licenses:
   - MIT

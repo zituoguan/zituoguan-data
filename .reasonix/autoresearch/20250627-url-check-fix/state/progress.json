@@ -1,0 +1,11 @@
+{
+  "task": "Fix 93 broken URLs from make url_check",
+  "total_urls": 93,
+  "categorized": true,
+  "categories": {
+    "add_to_exclude_regex": "URLs that are legitimate project sites but block automated HTTP requests (403/429/503) in CI",
+    "update_yaml_url": "URLs that have permanently moved or the site is dead, need a replacement URL in the YAML file",
+    "transient_network": "URLs that failed due to temporary network issues in GitHub Actions environment"
+  },
+  "status": "starting_fixes"
+}
