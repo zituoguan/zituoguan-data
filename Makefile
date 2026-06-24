@@ -53,8 +53,8 @@ export_html:
 	echo "google.com, pub-5479527225721408, DIRECT, f08c47fec0942fa0" >| html/html/ads.txt
 	printf "# 将复合 _static 路径重定向到正确位置，防止 AI 爬虫 URL 堆叠\n/*/_static/* /_static/:splat 301\n/*/*/_static/* /_static/:splat 301\n/*/*/*/_static/* /_static/:splat 301\n\n# 首页 canonical 修正\n/index / 301\n" >| html/html/_redirects
 	printf "/_static/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: SAMEORIGIN\n  Referrer-Policy: strict-origin-when-cross-origin\n" >| html/html/_headers
-	find html/html -name "*.html" -exec sed -i '' 's|<link rel="canonical" href="https://zituoguan\.com/\(.*\)\.html" />|<link rel="canonical" href="https://zituoguan.com/\1" />|g' {} \;
-	sed -i '' 's|\.html</loc>|</loc>|g' html/html/sitemap.xml
+	python3 -c "import os,re; [open(p,'w').write(re.sub(r'(<link rel=\"canonical\" href=\"https://zituoguan\.com/[^\"]+)\.html(\" />)',r'\1\2',open(p).read())) for r,d,fs in os.walk('html/html') for f in fs if f.endswith('.html') for p in [os.path.join(r,f)]]"
+	python3 -c "import re; open('html/html/sitemap.xml','w').write(re.sub(r'\.html</loc>','</loc>',open('html/html/sitemap.xml').read()))"
 
 .PHONY: push_markdown # 提交并推送更改到Markdown仓库
 push_markdown:
