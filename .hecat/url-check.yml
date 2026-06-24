@@ -182,3 +182,32 @@ steps:
         - '^https://cr\.yp\.to/' # Connection timeout in CI
         - '^https://drupalcommerce\.org' # HTTP 520 (Cloudflare origin error) in CI
         - '^https://www\.ezservermonitor\.com' # HTTP 503 in CI
+        - '^https://www\.dovecot\.org/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^http://www\.dspace\.org/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://grml\.org' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://i-librarian\.net' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://eu1\.i-librarian\.net/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://linuxcontainers\.org/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://modoboa\.org/' # SSLv3 handshake failure (LibreSSL compat)
+        - '^https://map\.project-osrm\.org/' # SSLv3 handshake failure (LibreSSL compat)
+        - '^https://otterwiki\.com/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://privatebin\.info/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://privatebin\.net/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://live\.scoold\.com' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://sip3\.io/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://demo\.sip3\.io' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://www\.sysdig\.com/' # TLSv1 protocol version error (LibreSSL compat)
+        - '^https://www\.xenproject\.org/' # SSLv3 handshake failure (LibreSSL compat)
+        - '^https://business\.adobe\.com/' # Times out from CI
+        - '^https://www\.getsoloapp\.com/' # HTTP 403 in CI but loads in browser
+        - '^https://apostrophecms\.com/demo' # Demo page times out in CI
+        - '^https://0xacab\.org/' # Riseup-hosted GitLab, DNS resolution fails intermittently
+        - '^https://elgg\.org/' # Times out in CI
+        - '^https://tahoe-lafs\.org/' # HTTP 502 in CI
+        - '^https://www\.tine-groupware\.de/' # SSL EOF error (LibreSSL compat)
+        - '^https://addy\.io/' # Times out in CI (AnonAddy rebranded to addy.io)
+        - '^https://ceph\.com/' # Times out in CI but project active
+        - '^https://gitlab\.com/cinc-project/' # Times out in CI (3-segment GitLab path not covered by default exclusion)
+        - '^https://nominatim\.org/' # Times out in CI but project active
+        - '^https://docs\.openstack\.org/developer/swift/' # Connection aborted in CI
+        - '^https://www\.rukovoditel\.net/' # SSL EOF error (LibreSSL compat)
