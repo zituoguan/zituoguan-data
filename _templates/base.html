@@ -9,6 +9,25 @@
     })(window,document,'script','dataLayer','GTM-533N48XR');</script>
     <!-- End Google Tag Manager -->
     {{ super() }}
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ title|striptags|e }}"/>
+    <meta property="og:description" content="{{ (meta is defined and meta.get('description')) or '收录 2000+ 款可自托管的开源软件，附中文说明，持续更新。' }}"/>
+    <meta property="og:url" content="{{ pageurl|default('https://zituoguan.com/') }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:image" content="https://zituoguan.com/_static/logo.png"/>
+    <meta property="og:locale" content="zh_CN"/>
+    <meta name="twitter:card" content="summary"/>
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "自托管精选",
+      "url": "https://zituoguan.com/",
+      "description": "收录 2000+ 款可自托管的开源软件，涵盖文件同步、博客、密码管理、网盘等分类，附中文说明，持续更新。",
+      "inLanguage": "zh-CN"
+    }
+    </script>
 {% endblock %}
 
 {% block body %}

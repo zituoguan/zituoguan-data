@@ -6,7 +6,8 @@ version = '1.0.0'
 release = '1.0.0'
 copyright = '2015-2026, the awesome-selfhosted community'
 language = 'zh_cn'
-html_title = '自托管精选'
+html_title = '自托管精选 | 开源自部署软件中文导航'
+html_baseurl = 'https://zituoguan.com/'
 html_theme = 'furo'
 html_show_sphinx = False
 html_show_search_summary = True
@@ -16,7 +17,8 @@ html_use_opensearch = 'https://zituoguan.com/'
 html_favicon = '../_static/favicon.ico'
 html_logo = '../_static/logo.svg'
 html_css_files = ['custom.css']
-extensions = ['myst_parser', 'sphinx_design']
+extensions = ['myst_parser', 'sphinx_design', 'sphinx_sitemap']
+sitemap_url_scheme = '{link}'
 source_suffix = ['.md']
 templates_path = ['../_templates']
 exclude_patterns = []
@@ -26,7 +28,7 @@ html_static_path = ['../_static']
 myst_enable_extensions = ['fieldlist']
 myst_html_meta = {
     'google-adsense-account': 'ca-pub-5479527225721408',
-    'description lang=zh_cn': '这是一个列出了可以在您自己的服务器上托管的自由软件网络服务和 Web 应用的清单',
+    'description lang=zh_cn': '收录 2000+ 款可自托管的开源软件，涵盖文件同步、博客、密码管理、网盘等分类，附中文说明，持续更新。',
     'charset': 'UTF-8'
 }
 

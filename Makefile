@@ -8,7 +8,8 @@ install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \
-	pip3 install --force git+https://github.com/zituoguan/hecat.git
+	pip3 install --force git+https://github.com/zituoguan/hecat.git && \
+	pip3 install sphinx-sitemap
 
 .PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
@@ -46,11 +47,12 @@ export_html:
 	rm -rf zituoguan-html/ html/
 	git clone https://github.com/$(HTML_REPOSITORY)
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
-	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> 和 <a href="https://github.com/pradyunsg/furo">furo</a>。内容在 <a href="https://github.com/zituoguan/zituoguan-data/blob/master/LICENSE">CC-BY-SA 3.0</a> 许可下。 <a href="https://github.com/zituoguan/zituoguan-html">源代码</a>，<a href="https://github.com/zituoguan/zituoguan-data">原始数据</a>。|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -j auto -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees zituoguan-html/*
-	echo "# 请不要过于频繁地爬取此站点。源代码可在 https://github.com/zituoguan/zituoguan-html 获取。原始数据可在 https://github.com/zituoguan/zituoguan-data 获取" >| html/html/robots.txt
+	printf "User-agent: *\nDisallow: /_static/\nDisallow: /_sphinx_design_static/\n\nSitemap: https://zituoguan.com/sitemap.xml\n" >| html/html/robots.txt
 	echo "google.com, pub-5479527225721408, DIRECT, f08c47fec0942fa0" >| html/html/ads.txt
+	printf "# 将复合 _static 路径重定向到正确位置，防止 AI 爬虫 URL 堆叠\n/*/_static/* /_static/:splat 301\n/*/*/_static/* /_static/:splat 301\n/*/*/*/_static/* /_static/:splat 301\n" >| html/html/_redirects
+	printf "/_static/*\n  Cache-Control: public, max-age=31536000, immutable\n\n/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: SAMEORIGIN\n  Referrer-Policy: strict-origin-when-cross-origin\n" >| html/html/_headers
 
 .PHONY: push_markdown # 提交并推送更改到Markdown仓库
 push_markdown:
