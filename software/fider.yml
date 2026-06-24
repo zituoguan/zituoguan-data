@@ -9,12 +9,12 @@ tags:
   - 投票和活动
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
-stargazers_count: 4375
-updated_at: '2026-06-23'
+stargazers_count: 4374
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v0.35.0
-  published_at: '2026-05-06'
+  tag: v0.36.0
+  published_at: '2026-06-24'
 commit_history:
   2025-07: 10
   2025-08: 8
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 12
   2026-04: 60
   2026-05: 17
-  2026-06: 48
+  2026-06: 52

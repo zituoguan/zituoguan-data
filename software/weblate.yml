@@ -10,7 +10,7 @@ platforms:
 tags:
   - 软件开发 - 本地化
 source_code_url: https://github.com/WeblateOrg/weblate
-stargazers_count: 5946
+stargazers_count: 5947
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 841
   2026-04: 1915
   2026-05: 1257
-  2026-06: 986
+  2026-06: 1009

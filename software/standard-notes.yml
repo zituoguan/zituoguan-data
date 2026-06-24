@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.com/
 stargazers_count: 6522
-updated_at: '2026-06-08'
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: '@standardnotes/mobile@3.201.31'
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 13
   2026-04: 34
   2026-05: 11
-  2026-06: 9
+  2026-06: 10

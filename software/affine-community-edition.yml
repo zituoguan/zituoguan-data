@@ -10,12 +10,12 @@ platforms:
 tags:
   - 知识管理
 demo_url: https://app.affine.pro/
-stargazers_count: 69723
+stargazers_count: 69742
 updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v2026.6.23-canary.1015
-  published_at: '2026-06-23'
+  tag: v0.27.0-beta.0
+  published_at: '2026-06-24'
 commit_history:
   2025-07: 283
   2025-08: 74
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 87
   2026-04: 52
   2026-05: 87
-  2026-06: 42
+  2026-06: 44

@@ -10,12 +10,12 @@ tags:
   - 分析
 source_code_url: https://github.com/umami-software/umami
 demo_url: https://cloud.umami.is/share/LGazGOecbDtaIwDr
-stargazers_count: 37299
-updated_at: '2026-05-15'
+stargazers_count: 37310
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-04-16'
+  tag: v3.2.0
+  published_at: '2026-06-24'
 commit_history:
   2025-07: 77
   2025-08: 70
@@ -26,6 +26,6 @@ commit_history:
   2026-01: 0
   2026-02: 3
   2026-03: 1
-  2026-04: 36
-  2026-05: 20
-  2026-06: 0
+  2026-04: 115
+  2026-05: 201
+  2026-06: 101

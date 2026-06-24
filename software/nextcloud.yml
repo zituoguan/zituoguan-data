@@ -11,7 +11,7 @@ tags:
   - 协同办公
 source_code_url: https://github.com/nextcloud/server
 demo_url: https://try.nextcloud.com/
-stargazers_count: 35907
+stargazers_count: 35914
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 433
   2026-04: 610
   2026-05: 638
-  2026-06: 666
+  2026-06: 692

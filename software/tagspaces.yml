@@ -9,7 +9,7 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/tagspaces/tagspaces
 demo_url: https://demo.tagspaces.com
-stargazers_count: 5183
+stargazers_count: 5181
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 118
   2026-04: 149
   2026-05: 122
-  2026-06: 121
+  2026-06: 122

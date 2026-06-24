@@ -11,13 +11,13 @@ tags:
   - 生成式人工智能（GenAI）
 demo_url: https://chat.librechat.ai
 depends_3rdparty: true
-stargazers_count: 39711
+stargazers_count: 39750
 updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v0.8.7-rc1
-  published_at: '2026-06-15'
+  tag: v0.8.7
+  published_at: '2026-06-24'
 commit_history:
   2026-04: 137
   2026-05: 243
-  2026-06: 247
+  2026-06: 251

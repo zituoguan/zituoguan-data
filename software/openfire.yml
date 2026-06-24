@@ -9,7 +9,7 @@ tags:
   - 通信 - XMPP - 服务器
 source_code_url: https://github.com/igniterealtime/Openfire
 stargazers_count: 3033
-updated_at: '2026-06-18'
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v5.1.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 142
   2026-04: 89
   2026-05: 132
-  2026-06: 78
+  2026-06: 88

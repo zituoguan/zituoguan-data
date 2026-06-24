@@ -9,7 +9,7 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/btcpayserver/btcpayserver
 demo_url: https://mainnet.demo.btcpayserver.org/
-stargazers_count: 7618
+stargazers_count: 7619
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 76
   2026-04: 39
   2026-05: 33
-  2026-06: 54
+  2026-06: 55

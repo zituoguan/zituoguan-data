@@ -8,12 +8,12 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/apache/superset
-stargazers_count: 73468
+stargazers_count: 73481
 updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: superset-helm-chart-0.17.2
-  published_at: '2026-06-23'
+  tag: superset-helm-chart-0.17.3
+  published_at: '2026-06-24'
 commit_history:
   2025-07: 204
   2025-08: 194
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 322
   2026-04: 410
   2026-05: 474
-  2026-06: 577
+  2026-06: 608

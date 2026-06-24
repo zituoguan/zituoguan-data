@@ -9,7 +9,7 @@ platforms:
 tags:
   - 工单
 source_code_url: https://github.com/zammad/zammad
-stargazers_count: 5714
+stargazers_count: 5717
 updated_at: '2026-06-24'
 archived: false
 commit_history:
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 216
   2026-04: 270
   2026-05: 241
-  2026-06: 217
+  2026-06: 220

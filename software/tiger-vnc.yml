@@ -8,8 +8,8 @@ platforms:
 tags:
   - 远程桌面客户端
 source_code_url: https://github.com/TigerVNC/tigervnc
-stargazers_count: 7234
-updated_at: '2026-06-12'
+stargazers_count: 7235
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v1.16.2
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-04: 4
   2026-05: 9
-  2026-06: 32
+  2026-06: 68

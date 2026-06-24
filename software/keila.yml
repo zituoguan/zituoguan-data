@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
 stargazers_count: 2121
-updated_at: '2026-06-23'
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v0.20.1
-  published_at: '2026-05-25'
+  tag: v0.30.1
+  published_at: '2026-06-24'
 commit_history:
   2025-07: 12
   2025-08: 16
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 20
   2026-04: 71
   2026-05: 44
-  2026-06: 22
+  2026-06: 37

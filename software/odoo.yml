@@ -11,7 +11,7 @@ tags:
   - 企业资源规划（ERP）
 source_code_url: https://github.com/odoo/odoo
 demo_url: https://demo.odoo.com/
-stargazers_count: 52625
+stargazers_count: 52638
 updated_at: '2026-06-24'
 archived: false
 commit_history:
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 742
   2026-04: 677
   2026-05: 553
-  2026-06: 449
+  2026-06: 477

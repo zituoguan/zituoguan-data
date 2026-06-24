@@ -8,8 +8,8 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/pterodactyl/panel
-stargazers_count: 8975
-updated_at: '2026-06-23'
+stargazers_count: 8979
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v1.14.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 7
   2026-04: 3
   2026-05: 4
-  2026-06: 18
+  2026-06: 19

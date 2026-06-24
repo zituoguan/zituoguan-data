@@ -9,7 +9,7 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/apache/druid
-stargazers_count: 14018
+stargazers_count: 14019
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 134
   2026-04: 73
   2026-05: 84
-  2026-06: 41
+  2026-06: 46

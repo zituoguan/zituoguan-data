@@ -8,8 +8,8 @@ platforms:
 tags:
   - 容器
 source_code_url: https://github.com/docker/compose
-stargazers_count: 37594
-updated_at: '2026-06-23'
+stargazers_count: 37602
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v5.2.0
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-04: 19
   2026-05: 33
-  2026-06: 54
+  2026-06: 55

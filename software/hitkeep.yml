@@ -9,15 +9,15 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/pascalebeier/hitkeep
-stargazers_count: 60
-updated_at: '2026-06-18'
+stargazers_count: 62
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: skills/v0.1.0
-  published_at: '2026-06-18'
+  tag: v2.8.0
+  published_at: '2026-06-24'
 commit_history:
   2026-02: 92
   2026-03: 137
   2026-04: 47
   2026-05: 81
-  2026-06: 32
+  2026-06: 50

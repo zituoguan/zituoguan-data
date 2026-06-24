@@ -9,7 +9,7 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/baptisteArno/typebot.io
 stargazers_count: 10071
-updated_at: '2026-06-18'
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v3.17.2
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 81
   2026-04: 34
   2026-05: 36
-  2026-06: 10
+  2026-06: 11
