@@ -12,12 +12,10 @@ tags:
   - 数据库管理
   - 软件开发 - IDE 和工具
 demo_url: https://azimutt.app/gallery/gospeak
-stargazers_count: 2107
-updated_at: '2025-07-07'
+stargazers_count: 2136
+updated_at: '2026-06-20'
 archived: false
 commit_history:
-  2025-05: 0
-  2025-06: 0
   2025-07: 1
   2025-08: 0
   2025-09: 0
@@ -27,4 +25,6 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 0
-  2026-04: 0
+  2026-04: 2
+  2026-05: 0
+  2026-06: 3

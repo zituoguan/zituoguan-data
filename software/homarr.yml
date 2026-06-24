@@ -10,7 +10,7 @@ tags:
   - 个人仪表板
 source_code_url: https://github.com/homarr-labs/homarr
 stargazers_count: 4162
-updated_at: '2026-06-23'
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v1.67.0
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 211
   2026-04: 187
   2026-05: 207
-  2026-06: 245
+  2026-06: 246

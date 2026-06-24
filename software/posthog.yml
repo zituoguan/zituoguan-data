@@ -9,11 +9,11 @@ tags:
   - 分析
   - 软件开发 - 功能开关
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 35148
+stargazers_count: 35152
 updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: agent-skills-v0.229.0
+  tag: agent-skills-v0.231.0
   published_at: '2026-06-24'
 commit_history:
   2025-07: 1140
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 2586
   2026-04: 2801
   2026-05: 2285
-  2026-06: 3447
+  2026-06: 3467

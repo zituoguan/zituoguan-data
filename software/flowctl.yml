@@ -11,12 +11,12 @@ tags:
   - 自动化
 demo_url: https://demo.flowctl.net
 stargazers_count: 320
-updated_at: '2026-06-23'
+updated_at: '2026-06-24'
 archived: false
 current_release:
-  tag: v0.13.0-beta.0
-  published_at: '2026-06-13'
+  tag: v0.13.0-beta.1
+  published_at: '2026-06-24'
 commit_history:
   2026-04: 40
   2026-05: 18
-  2026-06: 20
+  2026-06: 21

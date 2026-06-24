@@ -10,8 +10,8 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 demo_url: https://zothub.io
-stargazers_count: 2390
-updated_at: '2026-06-23'
+stargazers_count: 2391
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v2.1.17
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 17
   2026-04: 32
   2026-05: 24
-  2026-06: 21
+  2026-06: 22

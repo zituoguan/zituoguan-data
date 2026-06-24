@@ -11,8 +11,8 @@ tags:
   - 软件开发 - 低代码
 demo_url: https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C
 related_software_url: https://github.com/halo-sigs/awesome-halo
-stargazers_count: 39102
-updated_at: '2026-06-22'
+stargazers_count: 39103
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: v2.25.3
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 39
   2026-04: 45
   2026-05: 59
-  2026-06: 42
+  2026-06: 45

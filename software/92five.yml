@@ -1,4 +1,3 @@
-
 name: 92five
 website_url: https://github.com/chintanbanugaria/92five
 description: 自托管的项目管理应用。
@@ -9,3 +8,10 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/chintanbanugaria/92five
+stargazers_count: 1157
+updated_at: '2022-03-06'
+archived: false
+commit_history:
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0
