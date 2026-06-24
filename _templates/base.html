@@ -12,7 +12,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="{{ title|striptags|e }}"/>
     <meta property="og:description" content="{{ (meta is defined and meta.get('description')) or '收录 2000+ 款可自托管的开源软件，附中文说明，持续更新。' }}"/>
-    <meta property="og:url" content="{{ pageurl|default('https://zituoguan.com/') }}"/>
+    <meta property="og:url" content="{{ (pageurl | replace('.html', '')) if pageurl is defined else 'https://zituoguan.com/' }}"/>
     <meta property="og:type" content="website"/>
     <meta property="og:image" content="https://zituoguan.com/_static/logo.png"/>
     <meta property="og:locale" content="zh_CN"/>
