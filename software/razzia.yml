@@ -1,11 +1,11 @@
 name: "Razzia"
 website_url: "https://github.com/Ralex91/Razzia"
 source_code_url: "https://github.com/Ralex91/Razzia"
-description: "Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!)."
+description: 专为小型自托管活动设计的测验游戏平台（Kahoot! 的替代品）。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
-  - Games
+  - 游戏

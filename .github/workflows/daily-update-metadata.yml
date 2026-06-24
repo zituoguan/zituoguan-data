@@ -22,6 +22,7 @@ jobs:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: make install
       - run: make update_metadata
+        continue-on-error: true
       - name: commit and push changes
         run: |
           git config user.name awesome-selfhosted-bot

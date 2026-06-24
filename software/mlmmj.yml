@@ -1,10 +1,10 @@
 name: "mlmmj"
 website_url: "https://mlmmj.org/"
 source_code_url: "https://codeberg.org/mlmmj/mlmmj"
-description: "Mailing list management made joyful."
+description: 轻松愉快的邮件列表管理工具。
 licenses:
   - MIT
 platforms:
   - C
 tags:
-  - Communication - Email - Mailing Lists and Newsletters
+  - 通信 - 电子邮件 - 邮件列表和通讯

@@ -1,11 +1,11 @@
 name: "Ownfoil"
 website_url: "https://github.com/a1ex4/ownfoil"
 source_code_url: "https://github.com/a1ex4/ownfoil"
-description: "Nintendo Switch library manager, with automated management tasks (file identification and organization, missing updates/DLC), serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication."
+description: Nintendo Switch 媒体库管理器，支持自动化文件识别整理、缺失更新/DLC 检测，并可将媒体库共享给多个客户端。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
   - Python
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板

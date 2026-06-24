@@ -7,4 +7,4 @@ platforms:
   - Go
 tags:
   - 服务发现
-source_code_url: https://github.com/coreos/etcd
+source_code_url: https://github.com/etcd-io/etcd

@@ -1,10 +1,10 @@
 name: Keeper.sh
 website_url: https://keeper.sh/
-description: Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events.
+description: 日历同步工具，可通过 iCal/ICS 或 OAuth 在不同日历来源之间拉取和推送事件，支持匿名忙/闲状态。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Calendar & Contacts
+  - 日历和联系人
 source_code_url: https://github.com/ridafkih/keeper.sh

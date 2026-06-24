@@ -1,13 +1,13 @@
 name: GameAP
 website_url: https://gameap.com/
-description: Game Administration Panel for managing game servers on Linux and Windows.
+description: 用于在 Linux 和 Windows 上管理游戏服务器的游戏管理面板。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Games - Administrative Utilities & Control Panels
+  - 游戏 - 管理工具和控制面板
 demo_url: https://demo.gameap.com/
 related_software_url: https://plugins.gameap.dev/
 source_code_url: https://github.com/gameap/gameap

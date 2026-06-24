@@ -7,4 +7,4 @@ platforms:
   - Go
 tags:
   - 软件容器
-source_code_url: https://github.com/lxc/lxd
+source_code_url: https://github.com/canonical/lxd

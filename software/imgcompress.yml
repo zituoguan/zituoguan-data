@@ -1,10 +1,10 @@
 name: "ImgCompress"
 website_url: "https://imgcompress.karimzouine.com"
 source_code_url: "https://github.com/karimz1/imgcompress"
-description: "Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies."
+description: 完全运行于 Docker 的图像处理工具，支持压缩、格式转换、调整尺寸、批量处理，以及使用本地 AI 去除背景。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项

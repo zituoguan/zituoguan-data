@@ -1,12 +1,12 @@
 name: Hister
 website_url: https://hister.org/
-description: Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search.
+description: 个人 Web 搜索引擎，可自动索引访问过的网站，支持离线本地预览、本地文件、多用户和可选语义搜索。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Search Engines
+  - 搜索引擎
 source_code_url: https://github.com/asciimoo/hister
 demo_url: https://demo.hister.org/

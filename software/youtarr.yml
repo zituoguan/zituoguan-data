@@ -1,11 +1,11 @@
 name: Youtarr
 website_url: https://github.com/DialmasterOrg/Youtarr
 source_code_url: https://github.com/DialmasterOrg/Youtarr
-description: Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby.
+description: 通过 yt-dlp 按计划从 YouTube 频道下载视频，带有 Web UI 供浏览和选择性下载，支持 Plex 集成和 Jellyfin/Kodi/Emby 的 NFO 元数据生成。
 licenses:
   - ISC
 platforms:
   - Docker
 tags:
-  - Media Management
+  - 媒体管理
 depends_3rdparty: true

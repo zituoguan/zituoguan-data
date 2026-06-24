@@ -1,11 +1,11 @@
 name: Assets
 website_url: https://github.com/venil7/assets
 source_code_url: https://github.com/venil7/assets
-description: Personal net worth and investment tracker.
+description: 个人净资产与投资追踪工具。
 licenses:
   - ⊘ Proprietary
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 资金、预算和管理
 depends_3rdparty: true

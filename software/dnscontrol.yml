@@ -1,5 +1,5 @@
 name: DNSControl
-website_url: https://stackexchange.github.io/dnscontrol/
+website_url: https://docs.dnscontrol.org/
 description: 使用简单 DSL 同步多个提供商的 DNS。
 licenses:
   - MIT
@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - DNS - 控制面板与域名管理
-source_code_url: https://github.com/StackExchange/dnscontrol
+source_code_url: https://github.com/dnscontrol/dnscontrol

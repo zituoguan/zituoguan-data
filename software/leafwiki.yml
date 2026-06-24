@@ -1,12 +1,12 @@
 name: LeafWiki
 website_url: https://github.com/perber/leafwiki
 source_code_url: https://github.com/perber/leafwiki
-description: A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk.
+description: 以文件夹为中心的快速 Wiki，支持快速编辑、树形导航和基于磁盘的 Markdown 存储。
 licenses:
   - MIT
 platforms:
   - Docker
   - Go
 tags:
-  - Wikis
+  - 维基
 demo_url: https://demo.leafwiki.com

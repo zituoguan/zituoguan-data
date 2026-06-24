@@ -1,13 +1,13 @@
 name: "MyTube"
 website_url: "https://github.com/franklioxygen/MyTube"
 source_code_url: "https://github.com/franklioxygen/MyTube"
-description: "Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization."
+description: 支持 yt-dlp 的视频下载器和播放器，带有频道订阅、云端上传支持和本地媒体库管理功能。
 licenses:
   - MIT
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
-  - Media Management
+  - 媒体管理
 depends_3rdparty: true
 demo_url: "https://mytube-demo.vercel.app"

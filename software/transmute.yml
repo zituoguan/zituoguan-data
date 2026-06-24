@@ -1,10 +1,10 @@
 name: "Transmute"
 website_url: "https://transmute.sh"
 source_code_url: "https://github.com/transmute-app/transmute"
-description: "File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!."
+description: 支持图片、视频、音频、JSON、Excel 等格式的文件转换工具，提供超过 2000 种转换方案。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项

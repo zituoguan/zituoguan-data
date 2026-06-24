@@ -1,12 +1,12 @@
 name: "Faved"
 website_url: "https://faved.dev/"
 source_code_url: "https://github.com/denho/faved"
-description: "Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use."
+description: 精心设计的书签管理器，结合强大的标签、即时搜索和简洁无干扰的界面，专为大型收藏和高效工作流优化。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Bookmarks and Link Sharing
+  - 书签和链接分享
 demo_url: "https://demo.faved.dev/"
 

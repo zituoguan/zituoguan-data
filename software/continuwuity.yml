@@ -1,7 +1,7 @@
 name: "Continuwuity"
 website_url: "https://continuwuity.org/"
 source_code_url: "https://forgejo.ellis.link/continuwuation/continuwuity"
-description: "Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit)."
+description: 社区驱动的 Matrix 家庭服务器，专注于用户体验和新功能（conduwuit 的延续，Conduit 的分支）。
 licenses:
   - Apache-2.0
 platforms:
@@ -10,4 +10,4 @@ platforms:
   - K8S
   - deb
 tags:
-  - Communication - Custom Communication Systems
+  - 通信 - 定制通信系统

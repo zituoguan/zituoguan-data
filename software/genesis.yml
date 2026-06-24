@@ -1,5 +1,5 @@
 name: Genesis
-website_url: https://github.com/starkandwayne/genesis
+website_url: https://github.com/genesis-community/genesis
 description: 多环境 BOSH 部署的模板框架。
 licenses:
   - MIT
@@ -7,4 +7,4 @@ platforms:
   - Perl
 tags:
   - 部署自动化
-source_code_url: https://github.com/starkandwayne/genesis
+source_code_url: https://github.com/genesis-community/genesis

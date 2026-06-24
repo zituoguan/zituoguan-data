@@ -1,11 +1,11 @@
 name: "HamsterBase Tasks"
 website_url: "https://tasks.hamsterbase.com"
 source_code_url: "https://github.com/hamsterbase/tasks"
-description: "A tool to help organize ideas and build great things. Plan, organize, build and ship."
+description: 帮助整理创意和规划项目的工具，支持计划、组织、构建和发布。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Task Management & To-do Lists
+  - 任务管理和待办清单
 demo_url: "https://tasks-app.hamsterbase.com"

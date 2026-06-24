@@ -1,12 +1,12 @@
 name: "flowctl"
 website_url: "https://flowctl.net"
 source_code_url: "https://github.com/cvhariharan/flowctl"
-description: "Self-service workflow execution platform with approvals, remote execution and scheduling."
+description: 支持审批、远程执行和调度的自助式工作流执行平台。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Docker
 tags:
-  - Automation
+  - 自动化
 demo_url: "https://demo.flowctl.net"

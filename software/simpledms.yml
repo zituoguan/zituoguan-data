@@ -1,11 +1,11 @@
 name: "SimpleDMS"
 website_url: "https://simpledms.eu"
 source_code_url: "https://github.com/simpledms/simpledms"
-description: "Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself."
+description: 面向小企业的易用元数据驱动型开源文档管理系统，可自动完成大部分文档分类工作。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 related_software_url: "https://simpledms.eu/en/product/integrations"

@@ -1,12 +1,12 @@
 name: "plumio"
 website_url: "https://plumio.app/"
 source_code_url: "https://github.com/albertasaftei/plumio"
-description: "Markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more."
+description: 支持实时预览、文档加密、多用户和多组织的 Markdown 笔记应用。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
-  - Note-taking & Editors
+  - 笔记和编辑器
 demo_url: "https://demo.plumio.app/homepage"

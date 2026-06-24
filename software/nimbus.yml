@@ -1,11 +1,11 @@
 name: "Nimbus"
 website_url: "https://nimbus.turboot.com/"
 source_code_url: "https://github.com/Turbootzz/Nimbus"
-description: "Modern drag-and-drop homelab dashboard with visual editor and simple configuration."
+description: 支持拖放的现代化家庭实验室仪表板，提供可视化编辑器和简单配置。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Personal Dashboards
+  - 个人仪表板
 demo_url: "https://nimbus.turboot.com/"

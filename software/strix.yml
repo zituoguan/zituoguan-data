@@ -1,11 +1,11 @@
 name: Strix
 website_url: https://github.com/eduard256/Strix
 source_code_url: https://github.com/eduard256/Strix
-description: Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs.
+description: 自动发现 IP 摄像头的可用流地址，并生成即用型 Frigate 和 go2rtc 配置文件。
 licenses:
   - MIT
 platforms:
   - Go
   - Docker
 tags:
-  - Video Surveillance
+  - 视频监控

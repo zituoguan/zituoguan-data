@@ -1,10 +1,10 @@
 name: "DDraceNetwork"
 website_url: "https://ddnet.org/"
 source_code_url: "https://github.com/ddnet/ddnet"
-description: "Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay."
+description: DDRace 的合作平台游戏版本，基于 Teeworlds 修改，具有独特的合作玩法。
 licenses:
   - Zlib
 platforms:
   - C++
 tags:
-  - Games
+  - 游戏

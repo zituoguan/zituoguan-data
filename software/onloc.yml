@@ -1,13 +1,13 @@
 name: Onloc
 website_url: https://onloc.app
 source_code_url: https://github.com/onloc-app/onloc-api
-description: Track and share your location in real time. Control and lock stolen or lost phones.
+description: 实时位置追踪与共享工具，支持对丢失或被盗手机进行远程控制和锁定。
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
-  - Internet of Things (IoT)
-  - Remote Access
-  - Maps and Global Positioning System (GPS)
+  - 物联网（IoT）
+  - 远程访问
+  - 地图和全球定位系统（GPS）
 related_software_url: https://github.com/onloc-app/onloc-android

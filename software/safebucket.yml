@@ -1,11 +1,11 @@
 name: Safebucket
 website_url: https://docs.safebucket.io/
 source_code_url: https://github.com/safebucket/safebucket
-description: "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage."
+description: 可插拔基础设施的文件分享平台，上传和下载直接在客户端与 S3 兼容存储之间进行。
 licenses:
   - Apache-2.0
 platforms:
   - Go
   - Docker
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传

@@ -1,11 +1,11 @@
 name: "Cardea"
 website_url: "https://github.com/hectorm/cardea"
 source_code_url: "https://github.com/hectorm/cardea"
-description: "SSH bastion server with access control, session recording, and optional TPM-backed key protection."
+description: 支持访问控制、会话录制和可选 TPM 密钥保护的 SSH 跳板服务器。
 licenses:
   - EUPL-1.2
 platforms:
   - Go
   - Docker
 tags:
-  - Remote Access
+  - 远程访问

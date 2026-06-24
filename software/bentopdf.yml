@@ -1,13 +1,13 @@
 name: "BentoPDF"
 source_code_url: "https://github.com/alam00000/bentopdf"
 website_url: "https://bentopdf.com"
-description: "Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser."
+description: 以隐私为优先的客户端 PDF 工具套件，支持在浏览器中直接合并、编辑和处理 PDF 文件。
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
   - Docker
 tags:
-  - Document Management
+  - 文档管理
 demo_url: "https://bentopdf.com"
 depends_3rdparty: true

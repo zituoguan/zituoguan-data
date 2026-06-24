@@ -25,3 +25,12 @@ steps:
         - https://github.com/clangen/musikcube # simple C++ application with no dependencies
         - https://github.com/doublespeakgames/adarkroom # static HTML/JS, simple/no maintenance required
         - https://github.com/rss2email/rss2email # simple python application, minimal maintenance required
+        - https://github.com/ArtalkJS/Artalk # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://gitlab.com/davical-project/davical # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/filipecarneiro/ELabel # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/jonschoning/espial # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/BreizhHardware/ntfy_alerts # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/importantimport/hatsu # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://codeberg.org/inventaire/inventaire # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/kibitzr/kibitzr # metadata stale due to update_metadata CI failures; remove after refresh
+        - https://github.com/phpList/phplist3 # metadata stale due to update_metadata CI failures; remove after refresh

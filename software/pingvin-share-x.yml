@@ -1,11 +1,11 @@
 name: "Pingvin Share X"
 website_url: "https://github.com/smp46/pingvin-share-x"
 source_code_url: "https://github.com/smp46/pingvin-share-x"
-description: "File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share)."
+description: 文件分享平台，支持登录、反向分享、分享有效期、S3 存储桶、高级认证和 ClamAV 安全扫描（Pingvin Share 的分支）。
 licenses:
   - BSD-2-Clause
 platforms:
   - Docker
-  - Nodejs
+  - Node.js
 tags:
-  - File Transfer - Single-click & Drag-n-drop Upload
+  - 文件传输 - 单击和拖放上传

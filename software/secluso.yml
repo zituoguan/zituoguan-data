@@ -1,10 +1,10 @@
 name: Secluso
 website_url: https://secluso.com
 source_code_url: https://github.com/secluso/core
-description: Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback.
+description: 基于树莓派的私人 DIY 家庭安防摄像系统，提供端对端加密远程访问和支持实时视频、警报及录像回放的移动应用。
 licenses:
   - GPL-3.0
 platforms:
   - Rust
 tags:
-  - Video Surveillance
+  - 视频监控

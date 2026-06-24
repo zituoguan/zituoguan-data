@@ -1,7 +1,7 @@
 name: "Ferron"
 website_url: "https://ferron.sh/"
 source_code_url: "https://github.com/ferronweb/ferron"
-description: "Fast, memory-safe web server written in Rust."
+description: 用 Rust 编写的快速、内存安全的 Web 服务器。
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,4 @@ platforms:
   - Docker
   - deb
 tags:
-  - Web Servers
+  - Web 服务器

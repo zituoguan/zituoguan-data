@@ -1,12 +1,12 @@
 name: "Helium"
 website_url: "https://www.heliumedu.com"
 source_code_url: "https://github.com/HeliumEdu/platform"
-description: "Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync."
+description: 学生课程规划工具，支持彩色编码的作业、成绩和笔记管理，带智能通知和多设备同步。
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Learning and Courses
+  - 学习和课程
 demo_url: "https://app.heliumedu.com"
