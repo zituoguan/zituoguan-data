@@ -11,8 +11,8 @@ platforms:
 tags:
   - 库存管理
 demo_url: https://demo.part-db.de/en/
-stargazers_count: 1653
-updated_at: '2026-06-24'
+stargazers_count: 1655
+updated_at: '2026-06-25'
 archived: false
 current_release:
   tag: v2.12.3
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 77
   2026-04: 47
   2026-05: 75
-  2026-06: 56
+  2026-06: 69

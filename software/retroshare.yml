@@ -9,7 +9,7 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/RetroShare/RetroShare
 stargazers_count: 1988
-updated_at: '2026-06-24'
+updated_at: '2026-06-25'
 archived: false
 current_release:
   tag: v0.6.7.2
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 44
   2026-04: 24
   2026-05: 69
-  2026-06: 81
+  2026-06: 83

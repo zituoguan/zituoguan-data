@@ -9,12 +9,12 @@ platforms:
 tags:
   - 媒体管理
 source_code_url: https://github.com/Sonarr/Sonarr
-stargazers_count: 14018
+stargazers_count: 14027
 updated_at: '2026-06-21'
 archived: false
 current_release:
-  tag: v4.0.18.2971
-  published_at: '2026-06-24'
+  tag: v4.0.18.2978
+  published_at: '2026-06-25'
 commit_history:
   2025-07: 18
   2025-08: 17

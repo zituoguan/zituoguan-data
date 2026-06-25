@@ -9,12 +9,12 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/anonaddy/anonaddy
-stargazers_count: 4710
-updated_at: '2026-06-24'
+stargazers_count: 4711
+updated_at: '2026-06-25'
 archived: false
 current_release:
-  tag: v1.6.2
-  published_at: '2026-06-24'
+  tag: v1.6.3
+  published_at: '2026-06-25'
 commit_history:
   2025-07: 5
   2025-08: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 3
   2026-05: 32
-  2026-06: 3
+  2026-06: 5

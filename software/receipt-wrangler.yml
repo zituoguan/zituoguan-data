@@ -10,8 +10,8 @@ tags:
   - 财务与预算管理
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
-stargazers_count: 233
-updated_at: '2026-06-23'
+stargazers_count: 234
+updated_at: '2026-06-25'
 archived: false
 current_release:
   tag: v6.7.0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 59
   2026-04: 112
   2026-05: 20
-  2026-06: 9
+  2026-06: 17

@@ -9,7 +9,7 @@ tags:
   - 档案和数字保存
 source_code_url: https://github.com/omeka/omeka-s
 stargazers_count: 494
-updated_at: '2026-06-18'
+updated_at: '2026-06-25'
 archived: false
 current_release:
   tag: v4.2.1
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 4
   2026-04: 11
   2026-05: 12
-  2026-06: 22
+  2026-06: 25

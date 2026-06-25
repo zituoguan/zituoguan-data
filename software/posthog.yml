@@ -9,12 +9,12 @@ tags:
   - 分析
   - 软件开发 - 功能开关
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 35162
-updated_at: '2026-06-24'
+stargazers_count: 35169
+updated_at: '2026-06-25'
 archived: false
 current_release:
-  tag: posthog-cli/v0.7.32
-  published_at: '2026-06-24'
+  tag: posthog-cli/v0.7.33
+  published_at: '2026-06-25'
 commit_history:
   2025-07: 1140
   2025-08: 994
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 2586
   2026-04: 2801
   2026-05: 2285
-  2026-06: 3685
+  2026-06: 3889

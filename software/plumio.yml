@@ -10,13 +10,13 @@ platforms:
 tags:
   - 笔记工具
 demo_url: https://demo.plumio.app/homepage
-stargazers_count: 125
-updated_at: '2026-06-24'
+stargazers_count: 126
+updated_at: '2026-06-25'
 archived: false
 current_release:
-  tag: v2.10.0
-  published_at: '2026-06-22'
+  tag: v2.10.1
+  published_at: '2026-06-24'
 commit_history:
   2026-04: 65
   2026-05: 69
-  2026-06: 31
+  2026-06: 36

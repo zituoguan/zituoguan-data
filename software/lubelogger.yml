@@ -11,12 +11,12 @@ platforms:
 tags:
   - 杂项
 demo_url: https://github.com/hargata/lubelog?tab=readme-ov-file#demo
-stargazers_count: 2642
-updated_at: '2026-06-02'
+stargazers_count: 2644
+updated_at: '2026-06-25'
 archived: false
 current_release:
-  tag: v1.6.7
-  published_at: '2026-06-02'
+  tag: v1.6.8
+  published_at: '2026-06-25'
 commit_history:
   2025-07: 11
   2025-08: 25
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 21
   2026-04: 27
   2026-05: 23
-  2026-06: 3
+  2026-06: 11
