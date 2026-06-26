@@ -9,12 +9,12 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 demo_url: https://try.pinepods.online
-stargazers_count: 886
-updated_at: '2026-06-23'
+stargazers_count: 885
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: 0.8.2
-  published_at: '2025-11-04'
+  tag: 0.9.0
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 104
   2025-08: 87
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 12
   2026-05: 66
-  2026-06: 49
+  2026-06: 61

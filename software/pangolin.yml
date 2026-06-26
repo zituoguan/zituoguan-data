@@ -9,12 +9,12 @@ platforms:
 tags:
   - Web 服务器
   - 远程访问
-stargazers_count: 21414
-updated_at: '2026-06-25'
+stargazers_count: 21430
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: 1.19.3
-  published_at: '2026-06-25'
+  tag: 1.19.4
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 305
   2025-08: 375
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 449
   2026-04: 651
   2026-05: 654
-  2026-06: 388
+  2026-06: 390

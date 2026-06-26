@@ -8,13 +8,13 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/wazuh/wazuh
-stargazers_count: 15947
-updated_at: '2026-06-23'
+stargazers_count: 15952
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v4.14.6-rc2
   published_at: '2026-06-25'
 commit_history:
   2026-04: 641
-  2026-05: 517
-  2026-06: 394
+  2026-05: 531
+  2026-06: 408

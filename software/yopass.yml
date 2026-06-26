@@ -11,8 +11,8 @@ tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/
-stargazers_count: 2874
-updated_at: '2026-06-25'
+stargazers_count: 2876
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: 14.3.0
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 141
   2026-04: 72
   2026-05: 51
-  2026-06: 145
+  2026-06: 146

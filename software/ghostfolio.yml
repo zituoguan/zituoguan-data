@@ -9,12 +9,12 @@ platforms:
 tags:
   - 财务与预算管理
 source_code_url: https://github.com/ghostfolio/ghostfolio
-stargazers_count: 8830
-updated_at: '2026-06-25'
+stargazers_count: 8843
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: 3.16.0
-  published_at: '2026-06-24'
+  tag: 3.17.0
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 161
   2025-08: 92
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 131
   2026-04: 88
   2026-05: 100
-  2026-06: 134
+  2026-06: 140

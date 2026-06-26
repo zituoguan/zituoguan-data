@@ -13,12 +13,12 @@ tags:
   - 协同办公
 demo_url: https://sync-in.com/docs/demo
 related_software_url: https://github.com/Sync-in/desktop
-stargazers_count: 1477
-updated_at: '2026-06-24'
+stargazers_count: 1482
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: v2.4.1
-  published_at: '2026-06-24'
+  tag: v2.4.2
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 44
   2025-08: 101
@@ -31,4 +31,4 @@ commit_history:
   2026-03: 70
   2026-04: 62
   2026-05: 64
-  2026-06: 99
+  2026-06: 108

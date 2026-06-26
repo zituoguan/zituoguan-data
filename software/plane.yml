@@ -9,8 +9,8 @@ tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
-stargazers_count: 53073
-updated_at: '2026-06-24'
+stargazers_count: 53294
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v1.3.1
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 65
   2026-04: 27
   2026-05: 25
-  2026-06: 32
+  2026-06: 33

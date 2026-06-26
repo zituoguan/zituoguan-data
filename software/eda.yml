@@ -10,11 +10,11 @@ tags:
   - 分析
 source_code_url: https://github.com/jortilles/EDA
 stargazers_count: 199
-updated_at: '2026-06-25'
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: edalitics-3.1.1
-  published_at: '2026-06-25'
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 27
   2025-08: 81
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 262
   2026-04: 275
   2026-05: 267
-  2026-06: 163
+  2026-06: 170

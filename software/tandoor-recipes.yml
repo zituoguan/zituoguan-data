@@ -12,8 +12,8 @@ tags:
   - 食谱管理
 source_code_url: https://github.com/TandoorRecipes/recipes
 demo_url: https://app.tandoor.dev/accounts/login/?demo
-stargazers_count: 8428
-updated_at: '2026-06-24'
+stargazers_count: 8431
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: 2.6.9
@@ -30,4 +30,4 @@ commit_history:
   2026-03: 212
   2026-04: 111
   2026-05: 47
-  2026-06: 57
+  2026-06: 58

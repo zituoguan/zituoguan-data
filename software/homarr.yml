@@ -9,12 +9,12 @@ platforms:
 tags:
   - 个人仪表板
 source_code_url: https://github.com/homarr-labs/homarr
-stargazers_count: 4177
-updated_at: '2026-06-25'
+stargazers_count: 4181
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: v1.67.0
-  published_at: '2026-06-19'
+  tag: v1.68.0
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 158
   2025-08: 164
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 211
   2026-04: 187
   2026-05: 207
-  2026-06: 253
+  2026-06: 265

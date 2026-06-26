@@ -9,12 +9,12 @@ platforms:
 tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/diced/zipline
-stargazers_count: 3237
-updated_at: '2026-06-25'
+stargazers_count: 3242
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: v4.6.2
-  published_at: '2026-06-03'
+  tag: v4.6.3
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 21
   2025-08: 42
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 49
   2026-04: 48
   2026-05: 21
-  2026-06: 18
+  2026-06: 21

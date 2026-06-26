@@ -10,8 +10,8 @@ platforms:
   - K8S
 tags:
   - 文档管理
-stargazers_count: 1739
-updated_at: '2026-06-22'
+stargazers_count: 1744
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v1.8.0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 43
   2026-04: 7
   2026-05: 0
-  2026-06: 27
+  2026-06: 29

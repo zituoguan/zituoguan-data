@@ -8,13 +8,13 @@ platforms:
 tags:
   - 身份管理 - 单点登录（SSO）
 source_code_url: https://github.com/keycloak/keycloak
-stargazers_count: 35063
-updated_at: '2026-06-25'
+stargazers_count: 35094
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: nightly
-  published_at: '2022-09-27'
+  tag: 26.6.4
+  published_at: '2026-06-26'
 commit_history:
   2026-04: 285
   2026-05: 244
-  2026-06: 279
+  2026-06: 288

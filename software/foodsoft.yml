@@ -10,7 +10,7 @@ tags:
   - 社区支持农业（CSA）
 source_code_url: https://github.com/foodcoops/foodsoft
 stargazers_count: 352
-updated_at: '2026-06-19'
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v4.9.1
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 5
   2026-05: 2
-  2026-06: 3
+  2026-06: 9

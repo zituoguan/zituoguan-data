@@ -9,7 +9,7 @@ tags:
   - 分析
 source_code_url: https://github.com/getredash/redash
 stargazers_count: 28660
-updated_at: '2026-06-25'
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v26.3.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 8
   2026-04: 1
   2026-05: 2
-  2026-06: 4
+  2026-06: 5
