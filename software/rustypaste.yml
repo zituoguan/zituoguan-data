@@ -9,7 +9,7 @@ tags:
   - 代码粘贴工具
 source_code_url: https://github.com/orhun/rustypaste
 stargazers_count: 1175
-updated_at: '2026-06-23'
+updated_at: '2026-06-27'
 archived: false
 current_release:
   tag: v0.17.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 6
   2026-04: 14
   2026-05: 6
-  2026-06: 9
+  2026-06: 11

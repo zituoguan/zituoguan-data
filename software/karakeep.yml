@@ -10,8 +10,8 @@ tags:
   - 书签和链接分享
   - 代码粘贴工具
 demo_url: https://try.karakeep.app/signin
-stargazers_count: 26338
-updated_at: '2026-06-14'
+stargazers_count: 26362
+updated_at: '2026-06-27'
 archived: false
 current_release:
   tag: v0.32.0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 68
   2026-04: 89
   2026-05: 75
-  2026-06: 6
+  2026-06: 13

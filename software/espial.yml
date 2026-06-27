@@ -8,7 +8,7 @@ platforms:
 tags:
   - 书签和链接分享
 source_code_url: https://github.com/jonschoning/espial
-stargazers_count: 893
+stargazers_count: 892
 updated_at: '2026-06-26'
 archived: false
 commit_history:
@@ -24,3 +24,6 @@ commit_history:
   2026-04: 2
   2026-05: 10
   2026-06: 5
+current_release:
+  tag: v0.0.36
+  published_at: '2026-06-27'

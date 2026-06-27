@@ -8,10 +8,10 @@ platforms:
 tags:
   - 代码编辑器
 source_code_url: https://github.com/vim/vim
-stargazers_count: 40578
-updated_at: '2026-06-26'
+stargazers_count: 40576
+updated_at: '2026-06-27'
 archived: false
 commit_history:
   2026-04: 213
   2026-05: 230
-  2026-06: 208
+  2026-06: 212
