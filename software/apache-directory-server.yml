@@ -9,9 +9,9 @@ tags:
   - 身份管理 - LDAP
 source_code_url: https://github.com/apache/directory-server
 stargazers_count: 183
-updated_at: '2026-06-02'
+updated_at: '2026-06-28'
 archived: false
 commit_history:
   2026-04: 3
   2026-05: 25
-  2026-06: 2
+  2026-06: 4

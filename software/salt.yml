@@ -9,12 +9,12 @@ tags:
   - 配置管理
 source_code_url: https://github.com/saltstack/salt
 stargazers_count: 15521
-updated_at: '2026-06-27'
+updated_at: '2026-06-28'
 archived: false
 current_release:
   tag: v3006.26
   published_at: '2026-06-24'
 commit_history:
-  2026-04: 288
-  2026-05: 499
-  2026-06: 145
+  2026-04: 290
+  2026-05: 501
+  2026-06: 437

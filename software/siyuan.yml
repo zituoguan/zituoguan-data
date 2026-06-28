@@ -9,12 +9,12 @@ platforms:
   - Go
 tags:
   - 知识管理
-stargazers_count: 44687
-updated_at: '2026-04-21'
+stargazers_count: 44721
+updated_at: '2026-06-28'
 archived: false
 current_release:
-  tag: v3.7.0-beta.3
-  published_at: '2026-06-27'
+  tag: v3.7.0-rc.1
+  published_at: '2026-06-28'
 commit_history:
   2025-07: 453
   2025-08: 579
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 438
   2026-04: 271
   2026-05: 0
-  2026-06: 0
+  2026-06: 1

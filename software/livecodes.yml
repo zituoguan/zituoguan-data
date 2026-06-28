@@ -11,7 +11,7 @@ tags:
 depends_3rdparty: true
 demo_url: https://livecodes.io
 stargazers_count: 1458
-updated_at: '2026-06-25'
+updated_at: '2026-06-28'
 archived: false
 current_release:
   tag: v49
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 8
   2026-04: 7
   2026-05: 72
-  2026-06: 44
+  2026-06: 52

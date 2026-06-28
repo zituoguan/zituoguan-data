@@ -9,12 +9,12 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 stargazers_count: 133
-updated_at: '2026-06-24'
+updated_at: '2026-06-28'
 archived: false
 current_release:
-  tag: v1.1.9-poitea-rev-2
-  published_at: '2026-06-24'
+  tag: v1.1.10-mollia
+  published_at: '2026-06-28'
 commit_history:
   2026-04: 68
   2026-05: 3
-  2026-06: 69
+  2026-06: 76
