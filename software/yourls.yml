@@ -9,7 +9,7 @@ tags:
   - URL 缩短服务
 source_code_url: https://github.com/YOURLS/YOURLS
 stargazers_count: 12094
-updated_at: '2026-06-22'
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: 1.10.4
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 12
   2026-04: 6
   2026-05: 12
-  2026-06: 13
+  2026-06: 17

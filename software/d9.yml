@@ -10,7 +10,7 @@ tags:
   - 数据库管理
   - 内容管理系统（CMS）
 stargazers_count: 129
-updated_at: '2026-06-25'
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v12.0.7
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-04: 14
   2026-05: 3
-  2026-06: 20
+  2026-06: 26

@@ -9,12 +9,12 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/nocodb/nocodb
-stargazers_count: 63661
-updated_at: '2026-06-27'
+stargazers_count: 63674
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: 2026.06.1
-  published_at: '2026-06-15'
+  tag: 2026.06.2
+  published_at: '2026-06-29'
 commit_history:
   2025-07: 1269
   2025-08: 898
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 1082
   2026-04: 749
   2026-05: 752
-  2026-06: 884
+  2026-06: 906

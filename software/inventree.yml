@@ -9,8 +9,8 @@ tags:
   - 库存管理
 source_code_url: https://github.com/inventree/InvenTree
 demo_url: https://inventree.org/demo
-stargazers_count: 7186
-updated_at: '2026-06-27'
+stargazers_count: 7190
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: 1.4.0
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 95
   2026-04: 113
   2026-05: 141
-  2026-06: 125
+  2026-06: 130

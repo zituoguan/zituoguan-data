@@ -11,11 +11,11 @@ tags:
   - 杂项
 demo_url: https://demo.domain-locker.com
 stargazers_count: 1397
-updated_at: '2026-05-15'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: v0.1.4
-  published_at: '2026-02-14'
+  tag: v0.2.0
+  published_at: '2026-06-29'
 commit_history:
   2025-07: 82
   2025-08: 0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 4
   2026-04: 0
   2026-05: 28
-  2026-06: 0
+  2026-06: 23

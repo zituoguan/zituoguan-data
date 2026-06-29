@@ -9,7 +9,7 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/Dan-in-CA/SIP
 stargazers_count: 416
-updated_at: '2026-03-06'
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: V4
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 1
   2026-04: 0
   2026-05: 0
-  2026-06: 0
+  2026-06: 4

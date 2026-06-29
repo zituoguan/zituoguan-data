@@ -9,7 +9,7 @@ platforms:
   - Node.js
 tags:
   - 地图和全球定位系统（GPS）
-stargazers_count: 1283
+stargazers_count: 1291
 updated_at: '2026-06-28'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 29
   2026-04: 24
   2026-05: 8
-  2026-06: 29
+  2026-06: 30

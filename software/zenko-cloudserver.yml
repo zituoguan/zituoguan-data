@@ -10,11 +10,11 @@ tags:
   - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/scality/cloudserver
 stargazers_count: 1925
-updated_at: '2026-06-26'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: 9.4.0-preview.1
-  published_at: '2026-06-23'
+  tag: 9.4.0-preview.2
+  published_at: '2026-06-29'
 commit_history:
   2025-07: 100
   2025-08: 87
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 15
   2026-04: 82
   2026-05: 18
-  2026-06: 35
+  2026-06: 38

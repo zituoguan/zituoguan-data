@@ -9,12 +9,12 @@ tags:
   - 控制面板
 source_code_url: https://github.com/webmin/webmin
 stargazers_count: 5938
-updated_at: '2026-06-28'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: '2.650'
-  published_at: '2026-06-26'
+  tag: '2.651'
+  published_at: '2026-06-29'
 commit_history:
   2026-04: 101
   2026-05: 267
-  2026-06: 153
+  2026-06: 156

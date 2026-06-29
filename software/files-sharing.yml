@@ -10,11 +10,11 @@ tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/axeloz/filesharing
 stargazers_count: 280
-updated_at: '2025-08-20'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: 2.13.4
-  published_at: '2025-08-20'
+  tag: 2.14.1
+  published_at: '2026-06-29'
 commit_history:
   2025-07: 0
   2025-08: 10
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 0
   2026-05: 0
-  2026-06: 0
+  2026-06: 8

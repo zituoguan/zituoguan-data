@@ -11,7 +11,7 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/FlowFuse/flowfuse
 stargazers_count: 391
-updated_at: '2026-06-26'
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v2.31.3
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 487
   2026-04: 465
   2026-05: 215
-  2026-06: 146
+  2026-06: 171

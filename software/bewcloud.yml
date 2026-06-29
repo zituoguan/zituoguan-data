@@ -14,11 +14,11 @@ tags:
   - 相册
 related_software_url: https://github.com/bewcloud
 stargazers_count: 1200
-updated_at: '2026-06-27'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: v4.9.0
-  published_at: '2026-06-27'
+  tag: v4.10.0
+  published_at: '2026-06-29'
 commit_history:
   2025-07: 3
   2025-08: 9
@@ -31,4 +31,4 @@ commit_history:
   2026-03: 4
   2026-04: 8
   2026-05: 3
-  2026-06: 7
+  2026-06: 10

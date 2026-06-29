@@ -12,8 +12,8 @@ tags:
   - 文件传输和同步
   - 协同办公
 source_code_url: https://github.com/haiwen/seafile
-stargazers_count: 14902
-updated_at: '2026-06-18'
+stargazers_count: 14907
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v9.0.5
@@ -30,4 +30,4 @@ commit_history:
   2026-03: 3
   2026-04: 4
   2026-05: 1
-  2026-06: 7
+  2026-06: 9
