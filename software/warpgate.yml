@@ -1,6 +1,7 @@
 name: Warpgate
 website_url: https://github.com/warp-tech/warpgate
-description: 智能的SSH和HTTPS堡垒，可与任何SSH客户端一起使用。
+<<<<<<< HEAD
+description: 全透明的SSH、HTTPS、Kubernetes、MySQL和Postgres堡垒/PAM，无需额外的客户端软件。
 licenses:
   - Apache-2.0
 platforms:
