@@ -12,11 +12,11 @@ tags:
   - 内容管理系统（CMS）
 demo_url: https://memo.vaaat.com/
 stargazers_count: 2010
-updated_at: '2026-06-29'
+updated_at: '2026-06-30'
 archived: false
 current_release:
-  tag: v5.2.5
-  published_at: '2026-06-21'
+  tag: v5.3.0
+  published_at: '2026-06-30'
 commit_history:
   2025-07: 222
   2025-08: 56
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 391
   2026-04: 350
   2026-05: 161
-  2026-06: 110
+  2026-06: 150

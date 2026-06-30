@@ -9,8 +9,8 @@ platforms:
 tags:
   - 库存管理
   - 地图和全球定位系统（GPS）
-stargazers_count: 2657
-updated_at: '2026-06-29'
+stargazers_count: 2659
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: shelf@1.20.3
@@ -26,5 +26,5 @@ commit_history:
   2026-02: 314
   2026-03: 212
   2026-04: 253
-  2026-05: 321
-  2026-06: 385
+  2026-05: 324
+  2026-06: 431

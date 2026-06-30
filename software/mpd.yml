@@ -9,8 +9,8 @@ tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/MusicPlayerDaemon/MPD
 related_software_url: https://www.musicpd.org/clients/
-stargazers_count: 2723
-updated_at: '2026-06-25'
+stargazers_count: 2724
+updated_at: '2026-06-30'
 archived: false
 commit_history:
   2025-07: 12
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 32
   2026-04: 60
   2026-05: 93
-  2026-06: 23
+  2026-06: 35

@@ -10,8 +10,8 @@ tags:
   - 搜索引擎
 source_code_url: https://github.com/asciimoo/hister
 demo_url: https://demo.hister.org/
-stargazers_count: 1301
-updated_at: '2026-06-29'
+stargazers_count: 1304
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: rolling
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2026-04: 292
   2026-05: 239
-  2026-06: 209
+  2026-06: 212

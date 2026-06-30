@@ -10,7 +10,7 @@ tags:
   - 分布式文件系统
 source_code_url: https://github.com/ipfs/kubo
 stargazers_count: 17064
-updated_at: '2026-06-25'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v0.42.0
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-04: 47
   2026-05: 21
-  2026-06: 30
+  2026-06: 31

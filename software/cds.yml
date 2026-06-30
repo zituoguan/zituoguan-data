@@ -9,7 +9,7 @@ tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/ovh/cds
 stargazers_count: 4828
-updated_at: '2026-06-29'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v0.54.1
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-04: 10
   2026-05: 12
-  2026-06: 11
+  2026-06: 12

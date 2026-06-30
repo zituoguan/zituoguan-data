@@ -11,12 +11,12 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/centrifugal/centrifugo
 demo_url: https://github.com/centrifugal/centrifugo#demo
-stargazers_count: 10454
+stargazers_count: 10458
 updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: v6.8.3
-  published_at: '2026-06-16'
+  tag: v6.8.4
+  published_at: '2026-06-30'
 commit_history:
   2025-07: 15
   2025-08: 12

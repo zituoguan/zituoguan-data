@@ -11,7 +11,7 @@ platforms:
 tags:
   - 预约与日程管理
 stargazers_count: 749
-updated_at: '2026-06-29'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v5.1.0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 123
   2026-04: 85
   2026-05: 47
-  2026-06: 54
+  2026-06: 55

@@ -11,12 +11,12 @@ depends_3rdparty: true
 tags:
   - 自动化
 demo_url: https://fredy-demo.orange-coding.net
-stargazers_count: 1231
-updated_at: '2026-06-28'
+stargazers_count: 1233
+updated_at: '2026-06-30'
 archived: false
 current_release:
-  tag: 22.9.4
-  published_at: '2026-06-28'
+  tag: 22.9.5
+  published_at: '2026-06-30'
 commit_history:
   2025-12: 19
   2026-01: 29
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 33
   2026-04: 18
   2026-05: 27
-  2026-06: 53
+  2026-06: 56

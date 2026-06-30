@@ -9,8 +9,8 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
-stargazers_count: 47354
-updated_at: '2026-06-29'
+stargazers_count: 47366
+updated_at: '2026-06-30'
 archived: false
 commit_history:
   2025-07: 559
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 784
   2026-04: 555
   2026-05: 623
-  2026-06: 650
+  2026-06: 676

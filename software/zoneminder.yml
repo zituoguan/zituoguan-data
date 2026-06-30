@@ -9,8 +9,8 @@ platforms:
 tags:
   - 视频监控
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
-stargazers_count: 5869
-updated_at: '2026-06-28'
+stargazers_count: 5871
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: 1.38.3
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 276
   2026-04: 205
   2026-05: 423
-  2026-06: 308
+  2026-06: 310

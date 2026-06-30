@@ -10,12 +10,12 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/workadventure/workadventure
 demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
-stargazers_count: 5544
-updated_at: '2026-06-29'
+stargazers_count: 5543
+updated_at: '2026-06-30'
 archived: false
 current_release:
-  tag: v1.32.0
-  published_at: '2026-06-29'
+  tag: v1.32.3
+  published_at: '2026-06-30'
 commit_history:
   2025-07: 100
   2025-08: 178
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 108
   2026-04: 142
   2026-05: 106
-  2026-06: 166
+  2026-06: 172

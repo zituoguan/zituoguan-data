@@ -10,7 +10,7 @@ tags:
   - 杂项
 source_code_url: https://github.com/benjaminjonard/koillection
 stargazers_count: 1224
-updated_at: '2026-06-26'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: 1.8.3
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 19
   2026-04: 5
   2026-05: 40
-  2026-06: 19
+  2026-06: 23

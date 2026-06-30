@@ -9,12 +9,12 @@ tags:
   - 文件传输和同步
 source_code_url: https://github.com/pydio/cells
 demo_url: https://pydio.com/en/demo
-stargazers_count: 2221
-updated_at: '2026-06-24'
+stargazers_count: 2222
+updated_at: '2026-06-30'
 archived: false
 current_release:
-  tag: v5.0.1
-  published_at: '2026-06-10'
+  tag: v5.0.2
+  published_at: '2026-06-30'
 commit_history:
   2025-07: 93
   2025-08: 19
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 45
   2026-04: 52
   2026-05: 24
-  2026-06: 22
+  2026-06: 24

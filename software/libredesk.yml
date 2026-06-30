@@ -10,8 +10,8 @@ platforms:
   - Node.js
 tags:
   - 工单
-stargazers_count: 2608
-updated_at: '2026-06-18'
+stargazers_count: 2610
+updated_at: '2026-06-30'
 archived: false
 demo_url: https://demo.libredesk.io
 current_release:
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 6
   2026-04: 176
   2026-05: 156
-  2026-06: 52
+  2026-06: 58

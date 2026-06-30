@@ -9,9 +9,9 @@ tags:
   - 分布式文件系统
 source_code_url: https://github.com/apache/hadoop
 stargazers_count: 15585
-updated_at: '2026-06-27'
+updated_at: '2026-06-30'
 archived: false
 commit_history:
   2026-04: 32
   2026-05: 37
-  2026-06: 18
+  2026-06: 19

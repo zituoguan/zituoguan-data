@@ -9,7 +9,7 @@ tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/wagtail/wagtail
 stargazers_count: 20373
-updated_at: '2026-06-29'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v7.4.2
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 88
   2026-04: 115
   2026-05: 62
-  2026-06: 99
+  2026-06: 102

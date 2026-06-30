@@ -9,7 +9,7 @@ tags:
   - 网络配置管理
 source_code_url: https://github.com/rconfig/rconfig
 stargazers_count: 186
-updated_at: '2026-06-29'
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: core-8.2.6
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-04: 11
   2026-05: 52
-  2026-06: 60
+  2026-06: 61
