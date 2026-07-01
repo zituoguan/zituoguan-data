@@ -8,14 +8,13 @@ platforms:
 tags:
   - 电子商务
 source_code_url: https://github.com/opensourcepos/opensourcepos
-stargazers_count: 4267
+stargazers_count: 4268
 updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: unstable
   published_at: '2026-06-26'
 commit_history:
-  2025-07: 9
   2025-08: 12
   2025-09: 0
   2025-10: 6
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 83
   2026-05: 17
   2026-06: 8
+  2026-07: 0

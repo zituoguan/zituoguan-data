@@ -9,14 +9,13 @@ platforms:
   - Node.js
 tags:
   - 维基
-stargazers_count: 20789
+stargazers_count: 20799
 updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v0.90.1
   published_at: '2026-05-28'
 commit_history:
-  2025-07: 46
   2025-08: 29
   2025-09: 44
   2025-10: 8
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 32
   2026-05: 57
   2026-06: 36
+  2026-07: 0

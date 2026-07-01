@@ -10,8 +10,8 @@ platforms:
   - deb
 tags:
   - 游戏 - 管理工具和控制面板
-stargazers_count: 447
-updated_at: '2026-06-30'
+stargazers_count: 448
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: release-1.0.11
@@ -20,3 +20,4 @@ commit_history:
   2026-04: 203
   2026-05: 185
   2026-06: 163
+  2026-07: 10

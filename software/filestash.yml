@@ -9,11 +9,10 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/mickael-kerjean/filestash
 demo_url: https://demo.filestash.app/
-stargazers_count: 14342
-updated_at: '2026-06-29'
+stargazers_count: 14343
+updated_at: '2026-07-01'
 archived: false
 commit_history:
-  2025-07: 26
   2025-08: 64
   2025-09: 48
   2025-10: 19
@@ -25,3 +24,4 @@ commit_history:
   2026-04: 48
   2026-05: 59
   2026-06: 30
+  2026-07: 3

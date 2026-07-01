@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - 视频监控
-stargazers_count: 757
+stargazers_count: 759
 updated_at: '2026-04-24'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-04: 78
   2026-05: 0
   2026-06: 0
+  2026-07: 0

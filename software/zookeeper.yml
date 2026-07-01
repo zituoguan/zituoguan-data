@@ -9,10 +9,11 @@ platforms:
 tags:
   - 服务发现
 source_code_url: https://github.com/apache/zookeeper
-stargazers_count: 12779
-updated_at: '2026-06-24'
+stargazers_count: 12780
+updated_at: '2026-07-01'
 archived: false
 commit_history:
   2026-04: 7
   2026-05: 5
   2026-06: 5
+  2026-07: 1

@@ -8,7 +8,7 @@ platforms:
 tags:
   - 虚拟专用网络（VPN）
 source_code_url: https://github.com/SoftEtherVPN/SoftEtherVPN/
-stargazers_count: 13349
+stargazers_count: 13352
 updated_at: '2026-06-10'
 archived: false
 current_release:
@@ -18,3 +18,4 @@ commit_history:
   2026-04: 5
   2026-05: 7
   2026-06: 6
+  2026-07: 0

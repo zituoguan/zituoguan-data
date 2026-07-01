@@ -9,14 +9,13 @@ platforms:
 tags:
   - 制造设备管理
 source_code_url: https://github.com/fluidd-core/fluidd
-stargazers_count: 1778
+stargazers_count: 1779
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v1.37.2
   published_at: '2026-06-23'
 commit_history:
-  2025-07: 4
   2025-08: 13
   2025-09: 19
   2025-10: 10
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 19
   2026-05: 71
   2026-06: 40
+  2026-07: 0

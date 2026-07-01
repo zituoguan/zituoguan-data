@@ -8,14 +8,13 @@ platforms:
 tags:
   - 通信 - 电子邮件 - Web 邮件客户端
 source_code_url: https://github.com/cypht-org/cypht
-stargazers_count: 1612
+stargazers_count: 1613
 updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v2.11.0
   published_at: '2026-06-24'
 commit_history:
-  2025-07: 53
   2025-08: 130
   2025-09: 135
   2025-10: 119
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 108
   2026-05: 153
   2026-06: 113
+  2026-07: 0

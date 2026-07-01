@@ -8,13 +8,14 @@ platforms:
 tags:
   - 路由器
 source_code_url: https://github.com/openwrt/openwrt
-stargazers_count: 27380
-updated_at: '2026-06-30'
+stargazers_count: 27393
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: v24.10.7
-  published_at: '2026-05-31'
+  tag: v25.12.5
+  published_at: '2026-07-01'
 commit_history:
   2026-04: 507
   2026-05: 483
   2026-06: 456
+  2026-07: 26

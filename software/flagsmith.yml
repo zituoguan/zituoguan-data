@@ -9,14 +9,13 @@ platforms:
 tags:
   - 软件开发 - 功能开关
 source_code_url: https://github.com/flagsmith/flagsmith
-stargazers_count: 6428
-updated_at: '2026-06-30'
+stargazers_count: 6430
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: v2.250.0
-  published_at: '2026-06-30'
+  tag: v2.251.0
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 87
   2025-08: 78
   2025-09: 57
   2025-10: 54
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 155
   2026-05: 122
   2026-06: 164
+  2026-07: 11

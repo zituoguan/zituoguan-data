@@ -9,14 +9,13 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/element-hq/synapse
-stargazers_count: 4336
-updated_at: '2026-06-30'
+stargazers_count: 4339
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: v1.156.0rc1
   published_at: '2026-06-30'
 commit_history:
-  2025-07: 142
   2025-08: 115
   2025-09: 103
   2025-10: 122
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 64
   2026-05: 59
   2026-06: 65
+  2026-07: 5

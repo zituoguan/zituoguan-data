@@ -9,14 +9,13 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/9001/copyparty
 demo_url: https://a.ocv.me/pub/demo/
-stargazers_count: 45432
+stargazers_count: 45450
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v1.20.16
   published_at: '2026-05-26'
 commit_history:
-  2025-07: 97
   2025-08: 209
   2025-09: 124
   2025-10: 111
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 41
   2026-05: 36
   2026-06: 16
+  2026-07: 0

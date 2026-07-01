@@ -9,7 +9,7 @@ platforms:
   - Python
 tags:
   - 游戏 - 管理工具和控制面板
-stargazers_count: 855
+stargazers_count: 856
 updated_at: '2026-03-25'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/wekan/wekan
-stargazers_count: 20976
+stargazers_count: 20977
 updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v9.73
   published_at: '2026-06-26'
 commit_history:
-  2025-07: 73
   2025-08: 84
   2025-09: 26
   2025-10: 361
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 371
   2026-05: 371
   2026-06: 631
+  2026-07: 0

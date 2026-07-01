@@ -10,14 +10,13 @@ platforms:
 tags:
   - 代理
 source_code_url: https://github.com/imgproxy/imgproxy
-stargazers_count: 10900
+stargazers_count: 10904
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v4.0.8
   published_at: '2026-06-29'
 commit_history:
-  2025-07: 12
   2025-08: 12
   2025-09: 12
   2025-10: 1
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 29
   2026-05: 22
   2026-06: 51
+  2026-07: 0

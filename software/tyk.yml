@@ -11,13 +11,12 @@ tags:
   - 软件开发 - API 管理
 source_code_url: https://github.com/TykTechnologies/tyk
 stargazers_count: 10755
-updated_at: '2026-06-30'
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: v5.15.0-alpha1
   published_at: '2026-06-25'
 commit_history:
-  2025-07: 21
   2025-08: 22
   2025-09: 26
   2025-10: 34
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 47
   2026-05: 14
   2026-06: 35
+  2026-07: 2

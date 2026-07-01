@@ -10,14 +10,13 @@ tags:
   - 笔记工具
 source_code_url: https://github.com/usememos/memos
 demo_url: https://demo.usememos.com/explore
-stargazers_count: 61170
-updated_at: '2026-06-29'
+stargazers_count: 61188
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: v0.29.1
   published_at: '2026-06-05'
 commit_history:
-  2025-07: 118
   2025-08: 60
   2025-09: 25
   2025-10: 76
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 88
   2026-05: 47
   2026-06: 51
+  2026-07: 2

@@ -8,7 +8,7 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/restic/restic
-stargazers_count: 34769
+stargazers_count: 34791
 updated_at: '2026-06-28'
 archived: false
 current_release:
@@ -18,3 +18,4 @@ commit_history:
   2026-04: 4
   2026-05: 130
   2026-06: 189
+  2026-07: 0

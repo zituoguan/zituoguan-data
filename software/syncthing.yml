@@ -10,14 +10,13 @@ platforms:
 tags:
   - 文件传输和同步
 source_code_url: https://github.com/syncthing/syncthing
-stargazers_count: 85942
-updated_at: '2026-06-29'
+stargazers_count: 85974
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: v2.1.2-rc.4
   published_at: '2026-06-26'
 commit_history:
-  2025-07: 14
   2025-08: 53
   2025-09: 45
   2025-10: 19
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 38
   2026-05: 36
   2026-06: 24
+  2026-07: 2

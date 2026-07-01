@@ -9,13 +9,12 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/LiveHelperChat/livehelperchat
 stargazers_count: 2223
-updated_at: '2026-06-30'
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: 4.86v
   published_at: '2026-05-26'
 commit_history:
-  2025-07: 94
   2025-08: 78
   2025-09: 71
   2025-10: 74
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 75
   2026-05: 80
   2026-06: 21
+  2026-07: 2

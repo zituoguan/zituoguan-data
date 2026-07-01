@@ -12,7 +12,7 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 demo_url: https://try.tuwunel.chat/
-stargazers_count: 2255
+stargazers_count: 2265
 updated_at: '2026-06-27'
 archived: false
 current_release:
@@ -25,3 +25,4 @@ commit_history:
   2026-04: 182
   2026-05: 271
   2026-06: 189
+  2026-07: 0

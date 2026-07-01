@@ -10,7 +10,7 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/tirrenotechnologies/tirreno
 demo_url: https://play.tirreno.com/
-stargazers_count: 1444
+stargazers_count: 1446
 updated_at: '2026-04-07'
 archived: false
 current_release:
@@ -20,3 +20,4 @@ commit_history:
   2026-04: 1
   2026-05: 0
   2026-06: 0
+  2026-07: 0

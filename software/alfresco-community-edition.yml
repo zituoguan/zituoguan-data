@@ -8,11 +8,10 @@ platforms:
 tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/Alfresco/alfresco-community-repo
-stargazers_count: 223
-updated_at: '2026-06-30'
+stargazers_count: 224
+updated_at: '2026-07-01'
 archived: false
 commit_history:
-  2025-07: 95
   2025-08: 57
   2025-09: 57
   2025-10: 50
@@ -24,3 +23,4 @@ commit_history:
   2026-04: 59
   2026-05: 42
   2026-06: 85
+  2026-07: 3

@@ -10,14 +10,13 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/NodeBB/NodeBB
 demo_url: https://try.nodebb.org/
-stargazers_count: 15149
+stargazers_count: 15150
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v4.13.2
   published_at: '2026-06-17'
 commit_history:
-  2025-07: 104
   2025-08: 160
   2025-09: 146
   2025-10: 121
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 217
   2026-05: 301
   2026-06: 192
+  2026-07: 0

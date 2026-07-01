@@ -9,14 +9,13 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/mindsdb/minds
-stargazers_count: 39360
+stargazers_count: 39368
 updated_at: '2026-06-27'
 archived: false
 current_release:
   tag: v26.1.0
   published_at: '2026-04-23'
 commit_history:
-  2025-07: 105
   2025-08: 51
   2025-09: 83
   2025-10: 72
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 106
   2026-05: 4
   2026-06: 18
+  2026-07: 0

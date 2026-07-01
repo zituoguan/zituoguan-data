@@ -11,14 +11,13 @@ tags:
   - 代码粘贴工具
 source_code_url: https://github.com/thomiceli/opengist
 demo_url: https://demo.opengist.io
-stargazers_count: 3237
+stargazers_count: 3240
 updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: v1.13.1
   published_at: '2026-06-09'
 commit_history:
-  2025-07: 2
   2025-08: 6
   2025-09: 10
   2025-10: 16
@@ -30,3 +29,4 @@ commit_history:
   2026-04: 6
   2026-05: 2
   2026-06: 45
+  2026-07: 0

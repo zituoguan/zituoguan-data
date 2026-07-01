@@ -11,14 +11,13 @@ platforms:
 tags:
   - 网络工具
 depends_3rdparty: true
-stargazers_count: 2071
+stargazers_count: 2074
 updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: v3.8.0
   published_at: '2026-06-02'
 commit_history:
-  2025-07: 9
   2025-08: 7
   2025-09: 9
   2025-10: 5
@@ -30,3 +29,4 @@ commit_history:
   2026-04: 16
   2026-05: 10
   2026-06: 9
+  2026-07: 0

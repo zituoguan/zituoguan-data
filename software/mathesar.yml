@@ -9,14 +9,13 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/mathesar-foundation/mathesar
-stargazers_count: 5023
+stargazers_count: 5024
 updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: 0.11.0
   published_at: '2026-05-28'
 commit_history:
-  2025-07: 414
   2025-08: 365
   2025-09: 334
   2025-10: 236
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 104
   2026-05: 87
   2026-06: 59
+  2026-07: 0

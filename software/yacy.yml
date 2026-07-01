@@ -10,11 +10,10 @@ platforms:
 tags:
   - 搜索引擎
 source_code_url: https://github.com/yacy/yacy_search_server
-stargazers_count: 3966
+stargazers_count: 3965
 updated_at: '2026-06-28'
 archived: false
 commit_history:
-  2025-07: 14
   2025-08: 22
   2025-09: 19
   2025-10: 10
@@ -26,3 +25,4 @@ commit_history:
   2026-04: 8
   2026-05: 5
   2026-06: 3
+  2026-07: 0

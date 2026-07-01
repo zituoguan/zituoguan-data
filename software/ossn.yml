@@ -9,13 +9,12 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/opensource-socialnetwork/opensource-socialnetwork
 stargazers_count: 1224
-updated_at: '2026-06-26'
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: '9.10'
-  published_at: '2026-06-26'
+  tag: '9.11'
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 3
   2025-08: 36
   2025-09: 51
   2025-10: 63
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 20
   2026-05: 64
   2026-06: 23
+  2026-07: 3

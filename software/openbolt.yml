@@ -9,7 +9,7 @@ tags:
   - 自动化
 source_code_url: https://github.com/OpenVoxProject/openbolt
 stargazers_count: 25
-updated_at: '2026-06-11'
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: 5.6.0
@@ -17,4 +17,5 @@ current_release:
 commit_history:
   2026-04: 35
   2026-05: 28
-  2026-06: 19
+  2026-06: 22
+  2026-07: 15

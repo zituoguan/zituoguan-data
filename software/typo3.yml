@@ -9,10 +9,9 @@ tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/TYPO3/typo3
 stargazers_count: 1196
-updated_at: '2026-06-30'
+updated_at: '2026-07-01'
 archived: false
 commit_history:
-  2025-07: 98
   2025-08: 112
   2025-09: 136
   2025-10: 279
@@ -24,3 +23,4 @@ commit_history:
   2026-04: 204
   2026-05: 118
   2026-06: 144
+  2026-07: 6

@@ -9,14 +9,13 @@ platforms:
 tags:
   - 通信 - 电子邮件 - Web 邮件客户端
 source_code_url: https://github.com/roundcube/roundcubemail
-stargazers_count: 7055
+stargazers_count: 7056
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: 1.7.1
   published_at: '2026-05-24'
 commit_history:
-  2025-07: 12
   2025-08: 12
   2025-09: 23
   2025-10: 36
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 2
   2026-05: 55
   2026-06: 23
+  2026-07: 0

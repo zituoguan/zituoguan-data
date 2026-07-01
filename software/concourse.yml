@@ -9,7 +9,7 @@ tags:
   - 持续集成和持续部署
 demo_url: https://ci.concourse-ci.org/
 source_code_url: https://github.com/concourse/concourse
-stargazers_count: 7852
+stargazers_count: 7854
 updated_at: '2026-06-27'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-04: 121
   2026-05: 49
   2026-06: 49
+  2026-07: 0

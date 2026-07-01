@@ -9,14 +9,13 @@ platforms:
 tags:
   - 文档管理
 demo_url: https://demo.docuseal.tech/
-stargazers_count: 17320
+stargazers_count: 17354
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: 3.1.2
   published_at: '2026-06-29'
 commit_history:
-  2025-07: 66
   2025-08: 38
   2025-09: 68
   2025-10: 28
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 76
   2026-05: 91
   2026-06: 59
+  2026-07: 0

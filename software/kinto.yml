@@ -9,13 +9,12 @@ tags:
   - 文件传输和同步
 source_code_url: https://github.com/Kinto/kinto
 stargazers_count: 4416
-updated_at: '2026-06-30'
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: 26.3.0
-  published_at: '2026-06-23'
+  tag: 26.3.1
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 7
   2025-08: 6
   2025-09: 5
   2025-10: 6
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 11
   2026-05: 15
   2026-06: 16
+  2026-07: 1

@@ -8,14 +8,13 @@ platforms:
 tags:
   - 维基
 source_code_url: https://github.com/dokuwiki/dokuwiki
-stargazers_count: 4657
-updated_at: '2026-06-30'
+stargazers_count: 4658
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: release-2025-05-14b
   published_at: '2025-09-09'
 commit_history:
-  2025-07: 12
   2025-08: 10
   2025-09: 37
   2025-10: 8
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 121
   2026-05: 67
   2026-06: 65
+  2026-07: 1

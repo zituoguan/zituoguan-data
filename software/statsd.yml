@@ -8,10 +8,11 @@ platforms:
 tags:
   - 指标采集
 source_code_url: https://github.com/statsd/statsd
-stargazers_count: 18049
+stargazers_count: 18051
 updated_at: '2025-05-20'
 archived: false
 commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0
