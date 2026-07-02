@@ -9,7 +9,7 @@ tags:
   - 家谱研究
 source_code_url: https://github.com/geneweb/geneweb
 stargazers_count: 380
-updated_at: '2026-06-30'
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v7.1.0-beta2
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 139
   2026-05: 121
   2026-06: 152
-  2026-07: 0
+  2026-07: 2

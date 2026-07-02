@@ -11,12 +11,12 @@ platforms:
 tags:
   - 地图和全球定位系统（GPS）
 demo_url: https://demo.wanderer.to
-stargazers_count: 3703
-updated_at: '2026-07-01'
+stargazers_count: 3704
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: v0.19.2
-  published_at: '2026-06-01'
+  tag: v0.19.3
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 58
   2025-09: 38
@@ -29,4 +29,4 @@ commit_history:
   2026-04: 27
   2026-05: 34
   2026-06: 24
-  2026-07: 8
+  2026-07: 9

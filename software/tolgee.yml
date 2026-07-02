@@ -9,8 +9,8 @@ platforms:
 tags:
   - 软件开发 - 本地化
 source_code_url: https://github.com/tolgee/tolgee-platform
-stargazers_count: 4007
-updated_at: '2026-07-01'
+stargazers_count: 4008
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v3.209.1
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 63
   2026-05: 83
   2026-06: 69
-  2026-07: 6
+  2026-07: 7

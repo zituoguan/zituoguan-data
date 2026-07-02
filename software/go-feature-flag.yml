@@ -8,12 +8,12 @@ platforms:
 tags:
   - 软件开发 - 功能开关
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
-stargazers_count: 2046
-updated_at: '2026-07-01'
+stargazers_count: 2048
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: modules/core/v0.7.2
-  published_at: '2026-07-01'
+  tag: v1.55.0
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 79
   2025-09: 154
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 130
   2026-05: 145
   2026-06: 154
-  2026-07: 6
+  2026-07: 14

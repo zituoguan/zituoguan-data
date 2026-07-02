@@ -9,7 +9,7 @@ tags:
   - 日志管理
 source_code_url: https://github.com/fluent/fluentd
 stargazers_count: 13550
-updated_at: '2026-07-01'
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v1.19.3
@@ -18,4 +18,4 @@ commit_history:
   2026-04: 17
   2026-05: 9
   2026-06: 17
-  2026-07: 1
+  2026-07: 4

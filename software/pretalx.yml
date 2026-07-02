@@ -9,7 +9,7 @@ tags:
   - 会议管理
 source_code_url: https://github.com/pretalx/pretalx
 stargazers_count: 923
-updated_at: '2026-06-24'
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v2026.1.2
@@ -25,5 +25,5 @@ commit_history:
   2026-03: 67
   2026-04: 92
   2026-05: 210
-  2026-06: 47
-  2026-07: 0
+  2026-06: 48
+  2026-07: 7

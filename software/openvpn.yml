@@ -8,14 +8,14 @@ platforms:
 tags:
   - 虚拟专用网络（VPN）
 source_code_url: https://github.com/OpenVPN/openvpn
-stargazers_count: 14179
-updated_at: '2026-07-01'
+stargazers_count: 14183
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: v2.7.4
-  published_at: '2026-04-30'
+  tag: v2.7.5
+  published_at: '2026-07-02'
 commit_history:
   2026-04: 48
   2026-05: 14
   2026-06: 27
-  2026-07: 7
+  2026-07: 9

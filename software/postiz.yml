@@ -9,8 +9,8 @@ tags:
   - 分析
 source_code_url: https://github.com/gitroomhq/postiz-app
 depends_3rdparty: true
-stargazers_count: 32557
-updated_at: '2026-07-01'
+stargazers_count: 32601
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v2.21.9
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 80
   2026-05: 89
   2026-06: 65
-  2026-07: 5
+  2026-07: 9

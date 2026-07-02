@@ -9,12 +9,12 @@ platforms:
 tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/DirectoryLister/DirectoryLister
-stargazers_count: 2527
-updated_at: '2026-06-14'
+stargazers_count: 2528
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: 5.5.2
-  published_at: '2026-06-06'
+  tag: 5.6.1
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 9
   2025-09: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 19
   2026-05: 0
   2026-06: 10
-  2026-07: 0
+  2026-07: 9

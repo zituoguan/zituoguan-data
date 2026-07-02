@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/julianpoy/recipesage
 demo_url: https://recipesage.com
 stargazers_count: 907
-updated_at: '2026-07-01'
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v3.6.0-beta12
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 200
   2026-05: 289
   2026-06: 294
-  2026-07: 12
+  2026-07: 17

@@ -10,12 +10,12 @@ tags:
   - 文档管理
   - 档案和数字保存
 demo_url: https://demo.papra.app/
-stargazers_count: 4881
-updated_at: '2026-07-01'
+stargazers_count: 4882
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: '@papra/app@26.5.0'
-  published_at: '2026-06-07'
+  tag: '@papra/webhooks@0.3.4'
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 22
   2025-09: 33
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 73
   2026-05: 42
   2026-06: 134
-  2026-07: 5
+  2026-07: 14

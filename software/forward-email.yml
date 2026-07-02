@@ -11,11 +11,11 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 stargazers_count: 1612
-updated_at: '2026-06-30'
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: v2.9.1
-  published_at: '2026-06-27'
+  tag: v2.9.3
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 73
   2025-09: 11
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 75
   2026-05: 98
   2026-06: 98
-  2026-07: 0
+  2026-07: 6

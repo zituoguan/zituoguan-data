@@ -11,8 +11,8 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 demo_url: https://app.huly.io
-stargazers_count: 26398
-updated_at: '2026-07-01'
+stargazers_count: 26417
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: v0.7.423
@@ -29,4 +29,4 @@ commit_history:
   2026-04: 73
   2026-05: 40
   2026-06: 23
-  2026-07: 3
+  2026-07: 7

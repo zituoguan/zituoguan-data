@@ -10,8 +10,8 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 邮件投递代理
 source_code_url: https://github.com/dovecot/core
-stargazers_count: 1221
-updated_at: '2026-07-01'
+stargazers_count: 1222
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: 2.4.4
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 114
   2026-05: 93
   2026-06: 55
-  2026-07: 1
+  2026-07: 22
