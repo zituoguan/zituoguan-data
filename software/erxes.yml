@@ -11,7 +11,7 @@ tags:
   - 工单
 source_code_url: https://github.com/erxes/erxes
 stargazers_count: 4017
-updated_at: '2026-07-02'
+updated_at: '2026-07-03'
 archived: false
 current_release:
   tag: 3.0.51
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 211
   2026-05: 245
   2026-06: 388
-  2026-07: 46
+  2026-07: 48

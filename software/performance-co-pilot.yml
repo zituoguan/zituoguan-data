@@ -10,7 +10,7 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/performancecopilot/pcp
 stargazers_count: 1064
-updated_at: '2026-07-02'
+updated_at: '2026-07-03'
 archived: false
 current_release:
   tag: 7.1.5
@@ -19,4 +19,4 @@ commit_history:
   2026-04: 146
   2026-05: 121
   2026-06: 234
-  2026-07: 54
+  2026-07: 59

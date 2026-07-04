@@ -10,11 +10,11 @@ tags:
   - 财务与预算管理
 demo_url: https://app.mybucks.online
 stargazers_count: 18
-updated_at: '2026-07-01'
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: v2.6.0
-  published_at: '2026-07-01'
+  tag: v2.6.1
+  published_at: '2026-07-03'
 commit_history:
   2025-08: 0
   2025-09: 3
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 15
   2026-05: 6
   2026-06: 8
-  2026-07: 1
+  2026-07: 2

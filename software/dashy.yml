@@ -10,8 +10,8 @@ tags:
   - 个人仪表板
 source_code_url: https://github.com/lissy93/dashy
 demo_url: https://demo.dashy.to/
-stargazers_count: 25628
-updated_at: '2026-07-02'
+stargazers_count: 25671
+updated_at: '2026-07-03'
 archived: false
 current_release:
   tag: 4.3.0
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 218
   2026-05: 157
   2026-06: 91
-  2026-07: 8
+  2026-07: 16

@@ -9,7 +9,7 @@ tags:
   - 社区支持农业（CSA）
 source_code_url: https://github.com/openfoodfoundation/openfoodnetwork
 stargazers_count: 1254
-updated_at: '2026-07-02'
+updated_at: '2026-07-03'
 archived: false
 current_release:
   tag: v5.7.1
@@ -25,5 +25,5 @@ commit_history:
   2026-03: 344
   2026-04: 305
   2026-05: 265
-  2026-06: 283
-  2026-07: 4
+  2026-06: 297
+  2026-07: 12
