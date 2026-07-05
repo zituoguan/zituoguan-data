@@ -1,0 +1,11 @@
+name: Jan
+website_url: https://jan.ai
+source_code_url: https://github.com/janhq/jan
+description: 完全离线的开源 AI 聊天桌面应用（ChatGPT 替代品）。支持本地运行多种 LLM 模型。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 杂项

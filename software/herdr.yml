@@ -1,0 +1,10 @@
+name: Herdr
+website_url: https://herdr.dev
+source_code_url: https://github.com/ogulcancelik/herdr
+description: 在终端中运行和管理多个AI编码代理的终端多路复用器。每个代理拥有独立终端窗口，支持持久化会话、SSH远程连接和工作区管理。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - 软件开发 - IDE 和工具

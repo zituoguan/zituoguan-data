@@ -1,0 +1,11 @@
+name: Hanko
+website_url: https://www.hanko.io
+source_code_url: https://github.com/teamhanko/hanko
+description: 开源身份认证平台（Auth0 替代品）。支持 Passkey、WebAuthn、OAuth 2.0、SAML 和 MFA。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

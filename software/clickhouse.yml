@@ -1,0 +1,11 @@
+name: ClickHouse
+website_url: https://clickhouse.com
+source_code_url: https://github.com/ClickHouse/ClickHouse
+description: 开源实时分析型列式数据库管理系统。支持 SQL 查询、高压缩率和 PB 级数据分析。
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+  - Docker
+tags:
+  - 数据库管理

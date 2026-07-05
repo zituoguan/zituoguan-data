@@ -1,0 +1,11 @@
+name: Cachet
+website_url: https://cachethq.io
+source_code_url: https://github.com/cachethq/cachet
+description: 开源服务状态页面系统。可展示各服务的运行状态，支持组件分组、自动更新和通知订阅。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+  - Docker
+tags:
+  - 监控和状态页面

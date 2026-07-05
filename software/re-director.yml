@@ -1,11 +1,11 @@
 name: "re:Director"
 website_url: "https://re-director.github.io/"
 source_code_url: "https://github.com/re-Director/re-director"
-description: "Simple domain redirection management tool."
+description: 简单的域名重定向管理工具。
 licenses:
   - Apache-2.0
 platforms:
   - Java
   - Docker
 tags:
-  - Miscellaneous
+  - 杂项

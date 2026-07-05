@@ -1,12 +1,12 @@
 name: "Snipo"
 website_url: "https://github.com/MohamedElashri/snipo"
 source_code_url: "https://github.com/MohamedElashri/snipo"
-description: "Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync."
+description: 轻量级的代码片段管理器，支持文件夹、标签、API 和 GitHub Gist 同步，用于保存和组织代码与文本片段。
 licenses:
   - AGPL-3.0
 platforms:
   - Go
   - Docker
 tags:
-  - Pastebins
+  - 代码粘贴工具
 demo_url: "https://snipo.melashri.dev/"

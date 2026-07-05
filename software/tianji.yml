@@ -1,0 +1,12 @@
+name: Tianji
+website_url: https://tianji.dev
+source_code_url: https://github.com/msgbyte/tianji
+description: 一体化的网站分析、在线监控和服务状态面板（Umami + Uptime Kuma 的结合替代品）。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 监控和状态页面
+  - 指标采集

@@ -1,0 +1,11 @@
+name: Remnawave
+website_url: https://docs.rw
+source_code_url: https://github.com/remnawave/panel
+description: 基于 Xray-core 的强大代理管理面板，注重简洁易用。提供用户管理、流量统计和订阅链接生成等功能。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 代理

@@ -1,0 +1,11 @@
+name: Supabase
+website_url: https://supabase.com
+source_code_url: https://github.com/supabase/supabase
+description: 开源 Firebase 替代品。提供 Postgres 数据库、认证、实时订阅、存储和 Edge Functions。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 数据库管理

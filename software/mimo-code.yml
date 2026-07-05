@@ -1,0 +1,11 @@
+name: MiMo Code
+website_url: https://mimo.xiaomi.com/coder
+source_code_url: https://github.com/XiaomiMiMo/MiMo-Code
+description: 小米推出的终端 AI 编程助手（OpenCode 分支）。支持无限上下文、持久记忆、多代理协作和 Compose 开发模式。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Node.js
+tags:
+  - 软件开发 - IDE 和工具

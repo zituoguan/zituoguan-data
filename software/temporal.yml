@@ -1,0 +1,11 @@
+name: Temporal
+website_url: https://temporal.io
+source_code_url: https://github.com/temporalio/temporal
+description: 持久化工作流引擎，用于编排微服务和分布式任务。支持故障恢复、超时重试和工作流追踪。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - 自动化

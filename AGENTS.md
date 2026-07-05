@@ -31,6 +31,7 @@ All via `make` (auto-activates `.venv`). Run `make install` first.
 
 ## Conventions
 
+- **⚠ 全中文下游**：这是上游 awesome-selfhosted-data 的全中文下游 fork。合并上游提交时，所有英文 `description` 和 `tags` 都必须翻译为简体中文。标签名必须匹配 `tags/*.yml` 中已有的中文 `name`（如 `Pastebins` → `代码粘贴工具`）。
 - **Language**: All `description`, tag/platform `name`, `description` in **Chinese (Simplified)**. Project name = "自托管精选".
 - **Description style**: No articles, no "is a", no "open-source"/"free"/"self-hosted" (implied). Max ~250 chars.
 - **Tag filenames**: Kebab-case from Chinese name, using `---` separator for multi-word names (e.g., `file-transfer---synchronization`).

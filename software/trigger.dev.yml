@@ -1,0 +1,12 @@
+name: Trigger.dev
+website_url: https://trigger.dev
+source_code_url: https://github.com/triggerdotdev/trigger.dev
+description: 开源后台任务和 AI Agent 编排平台。支持定时任务、Webhook 触发和长时间运行的工作流。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Node.js
+  - Docker
+tags:
+  - 自动化

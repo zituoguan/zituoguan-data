@@ -1,10 +1,10 @@
 name: "Budget Board"
 website_url: "https://budgetboard.net/"
 source_code_url: "https://github.com/teelur/budget-board"
-description: "Simple app for tracking monthly spending and working towards financial goals."
+description: 用于追踪月度支出并实现财务目标的简单应用。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Money, Budgeting & Management
+  - 财务与预算管理

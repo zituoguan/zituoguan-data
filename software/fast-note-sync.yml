@@ -1,0 +1,11 @@
+name: Fast Note Sync
+website_url: https://github.com/haierkeys/obsidian-fast-note-sync
+source_code_url: https://github.com/haierkeys/obsidian-fast-note-sync
+description: 可私有化部署的 Obsidian 多端实时笔记同步插件，支持自动备份、版本历史和在线协作。需配合独立服务端使用。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Node.js
+tags:
+  - 笔记工具

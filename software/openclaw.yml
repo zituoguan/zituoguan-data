@@ -1,0 +1,12 @@
+name: OpenClaw
+website_url: https://openclaw.ai
+source_code_url: https://github.com/openclaw/openclaw
+description: 个人 AI 助手，可运行在自有设备上。通过 WhatsApp、Telegram 等聊天应用管理邮件、日历、航班签到等任务。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Node.js
+  - Docker
+tags:
+  - 自动化

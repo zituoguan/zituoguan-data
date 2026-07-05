@@ -1,0 +1,11 @@
+name: Hermes Agent
+website_url: https://hermes-agent.nousresearch.com
+source_code_url: https://github.com/nousresearch/hermes-agent
+description: 可自我进化的 AI 代理，具备内置学习循环。通过 Telegram、Discord 等平台交互，支持持久记忆、技能自动创建和定时任务。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - 自动化

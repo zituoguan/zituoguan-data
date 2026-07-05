@@ -1,0 +1,11 @@
+name: Dockge
+website_url: https://dockge.kuma.pet
+source_code_url: https://github.com/louislam/dockge
+description: 精美、易用的 Docker Compose 堆栈管理面板，支持创建、编辑、部署和监控 compose 文件。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 部署自动化

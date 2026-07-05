@@ -1,0 +1,11 @@
+name: Reasonix
+website_url: https://reasonix.io
+source_code_url: https://github.com/esengine/deepseek-reasonix
+description: 面向 DeepSeek 模型优化的 AI 编程代理，基于 prefix-cache 稳定性设计。支持长会话缓存命中 90%+，提供终端和浏览器 UI。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - TypeScript
+tags:
+  - 软件开发 - IDE 和工具
