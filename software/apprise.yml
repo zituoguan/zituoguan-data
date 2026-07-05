@@ -10,12 +10,12 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/caronc/apprise
-stargazers_count: 16830
-updated_at: '2026-07-03'
+stargazers_count: 16834
+updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: v1.11.0
-  published_at: '2026-05-29'
+  tag: v1.12.0
+  published_at: '2026-07-04'
 commit_history:
   2025-08: 11
   2025-09: 9
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 27
   2026-05: 28
   2026-06: 15
-  2026-07: 10
+  2026-07: 12

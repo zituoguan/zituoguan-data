@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/Admidio/admidio
 demo_url: https://www.admidio.org/demo/
 stargazers_count: 464
-updated_at: '2026-06-29'
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: v5.0.10
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 28
   2026-05: 41
   2026-06: 24
-  2026-07: 0
+  2026-07: 2

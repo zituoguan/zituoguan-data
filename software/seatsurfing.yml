@@ -9,7 +9,7 @@ tags:
   - 预约与日程管理
 source_code_url: https://github.com/seatsurfing/seatsurfing
 stargazers_count: 295
-updated_at: '2026-07-03'
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: v1.113.2
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 133
   2026-05: 147
   2026-06: 93
-  2026-07: 16
+  2026-07: 17

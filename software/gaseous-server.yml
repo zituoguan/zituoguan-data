@@ -10,12 +10,12 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 depends_3rdparty: true
-stargazers_count: 904
+stargazers_count: 905
 updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: v2.0.0-rc.2
-  published_at: '2026-06-27'
+  tag: v2.0.0-rc.3
+  published_at: '2026-07-04'
 commit_history:
   2025-08: 12
   2025-09: 10

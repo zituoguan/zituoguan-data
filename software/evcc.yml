@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - 物联网（IoT）
-stargazers_count: 6900
-updated_at: '2026-07-03'
+stargazers_count: 6908
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: 0.310.1
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 184
   2026-05: 234
   2026-06: 294
-  2026-07: 23
+  2026-07: 31

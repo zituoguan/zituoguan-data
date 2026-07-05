@@ -11,7 +11,7 @@ tags:
   - 文件传输 - 点对点文件共享
 depends_3rdparty: true
 stargazers_count: 3482
-updated_at: '2026-06-21'
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: 0.25.1
@@ -27,5 +27,5 @@ commit_history:
   2026-03: 74
   2026-04: 114
   2026-05: 185
-  2026-06: 106
-  2026-07: 0
+  2026-06: 108
+  2026-07: 2

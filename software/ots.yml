@@ -9,11 +9,11 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/Luzifer/ots
 stargazers_count: 769
-updated_at: '2026-07-02'
+updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: v1.21.7
-  published_at: '2026-06-27'
+  tag: v1.21.8
+  published_at: '2026-07-04'
 commit_history:
   2025-08: 62
   2025-09: 42
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 77
   2026-05: 100
   2026-06: 80
-  2026-07: 3
+  2026-07: 10
