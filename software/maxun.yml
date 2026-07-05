@@ -1,0 +1,11 @@
+name: Maxun
+website_url: https://maxun.dev
+source_code_url: https://github.com/getmaxun/maxun
+description: 开源无代码网页抓取平台。支持可视化创建爬虫、数据提取和定时采集任务。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 自动化

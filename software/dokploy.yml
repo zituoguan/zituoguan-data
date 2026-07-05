@@ -1,0 +1,11 @@
+name: Dokploy
+website_url: https://dokploy.com
+source_code_url: https://github.com/Dokploy/dokploy
+description: 开源 PaaS 平台（Vercel/Heroku 替代品）。支持多服务器部署、Docker Compose、数据库管理和实时监控。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - PaaS

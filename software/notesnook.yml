@@ -1,0 +1,11 @@
+name: Notesnook
+website_url: https://notesnook.com
+source_code_url: https://github.com/streetwriters/notesnook
+description: 开源端到端加密笔记应用（Evernote 替代品）。支持 Markdown、标签、组织和跨平台同步。
+licenses:
+  - GPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 笔记工具

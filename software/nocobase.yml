@@ -1,0 +1,11 @@
+name: NocoBase
+website_url: https://www.nocobase.com
+source_code_url: https://github.com/nocobase/nocobase
+description: 开源无代码开发平台，支持可视化搭建企业级业务系统、数据管理和自动化工作流。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 软件开发 - 低代码

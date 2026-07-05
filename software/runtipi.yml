@@ -1,0 +1,11 @@
+name: Runtipi
+website_url: https://runtipi.io
+source_code_url: https://github.com/runtipi/runtipi
+description: 家庭服务器面板，支持一键安装管理各类自托管应用。提供简洁的 Web 界面。
+licenses:
+  - GPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 自托管解决方案

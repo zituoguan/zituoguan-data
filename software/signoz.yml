@@ -1,0 +1,12 @@
+name: SigNoz
+website_url: https://signoz.io
+source_code_url: https://github.com/SigNoz/signoz
+description: 开源应用可观测性平台（DataDog/NewRelic 替代品）。支持分布式追踪、指标和日志管理。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Go
+  - Docker
+tags:
+  - 监控和状态页面

@@ -1,0 +1,11 @@
+name: Tabby
+website_url: https://tabby.tabbyml.com
+source_code_url: https://github.com/TabbyML/tabby
+description: 自托管的 AI 编程助手，提供代码补全和对话功能。支持多种 LLM 后端本地部署。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - 软件开发 - IDE 和工具

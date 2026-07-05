@@ -1,0 +1,11 @@
+name: Airbyte
+website_url: https://airbyte.com
+source_code_url: https://github.com/airbytehq/airbyte
+description: 开源数据集成平台（ELT）。支持 300+ 连接器，可编排数据同步到数据仓库和数据湖。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - 持续集成和持续部署

@@ -1,0 +1,11 @@
+name: Wizarr
+website_url: https://wizarr.dev
+source_code_url: https://github.com/wizarrrr/wizarr
+description: 自托管的媒体服务器用户邀请和管理系统，专为 Jellyfin、Plex 和 Emby 设计。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - 媒体管理

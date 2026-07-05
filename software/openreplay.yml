@@ -1,0 +1,11 @@
+name: OpenReplay
+website_url: https://openreplay.com
+source_code_url: https://github.com/openreplay/openreplay
+description: 开源会话回放和产品分析平台（FullStory 替代品）。支持用户行为追踪、错误监控和性能分析。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 监控和状态页面
