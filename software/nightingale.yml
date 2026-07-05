@@ -1,0 +1,11 @@
+name: Nightingale
+website_url: https://n9e.github.io
+source_code_url: https://github.com/ccfos/nightingale
+description: 开源告警监控平台，兼容 Prometheus、VictoriaMetrics、Elasticsearch 等数据源。支持告警管理和可视化。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 监控和状态页面

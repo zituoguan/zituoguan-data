@@ -1,0 +1,12 @@
+name: Highlight
+website_url: https://www.highlight.io
+source_code_url: https://github.com/highlight/highlight
+description: 开源全栈监控平台。集成会话回放、错误追踪、日志管理和性能监控。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Go
+  - Docker
+tags:
+  - 监控和状态页面

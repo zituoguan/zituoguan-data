@@ -1,0 +1,11 @@
+name: Parse Server
+website_url: https://parseplatform.org
+source_code_url: https://github.com/parse-community/parse-server
+description: 开源 BaaS 平台（Firebase 替代品）。提供 REST/GraphQL API、推送通知、文件存储和社交登录。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - PaaS

@@ -1,0 +1,12 @@
+name: Logto
+website_url: https://logto.io
+source_code_url: https://github.com/logto-io/logto
+description: 开源身份认证平台（Auth0 替代品）。支持 OIDC、OAuth 2.1、SSO、多租户和 RBAC。
+licenses:
+  - MPL-2.0
+platforms:
+  - TypeScript
+  - Node.js
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

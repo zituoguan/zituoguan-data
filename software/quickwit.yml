@@ -1,0 +1,11 @@
+name: Quickwit
+website_url: https://quickwit.io
+source_code_url: https://github.com/quickwit-oss/quickwit
+description: 云原生日志和追踪搜索引擎，兼容 Elasticsearch API 和 Jaeger/OTEL 协议。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - 搜索引擎

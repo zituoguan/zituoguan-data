@@ -1,0 +1,11 @@
+name: Plandex
+website_url: https://plandex.ai
+source_code_url: https://github.com/plandex-ai/plandex
+description: 面向大型项目和实际任务的终端 AI 编程代理，支持多文件编辑和上下文管理。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - 软件开发 - IDE 和工具

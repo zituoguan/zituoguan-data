@@ -1,0 +1,11 @@
+name: SuperTokens
+website_url: https://supertokens.com
+source_code_url: https://github.com/supertokens/supertokens-core
+description: 开源身份认证引擎（Auth0/Cognito 替代品）。支持会话管理、MFA、社交登录和无密码认证。
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

@@ -1,0 +1,11 @@
+name: Semaphore
+website_url: https://semaphoreui.com
+source_code_url: https://github.com/semaphoreui/semaphore
+description: Ansible、Terraform 和 Shell 脚本的现代化 Web UI。支持运行任务、环境管理和访问控制。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - 部署自动化

@@ -1,0 +1,12 @@
+name: Cube
+website_url: https://cube.dev
+source_code_url: https://github.com/cube-js/cube
+description: 开源语义层（Headless BI），为下游工具提供一致的指标定义和 SQL/REST/GraphQL API。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - TypeScript
+  - Docker
+tags:
+  - 分析

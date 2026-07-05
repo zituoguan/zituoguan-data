@@ -1,0 +1,12 @@
+name: Windmill
+website_url: https://www.windmill.dev
+source_code_url: https://github.com/windmill-labs/windmill
+description: 开源开发者平台，可将脚本转换为工作流和 UI。支持低代码应用构建和定时任务调度。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - TypeScript
+  - Docker
+tags:
+  - 自动化

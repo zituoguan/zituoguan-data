@@ -1,0 +1,11 @@
+name: Padloc
+website_url: https://padloc.app
+source_code_url: https://github.com/padloc/padloc
+description: 现代开源密码管理器，支持团队协作。提供 Web PWA、浏览器扩展、桌面和移动客户端。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 密码管理器

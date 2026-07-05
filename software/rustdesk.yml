@@ -1,0 +1,11 @@
+name: RustDesk
+website_url: https://rustdesk.com
+source_code_url: https://github.com/rustdesk/rustdesk
+description: 开源远程桌面软件（TeamViewer 替代品）。支持自建中继服务器、端到端加密和多平台客户端。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - 远程访问

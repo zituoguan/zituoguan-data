@@ -1,0 +1,11 @@
+name: Casdoor
+website_url: https://casdoor.org
+source_code_url: https://github.com/casdoor/casdoor
+description: 开源身份和访问管理（IAM）平台。支持 OAuth 2.0、OIDC、SAML、WebAuthn 和 MFA。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

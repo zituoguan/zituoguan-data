@@ -1,0 +1,11 @@
+name: Ory Kratos
+website_url: https://www.ory.sh/kratos
+source_code_url: https://github.com/ory/kratos
+description: 开源身份和用户管理服务器。支持自助注册、登录、MFA、账户恢复和 SSO。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

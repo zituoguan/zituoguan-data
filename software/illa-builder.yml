@@ -1,0 +1,11 @@
+name: Illa Builder
+website_url: https://illacloud.com
+source_code_url: https://github.com/illacloud/illa-builder
+description: 开源低代码开发平台（Retool 替代品）。支持拖拽式应用构建、数据库连接和 JavaScript 扩展。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 软件开发 - 低代码

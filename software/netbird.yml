@@ -1,0 +1,11 @@
+name: Netbird
+website_url: https://netbird.io
+source_code_url: https://github.com/netbirdio/netbird
+description: 基于 WireGuard 的零信任网络组网平台。支持 SSO、MFA 和自动密钥轮换。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+  - Docker
+tags:
+  - 虚拟专用网络（VPN）

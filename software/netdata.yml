@@ -1,0 +1,13 @@
+name: Netdata
+website_url: https://www.netdata.cloud
+source_code_url: https://github.com/netdata/netdata
+description: 实时基础设施监控平台。支持数百种指标的自动检测、可视化和告警。
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+  - Go
+  - Docker
+tags:
+  - 监控和状态页面
+  - 指标采集

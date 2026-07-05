@@ -1,0 +1,11 @@
+name: Flame
+website_url: https://github.com/pawelmalak/flame
+source_code_url: https://github.com/pawelmalak/flame
+description: 自托管的起始页仪表板。可轻松管理应用链接、书签和服务器状态概览。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 个人仪表板

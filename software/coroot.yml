@@ -1,0 +1,11 @@
+name: Coroot
+website_url: https://coroot.com
+source_code_url: https://github.com/coroot/coroot
+description: 基于 eBPF 的零插桩可观测性平台。集成指标、日志、链路追踪和 AI 根因分析。
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 监控和状态页面

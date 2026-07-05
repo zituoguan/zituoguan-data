@@ -1,0 +1,11 @@
+name: Excalidraw
+website_url: https://excalidraw.com
+source_code_url: https://github.com/excalidraw/excalidraw
+description: 开源虚拟白板工具，可用于绘制手绘风格图表、线框图和思维导图。支持端到端加密协作。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,11 @@
+name: Papermark
+website_url: https://papermark.io
+source_code_url: https://github.com/mfts/papermark
+description: 开源 DocSend 替代品。支持文档分享、访问跟踪、自定义域名和链接到期设置。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 文档管理

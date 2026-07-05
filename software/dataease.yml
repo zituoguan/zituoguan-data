@@ -1,0 +1,11 @@
+name: DataEase
+website_url: https://dataease.io
+source_code_url: https://github.com/dataease/dataease
+description: 开源 BI 分析平台（Tableau 替代品）。支持拖拽式可视化、多数据源连接和大屏展示。
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - 分析
