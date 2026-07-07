@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 个人仪表板
-stargazers_count: 15
-updated_at: '2026-07-04'
+stargazers_count: 16
+updated_at: '2026-07-05'
 archived: false
 current_release:
   tag: v1.8.20
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 49
   2026-05: 4
   2026-06: 2
-  2026-07: 6
+  2026-07: 8

@@ -11,3 +11,13 @@ platforms:
 tags:
   - 监控和状态页面
   - 指标采集
+stargazers_count: 79521
+updated_at: '2026-07-06'
+archived: false
+current_release:
+  tag: v2.10.3
+  published_at: '2026-04-27'
+commit_history:
+  2026-05: 188
+  2026-06: 288
+  2026-07: 68

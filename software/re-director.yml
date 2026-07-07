@@ -1,6 +1,6 @@
-name: "re:Director"
-website_url: "https://re-director.github.io/"
-source_code_url: "https://github.com/re-Director/re-director"
+name: re:Director
+website_url: https://re-director.github.io/
+source_code_url: https://github.com/re-Director/re-director
 description: 简单的域名重定向管理工具。
 licenses:
   - Apache-2.0
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 杂项
+stargazers_count: 44
+updated_at: '2026-06-24'
+archived: false
+current_release:
+  tag: 0.0.10
+  published_at: '2026-06-08'
+commit_history:
+  2026-05: 12
+  2026-06: 38
+  2026-07: 0

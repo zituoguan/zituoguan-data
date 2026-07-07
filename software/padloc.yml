@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 密码管理器
+stargazers_count: 2923
+updated_at: '2023-12-10'
+archived: false
+current_release:
+  tag: v4.3.0
+  published_at: '2023-03-06'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

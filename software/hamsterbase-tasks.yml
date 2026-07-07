@@ -9,12 +9,12 @@ platforms:
 tags:
   - 任务管理和待办清单
 demo_url: https://tasks-app.hamsterbase.com
-stargazers_count: 322
+stargazers_count: 325
 updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: android-2026.04.0900
-  published_at: '2026-04-10'
+  tag: android-2026.07.0500
+  published_at: '2026-07-05'
 commit_history:
   2026-04: 50
   2026-05: 31

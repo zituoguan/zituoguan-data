@@ -11,8 +11,8 @@ tags:
   - 控制面板
 demo_url: https://demo.hestiacp.com:8083/login/
 source_code_url: https://github.com/hestiacp/hestiacp
-stargazers_count: 4404
-updated_at: '2026-07-04'
+stargazers_count: 4406
+updated_at: '2026-07-06'
 archived: false
 current_release:
   tag: 1.9.6
@@ -20,5 +20,5 @@ current_release:
 commit_history:
   2026-04: 7
   2026-05: 32
-  2026-06: 68
-  2026-07: 28
+  2026-06: 73
+  2026-07: 35

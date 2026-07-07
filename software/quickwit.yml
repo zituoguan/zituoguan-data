@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 搜索引擎
+stargazers_count: 11389
+updated_at: '2026-07-06'
+archived: false
+current_release:
+  tag: def4e26e9
+  published_at: '2026-05-20'
+commit_history:
+  2026-05: 67
+  2026-06: 47
+  2026-07: 9

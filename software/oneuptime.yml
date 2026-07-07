@@ -8,14 +8,14 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/oneuptime/oneuptime
-stargazers_count: 7252
-updated_at: '2026-07-04'
+stargazers_count: 7256
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: 11.3.19
-  published_at: '2026-07-02'
+  tag: 11.3.25
+  published_at: '2026-07-06'
 commit_history:
   2026-04: 516
   2026-05: 573
   2026-06: 550
-  2026-07: 11
+  2026-07: 91

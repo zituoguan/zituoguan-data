@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 软件开发 - 低代码
+stargazers_count: 12283
+updated_at: '2025-05-14'
+archived: false
+current_release:
+  tag: illa-builder@4.8.5
+  published_at: '2024-08-05'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0
