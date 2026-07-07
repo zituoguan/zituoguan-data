@@ -1,0 +1,11 @@
+name: Deep Code
+website_url: https://deepcode.vegamo.cn/
+source_code_url: https://github.com/lessweb/deepcode-cli
+description: 专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制、Agent Skills 以及 MCP 集成。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Node.js
+tags:
+  - 软件开发 - IDE 和工具
