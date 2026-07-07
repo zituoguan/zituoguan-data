@@ -1,0 +1,11 @@
+name: Apache APISIX
+website_url: https://apisix.apache.org/
+source_code_url: https://github.com/apache/apisix
+description: 云原生高性能 API 网关，支持动态路由、负载均衡、认证、可观测性和 100+ 插件。基于 NGINX 和 etcd 构建。
+licenses:
+  - Apache-2.0
+platforms:
+  - Lua
+  - Docker
+tags:
+  - 代理
