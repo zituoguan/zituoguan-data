@@ -8,13 +8,13 @@ platforms:
   - Rust
 tags:
   - 软件开发 - IDE 和工具
-stargazers_count: 12843
-updated_at: '2026-07-06'
+stargazers_count: 13532
+updated_at: '2026-07-07'
 archived: false
 current_release:
-  tag: preview-2026-07-06-4dae557eefd9
-  published_at: '2026-07-06'
+  tag: v0.7.3
+  published_at: '2026-07-07'
 commit_history:
   2026-05: 358
   2026-06: 300
-  2026-07: 64
+  2026-07: 87

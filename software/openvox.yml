@@ -10,13 +10,13 @@ tags:
   - 配置管理
 source_code_url: https://github.com/OpenVoxProject/openvox
 stargazers_count: 177
-updated_at: '2026-07-06'
+updated_at: '2026-07-07'
 archived: false
 current_release:
-  tag: 9.0.0-alpha2
-  published_at: '2026-06-10'
+  tag: 8.28.1
+  published_at: '2026-07-07'
 commit_history:
   2026-04: 58
   2026-05: 42
   2026-06: 42
-  2026-07: 48
+  2026-07: 53

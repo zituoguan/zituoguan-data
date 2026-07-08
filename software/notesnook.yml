@@ -9,13 +9,13 @@ platforms:
   - Docker
 tags:
   - 笔记工具
-stargazers_count: 14235
-updated_at: '2026-07-06'
+stargazers_count: 14238
+updated_at: '2026-07-07'
 archived: false
 current_release:
-  tag: v3.4.2
-  published_at: '2026-07-01'
+  tag: 3.4.5-android
+  published_at: '2026-07-07'
 commit_history:
   2026-05: 130
-  2026-06: 172
-  2026-07: 15
+  2026-06: 173
+  2026-07: 19
