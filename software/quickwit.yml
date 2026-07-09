@@ -10,7 +10,7 @@ platforms:
 tags:
   - 搜索引擎
 stargazers_count: 11396
-updated_at: '2026-07-07'
+updated_at: '2026-07-08'
 archived: false
 current_release:
   tag: def4e26e9
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 67
   2026-06: 47
-  2026-07: 12
+  2026-07: 15
