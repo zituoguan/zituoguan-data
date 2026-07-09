@@ -1,0 +1,11 @@
+name: Context Portal
+website_url: https://github.com/GreatScottyMac/context-portal
+source_code_url: https://github.com/GreatScottyMac/context-portal
+description: 基于 MCP 的记忆库服务，构建项目级知识图谱来增强 AI 助手的能力和上下文理解。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 上下文工程

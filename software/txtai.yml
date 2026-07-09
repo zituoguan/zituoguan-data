@@ -1,0 +1,11 @@
+name: txtai
+website_url: https://neuml.github.io/txtai
+source_code_url: https://github.com/neuml/txtai
+description: 一体化 AI 框架，支持语义搜索、LLM 编排、RAG 和工作流自动化，可嵌入或独立部署。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

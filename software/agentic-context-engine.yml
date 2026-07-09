@@ -1,0 +1,11 @@
+name: Agentic Context Engine
+website_url: https://www.kayba.ai
+source_code_url: https://github.com/kayba-ai/agentic-context-engine
+description: 让 AI 智能体从经验中学习。通过上下文管理实现智能体的持续改进和知识积累。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 上下文工程

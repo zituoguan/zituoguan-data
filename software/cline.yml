@@ -1,0 +1,11 @@
+name: Cline
+website_url: https://cline.bot
+source_code_url: https://github.com/cline/cline
+description: 自主编码智能体，可作为 SDK、IDE 扩展或 CLI 助手运行，支持代码库上下文理解和工具调用。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

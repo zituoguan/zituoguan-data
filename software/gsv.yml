@@ -1,0 +1,11 @@
+name: GSV
+website_url: https://gsv.space
+source_code_url: https://github.com/deathbyknowledge/gsv
+description: 个人 AI 计算机。跨所有设备的分布式操作系统，统一智能体运行环境。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

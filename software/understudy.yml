@@ -1,0 +1,11 @@
+name: Understudy
+website_url: https://understudy-ai.github.io/understudy
+source_code_url: https://github.com/understudy-ai/understudy
+description: AI 替补演员。观察你的操作，然后在你需要时自动执行重复性任务。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

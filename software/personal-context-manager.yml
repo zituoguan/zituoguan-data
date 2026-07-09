@@ -1,0 +1,10 @@
+name: Personal Context Manager
+website_url: https://github.com/mikhashev/personal-context-manager
+source_code_url: https://github.com/mikhashev/personal-context-manager
+description: 本地上下文技术，为 AI 个性化提供持久的个人上下文存储和管理。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 上下文工程

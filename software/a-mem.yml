@@ -1,0 +1,11 @@
+name: A-Mem
+website_url: https://github.com/agiresearch/A-mem
+source_code_url: https://github.com/agiresearch/A-mem
+description: 面向 LLM 智能体的智能记忆系统，支持多级记忆组织和上下文感知检索。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

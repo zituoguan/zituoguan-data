@@ -1,0 +1,11 @@
+name: Rowboat
+website_url: https://www.rowboatlabs.com
+source_code_url: https://github.com/rowboatlabs/rowboat
+description: 开源 AI 同事，具备记忆能力，可协作完成任务、管理知识库和自动化工作流程。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

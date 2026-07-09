@@ -1,0 +1,11 @@
+name: Zep
+website_url: https://www.getzep.com
+source_code_url: https://github.com/getzep/zep
+description: AI 智能体的长期记忆层，基于时间知识图构建，支持会话历史、用户画像和语义检索。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

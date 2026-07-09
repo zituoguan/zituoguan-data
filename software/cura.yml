@@ -1,0 +1,11 @@
+name: Cura
+website_url: https://cura.heyshreyas.com
+source_code_url: https://github.com/Shreyas-29/cura
+description: 个人 AI 健康助手，管理用药提醒、健康追踪和个性化健康建议。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 个性化

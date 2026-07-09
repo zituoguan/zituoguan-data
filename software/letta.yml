@@ -1,0 +1,11 @@
+name: Letta
+website_url: https://docs.letta.com
+source_code_url: https://github.com/letta-ai/letta
+description: 具有高级记忆功能的状态型智能体平台。智能体可随时间学习和自我改进，支持 CLI 运行、桌面应用和 Slack 等渠道集成。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

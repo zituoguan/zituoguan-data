@@ -1,0 +1,10 @@
+name: Logseq
+website_url: https://logseq.com
+source_code_url: https://github.com/logseq/logseq
+description: 隐私优先的开源知识管理和协作平台，支持双向链接、图谱视图和本地优先存储。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

@@ -1,0 +1,11 @@
+name: ResearchClaw
+website_url: https://ymx10086.github.io/ResearchClaw
+source_code_url: https://github.com/ymx10086/ResearchClaw
+description: 个人 AI 研究助手，支持文献综述、笔记记录、实验追踪和论文撰写全流程。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

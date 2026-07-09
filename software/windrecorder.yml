@@ -1,0 +1,11 @@
+name: Windrecorder
+website_url: https://github.com/yuka-friends/Windrecorder
+source_code_url: https://github.com/yuka-friends/Windrecorder
+description: Windows 记忆搜索应用，通过小体积屏幕记录和 OCR 实现过去内容的检索与回顾。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

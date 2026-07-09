@@ -1,0 +1,11 @@
+name: OpenHuman
+website_url: https://tinyhumans.ai/openhuman
+source_code_url: https://github.com/tinyhumansai/openhuman
+description: 个人 AI 超级智能，构建本地优先的生活记忆，协调智能体完成任务，注重隐私和简洁。
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - AI 个人助手

@@ -1,0 +1,10 @@
+name: Notabase
+website_url: https://notabase.io
+source_code_url: https://github.com/churichard/notabase
+description: 知识、思想和创意的第二大脑，支持知识图谱、双向链接和 Zettelkasten 笔记法，帮助建立互联的个人知识库。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

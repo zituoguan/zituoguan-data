@@ -1,0 +1,12 @@
+name: Supermemory
+website_url: https://supermemory.ai
+source_code_url: https://github.com/supermemoryai/supermemory
+description: AI 记忆与上下文引擎。从对话中自动提取事实、构建用户画像、处理知识更新与矛盾，支持混合搜索和多种数据源连接器。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

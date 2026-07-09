@@ -1,0 +1,11 @@
+name: PersonalAgentKit
+website_url: https://github.com/gbelinsky/PersonalAgentKit
+source_code_url: https://github.com/gbelinsky/PersonalAgentKit
+description: 培育个人 AI 的种子包。通过持续使用和学习不断进化的个人智能体框架。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

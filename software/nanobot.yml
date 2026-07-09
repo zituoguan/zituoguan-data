@@ -1,0 +1,11 @@
+name: Nanobot
+website_url: https://nanobot.wiki
+source_code_url: https://github.com/HKUDS/nanobot
+description: 超轻量个人 AI 智能体，支持 WebUI、Telegram、Discord 等聊天渠道，具备工具调用、记忆、MCP 和自动化工作流。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 个人助手

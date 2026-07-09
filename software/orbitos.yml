@@ -1,0 +1,10 @@
+name: OrbitOS
+website_url: https://github.com/MarsWang42/OrbitOS
+source_code_url: https://github.com/MarsWang42/OrbitOS
+description: AI 驱动的个人生产力系统，智能编排知识管理与每日任务规划，打造统一的第二大脑。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

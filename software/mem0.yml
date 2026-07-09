@@ -1,0 +1,11 @@
+name: Mem0
+website_url: https://mem0.ai
+source_code_url: https://github.com/mem0ai/mem0
+description: AI 智能体的通用记忆层。自动提取和存储用户偏好、会话上下文与事实信息，支持多级记忆（用户/会话/智能体）和语义检索。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

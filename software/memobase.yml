@@ -1,0 +1,11 @@
+name: Memobase
+website_url: https://memobase.io
+source_code_url: https://github.com/memodb-io/memobase
+description: 基于用户画像的长期记忆系统，专为 AI 聊天应用设计。支持结构化画像、事件时间线和批量处理，兼容多种 LLM。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,11 @@
+name: Dcup
+website_url: https://dcup.dev
+source_code_url: https://github.com/Dcup-dev/dcup
+description: 面向个人知识的高级 RAG 引擎，支持智能检索、知识关联和个性化问答。
+licenses:
+  - GPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 第二大脑

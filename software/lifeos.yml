@@ -1,0 +1,11 @@
+name: LifeOS
+website_url: https://ourlifeos.ai
+source_code_url: https://github.com/danielmiessler/LifeOS
+description: 通用 AI 增强平台。捕获你的身份、目标和上下文，通过了解你的 AI 辅助完成编码、创作、商业等任务。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 个人助手

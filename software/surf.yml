@@ -1,0 +1,10 @@
+name: Surf
+website_url: https://deta.surf
+source_code_url: https://github.com/deta/surf
+description: 个人 AI 笔记本。整理文件和网页并自动生成笔记，支持本地优先存储、多模型选择和丰富的媒体类型。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

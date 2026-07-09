@@ -1,0 +1,11 @@
+name: GraphRAG
+website_url: https://microsoft.github.io/graphrag
+source_code_url: https://github.com/microsoft/graphrag
+description: 基于知识图谱的检索增强生成系统，由 LLM 自动提取实体和关系构建可查询的知识图。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,11 @@
+name: Basic Memory
+website_url: https://basicmemory.com
+source_code_url: https://github.com/basicmachines-co/basic-memory
+description: 让 AI 拥有持久记忆的本地优先工具。以 Markdown 文件存储知识，支持语义搜索、知识图谱和 MCP 协议，人类与 AI 可共同读写。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

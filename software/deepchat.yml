@@ -1,0 +1,10 @@
+name: DeepChat
+website_url: https://deepchat.thinkinai.xyz
+source_code_url: https://github.com/ThinkInAIXYZ/deepchat
+description: 连接强大 AI 到个人世界的智能助手，支持多模型、MCP 插件和跨平台桌面运行，具备智能体技能和个性化配置。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - AI 个人助手

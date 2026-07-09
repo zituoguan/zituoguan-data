@@ -1,0 +1,11 @@
+name: EverOS
+website_url: https://github.com/EverMind-AI/EverOS
+source_code_url: https://github.com/EverMind-AI/EverOS
+description: 为每个 AI 智能体提供便携记忆层。本地优先、Markdown 原生、用户所有、可自我进化。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

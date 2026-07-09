@@ -1,0 +1,11 @@
+name: AI Data Extraction
+website_url: https://github.com/0xSero/ai-data-extraction
+source_code_url: https://github.com/0xSero/ai-data-extraction
+description: 从 Cursor、Codex、Claude Code、Windsurf、Trae 等工具中提取你的个人 AI 对话历史数据。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 个性化

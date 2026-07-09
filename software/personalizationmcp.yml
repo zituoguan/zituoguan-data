@@ -1,0 +1,11 @@
+name: PersonalizationMCP
+website_url: https://github.com/YangLiangwei/PersonalizationMCP
+source_code_url: https://github.com/YangLiangwei/PersonalizationMCP
+description: 基于 MCP 的统一个人数据中枢，让 AI 助手访问 Steam、YouTube、Bilibili 等平台的用户数据。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 个性化

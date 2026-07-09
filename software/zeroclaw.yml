@@ -1,0 +1,12 @@
+name: ZeroClaw
+website_url: https://www.zeroclawlabs.ai
+source_code_url: https://github.com/zeroclaw-labs/zeroclaw
+description: 快速小巧的全自主 AI 个人助理基础设施，支持 30+ 通信渠道和 20+ LLM 提供商，单二进制部署。
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - AI 个人助手

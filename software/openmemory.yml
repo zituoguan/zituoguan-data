@@ -1,0 +1,11 @@
+name: OpenMemory
+website_url: https://github.com/CaviraOSS/OpenMemory
+source_code_url: https://github.com/CaviraOSS/OpenMemory
+description: 本地持久化记忆存储，兼容 Claude Desktop、GitHub Copilot、Codex 等 LLM 应用，支持 MCP 协议。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,10 @@
+name: OpenHanako
+website_url: https://github.com/liliMozi/openhanako
+source_code_url: https://github.com/liliMozi/openhanako
+description: 具备记忆、个性和自主能力的个人 AI 智能体，基于 Electron 构建，支持多平台桌面运行和 MCP 扩展。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - AI 个人助手

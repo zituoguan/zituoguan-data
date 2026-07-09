@@ -1,0 +1,11 @@
+name: Aider
+website_url: https://aider.chat
+source_code_url: https://github.com/Aider-AI/aider
+description: 终端中的 AI 结对编程助手，支持 Git 感知、多文件编辑和多种 LLM 提供商。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

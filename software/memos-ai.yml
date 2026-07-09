@@ -1,0 +1,11 @@
+name: MemOS AI
+website_url: https://github.com/MemTensor/MemOS
+source_code_url: https://github.com/MemTensor/MemOS
+description: AI 记忆操作系统，为 LLM 和 AI 智能体提供超持久记忆、混合检索和跨任务技能复用。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 记忆与持久化

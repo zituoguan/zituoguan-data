@@ -1,0 +1,11 @@
+name: Personal Vault
+website_url: https://www.personalvault.dev
+source_code_url: https://github.com/lovincyrus/personal-vault
+description: 拥有你的个人上下文，让 AI 智能体通过 MCP 协议查询和利用你的知识库。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - AI 第二大脑

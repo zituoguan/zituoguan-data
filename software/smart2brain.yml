@@ -1,0 +1,10 @@
+name: Smart2Brain
+website_url: https://github.com/your-papa/obsidian-Smart2Brain
+source_code_url: https://github.com/your-papa/obsidian-Smart2Brain
+description: Obsidian 插件，为你的第二大脑提供隐私优先的 AI 助手，支持本地 LLM 和语义搜索。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

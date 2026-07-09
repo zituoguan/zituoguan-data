@@ -1,0 +1,11 @@
+name: PrivateGPT
+website_url: https://www.privategpt.dev
+source_code_url: https://github.com/zylon-ai/private-gpt
+description: 与文档私密对话的 API 层。支持 RAG、技能、工具、MCP 和本地模型，完全保护数据隐私。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 第二大脑

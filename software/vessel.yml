@@ -1,0 +1,11 @@
+name: Vessel
+website_url: https://vessel.cartcs.com
+source_code_url: https://github.com/cartesiancs/vessel
+description: 物理 AI 运行时平台，连接数据流、检测事件、控制设备，支持物联网与自动化场景。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

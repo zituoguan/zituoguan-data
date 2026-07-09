@@ -1,0 +1,11 @@
+name: MemVid
+website_url: https://github.com/memvid/MemVid
+source_code_url: https://github.com/memvid/MemVid
+description: AI 智能体的记忆层。用单文件无服务器替代复杂 RAG 管线，提供嵌入式记忆存储和检索。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,11 @@
+name: Continue
+website_url: https://continue.dev
+source_code_url: https://github.com/continuedev/continue
+description: 开源编码智能体，提供 IDE 内 AI 代码补全、对话和代码库上下文理解。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体

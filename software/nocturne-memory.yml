@@ -1,0 +1,11 @@
+name: Nocturne Memory
+website_url: https://github.com/Dataojitori/nocturne_memory
+source_code_url: https://github.com/Dataojitori/nocturne_memory
+description: 轻量级、可回滚、可视化的长期记忆服务器，专为 MCP 智能体设计，支持记忆时间线浏览。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,11 @@
+name: OpenHands
+website_url: https://openhands.dev
+source_code_url: https://github.com/OpenHands/OpenHands
+description: AI 驱动的软件开发平台，自主编写代码、管理终端、浏览网页并与你协作。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

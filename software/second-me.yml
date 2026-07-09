@@ -1,0 +1,11 @@
+name: Second Me
+website_url: https://home.second.me
+source_code_url: https://github.com/mindverse/Second-Me
+description: 训练你的 AI 分身，学习你的思维模式和知识体系，辅助决策并拓展你的能力边界。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 个人助手

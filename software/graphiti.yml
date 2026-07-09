@@ -1,0 +1,11 @@
+name: Graphiti
+website_url: https://github.com/getzep/graphiti
+source_code_url: https://github.com/getzep/graphiti
+description: 为 AI 智能体构建实时知识图，支持时间感知的关系推理和动态知识更新。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

@@ -1,0 +1,11 @@
+name: OpenViking
+website_url: https://openviking.ai
+source_code_url: https://github.com/volcengine/OpenViking
+description: 自进化上下文数据库，统一 AI 智能体的记忆、知识 RAG 和技能，通过文件系统范式管理智能体上下文。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 上下文工程

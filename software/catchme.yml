@@ -1,0 +1,11 @@
+name: CatchMe
+website_url: https://github.com/HKUDS/CatchMe
+source_code_url: https://github.com/HKUDS/CatchMe
+description: 让 AI 智能体真正了解用户。通过屏幕记录和检索系统捕捉用户行为，实现深度个性化交互。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 个性化

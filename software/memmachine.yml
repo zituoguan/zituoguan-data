@@ -1,0 +1,11 @@
+name: MemMachine
+website_url: https://github.com/MemMachine/MemMachine
+source_code_url: https://github.com/MemMachine/MemMachine
+description: AI 智能体的通用记忆层，提供可扩展、可互操作的记忆存储和检索，支持多种后端。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

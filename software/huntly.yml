@@ -1,0 +1,10 @@
+name: Huntly
+website_url: https://github.com/lcomplete/huntly
+source_code_url: https://github.com/lcomplete/huntly
+description: AI 驱动的个人信息中心，聚合 RSS 订阅、书签收藏和笔记，支持自托管部署和智能检索。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - AI 第二大脑

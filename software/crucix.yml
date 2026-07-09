@@ -1,0 +1,11 @@
+name: Crucix
+website_url: https://crucix.live
+source_code_url: https://github.com/calesthio/Crucix
+description: 个人情报智能体，监控多个数据源（网页、社交媒体等）并在内容变化时主动通知你。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - AI 智能体

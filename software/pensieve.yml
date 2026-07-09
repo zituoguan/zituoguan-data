@@ -1,0 +1,11 @@
+name: Pensieve
+website_url: https://github.com/arkohut/pensieve
+source_code_url: https://github.com/arkohut/pensieve
+description: 被动屏幕截图记录工具，提供 OCR 和语义搜索，所有数据本地存储，完全离线运行。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

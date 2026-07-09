@@ -25,7 +25,7 @@
 
 ### 添加标签/类别
 
-标签代表软件的功能类别/特性，必须添加到 `tags/tag-name.yml` 中（参考 [现有标签](tags/) 作为示例）。任何标签必须至少有 3 个软件项目引用。[`Miscellaneous`](tags/miscellaneous.yml) 标签可用于不匹配任何现有类别的软件。
+标签代表软件的功能类别/特性，必须添加到 `tags/tag-name.yml` 中（参考 [现有标签](tags/) 作为示例）。标签至少应有 1 个软件项目引用（推荐 3 个以上）。[`Miscellaneous`](tags/miscellaneous.yml) 标签可用于不匹配任何现有类别的软件。
 
 ```yaml
 # 项目名称

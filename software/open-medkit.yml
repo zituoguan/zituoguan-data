@@ -1,0 +1,11 @@
+name: Open MedKit
+website_url: https://open-medkit.vercel.app
+source_code_url: https://github.com/MonoYan/open-medkit
+description: AI 驱动的个人药品管理器，帮助追踪用药计划、剂量和健康数据。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 个性化

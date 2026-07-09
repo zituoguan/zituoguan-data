@@ -1,0 +1,11 @@
+name: PraisonAI
+website_url: https://praison.ai
+source_code_url: https://github.com/MervinPraison/PraisonAI
+description: 低代码多智能体 AI 框架，支持创建 24/7 自主工作的 AI 员工团队，自动解决复杂任务。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

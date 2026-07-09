@@ -1,0 +1,11 @@
+name: OpenContext
+website_url: https://0xranx.github.io/OpenContext
+source_code_url: https://github.com/0xranx/OpenContext
+description: 个人上下文存储，为 AI 智能体提供持久化上下文管理，支持内置技能和桌面 GUI。
+licenses:
+  - MIT
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - AI 上下文工程

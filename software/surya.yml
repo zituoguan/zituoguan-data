@@ -1,0 +1,11 @@
+name: Surya
+website_url: https://github.com/datalab-to/surya
+source_code_url: https://github.com/datalab-to/surya
+description: 现代 OCR 引擎，支持 90+ 语言的文字检测、版面分析和阅读顺序识别。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

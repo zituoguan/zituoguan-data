@@ -1,0 +1,11 @@
+name: Inbox Zero
+website_url: https://getinboxzero.com
+source_code_url: https://github.com/elie222/inbox-zero
+description: AI 个人邮件助手，帮助你快速清空收件箱。支持自动分类、批量处理、模板回复等。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 个人助手

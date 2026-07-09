@@ -1,0 +1,11 @@
+name: AutoMem
+website_url: https://automem.ai
+source_code_url: https://github.com/verygoodplugins/automem
+description: 图-向量混合记忆服务，为 AI 助手提供持久化关系型记忆，支持多跳关联发现和记忆巩固。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

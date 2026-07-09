@@ -1,0 +1,11 @@
+name: Alive
+website_url: https://alivecontext.com
+source_code_url: https://github.com/alivecontext/alive
+description: Claude Code 的个人上下文管理器，持久化你的工作上下文、偏好和学习历程。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 上下文工程

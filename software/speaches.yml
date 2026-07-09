@@ -1,0 +1,11 @@
+name: Speaches
+website_url: https://github.com/speaches-ai/speaches
+source_code_url: https://github.com/speaches-ai/speaches
+description: OpenAI 兼容的本地语音转文字和文字转语音服务，基于 faster-whisper 实现高性能转录。
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

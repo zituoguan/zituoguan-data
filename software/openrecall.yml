@@ -1,0 +1,11 @@
+name: OpenRecall
+website_url: https://github.com/openrecall/openrecall
+source_code_url: https://github.com/openrecall/openrecall
+description: 完全开源、隐私优先的记忆回溯工具，定期记录屏幕活动并支持 AI 搜索和检索。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

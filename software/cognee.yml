@@ -1,0 +1,11 @@
+name: Cognee
+website_url: https://www.cognee.ai
+source_code_url: https://github.com/topoteretes/cognee
+description: 开源 AI 记忆平台，为智能体提供持久化长期记忆，基于知识图谱和混合向量检索。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 记忆与持久化

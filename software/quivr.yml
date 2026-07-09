@@ -1,0 +1,11 @@
+name: Quivr
+website_url: https://quivr.app
+source_code_url: https://github.com/QuivrHQ/quivr
+description: 你的 GenAI 第二大脑。与文档对话，支持多种文件格式和 RAG 检索，可自托管部署。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 第二大脑
