@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - AI 上下文工程
+stargazers_count: 764
+updated_at: '2026-01-19'
+archived: false
+current_release:
+  tag: v0.3.13
+  published_at: '2025-10-29'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

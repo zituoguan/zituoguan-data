@@ -10,13 +10,13 @@ tags:
   - 部署自动化
 source_code_url: https://github.com/ku9nov/faynoSync
 stargazers_count: 156
-updated_at: '2026-07-07'
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: v1.6.4
-  published_at: '2026-07-07'
+  tag: v1.6.5
+  published_at: '2026-07-09'
 commit_history:
   2026-04: 33
   2026-05: 43
   2026-06: 28
-  2026-07: 16
+  2026-07: 21

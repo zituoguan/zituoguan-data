@@ -8,11 +8,11 @@ platforms:
 tags:
   - 分布式文件系统
 source_code_url: https://github.com/ceph/ceph
-stargazers_count: 16787
-updated_at: '2026-07-08'
+stargazers_count: 16796
+updated_at: '2026-07-09'
 archived: false
 commit_history:
   2026-04: 815
   2026-05: 771
-  2026-06: 833
-  2026-07: 150
+  2026-06: 836
+  2026-07: 192
