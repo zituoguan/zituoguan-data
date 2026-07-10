@@ -1,30 +1,10 @@
 name: AdventureLog
 website_url: https://adventurelog.app
 source_code_url: https://github.com/seanmorley15/AdventureLog
-description: 旅行跟踪器和行程规划器。
+description: 自托管的旅行追踪和行程规划工具。记录到访地点、规划行程、分享旅行经历。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 地图和全球定位系统（GPS）
-demo_url: https://demo.adventurelog.app/signup
-stargazers_count: 3382
-updated_at: '2026-05-25'
-archived: false
-current_release:
-  tag: v0.12.1
-  published_at: '2026-05-25'
-commit_history:
-  2025-08: 1
-  2025-09: 10
-  2025-10: 2
-  2025-11: 1
-  2025-12: 2
-  2026-01: 3
-  2026-02: 3
-  2026-03: 10
-  2026-04: 1
-  2026-05: 3
-  2026-06: 0
-  2026-07: 0
+  - 杂项

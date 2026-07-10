@@ -1,0 +1,11 @@
+name: nah.pet
+website_url: https://github.com/heyitswit/nah.pet
+source_code_url: https://github.com/heyitswit/nah.pet
+description: 轻量简单的网址缩短服务，可作为 TinyURL、YOURLS、Shlink 的替代品。
+licenses:
+  - MIT
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - URL 缩短服务

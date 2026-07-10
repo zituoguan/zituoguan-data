@@ -1,0 +1,11 @@
+name: Pocket ID
+website_url: https://pocket-id.org
+source_code_url: https://github.com/pocket-id/pocket-id
+description: 基于 Passkeys 的轻量 OAuth 2.0 和 OpenID Connect 提供商，告别密码，用通行密钥登录所有服务。
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Go
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

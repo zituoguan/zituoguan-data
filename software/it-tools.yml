@@ -1,0 +1,11 @@
+name: IT Tools
+website_url: https://it-tools.tech
+source_code_url: https://github.com/CorentinTh/it-tools
+description: 面向开发者的实用工具集合，所有操作在浏览器本地完成，无需后端服务。
+licenses:
+  - GPL-3.0
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - 杂项

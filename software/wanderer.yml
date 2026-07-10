@@ -1,32 +1,11 @@
-name: wanderer
-website_url: https://github.com/open-wanderer/wanderer
+name: Wanderer
+website_url: https://wanderer.to
 source_code_url: https://github.com/open-wanderer/wanderer
-description: 轨迹数据库，可上传记录的轨迹或新建轨迹，并添加多种元数据，构建易于检索的目录。
+description: 自托管的户外徒步路线数据库。上传 GPX、规划路线、分享轨迹，支持 ActivityPub 联邦。
 licenses:
   - AGPL-3.0
 platforms:
-  - Docker
   - Go
-  - Node.js
+  - Docker
 tags:
-  - 地图和全球定位系统（GPS）
-demo_url: https://demo.wanderer.to
-stargazers_count: 3722
-updated_at: '2026-07-07'
-archived: false
-current_release:
-  tag: v0.20.0
-  published_at: '2026-07-07'
-commit_history:
-  2025-08: 58
-  2025-09: 38
-  2025-10: 10
-  2025-11: 0
-  2025-12: 0
-  2026-01: 23
-  2026-02: 67
-  2026-03: 29
-  2026-04: 27
-  2026-05: 34
-  2026-06: 24
-  2026-07: 20
+  - 杂项
