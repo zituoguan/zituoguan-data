@@ -1,0 +1,11 @@
+name: Caddy Proxy Manager
+website_url: https://host.yt
+source_code_url: https://github.com/host-yt/caddy-proxy-manager
+description: 基于 Caddy 的自托管反向代理管理器，Nginx Proxy Manager 的平替方案。支持自动 HTTPS、WAF、GeoIP 过滤和多租户。
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - 代理
