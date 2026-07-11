@@ -9,13 +9,13 @@ platforms:
   - Docker
 tags:
   - 远程访问
-stargazers_count: 117952
-updated_at: '2026-07-09'
+stargazers_count: 118017
+updated_at: '2026-07-10'
 archived: false
 current_release:
-  tag: 1.4.9
-  published_at: '2026-07-06'
+  tag: nightly
+  published_at: '2026-07-10'
 commit_history:
   2026-05: 52
   2026-06: 76
-  2026-07: 14
+  2026-07: 18
