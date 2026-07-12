@@ -1,0 +1,11 @@
+name: Ignis
+website_url: https://github.com/Nystik-gh/ignis
+source_code_url: https://github.com/Nystik-gh/ignis
+description: 将 Obsidian 以自托管 Web 应用方式运行，通过 Obsidian 本地插件桥接，实现浏览器端访问。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - 笔记工具
