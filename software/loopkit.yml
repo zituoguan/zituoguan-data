@@ -1,0 +1,10 @@
+name: LoopKit
+website_url: https://github.com/Archive228/loopkit
+source_code_url: https://github.com/Archive228/loopkit
+description: 33 个经过实战检验的 AI 技能集合，搭配极简 Claude 框架，兼容 Claude Code、Cursor、Codex 等编码智能体。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 智能体

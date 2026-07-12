@@ -1,0 +1,10 @@
+name: Superpowers
+website_url: https://github.com/obra/superpowers
+source_code_url: https://github.com/obra/superpowers
+description: AI 智能体技能框架与软件开发方法论，提供结构化构建和使用编码智能体的完整体系。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 智能体

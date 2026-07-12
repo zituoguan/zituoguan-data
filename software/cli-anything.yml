@@ -1,0 +1,11 @@
+name: CLI-Anything
+website_url: https://clianything.cc
+source_code_url: https://github.com/HKUDS/CLI-Anything
+description: 让所有命令行工具成为 AI 智能体可调用的能力，打通 AI 与终端工具链。
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

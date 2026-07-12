@@ -1,0 +1,11 @@
+name: Academic Research Skills
+website_url: https://github.com/Imbad0202/academic-research-skills
+source_code_url: https://github.com/Imbad0202/academic-research-skills
+description: 专为 Claude Code 打造的科研全流程技能包，覆盖文献调研、写作、审稿、修改到定稿。
+licenses:
+  - CC-BY-NC-4.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - AI 智能体

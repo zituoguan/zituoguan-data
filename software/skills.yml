@@ -1,0 +1,10 @@
+name: Skills
+website_url: https://github.com/mattpocock/skills
+source_code_url: https://github.com/mattpocock/skills
+description: 面向真实工程师的 AI 编码技能集合，可直接加载到 Claude Code 等编码智能体中使用。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - AI 智能体

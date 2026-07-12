@@ -1,0 +1,11 @@
+name: AgentMemory
+website_url: https://agent-memory.dev
+source_code_url: https://github.com/rohitg00/agentmemory
+description: 为 AI 编码智能体提供持久化记忆，解决长任务上下文丢失问题，支持多会话知识积累。
+licenses:
+  - Apache-2.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 记忆与持久化

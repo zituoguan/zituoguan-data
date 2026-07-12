@@ -1,0 +1,11 @@
+name: Agent Skills
+website_url: https://github.com/addyosmani/agent-skills
+source_code_url: https://github.com/addyosmani/agent-skills
+description: 生产级工程技能包，为 AI 编码智能体提供代码审查、测试、部署等专业能力。
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+  - Docker
+tags:
+  - AI 智能体
