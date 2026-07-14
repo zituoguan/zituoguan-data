@@ -1,0 +1,11 @@
+name: OpenSpec
+website_url: https://openspec.dev
+source_code_url: https://github.com/Fission-AI/openspec
+description: 面向 AI 编码助手的规范驱动开发（SDD）标准，通过结构化规范指导 AI 生成更准确的代码。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - AI 智能体
