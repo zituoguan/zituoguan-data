@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 客户关系管理（CRM）
-stargazers_count: 52847
-updated_at: '2026-07-11'
+stargazers_count: 52902
+updated_at: '2026-07-13'
 archived: false
 current_release:
   tag: twenty/v2.20.0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 718
   2026-05: 525
   2026-06: 895
-  2026-07: 332
+  2026-07: 354
