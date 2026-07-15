@@ -10,12 +10,12 @@ tags:
   - 会议管理
   - 预约与日程管理
 demo_url: https://demo.openslides.org/login
-stargazers_count: 620
+stargazers_count: 621
 updated_at: '2026-07-13'
 archived: false
 current_release:
-  tag: 4.3.0
-  published_at: '2026-06-02'
+  tag: 4.3.1
+  published_at: '2026-07-14'
 commit_history:
   2025-08: 14
   2025-09: 4

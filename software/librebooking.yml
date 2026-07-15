@@ -10,8 +10,8 @@ platforms:
   - Docker
 tags:
   - 预约与日程管理
-stargazers_count: 757
-updated_at: '2026-07-13'
+stargazers_count: 758
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v5.2.0
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 85
   2026-05: 47
   2026-06: 55
-  2026-07: 24
+  2026-07: 27

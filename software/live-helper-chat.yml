@@ -8,8 +8,8 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/LiveHelperChat/livehelperchat
-stargazers_count: 2228
-updated_at: '2026-07-13'
+stargazers_count: 2229
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: 4.87v
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 75
   2026-05: 80
   2026-06: 21
-  2026-07: 21
+  2026-07: 26

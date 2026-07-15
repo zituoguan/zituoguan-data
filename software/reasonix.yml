@@ -9,8 +9,8 @@ platforms:
   - TypeScript
 tags:
   - 软件开发 - IDE 和工具
-stargazers_count: 26866
-updated_at: '2026-07-13'
+stargazers_count: 26947
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v1.17.12
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 127
   2026-06: 2073
-  2026-07: 975
+  2026-07: 1085
