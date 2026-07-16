@@ -1,0 +1,10 @@
+name: Maintainerr
+website_url: https://maintainerr.info
+source_code_url: https://github.com/Maintainerr/Maintainerr
+description: Monitor and remove unwatched Plex media
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

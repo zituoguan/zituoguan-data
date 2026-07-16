@@ -1,0 +1,10 @@
+name: Anchor
+website_url: https://github.com/ZhFahim/anchor
+source_code_url: https://github.com/ZhFahim/anchor
+description: Offline-first note-taking app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

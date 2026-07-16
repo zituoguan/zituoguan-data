@@ -1,0 +1,10 @@
+name: Sharkord
+website_url: https://sharkord.com
+source_code_url: https://github.com/Sharkord/sharkord
+description: Lightweight real-time communication platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

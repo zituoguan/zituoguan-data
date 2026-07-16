@@ -1,0 +1,10 @@
+name: Octelium
+website_url: https://octelium.com/docs
+source_code_url: https://github.com/octelium/octelium
+description: Unified zero trust secure access platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

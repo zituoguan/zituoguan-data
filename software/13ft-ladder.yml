@@ -1,0 +1,10 @@
+name: 13ft Ladder
+website_url: https://13ft-ladder.vercel.app/
+source_code_url: https://github.com/wasi-master/13ft
+description: Web interface for blocking ads and paywalls
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

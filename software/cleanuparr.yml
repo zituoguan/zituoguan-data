@@ -1,0 +1,10 @@
+name: Cleanuparr
+website_url: https://github.com/Cleanuparr/Cleanuparr
+source_code_url: https://github.com/Cleanuparr/Cleanuparr
+description: Automated cleanup of unwanted or blocked media files
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

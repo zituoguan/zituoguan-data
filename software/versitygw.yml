@@ -1,0 +1,10 @@
+name: VersityGW
+website_url: https://www.versity.com/products/versitygw/
+source_code_url: https://github.com/versity/versitygw
+description: File system and S3 object interface bridge
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Materialious
+website_url: https://materialio.us
+source_code_url: https://github.com/Materialious/Materialious
+description: Modern Material Design frontend for Invidious
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

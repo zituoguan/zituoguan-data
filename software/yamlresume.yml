@@ -1,0 +1,10 @@
+name: YAMLResume
+website_url: https://yamlresume.dev
+source_code_url: https://github.com/yamlresume/yamlresume
+description: Resume creation, generation, and version control
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

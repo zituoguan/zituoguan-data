@@ -1,0 +1,10 @@
+name: Gramps
+website_url: https://gramps-project.org/
+source_code_url: https://github.com/gramps-project/gramps
+description: 家族族谱研究和关系管理软件。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

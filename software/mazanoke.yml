@@ -1,0 +1,10 @@
+name: Mazanoke
+website_url: https://MAZANOKE.com
+source_code_url: https://github.com/civilblur/mazanoke
+description: Local image compression in the browser
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

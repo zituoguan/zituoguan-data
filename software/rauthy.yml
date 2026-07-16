@@ -1,0 +1,10 @@
+name: Rauthy
+website_url: https://sebadob.github.io/rauthy/
+source_code_url: https://github.com/sebadob/rauthy
+description: Lightweight and simple identity provider
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Panora
+website_url: https://panora.dev
+source_code_url: https://github.com/panoratech/Panora
+description: API endpoints for a catalogue of integrations for SaaS software
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

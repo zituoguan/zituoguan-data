@@ -1,0 +1,10 @@
+name: Logdy
+website_url: https://logdy.dev
+source_code_url: https://github.com/logdyhq/logdy-core
+description: Web-based real-time log viewer
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

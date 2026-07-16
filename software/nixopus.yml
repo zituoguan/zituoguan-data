@@ -1,0 +1,10 @@
+name: Nixopus
+website_url: https://nixopus.com
+source_code_url: https://github.com/nixopus/nixopus
+description: Deploy, manage, and scale infrastructure
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

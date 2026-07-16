@@ -1,0 +1,10 @@
+name: Obico
+website_url: https://obico.io
+source_code_url: https://github.com/TheSpaghettiDetective/obico-server
+description: Smart 3D printing platform with AI failure detection
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

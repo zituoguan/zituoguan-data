@@ -1,0 +1,10 @@
+name: ZTNET
+website_url: https://ztnet.network
+source_code_url: https://github.com/sinamics/ztnet
+description: Self-hosted ZeroTier network controller
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

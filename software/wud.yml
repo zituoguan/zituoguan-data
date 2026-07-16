@@ -1,0 +1,10 @@
+name: WUD
+website_url: https://getwud.github.io/wud/
+source_code_url: https://github.com/getwud/wud
+description: Notifications for Docker image updates
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Open DroneLog
+website_url: https://www.opendronelog.com
+source_code_url: https://github.com/arpanghosh8453/open-dronelog
+description: Drone flight log analyzer and dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

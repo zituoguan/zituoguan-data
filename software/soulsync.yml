@@ -1,0 +1,10 @@
+name: SoulSync
+website_url: https://ssync.net/
+source_code_url: https://github.com/Nezreka/SoulSync
+description: Automated music discovery and collection manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

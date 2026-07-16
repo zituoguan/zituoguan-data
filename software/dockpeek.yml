@@ -1,0 +1,10 @@
+name: Dockpeek
+website_url: https://github.com/dockpeek/dockpeek
+source_code_url: https://github.com/dockpeek/dockpeek
+description: Dashboard for exposed Docker container ports
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

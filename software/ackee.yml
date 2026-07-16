@@ -1,0 +1,10 @@
+name: Ackee
+website_url: https://ackee.electerious.com
+source_code_url: https://github.com/electerious/Ackee
+description: 注重隐私的网站访问统计分析工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 分析

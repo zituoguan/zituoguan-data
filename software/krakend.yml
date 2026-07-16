@@ -1,0 +1,10 @@
+name: KrakenD
+website_url: https://www.krakend.io
+source_code_url: https://github.com/krakend/krakend-ce
+description: API gateway for microservices and communications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

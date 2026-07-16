@@ -1,0 +1,10 @@
+name: Convoy
+website_url: https://getconvoy.io
+source_code_url: https://github.com/frain-dev/convoy
+description: Webhook 网关和事件通知转发服务。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

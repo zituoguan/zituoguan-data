@@ -1,0 +1,10 @@
+name: Convos
+website_url: https://http://convos.chat
+source_code_url: https://github.com/convos-chat/convos
+description: Multi-user IRC client in the browser
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

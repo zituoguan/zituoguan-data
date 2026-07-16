@@ -1,0 +1,10 @@
+name: Garage
+website_url: https://garagehq.deuxfleurs.fr
+source_code_url: https://github.com/deuxfleurs-org/garage
+description: S3-compatible object store
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

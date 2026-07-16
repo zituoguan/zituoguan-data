@@ -1,0 +1,10 @@
+name: Z-Wave JS UI
+website_url: https://zwave-js.github.io/zwave-js-ui
+source_code_url: https://github.com/zwave-js/zwave-js-ui
+description: Full featured Z-Wave control panel UI and MQTT gateway
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

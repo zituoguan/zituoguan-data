@@ -1,0 +1,10 @@
+name: PG Back Web
+website_url: https://github.com/eduardolat/pgbackweb
+source_code_url: https://github.com/eduardolat/pgbackweb
+description: Effortless PostgreSQL backups with a user-friendly web interface
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

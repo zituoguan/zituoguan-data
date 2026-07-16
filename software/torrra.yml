@@ -1,0 +1,10 @@
+name: torrra
+website_url: https://torrra.readthedocs.io
+source_code_url: https://github.com/stabldev/torrra
+description: Download torrents directly from the CLI
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

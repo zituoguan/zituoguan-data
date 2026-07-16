@@ -1,0 +1,10 @@
+name: Reiverr
+website_url: https://github.com/aleksilassila/reiverr
+source_code_url: https://github.com/aleksilassila/reiverr
+description: Clean, combined interface for Jellyfin, TMDB, Radarr, and Sonarr
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

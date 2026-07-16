@@ -1,0 +1,10 @@
+name: Parseable
+website_url: https://parseable.com
+source_code_url: https://github.com/parseablehq/parseable
+description: Log analytics system for high throughput log ingestion
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

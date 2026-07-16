@@ -1,0 +1,10 @@
+name: Maloja
+website_url: https://maloja.krateng.ch
+source_code_url: https://github.com/krateng/maloja
+description: Music scrobble database for personal listening
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

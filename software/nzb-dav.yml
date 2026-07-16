@@ -1,0 +1,10 @@
+name: Nzb DAV
+website_url: https://github.com/nzbdav-dev/nzbdav
+source_code_url: https://github.com/nzbdav-dev/nzbdav
+description: Virtually mount NZB files for direct streaming
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

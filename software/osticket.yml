@@ -1,0 +1,10 @@
+name: osTicket
+website_url: https://osticket.com
+source_code_url: https://github.com/osTicket/osTicket
+description: Open source support ticket system
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

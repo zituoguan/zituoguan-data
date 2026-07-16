@@ -1,0 +1,10 @@
+name: Willow
+website_url: https://heywillow.io/
+source_code_url: https://github.com/HeyWillow/willow
+description: Open source local voice assistant alternative
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

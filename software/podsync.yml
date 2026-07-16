@@ -1,0 +1,10 @@
+name: Podsync
+website_url: https://github.com/mxpv/podsync
+source_code_url: https://github.com/mxpv/podsync
+description: Turn Youtube channels into podcast feeds
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

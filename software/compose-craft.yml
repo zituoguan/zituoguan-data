@@ -1,0 +1,10 @@
+name: Compose Craft
+website_url: https://composecraft.com
+source_code_url: https://github.com/composecraft/composecraft
+description: Interface for managing, editing, and sharing Docker Compose files
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

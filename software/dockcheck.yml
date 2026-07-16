@@ -1,0 +1,10 @@
+name: Dockcheck
+website_url: https://github.com/mag37/dockcheck
+source_code_url: https://github.com/mag37/dockcheck
+description: CLI tool for Docker container updates and notifications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

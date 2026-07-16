@@ -1,0 +1,10 @@
+name: Mini QR
+website_url: https://github.com/lyqht/mini-qr
+source_code_url: https://github.com/lyqht/mini-qr
+description: Scan and generate customized QR codes easily
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

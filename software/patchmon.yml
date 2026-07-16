@@ -1,0 +1,10 @@
+name: PatchMon
+website_url: https://patchmon.net
+source_code_url: https://github.com/PatchMon/PatchMon
+description: Linux patch monitoring made simple
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

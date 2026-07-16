@@ -1,0 +1,10 @@
+name: diyHue
+website_url: https://diyhue.org/
+source_code_url: https://github.com/diyhue/diyHue
+description: Open source Hue Bridge emulator
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

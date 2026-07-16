@@ -1,0 +1,10 @@
+name: Grimoire
+website_url: https://github.com/goniszewski/grimoire
+source_code_url: https://github.com/goniszewski/grimoire
+description: Bookmark manager for wizards
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

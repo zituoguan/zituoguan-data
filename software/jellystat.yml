@@ -1,0 +1,10 @@
+name: Jellystat
+website_url: https://github.com/CyferShepard/Jellystat
+source_code_url: https://github.com/CyferShepard/Jellystat
+description: Open source statistics app for Jellyfin
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

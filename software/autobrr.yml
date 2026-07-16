@@ -1,0 +1,10 @@
+name: autobrr
+website_url: https://autobrr.com/introduction
+source_code_url: https://github.com/autobrr/autobrr
+description: IRC 频道自动监控和种子下载工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

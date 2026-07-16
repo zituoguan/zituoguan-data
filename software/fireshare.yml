@@ -1,0 +1,10 @@
+name: Fireshare
+website_url: https://fireshare.net
+source_code_url: https://github.com/ShaneIsrael/fireshare
+description: Share your game clips, videos, or other media via unique links
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

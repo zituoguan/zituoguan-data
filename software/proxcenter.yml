@@ -1,0 +1,10 @@
+name: ProxCenter
+website_url: https://www.proxcenter.io
+source_code_url: https://github.com/adminsyspro/proxcenter-ui
+description: Modern web interface for Proxmox
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

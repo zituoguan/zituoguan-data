@@ -1,0 +1,10 @@
+name: Mindwtr
+website_url: https://mindwtr.app
+source_code_url: https://github.com/dongdongbh/Mindwtr
+description: Getting-things-done productivity system
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

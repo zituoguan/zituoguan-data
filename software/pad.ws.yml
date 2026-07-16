@@ -1,0 +1,10 @@
+name: pad.ws
+website_url: https://github.com/coderamp-labs/pad.ws
+source_code_url: https://github.com/coderamp-labs/pad.ws
+description: Whiteboard IDE in the browser
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

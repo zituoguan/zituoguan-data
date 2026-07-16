@@ -1,0 +1,10 @@
+name: SuggestArr
+website_url: https://giuseppe99barchetta.github.io/SuggestArr/
+source_code_url: https://github.com/giuseppe99barchetta/SuggestArr
+description: Automated media recommendations and requests based on user activity
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

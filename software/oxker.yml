@@ -1,0 +1,10 @@
+name: Oxker
+website_url: https://github.com/mrjackwills/oxker
+source_code_url: https://github.com/mrjackwills/oxker
+description: Manage and control Docker containers from the terminal
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Lodestone
+website_url: https://www.lodestone.cc/
+source_code_url: https://github.com/Lodestone-Team/lodestone
+description: Hosting tool for Minecraft and other multiplayer games
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

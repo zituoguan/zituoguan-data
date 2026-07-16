@@ -1,0 +1,10 @@
+name: Moodist
+website_url: https://github.com/remvze/moodist
+source_code_url: https://github.com/remvze/moodist
+description: Ambient sounds for focus and calm
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

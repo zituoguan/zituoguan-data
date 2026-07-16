@@ -1,0 +1,10 @@
+name: Rackula
+website_url: https://racku.la
+source_code_url: https://github.com/RackulaLives/Rackula
+description: Drag-and-drop server rack visualizer
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

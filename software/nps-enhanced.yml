@@ -1,0 +1,10 @@
+name: NPS Enhanced
+website_url: https://d-jy.net/docs/nps/
+source_code_url: https://github.com/djylb/nps
+description: Lightweight NAT traversal and reverse proxy
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

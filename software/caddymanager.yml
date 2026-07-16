@@ -1,0 +1,10 @@
+name: CaddyManager
+website_url: https://github.com/caddymanager/caddymanager
+source_code_url: https://github.com/caddymanager/caddymanager
+description: Web interface for managing Caddy
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: TaskTrove
+website_url: https://tasktrove.io
+source_code_url: https://github.com/dohsimpson/TaskTrove
+description: Task management and productivity platform
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Statping-ng
+website_url: https://statping-ng.github.io
+source_code_url: https://github.com/statping-ng/statping-ng
+description: Easy-to-use status page for websites and applications
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

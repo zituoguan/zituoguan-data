@@ -1,0 +1,10 @@
+name: Pinkary
+website_url: https://pinkary.com
+source_code_url: https://github.com/pinkary-project/pinkary.com
+description: Federated landing page for links and connecting with others without the noise
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

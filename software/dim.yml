@@ -1,0 +1,10 @@
+name: Dim
+website_url: https://github.com/Dusk-Labs/dim
+source_code_url: https://github.com/Dusk-Labs/dim
+description: Media manager and organizer with a minimal setup
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

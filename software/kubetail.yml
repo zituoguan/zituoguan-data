@@ -1,0 +1,10 @@
+name: Kubetail
+website_url: https://www.kubetail.com
+source_code_url: https://github.com/kubetail-org/kubetail
+description: Real-time logging dashboard for Kubernetes
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

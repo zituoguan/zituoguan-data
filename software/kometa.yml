@@ -1,0 +1,10 @@
+name: Kometa
+website_url: https://kometa.wiki
+source_code_url: https://github.com/Kometa-Team/Kometa
+description: Plex 媒体库的元数据管理和自定义工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 媒体管理

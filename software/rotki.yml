@@ -1,0 +1,10 @@
+name: Rotki
+website_url: https://rotki.com
+source_code_url: https://github.com/rotki/rotki
+description: Portfolio manager and analytics tool
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

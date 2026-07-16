@@ -1,0 +1,10 @@
+name: Astuto
+website_url: https://github.com/astuto/astuto
+source_code_url: https://github.com/astuto/astuto
+description: Open source customer feedback tool
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

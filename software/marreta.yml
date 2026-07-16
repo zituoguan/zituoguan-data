@@ -1,0 +1,10 @@
+name: Marreta
+website_url: https://marreta.link
+source_code_url: https://github.com/manualdousuario/marreta
+description: Tool for analyzing, cleaning, and tidying up web URLs
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

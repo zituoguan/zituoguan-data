@@ -1,0 +1,10 @@
+name: AutoKitteh
+website_url: https://autokitteh.com
+source_code_url: https://github.com/autokitteh/autokitteh
+description: Developer platform for workflow automation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Cerbos
+website_url: https://cerbos.dev
+source_code_url: https://github.com/cerbos/cerbos
+description: 基于策略的声明式访问控制引擎。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

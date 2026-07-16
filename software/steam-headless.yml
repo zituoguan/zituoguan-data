@@ -1,0 +1,10 @@
+name: Steam Headless
+website_url: https://github.com/Steam-Headless/docker-steam-headless
+source_code_url: https://github.com/Steam-Headless/docker-steam-headless
+description: 在 Docker 容器中运行 Steam 游戏平台。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 游戏

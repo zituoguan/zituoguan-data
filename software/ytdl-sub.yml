@@ -1,0 +1,10 @@
+name: ytdl-sub
+website_url: https://ytdl-sub.readthedocs.io
+source_code_url: https://github.com/jmbannon/ytdl-sub
+description: 自动订阅和下载 YouTube 等平台的视频和音频。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

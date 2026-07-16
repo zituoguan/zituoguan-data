@@ -1,0 +1,10 @@
+name: Edit Mind
+website_url: https://github.com/IliasHad/edit-mind
+source_code_url: https://github.com/IliasHad/edit-mind
+description: AI-powered video indexing and search
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

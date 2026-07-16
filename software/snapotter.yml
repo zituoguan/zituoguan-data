@@ -1,0 +1,10 @@
+name: SnapOtter
+website_url: https://snapotter.com
+source_code_url: https://github.com/snapotter-hq/SnapOtter
+description: Image manipulator and converter
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

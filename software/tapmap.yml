@@ -1,0 +1,10 @@
+name: TapMap
+website_url: https://olalie.github.io/tapmap/
+source_code_url: https://github.com/olalie/tapmap
+description: Visualize network connections on an interactive map
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

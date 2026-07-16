@@ -1,0 +1,10 @@
+name: Flood
+website_url: https://flood.js.org
+source_code_url: https://github.com/jesec/flood
+description: 基于 Web 的 rTorrent 种子管理界面。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 文件传输 - 点对点文件共享

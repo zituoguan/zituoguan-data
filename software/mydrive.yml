@@ -1,0 +1,10 @@
+name: myDrive
+website_url: https://github.com/subnub/myDrive
+source_code_url: https://github.com/subnub/myDrive
+description: Open source cloud file storage server
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

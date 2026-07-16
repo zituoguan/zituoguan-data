@@ -1,0 +1,10 @@
+name: IronCalc
+website_url: https://www.ironcalc.com
+source_code_url: https://github.com/ironcalc/IronCalc
+description: Modern in-browser spreadsheet engine
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: degoog
+website_url: https://github.com/degoog-org/degoog
+source_code_url: https://github.com/degoog-org/degoog
+description: Search engine aggregator with plugins
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

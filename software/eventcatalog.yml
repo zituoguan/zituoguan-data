@@ -1,0 +1,10 @@
+name: EventCatalog
+website_url: https://eventcatalog.dev
+source_code_url: https://github.com/event-catalog/eventcatalog
+description: 事件驱动架构的文档和设计工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 文档管理

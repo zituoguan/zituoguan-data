@@ -1,0 +1,10 @@
+name: Bazarr
+website_url: https://www.bazarr.media
+source_code_url: https://github.com/morpheus65535/bazarr
+description: Subtitle manager and downloader with *arr integration
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

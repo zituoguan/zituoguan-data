@@ -1,0 +1,10 @@
+name: Peppermint
+website_url: https://peppermint.sh
+source_code_url: https://github.com/Peppermint-Lab/peppermint
+description: 轻量级工单管理和 Helpdesk 系统。
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 工单

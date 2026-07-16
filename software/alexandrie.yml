@@ -1,0 +1,10 @@
+name: Alexandrie
+website_url: https://alexandrie-hub.fr
+source_code_url: https://github.com/Smaug6739/Alexandrie
+description: Modern and elegant note-taking app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

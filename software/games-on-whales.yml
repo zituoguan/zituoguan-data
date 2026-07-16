@@ -1,0 +1,10 @@
+name: Games on Whales
+website_url: https://games-on-whales.github.io/wolf/stable/
+source_code_url: https://github.com/games-on-whales/wolf
+description: Stream virtual desktops and games via Docker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

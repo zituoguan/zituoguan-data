@@ -1,0 +1,10 @@
+name: Peekaping
+website_url: https://github.com/0xfurai/peekaping
+source_code_url: https://github.com/0xfurai/peekaping
+description: Modern uptime monitoring solution
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

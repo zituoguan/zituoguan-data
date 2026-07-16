@@ -1,0 +1,10 @@
+name: Nametag
+website_url: https://github.com/mattogodoy/nametag
+source_code_url: https://github.com/mattogodoy/nametag
+description: Simple personal relationship manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Rustpad
+website_url: https://rustpad.io
+source_code_url: https://github.com/ekzhang/rustpad
+description: Minimal collaborative code editor
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

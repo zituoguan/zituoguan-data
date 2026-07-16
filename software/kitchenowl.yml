@@ -1,0 +1,10 @@
+name: KitchenOwl
+website_url: https://kitchenowl.org/
+source_code_url: https://github.com/TomBursch/kitchenowl
+description: 家庭食谱管理和餐食规划工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 食谱管理

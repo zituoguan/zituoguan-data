@@ -1,0 +1,10 @@
+name: Borg UI
+website_url: https://docs.borgui.com
+source_code_url: https://github.com/karanhudia/borg-ui
+description: Modern web interface for Borg Backup
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

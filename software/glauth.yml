@@ -1,0 +1,10 @@
+name: GLAuth
+website_url: https://github.com/glauth/glauth
+source_code_url: https://github.com/glauth/glauth
+description: 轻量级 LDAP 认证服务器，支持多种后端。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 身份管理 - LDAP

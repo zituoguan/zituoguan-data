@@ -1,0 +1,10 @@
+name: Diun
+website_url: https://crazymax.dev/diun/
+source_code_url: https://github.com/crazy-max/diun
+description: Docker 镜像更新自动检测和通知工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面

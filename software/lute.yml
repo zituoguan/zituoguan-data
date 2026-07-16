@@ -1,0 +1,10 @@
+name: Lute
+website_url: https://github.com/LuteOrg/lute-v3
+source_code_url: https://github.com/LuteOrg/lute-v3
+description: Learn new languages through reading
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

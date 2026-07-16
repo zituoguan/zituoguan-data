@@ -1,0 +1,10 @@
+name: Global Threat Map
+website_url: https://github.com/unicodeveloper/globalthreatmap
+source_code_url: https://github.com/unicodeveloper/globalthreatmap
+description: Real-time global situational awareness map
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

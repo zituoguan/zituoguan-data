@@ -1,0 +1,10 @@
+name: qBit Manage
+website_url: https://github.com/StuffAnThings/qbit_manage
+source_code_url: https://github.com/StuffAnThings/qbit_manage
+description: Manage and automate tedious tasks in qBittorrent
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Perses
+website_url: https://perses.dev
+source_code_url: https://github.com/perses/perses
+description: Declarative dashboard for observability visualization
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Notifuse
+website_url: https://www.notifuse.com
+source_code_url: https://github.com/Notifuse/notifuse
+description: Platform for sending newsletters and transactional mail
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

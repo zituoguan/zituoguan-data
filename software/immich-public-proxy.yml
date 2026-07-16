@@ -1,0 +1,10 @@
+name: Immich Public Proxy
+website_url: https://github.com/alangrainger/immich-public-proxy
+source_code_url: https://github.com/alangrainger/immich-public-proxy
+description: Share Immich assets without exposing the instance to the public
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

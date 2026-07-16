@@ -1,0 +1,10 @@
+name: Kite
+website_url: https://github.com/kite-org/kite
+source_code_url: https://github.com/kite-org/kite
+description: Lightweight Kubernetes dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

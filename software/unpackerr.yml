@@ -1,0 +1,10 @@
+name: Unpackerr
+website_url: https://unpackerr.zip
+source_code_url: https://github.com/Unpackerr/unpackerr
+description: Download and extract media for *arr imports
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

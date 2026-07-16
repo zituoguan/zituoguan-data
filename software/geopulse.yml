@@ -1,0 +1,10 @@
+name: GeoPulse
+website_url: https://tess1o.github.io/geopulse/
+source_code_url: https://github.com/tess1o/geopulse
+description: Location tracking and analysis platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

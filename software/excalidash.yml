@@ -1,0 +1,10 @@
+name: ExcaliDash
+website_url: https://github.com/ZimengXiong/ExcaliDash
+source_code_url: https://github.com/ZimengXiong/ExcaliDash
+description: Dashboard and organizer for Excalidraw
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

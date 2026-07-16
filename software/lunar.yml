@@ -1,0 +1,10 @@
+name: Lunar
+website_url: https://lunarphp.com
+source_code_url: https://github.com/lunarphp/lunar
+description: Modern headless e-commerce platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

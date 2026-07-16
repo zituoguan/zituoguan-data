@@ -1,0 +1,10 @@
+name: ZenNotes
+website_url: https://zennotes.org
+source_code_url: https://github.com/ZenNotes/zennotes
+description: Keyboard-first Markdown note-taking
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

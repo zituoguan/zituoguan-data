@@ -1,0 +1,10 @@
+name: portracker
+website_url: https://github.com/mostafa-wahied/portracker
+source_code_url: https://github.com/mostafa-wahied/portracker
+description: Real-time port monitoring and discovery
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

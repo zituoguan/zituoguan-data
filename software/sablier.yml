@@ -1,0 +1,10 @@
+name: Sablier
+website_url: https://sablierapp.dev/
+source_code_url: https://github.com/sablierapp/sablier
+description: 按需启动和停止 Docker 容器的反向代理。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 容器

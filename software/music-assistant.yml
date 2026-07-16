@@ -1,0 +1,10 @@
+name: Music Assistant
+website_url: https://music-assistant.io
+source_code_url: https://github.com/music-assistant/server
+description: 统一管理和控制多个音乐库和播放设备的平台。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 流媒体 - 音频流媒体

@@ -1,0 +1,10 @@
+name: Docker Socket Proxy
+website_url: https://github.com/Tecnativa/docker-socket-proxy
+source_code_url: https://github.com/Tecnativa/docker-socket-proxy
+description: Socket proxy for the Docker API
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Vito
+website_url: https://vitodeploy.com
+source_code_url: https://github.com/vitodeploy/vito
+description: Manage server and deploy apps from the web
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

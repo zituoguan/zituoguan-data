@@ -1,0 +1,10 @@
+name: WatchState
+website_url: https://github.com/arabcoders/watchstate
+source_code_url: https://github.com/arabcoders/watchstate
+description: Sync media play states across Plex, Jellyfin, and Emby
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Tugtainer
+website_url: https://github.com/Quenary/tugtainer
+source_code_url: https://github.com/Quenary/tugtainer
+description: Automated Docker container backups
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

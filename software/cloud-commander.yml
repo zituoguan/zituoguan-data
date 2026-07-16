@@ -1,0 +1,10 @@
+name: Cloud Commander
+website_url: https://cloudcmd.io
+source_code_url: https://github.com/coderaiser/cloudcmd
+description: File manager and console for the web
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

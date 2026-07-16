@@ -1,0 +1,10 @@
+name: yubal
+website_url: https://github.com/guillevc/yubal
+source_code_url: https://github.com/guillevc/yubal
+description: YouTube Music album downloader with metadata tagging
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

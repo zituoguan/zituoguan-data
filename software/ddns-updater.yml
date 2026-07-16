@@ -1,0 +1,10 @@
+name: DDNS Updater
+website_url: https://github.com/qdm12/ddns-updater
+source_code_url: https://github.com/qdm12/ddns-updater
+description: 自动更新 DNS 记录以指向动态 IP 的工具。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - DNS

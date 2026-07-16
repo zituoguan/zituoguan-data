@@ -1,0 +1,10 @@
+name: Tdarr
+website_url: https://github.com/HaveAGitGat/Tdarr
+source_code_url: https://github.com/HaveAGitGat/Tdarr
+description: Distributed transcode automation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

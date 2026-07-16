@@ -1,0 +1,10 @@
+name: SmokePing
+website_url: https://http://www.smokeping.org
+source_code_url: https://github.com/oetiker/SmokePing
+description: Latency logging, graphing, and alerts
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

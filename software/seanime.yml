@@ -1,0 +1,10 @@
+name: Seanime
+website_url: https://seanime.app
+source_code_url: https://github.com/5rahim/seanime
+description: Media streaming server for anime and manga
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

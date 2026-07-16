@@ -1,0 +1,10 @@
+name: Hoodik
+website_url: https://github.com/hudikhq/hoodik
+source_code_url: https://github.com/hudikhq/hoodik
+description: Lightweight and secure cloud storage solution
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Redis Commander
+website_url: https://http://joeferner.github.io/redis-commander/
+source_code_url: https://github.com/joeferner/redis-commander
+description: Redis web management tool
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Worklenz
+website_url: https://worklenz.com
+source_code_url: https://github.com/Worklenz/worklenz
+description: 团队项目管理和任务协作平台。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 软件开发 - 项目管理

@@ -1,0 +1,10 @@
+name: Doco-CD
+website_url: https://github.com/kimdre/doco-cd
+source_code_url: https://github.com/kimdre/doco-cd
+description: Docker Compose continuous deployment
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

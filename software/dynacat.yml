@@ -1,0 +1,10 @@
+name: Dynacat
+website_url: https://dynacat.artur.zone/
+source_code_url: https://github.com/Panonim/dynacat
+description: Glance fork with dynamic widget updates
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

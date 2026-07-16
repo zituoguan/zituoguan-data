@@ -1,0 +1,10 @@
+name: Beatbump
+website_url: https://beatbump.io/
+source_code_url: https://github.com/snuffyDev/Beatbump
+description: Privacy-respecting alternative frontend for YouTube Music
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

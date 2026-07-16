@@ -1,0 +1,10 @@
+name: WGDashboard
+website_url: https://github.com/WGDashboard/WGDashboard
+source_code_url: https://github.com/WGDashboard/WGDashboard
+description: WireGuard config and management dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

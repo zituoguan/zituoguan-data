@@ -1,0 +1,10 @@
+name: BirdNET-Analyzer
+website_url: https://birdnet-team.github.io/BirdNET-Analyzer/
+source_code_url: https://github.com/birdnet-team/BirdNET-Analyzer
+description: Analyze bird calls with machine learning models
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

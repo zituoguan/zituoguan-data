@@ -1,0 +1,10 @@
+name: Garmin Grafana
+website_url: https://github.com/arpanghosh8453/garmin-grafana
+source_code_url: https://github.com/arpanghosh8453/garmin-grafana
+description: Garmin 健康数据的 Grafana 可视化仪表板。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 健康和健身

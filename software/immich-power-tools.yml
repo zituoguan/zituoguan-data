@@ -1,0 +1,10 @@
+name: Immich Power Tools
+website_url: https://immich-power-tools.featureos.app/
+source_code_url: https://github.com/immich-power-tools/immich-power-tools
+description: Power tools for organizing Immich libraries
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

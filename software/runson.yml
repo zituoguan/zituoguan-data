@@ -1,0 +1,10 @@
+name: RunsOn
+website_url: https://runs-on.com
+source_code_url: https://github.com/runs-on/runs-on
+description: Self-hosted runner for GitHub Actions via AWS
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

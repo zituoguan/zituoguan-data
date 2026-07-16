@@ -1,0 +1,10 @@
+name: LinguaCafe
+website_url: https://simjanos-dev.github.io/LinguaCafeHome/
+source_code_url: https://github.com/simjanos-dev/LinguaCafe
+description: Self-hosted software that helps language learners acquire vocabulary through reading
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

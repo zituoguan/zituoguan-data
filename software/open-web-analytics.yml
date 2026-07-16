@@ -1,0 +1,10 @@
+name: Open Web Analytics
+website_url: https://http://www.openwebanalytics.com
+source_code_url: https://github.com/Open-Web-Analytics/Open-Web-Analytics
+description: 自托管的网站访问统计分析平台。
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 分析

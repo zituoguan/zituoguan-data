@@ -1,0 +1,10 @@
+name: Pinry
+website_url: https://pinry.github.io/pinry/
+source_code_url: https://github.com/pinry/pinry
+description: 图片和链接的收藏与分享板。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 书签和链接分享

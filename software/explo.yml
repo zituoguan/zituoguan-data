@@ -1,0 +1,10 @@
+name: Explo
+website_url: https://github.com/LumePart/Explo
+source_code_url: https://github.com/LumePart/Explo
+description: Music discovery for self-hosted music platforms
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

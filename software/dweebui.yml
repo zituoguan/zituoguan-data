@@ -1,0 +1,10 @@
+name: DweebUI
+website_url: https://www.dweebui.com/
+source_code_url: https://github.com/lllllllillllllillll/DweebUI
+description: Management interface for Docker containers
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

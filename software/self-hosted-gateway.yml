@@ -1,0 +1,10 @@
+name: Self-Hosted Gateway
+website_url: https://gethomerun.app
+source_code_url: https://github.com/hintjen/selfhosted-gateway
+description: Self-hosted Docker native tunneling to localhost
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

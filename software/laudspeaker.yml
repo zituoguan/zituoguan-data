@@ -1,0 +1,10 @@
+name: Laudspeaker
+website_url: https://laudspeaker.com/?ref=github
+source_code_url: https://github.com/laudspeaker/laudspeaker
+description: Customer and product engagement platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

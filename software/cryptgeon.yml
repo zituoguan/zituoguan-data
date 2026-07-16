@@ -1,0 +1,10 @@
+name: Cryptgeon
+website_url: https://cryptgeon.org/
+source_code_url: https://github.com/cupcakearmy/cryptgeon
+description: Open source note and file sharing service
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

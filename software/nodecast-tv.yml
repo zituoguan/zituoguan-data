@@ -1,0 +1,10 @@
+name: nodecast-tv
+website_url: https://github.com/technomancer702/nodecast-tv
+source_code_url: https://github.com/technomancer702/nodecast-tv
+description: Web-based IPTV player
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

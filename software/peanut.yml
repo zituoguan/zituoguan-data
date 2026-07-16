@@ -1,0 +1,10 @@
+name: PeaNUT
+website_url: https://github.com/Brandawg93/PeaNUT
+source_code_url: https://github.com/Brandawg93/PeaNUT
+description: Tiny dashboard for network UPS tools
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

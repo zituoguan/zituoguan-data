@@ -1,0 +1,10 @@
+name: Cup
+website_url: https://cup.sergi0g.dev
+source_code_url: https://github.com/sergi0g/cup
+description: Docker container updates made easy
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

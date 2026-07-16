@@ -1,0 +1,10 @@
+name: Workout Tracker
+website_url: https://github.com/jovandeginste/workout-tracker
+source_code_url: https://github.com/jovandeginste/workout-tracker
+description: Workout tracking web application geared towards running and other GPX-based activities
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

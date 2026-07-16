@@ -1,0 +1,10 @@
+name: SerpBear
+website_url: https://docs.serpbear.com/
+source_code_url: https://github.com/towfiqi/serpbear
+description: Search engine position tracking and keyword research
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

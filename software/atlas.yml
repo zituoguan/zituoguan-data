@@ -1,0 +1,10 @@
+name: Atlas
+website_url: https://github.com/karam-ajaj/atlas
+source_code_url: https://github.com/karam-ajaj/atlas
+description: Network discovery, visualization, and monitoring
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

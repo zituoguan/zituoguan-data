@@ -1,0 +1,10 @@
+name: Webtop
+website_url: https://github.com/linuxserver/docker-webtop
+source_code_url: https://github.com/linuxserver/docker-webtop
+description: Desktop environments accessible via the browser
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

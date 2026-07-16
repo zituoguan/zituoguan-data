@@ -1,0 +1,10 @@
+name: Erugo
+website_url: https://erugo.app
+source_code_url: https://github.com/ErugoOSS/Erugo
+description: Easy-to-deploy file sharing app with a sleek interface
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

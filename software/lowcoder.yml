@@ -1,0 +1,10 @@
+name: Lowcoder
+website_url: https://www.lowcoder.cloud/
+source_code_url: https://github.com/lowcoder-org/lowcoder
+description: Rapid business app builder with minimal coding
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

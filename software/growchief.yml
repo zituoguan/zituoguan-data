@@ -1,0 +1,10 @@
+name: GrowChief
+website_url: https://growchief.com
+source_code_url: https://github.com/growchief/growchief
+description: Ultimate social media automation tool
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

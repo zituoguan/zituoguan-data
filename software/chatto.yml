@@ -1,0 +1,10 @@
+name: Chatto
+website_url: https://chatto.run
+source_code_url: https://github.com/chattocorp/chatto
+description: Chat app for teams and communities
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

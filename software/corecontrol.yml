@@ -1,0 +1,10 @@
+name: CoreControl
+website_url: https://github.com/crocofied/CoreObs
+source_code_url: https://github.com/crocofied/CoreObs
+description: Server infrastructure management dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Tracearr
+website_url: https://www.tracearr.com
+source_code_url: https://github.com/connorgallopo/Tracearr
+description: Streaming access manager for Plex, Jellyfin, and Emby
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

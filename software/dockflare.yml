@@ -1,0 +1,10 @@
+name: DockFlare
+website_url: https://dockflare.app
+source_code_url: https://github.com/ChrispyBacon-dev/DockFlare
+description: Cloudflare Tunnel controller
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

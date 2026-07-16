@@ -1,0 +1,10 @@
+name: Kill-the-Newsletter
+website_url: https://kill-the-newsletter.com
+source_code_url: https://github.com/leafac/kill-the-newsletter
+description: Convert email newsletters into Atom feeds
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

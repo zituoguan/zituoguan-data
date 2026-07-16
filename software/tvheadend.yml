@@ -1,0 +1,10 @@
+name: TVHeadend
+website_url: https://tvheadend.org
+source_code_url: https://github.com/tvheadend/tvheadend
+description: TV streaming server and digital video recorder
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

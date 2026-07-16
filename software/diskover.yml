@@ -1,0 +1,10 @@
+name: Diskover
+website_url: https://diskoverdata.com
+source_code_url: https://github.com/diskoverdata/diskover-community
+description: File indexer, search engine, and data management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

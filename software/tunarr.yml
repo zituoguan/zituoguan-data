@@ -1,0 +1,10 @@
+name: Tunarr
+website_url: https://tunarr.com/
+source_code_url: https://github.com/chrisbenincasa/tunarr
+description: Create and configure live TV channels from personal media
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

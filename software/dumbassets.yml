@@ -1,0 +1,10 @@
+name: DumbAssets
+website_url: https://dumbassets.dumbware.io
+source_code_url: https://github.com/DumbWareio/DumbAssets
+description: Stupidly simple asset tracker
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

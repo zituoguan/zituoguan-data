@@ -1,0 +1,10 @@
+name: ownCloud Infinite Scale
+website_url: https://doc.owncloud.com/ocis/
+source_code_url: https://github.com/owncloud/ocis
+description: File sync and share platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

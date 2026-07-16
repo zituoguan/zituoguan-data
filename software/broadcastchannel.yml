@@ -1,0 +1,10 @@
+name: BroadcastChannel
+website_url: https://memo.miantiao.me
+source_code_url: https://github.com/miantiao-me/BroadcastChannel
+description: Convert a Telegram channel into a microblog
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

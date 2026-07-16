@@ -1,0 +1,10 @@
+name: Wiredoor
+website_url: https://www.wiredoor.net
+source_code_url: https://github.com/wiredoor/wiredoor
+description: Expose applications running in private or local networks
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: bknd
+website_url: https://bknd.io
+source_code_url: https://github.com/bknd-io/bknd
+description: Lightweight Firebase/Supabase alternative
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

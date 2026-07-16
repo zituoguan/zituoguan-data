@@ -1,0 +1,10 @@
+name: Relaticle
+website_url: https://relaticle.com
+source_code_url: https://github.com/relaticle/relaticle
+description: Modern client relationship management
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

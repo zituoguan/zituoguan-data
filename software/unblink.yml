@@ -1,0 +1,10 @@
+name: Unblink
+website_url: https://github.com/zapdos-labs/unblink
+source_code_url: https://github.com/zapdos-labs/unblink
+description: Camera monitoring app with AI vision
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

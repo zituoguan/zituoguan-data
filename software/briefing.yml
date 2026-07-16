@@ -1,0 +1,10 @@
+name: Briefing
+website_url: https://brie.fi/ng
+source_code_url: https://github.com/holtwick/briefing
+description: Secure direct video group chat
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: MediaManager
+website_url: https://github.com/maxdorninger/MediaManager
+source_code_url: https://github.com/maxdorninger/MediaManager
+description: TV and movie library manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

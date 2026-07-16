@@ -1,0 +1,10 @@
+name: Transfer.zip
+website_url: https://transfer.zip
+source_code_url: https://github.com/robinkarlberg/transfer.zip-web
+description: Complete file sharing solution
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

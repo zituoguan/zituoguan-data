@@ -1,0 +1,10 @@
+name: Convert to it!
+website_url: https://github.com/p2r3/convert
+source_code_url: https://github.com/p2r3/convert
+description: Universal online file converter
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项
