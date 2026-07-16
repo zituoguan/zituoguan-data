@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 4753
-updated_at: '2026-07-10'
+stargazers_count: 4754
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: integrations/adk/go/v0.1.0
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 0
   2026-06: 25
-  2026-07: 4
+  2026-07: 6

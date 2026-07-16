@@ -8,14 +8,14 @@ platforms:
 tags:
   - 网络配置管理
 source_code_url: https://github.com/GNS3/gns3-gui/
-stargazers_count: 2596
-updated_at: '2026-05-08'
+stargazers_count: 2597
+updated_at: '2026-07-15'
 archived: false
 current_release:
-  tag: v3.1.0a4
-  published_at: '2026-07-09'
+  tag: v2.2.60
+  published_at: '2026-07-15'
 commit_history:
   2026-04: 25
-  2026-05: 7
+  2026-05: 8
   2026-06: 0
-  2026-07: 0
+  2026-07: 9

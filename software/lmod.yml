@@ -9,7 +9,7 @@ tags:
   - 构建工具
 source_code_url: https://github.com/TACC/Lmod
 stargazers_count: 607
-updated_at: '2026-07-14'
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: 9.2.6
@@ -17,5 +17,5 @@ current_release:
 commit_history:
   2026-04: 20
   2026-05: 42
-  2026-06: 53
-  2026-07: 42
+  2026-06: 54
+  2026-07: 46

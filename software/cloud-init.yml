@@ -10,7 +10,7 @@ tags:
   - 配置管理
 source_code_url: https://github.com/canonical/cloud-init
 stargazers_count: 3753
-updated_at: '2026-07-14'
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: '26.1'
@@ -19,4 +19,4 @@ commit_history:
   2026-04: 12
   2026-05: 5
   2026-06: 34
-  2026-07: 10
+  2026-07: 11
