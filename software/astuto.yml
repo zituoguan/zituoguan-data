@@ -1,10 +1,10 @@
 name: Astuto
 website_url: https://github.com/astuto/astuto
 source_code_url: https://github.com/astuto/astuto
-description: Open source customer feedback tool
+description: RSS 订阅和新闻阅读器。 数据库管理和查询工具。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - RSS 阅读器

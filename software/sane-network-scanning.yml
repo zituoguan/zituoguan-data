@@ -6,5 +6,5 @@ licenses:
 platforms:
   - C
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）
 source_code_url: http://www.sane-project.org/cvs.html

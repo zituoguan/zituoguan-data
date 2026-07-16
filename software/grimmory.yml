@@ -1,10 +1,10 @@
 name: Grimmory
 website_url: https://grimmory.org
 source_code_url: https://github.com/grimmory-tools/grimmory
-description: Digital library organization and access
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 版本控制

@@ -1,10 +1,10 @@
 name: OmniPoly
 website_url: https://github.com/kWeglinski/OmniPoly
 source_code_url: https://github.com/kWeglinski/OmniPoly
-description: Frontend for LanguageTool and LibreTranslate with AI translation
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）

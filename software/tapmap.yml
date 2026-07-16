@@ -1,10 +1,10 @@
 name: TapMap
 website_url: https://olalie.github.io/tapmap/
 source_code_url: https://github.com/olalie/tapmap
-description: Visualize network connections on an interactive map
+description: VPN 和网络安全连接工具。 地图和地理位置服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）

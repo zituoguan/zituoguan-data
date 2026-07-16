@@ -1,10 +1,10 @@
 name: VerneMQ
 website_url: https://vernemq.com
 source_code_url: https://github.com/vernemq/vernemq
-description: Distributed MQTT message broker
+description: 即时通讯和社交平台。 物联网设备和智能家居管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

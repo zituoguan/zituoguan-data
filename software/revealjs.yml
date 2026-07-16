@@ -6,7 +6,7 @@ licenses:
 platforms:
   - JavaScript
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）
 source_code_url: https://github.com/hakimel/reveal.js
 demo_url: https://revealjs.com/
 stargazers_count: 71936

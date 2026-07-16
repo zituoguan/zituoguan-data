@@ -1,10 +1,10 @@
 name: Nextcloud Talk
 website_url: https://nextcloud.com/talk
 source_code_url: https://github.com/nextcloud/spreed
-description: Chat, video, and audio calls for Nextcloud
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

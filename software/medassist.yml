@@ -1,10 +1,10 @@
 name: MedAssist
 website_url: https://github.com/njic/medassist
 source_code_url: https://github.com/njic/medassist
-description: Daily medication reminders and management
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）

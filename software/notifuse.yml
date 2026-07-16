@@ -1,10 +1,10 @@
 name: Notifuse
 website_url: https://www.notifuse.com
 source_code_url: https://github.com/Notifuse/notifuse
-description: Platform for sending newsletters and transactional mail
+description: 文件传输和共享工具。 AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

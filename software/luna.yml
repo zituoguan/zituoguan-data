@@ -1,10 +1,10 @@
 name: Luna
 website_url: https://github.com/Opisek/luna
 source_code_url: https://github.com/Opisek/luna
-description: Calendar frontend and aggregator
+description: 日历和日程管理服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日历和联系人

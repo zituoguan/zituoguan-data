@@ -1,10 +1,10 @@
 name: DumbBudget
 website_url: https://github.com/DumbWareio/DumbBudget
 source_code_url: https://github.com/DumbWareio/DumbBudget
-description: Stupidly simple personal budget
+description: 个人或企业财务管理和预算工具。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 财务与预算管理

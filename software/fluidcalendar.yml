@@ -1,10 +1,10 @@
 name: FluidCalendar
 website_url: https://github.com/dotnetfactory/fluid-calendar
 source_code_url: https://github.com/dotnetfactory/fluid-calendar
-description: Intelligent task scheduling and calendar management
+description: 日历和日程管理服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日历和联系人

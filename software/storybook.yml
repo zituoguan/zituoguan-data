@@ -1,10 +1,10 @@
 name: Storybook
 website_url: https://storybook.js.org
 source_code_url: https://github.com/storybookjs/storybook
-description: Build UI components and pages in isolation
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

@@ -1,10 +1,10 @@
 name: Bulwark
 website_url: https://bulwarkmail.org
 source_code_url: https://github.com/bulwarkmail/webmail
-description: Webmail client for Stalwart Mail
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 电子邮件 - 完整解决方案

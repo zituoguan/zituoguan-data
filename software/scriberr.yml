@@ -1,10 +1,10 @@
 name: Scriberr
 website_url: https://scriberr.app
 source_code_url: https://github.com/rishikanthc/Scriberr
-description: Self-hosted AI audio transcription
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

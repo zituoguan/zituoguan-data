@@ -1,10 +1,10 @@
 name: Lodestone
 website_url: https://www.lodestone.cc/
 source_code_url: https://github.com/Lodestone-Team/lodestone
-description: Hosting tool for Minecraft and other multiplayer games
+description: 游戏服务器托管和管理平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 游戏

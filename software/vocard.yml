@@ -1,10 +1,10 @@
 name: Vocard
 website_url: https://vocard.xyz
 source_code_url: https://github.com/ChocoMeow/Vocard
-description: Highly customizable Discord music bot
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

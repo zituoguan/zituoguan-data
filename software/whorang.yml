@@ -1,10 +1,10 @@
 name: WhoRang
 website_url: https://github.com/Beast12/who-rang
 source_code_url: https://github.com/Beast12/who-rang
-description: AI-powered doorbell intelligence
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）

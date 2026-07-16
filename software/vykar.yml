@@ -1,10 +1,10 @@
 name: Vykar
 website_url: https://vykar.borgbase.com
 source_code_url: https://github.com/borgbase/vykar
-description: Fast, encrypted, deduplicated backups
+description: 数据备份和恢复工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

@@ -1,7 +1,7 @@
 name: Workout Challenge
 website_url: https://github.com/vanalmsick/workout_challenge
 source_code_url: https://github.com/vanalmsick/workout_challenge
-description: Workout challenges for friends and colleagues
+description: 健康和健身追踪管理工具。
 licenses:
   - GPL-3.0
 platforms:

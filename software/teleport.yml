@@ -8,7 +8,7 @@ platforms:
   - Docker
   - K8S
 tags:
-  - 杂项
+  - 容器
 source_code_url: https://github.com/gravitational/teleport
 stargazers_count: 20643
 updated_at: '2026-07-15'

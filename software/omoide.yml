@@ -1,10 +1,10 @@
 name: Omoide
 website_url: https://github.com/EinAeffchen/Omoide
 source_code_url: https://github.com/EinAeffchen/Omoide
-description: Photo and video library with AI features
+description: AI 驱动的智能应用和智能体平台。 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体

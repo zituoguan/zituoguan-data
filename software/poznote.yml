@@ -1,10 +1,10 @@
 name: Poznote
 website_url: https://poznote.com
 source_code_url: https://github.com/timothepoznanski/poznote
-description: Personal note-taking and documentation platform
+description: 知识管理和文档协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

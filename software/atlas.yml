@@ -1,10 +1,10 @@
 name: Atlas
 website_url: https://github.com/karam-ajaj/atlas
 source_code_url: https://github.com/karam-ajaj/atlas
-description: Network discovery, visualization, and monitoring
+description: 服务器和服务的监控与告警平台。 VPN 和网络安全连接工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

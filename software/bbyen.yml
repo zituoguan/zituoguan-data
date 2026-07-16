@@ -1,10 +1,10 @@
 name: BBYEN
 website_url: https://github.com/MarcelRobitaille/bbyen
 source_code_url: https://github.com/MarcelRobitaille/bbyen
-description: YouTube subscription e-mail notifications
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 电子邮件 - 完整解决方案

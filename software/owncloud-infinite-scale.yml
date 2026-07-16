@@ -7,4 +7,4 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

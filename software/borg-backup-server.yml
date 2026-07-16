@@ -1,10 +1,10 @@
 name: Borg Backup Server
 website_url: https://www.borgbackupserver.com
 source_code_url: https://github.com/marcpope/borgbackupserver
-description: Centrally manage BorgBackup across endpoints
+description: 数据备份和恢复工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

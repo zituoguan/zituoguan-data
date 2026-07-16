@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日志管理
 stargazers_count: 330
 updated_at: '2026-06-26'
 archived: false

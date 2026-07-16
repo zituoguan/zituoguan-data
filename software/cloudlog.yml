@@ -7,7 +7,7 @@ platforms:
   - PHP
   - Docker
 tags:
-  - 杂项
+  - 日志管理
 source_code_url: https://github.com/magicbug/cloudlog
 stargazers_count: 569
 updated_at: '2026-07-05'

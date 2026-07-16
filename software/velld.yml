@@ -1,10 +1,10 @@
 name: Velld
 website_url: https://velld.vercel.app
 source_code_url: https://github.com/dendianugerah/velld
-description: Database backup management and automation
+description: 数据备份和恢复工具。 数据库管理和查询工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

@@ -1,10 +1,10 @@
 name: Atlas CMMS
 website_url: https://atlas-cmms.com
 source_code_url: https://github.com/Grashjs/cmms
-description: Powerful maintenance management system
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）

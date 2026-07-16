@@ -1,10 +1,10 @@
 name: Librum
 website_url: https://librumreader.com
 source_code_url: https://github.com/Librum-Reader/Librum
-description: Ebook reader and manager
+description: RSS 订阅和新闻阅读器。 电子书和阅读管理平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

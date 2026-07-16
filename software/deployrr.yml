@@ -1,10 +1,10 @@
 name: Deployrr
 website_url: https://www.deployrr.app
 source_code_url: https://github.com/SimpleHomelab/Deployrr
-description: Automated homelab setups using Docker
+description: 容器化部署和管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 自动化

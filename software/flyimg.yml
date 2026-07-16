@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 相册
 demo_url: https://demo.flyimg.io
 stargazers_count: 1215
 updated_at: '2026-07-13'

@@ -1,10 +1,10 @@
 name: MyBibliotheca
 website_url: https://github.com/pickles4evaaaa/mybibliotheca
 source_code_url: https://github.com/pickles4evaaaa/mybibliotheca
-description: Personal library and reading tracker
+description: 电子书和阅读管理平台。 物联网设备和智能家居管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

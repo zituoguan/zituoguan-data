@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - RSS 阅读器
 demo_url: https://openreader.richardr.dev/
 stargazers_count: 472
 updated_at: '2026-07-03'

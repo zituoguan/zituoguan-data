@@ -1,10 +1,10 @@
 name: MailFlow
 website_url: https://mailflow.sh
 source_code_url: https://github.com/maathimself/mailflow
-description: Unified webmail client
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 电子邮件 - 完整解决方案

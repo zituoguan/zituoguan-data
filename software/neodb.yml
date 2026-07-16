@@ -1,10 +1,10 @@
 name: NeoDB
 website_url: https://neodb.net
 source_code_url: https://github.com/neodb-social/neodb
-description: Federated tracking server
+description: 数据库管理和查询工具。 网站统计和数据分析平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

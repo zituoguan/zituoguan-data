@@ -1,10 +1,10 @@
 name: eziwiki
 website_url: https://github.com/i3months/eziwiki
 source_code_url: https://github.com/i3months/eziwiki
-description: Lightweight wiki and documentation generator
+description: 知识管理和文档协作平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

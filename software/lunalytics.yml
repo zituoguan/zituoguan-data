@@ -1,10 +1,10 @@
 name: Lunalytics
 website_url: https://lunalytics.xyz
 source_code_url: https://github.com/KSJaay/Lunalytics
-description: Open source uptime monitoring tool
+description: 服务器和服务的监控与告警平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

@@ -1,10 +1,10 @@
 name: MediKeep
 website_url: https://github.com/afairgiant/MediKeep
 source_code_url: https://github.com/afairgiant/MediKeep
-description: Personal health record keeper
+description: 健康和健身追踪管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 健康和健身

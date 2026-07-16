@@ -1,10 +1,10 @@
 name: SparkyBudget
 website_url: https://github.com/CodeWithCJ/SparkyBudget
 source_code_url: https://github.com/CodeWithCJ/SparkyBudget
-description: Personal finance management app
+description: 个人或企业财务管理和预算工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 财务与预算管理

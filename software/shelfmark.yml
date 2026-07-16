@@ -1,10 +1,10 @@
 name: Shelfmark
 website_url: https://github.com/calibrain/shelfmark
 source_code_url: https://github.com/calibrain/shelfmark
-description: Interface for searching and requesting book downloads
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 搜索引擎

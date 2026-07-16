@@ -1,10 +1,10 @@
 name: RetroAssembly
 website_url: https://retroassembly.com
 source_code_url: https://github.com/arianrhodsandlot/retroassembly
-description: Personal retro game collection in your browser
+description: 游戏服务器托管和管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 游戏

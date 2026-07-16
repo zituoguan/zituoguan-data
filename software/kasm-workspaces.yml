@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器
 source_code_url: https://github.com/kasmtech
 demo_url: https://www.kasmweb.com/#demo

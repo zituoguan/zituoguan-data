@@ -1,10 +1,10 @@
 name: Ties
 website_url: https://github.com/raffomania/ties
 source_code_url: https://github.com/raffomania/ties
-description: Federated bookmark and link sharing
+description: 书签收藏和链接管理工具。 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 书签和链接分享

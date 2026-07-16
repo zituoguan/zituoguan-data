@@ -1,10 +1,10 @@
 name: Gravity
 website_url: https://gravity.beryju.io
 source_code_url: https://github.com/BeryJu/gravity
-description: DNS and DHCP server with ad-blocking
+description: DNS 管理和域名解析工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 内容管理系统（CMS）

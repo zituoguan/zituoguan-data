@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 容器
 stargazers_count: 258
 updated_at: '2026-07-11'
 archived: false

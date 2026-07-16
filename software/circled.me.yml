@@ -1,10 +1,10 @@
 name: circled.me
 website_url: https://circled.me
 source_code_url: https://github.com/circled-me/server
-description: Photo, chat, and sharing community server
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

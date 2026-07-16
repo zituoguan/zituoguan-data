@@ -1,10 +1,10 @@
 name: Geoposler
 website_url: https://github.com/garanda21/geoposler
 source_code_url: https://github.com/garanda21/geoposler
-description: E-mail campaign management application
+description: AI 驱动的智能应用和智能体平台。 地图和地理位置服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 电子邮件 - 完整解决方案

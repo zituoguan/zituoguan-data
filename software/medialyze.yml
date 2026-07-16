@@ -1,10 +1,10 @@
 name: MediaLyze
 website_url: https://www.medialyze.app
 source_code_url: https://github.com/frederikemmer/MediaLyze
-description: Media library analysis for large collections
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体

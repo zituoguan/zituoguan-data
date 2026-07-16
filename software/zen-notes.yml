@@ -1,10 +1,10 @@
 name: Zen Notes
 website_url: https://www.sheshbabu.com/zen/
 source_code_url: https://github.com/sheshbabu/zen
-description: Simple Markdown note-taking app
+description: 知识管理和文档协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

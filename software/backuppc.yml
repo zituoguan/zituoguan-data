@@ -1,10 +1,10 @@
 name: BackupPC
 website_url: https://github.com/backuppc/backuppc
 source_code_url: https://github.com/backuppc/backuppc
-description: High-performance backups to a server
+description: 数据备份和恢复工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

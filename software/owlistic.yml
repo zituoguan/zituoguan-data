@@ -1,10 +1,10 @@
 name: Owlistic
 website_url: https://owlistic-notes.github.io/owlistic/
 source_code_url: https://github.com/owlistic-notes/owlistic
-description: Real-time note-taking and to-do app
+description: 知识管理和文档协作平台。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

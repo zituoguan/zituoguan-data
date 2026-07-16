@@ -1,10 +1,10 @@
 name: BunkerM
 website_url: https://github.com/bunkeriot/BunkerM
 source_code_url: https://github.com/bunkeriot/BunkerM
-description: All-in-one Mosquitto (MQTT) broker with web UI
+description: 物联网设备和智能家居管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 物联网（IoT）

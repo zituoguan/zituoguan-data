@@ -1,10 +1,10 @@
 name: HabitSync
 website_url: https://github.com/jofoerster/habitsync
 source_code_url: https://github.com/jofoerster/habitsync
-description: Powerful habit tracking app with social features
+description: 网站统计和数据分析平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 自动化

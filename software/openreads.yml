@@ -1,10 +1,10 @@
 name: Openreads
 website_url: https://github.com/mateusz-bak/openreads
 source_code_url: https://github.com/mateusz-bak/openreads
-description: Privacy-oriented and cross-platform book tracking app
+description: 网站统计和数据分析平台。 电子书和阅读管理平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

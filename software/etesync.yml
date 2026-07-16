@@ -1,10 +1,10 @@
 name: EteSync
 website_url: https://www.etesync.com
 source_code_url: https://github.com/etesync/server
-description: Secure syncing for contacts, calendars, tasks, and notes
+description: 知识管理和文档协作平台。 日历和日程管理服务。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

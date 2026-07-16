@@ -1,10 +1,10 @@
 name: NPMplus
 website_url: https://github.com/ZoeyVid/NPMplus
 source_code_url: https://github.com/ZoeyVid/NPMplus
-description: Nginx Proxy Manager with improvements
+description: HTTP 反向代理和流量管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

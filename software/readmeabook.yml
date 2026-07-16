@@ -1,10 +1,10 @@
 name: ReadMeABook
 website_url: https://github.com/kikootwo/ReadMeABook
 source_code_url: https://github.com/kikootwo/ReadMeABook
-description: Audiobook discovery, requests, and downloads
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

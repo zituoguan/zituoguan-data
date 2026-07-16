@@ -1,10 +1,10 @@
 name: SparkyFitness
 website_url: https://codewithcj.github.io/SparkyFitness/
 source_code_url: https://github.com/CodeWithCJ/SparkyFitness
-description: Comprehensive fitness tracking
+description: 网站统计和数据分析平台。 健康和健身追踪管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 分析

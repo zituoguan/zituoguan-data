@@ -1,10 +1,10 @@
 name: Pepperminty Wiki
 website_url: https://peppermint.mooncarrot.space/
 source_code_url: https://github.com/sbrl/Pepperminty-Wiki
-description: Complete wiki engine contained in a single file
+description: 知识管理和文档协作平台。 AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

@@ -1,7 +1,7 @@
 name: Monitarr
 website_url: https://github.com/nickshanks347/monitarr
 source_code_url: https://github.com/nickshanks347/monitarr
-description: Monitor downloads from Radarr and Sonarr
+description: 服务器和服务的监控与告警平台。
 licenses:
   - GPL-3.0
 platforms:

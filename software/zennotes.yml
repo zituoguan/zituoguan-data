@@ -1,10 +1,10 @@
 name: ZenNotes
 website_url: https://zennotes.org
 source_code_url: https://github.com/ZenNotes/zennotes
-description: Keyboard-first Markdown note-taking
+description: 知识管理和文档协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

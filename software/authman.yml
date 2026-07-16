@@ -1,10 +1,10 @@
 name: Authman
 website_url: https://github.com/simular/authman-server
 source_code_url: https://github.com/simular/authman-server
-description: Cross-platform 2FA TOTP server with mobile and desktop apps
+description: 身份认证和访问控制解决方案。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 密码管理器

@@ -1,10 +1,10 @@
 name: positive-intentions Chat
 website_url: https://github.com/positive-intentions/chat
 source_code_url: https://github.com/positive-intentions/chat
-description: Decentralized chat in the browser
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

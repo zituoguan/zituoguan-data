@@ -1,10 +1,10 @@
 name: Listenarr
 website_url: https://getlistenarr.com
 source_code_url: https://github.com/Listenarrs/Listenarr
-description: Automated audiobook management
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

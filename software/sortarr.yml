@@ -1,7 +1,7 @@
 name: Sortarr
 website_url: https://github.com/Jaredharper1/Sortarr
 source_code_url: https://github.com/Jaredharper1/Sortarr
-description: Sonarr and Radarr library insights
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:

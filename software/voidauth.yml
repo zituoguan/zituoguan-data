@@ -1,10 +1,10 @@
 name: VoidAuth
 website_url: https://http://voidauth.app
 source_code_url: https://github.com/voidauth/voidauth
-description: Simplified user management and SSO
+description: 身份认证和访问控制解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 身份管理 - 单点登录（SSO）

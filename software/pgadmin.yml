@@ -1,10 +1,10 @@
 name: pgAdmin
 website_url: https://www.pgadmin.org
 source_code_url: https://github.com/pgadmin-org/pgadmin4
-description: Administration and development platform for PostgreSQL
+description: 数据库管理和查询工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

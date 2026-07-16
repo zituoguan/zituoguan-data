@@ -7,6 +7,6 @@ platforms:
   - Node.js
   - PHP
 tags:
-  - 杂项
+  - 文档管理 - 电子书
 source_code_url: https://codeberg.org/ladigitale/digiread
 depends_3rdparty: true

@@ -7,4 +7,4 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

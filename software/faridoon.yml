@@ -1,10 +1,10 @@
 name: Faridoon
 website_url: https://jamesread.github.io/Faridoon/
 source_code_url: https://github.com/jamesread/Faridoon
-description: Save and publish chat quotes for others to see
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 书签和链接分享

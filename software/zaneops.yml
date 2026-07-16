@@ -1,10 +1,10 @@
 name: ZaneOps
 website_url: https://zaneops.dev
 source_code_url: https://github.com/zane-ops/zane-ops
-description: Platform for deploying static sites, web apps, databases, and CRON jobs
+description: 数据库管理和查询工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 自动化

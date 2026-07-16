@@ -1,10 +1,10 @@
 name: NoteDiscovery
 website_url: https://www.notediscovery.com
 source_code_url: https://github.com/gamosoft/NoteDiscovery
-description: Lightweight Obsidian-like note-taking app
+description: 知识管理和文档协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

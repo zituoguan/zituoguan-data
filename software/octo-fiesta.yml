@@ -1,10 +1,10 @@
 name: Octo-Fiesta
 website_url: https://github.com/V1ck3s/octo-fiesta
 source_code_url: https://github.com/V1ck3s/octo-fiesta
-description: Subsonic proxy for integrating streaming providers as music sources
+description: HTTP 反向代理和流量管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

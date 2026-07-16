@@ -1,10 +1,10 @@
 name: Meet
 website_url: https://visio.numerique.gouv.fr
 source_code_url: https://github.com/suitenumerique/meet
-description: HD video calls, screen sharing, and chats directly from the browser
+description: 即时通讯和社交平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体

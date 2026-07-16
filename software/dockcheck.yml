@@ -1,10 +1,10 @@
 name: Dockcheck
 website_url: https://github.com/mag37/dockcheck
 source_code_url: https://github.com/mag37/dockcheck
-description: CLI tool for Docker container updates and notifications
+description: 容器化部署和管理工具。 AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 容器

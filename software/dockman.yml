@@ -1,10 +1,10 @@
 name: Dockman
 website_url: https://dockman.radn.dev/
 source_code_url: https://github.com/RA341/dockman
-description: Docker Compose file simplification
+description: 容器化部署和管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

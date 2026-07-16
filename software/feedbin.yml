@@ -1,10 +1,10 @@
 name: Feedbin
 website_url: https://feedbin.com
 source_code_url: https://github.com/feedbin/feedbin
-description: Simple, fast, and nice looking RSS reader
+description: RSS 订阅和新闻阅读器。 数据库管理和查询工具。 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - RSS 阅读器

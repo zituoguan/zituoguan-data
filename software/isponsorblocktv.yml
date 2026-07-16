@@ -8,7 +8,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体
 depends_3rdparty: true
 stargazers_count: 5854
 updated_at: '2026-07-13'

@@ -1,10 +1,10 @@
 name: Civitai Data Manager
 website_url: https://github.com/jmsltnv/civitai-data-manager
 source_code_url: https://github.com/jmsltnv/civitai-data-manager
-description: Civitai model metadata backups and management
+description: 数据备份和恢复工具。 AI 驱动的智能应用和智能体平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

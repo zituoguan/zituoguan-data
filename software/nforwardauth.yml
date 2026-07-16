@@ -1,10 +1,10 @@
 name: nforwardauth
 website_url: https://github.com/nosduco/nforwardauth
 source_code_url: https://github.com/nosduco/nforwardauth
-description: Simple and minimalist forward auth service intended for use with reverse proxies
+description: 身份认证和访问控制解决方案。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 身份管理 - 单点登录（SSO）

@@ -1,10 +1,10 @@
 name: Fail2Ban-Report
 website_url: https://github.com/SubleXBle/Fail2Ban-Report
 source_code_url: https://github.com/SubleXBle/Fail2Ban-Report
-description: Web-based dashboard for Fail2Ban logging
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日志管理

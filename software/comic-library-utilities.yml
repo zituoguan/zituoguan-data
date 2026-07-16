@@ -1,10 +1,10 @@
 name: Comic Library Utilities
 website_url: https://clucomics.org
 source_code_url: https://github.com/allaboutduncan/clu-comics
-description: Toolset for managing large comic libraries
+description: 电子书和阅读管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

@@ -1,10 +1,10 @@
 name: SkySend
 website_url: https://skysend.app
 source_code_url: https://github.com/Skyfay/SkySend
-description: Encrypted file and note sharing
+description: 知识管理和文档协作平台。 文件传输和共享工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

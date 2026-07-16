@@ -1,10 +1,10 @@
 name: Liquor Locker
 website_url: https://github.com/nguyenjessev/liquor-locker
 source_code_url: https://github.com/nguyenjessev/liquor-locker
-description: Bar management with AI-powered recommendations
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）

@@ -1,10 +1,10 @@
 name: onWatch
 website_url: https://onwatch.onllm.dev
 source_code_url: https://github.com/onllm-dev/onWatch
-description: Real-time API quota tracking across AI platforms
+description: 网站统计和数据分析平台。 AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 分析

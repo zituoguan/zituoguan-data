@@ -1,10 +1,10 @@
 name: Logchef
 website_url: https://logchef.app/
 source_code_url: https://github.com/mr-karan/logchef
-description: Lightweight log analytics platform
+description: 网站统计和数据分析平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日志管理

@@ -1,10 +1,10 @@
 name: TradeTally
 website_url: https://tradetally.io
 source_code_url: https://github.com/GeneBO98/tradetally
-description: Advanced financial trade tracking and analytics
+description: 网站统计和数据分析平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 分析

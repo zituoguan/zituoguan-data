@@ -1,10 +1,10 @@
 name: GoMFT
 website_url: https://github.com/StarFleetCPTN/GoMFT
 source_code_url: https://github.com/StarFleetCPTN/GoMFT
-description: Web-based file transfer application
+description: 文件传输和共享工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

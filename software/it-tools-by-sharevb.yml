@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 版本控制
 demo_url: https://sharevb-it-tools.vercel.app/
 stargazers_count: 1487
 updated_at: '2026-07-14'

@@ -1,10 +1,10 @@
 name: Speakr
 website_url: https://github.com/murtaza-nasir/speakr
 source_code_url: https://github.com/murtaza-nasir/speakr
-description: Intelligent note-taking for recordings and meetings
+description: 知识管理和文档协作平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

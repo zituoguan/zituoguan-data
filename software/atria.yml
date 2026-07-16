@@ -1,10 +1,10 @@
 name: Atria
 website_url: https://atria.gg
 source_code_url: https://github.com/thesubtleties/atria
-description: Professional event management and networking
+description: VPN 和网络安全连接工具。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）

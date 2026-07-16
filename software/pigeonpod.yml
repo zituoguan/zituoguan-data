@@ -1,10 +1,10 @@
 name: PigeonPod
 website_url: https://pigeonpod.cloud
 source_code_url: https://github.com/aizhimou/pigeon-pod
-description: Turn YouTube channels into podcasts
+description: 地图和地理位置服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

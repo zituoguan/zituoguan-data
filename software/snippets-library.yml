@@ -1,10 +1,10 @@
 name: Snippets Library
 website_url: https://snippetslibrary.com/
 source_code_url: https://github.com/cojocaru-david/snippetslibrary.com
-description: Modern code snippet manager for devs
+description: 代码片段和文本分享工具。 电子书和阅读管理平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 版本控制

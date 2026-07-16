@@ -1,10 +1,10 @@
 name: Obico
 website_url: https://obico.io
 source_code_url: https://github.com/TheSpaghettiDetective/obico-server
-description: Smart 3D printing platform with AI failure detection
+description: AI 驱动的智能应用和智能体平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 投票和活动

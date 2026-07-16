@@ -1,10 +1,10 @@
 name: Plex Rewind
 website_url: https://github.com/RaunoT/plex-rewind
 source_code_url: https://github.com/RaunoT/plex-rewind
-description: Present Plex user statistics and habits in a beautiful and organized manner
+description: 网站统计和数据分析平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体

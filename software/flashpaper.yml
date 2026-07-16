@@ -1,10 +1,10 @@
 name: FlashPaper
 website_url: https://github.com/AndrewPaglusch/FlashPaper
 source_code_url: https://github.com/AndrewPaglusch/FlashPaper
-description: One-time encrypted password and secret sharing
+description: 密码和凭据安全管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 密码管理器
