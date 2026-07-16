@@ -1,10 +1,10 @@
 name: bknd
 website_url: https://bknd.io
 source_code_url: https://github.com/bknd-io/bknd
-description: Lightweight Firebase/Supabase alternative
+description: bknd 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 健康和健身

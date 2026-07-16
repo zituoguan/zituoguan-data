@@ -1,7 +1,7 @@
 name: Metadata Remote
 website_url: https://github.com/wow-signal-dev/metadata-remote
 source_code_url: https://github.com/wow-signal-dev/metadata-remote
-description: Web-based metadata manager for audio files
+description: Metadata Remote 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

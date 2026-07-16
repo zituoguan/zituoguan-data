@@ -1,10 +1,10 @@
 name: NZBGet
 website_url: https://nzbget.com
 source_code_url: https://github.com/nzbgetcom/nzbget
-description: Fast, reliable, and feature-packed NZB downloader
+description: NZBGet 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

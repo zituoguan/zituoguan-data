@@ -1,7 +1,7 @@
 name: PlikShare
 website_url: https://plikshare.com
 source_code_url: https://github.com/damian-krychowski/plikshare
-description: Self-hosted file sharing solution
+description: PlikShare 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

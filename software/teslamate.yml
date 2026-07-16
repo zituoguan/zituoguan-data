@@ -7,7 +7,7 @@ platforms:
   - Elixir
   - Docker
 tags:
-  - 杂项
+  - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/teslamate-org/teslamate
 stargazers_count: 8734
 updated_at: '2026-07-13'

@@ -1,7 +1,7 @@
 name: Garage
 website_url: https://garagehq.deuxfleurs.fr
 source_code_url: https://github.com/deuxfleurs-org/garage
-description: S3-compatible object store
+description: Garage 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

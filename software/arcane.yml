@@ -7,4 +7,4 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 持续集成和持续部署

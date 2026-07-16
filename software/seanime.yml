@@ -1,7 +1,7 @@
 name: Seanime
 website_url: https://seanime.app
 source_code_url: https://github.com/5rahim/seanime
-description: Media streaming server for anime and manga
+description: Seanime 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: TasmoAdmin
 website_url: https://github.com/TasmoAdmin/TasmoAdmin
 source_code_url: https://github.com/TasmoAdmin/TasmoAdmin
-description: Administration platform for devices flashed with Tasmota
+description: TasmoAdmin 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

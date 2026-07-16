@@ -1,7 +1,7 @@
 name: Panora
 website_url: https://panora.dev
 source_code_url: https://github.com/panoratech/Panora
-description: API endpoints for a catalogue of integrations for SaaS software
+description: Panora 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

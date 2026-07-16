@@ -1,7 +1,7 @@
 name: Koffan
 website_url: https://github.com/PanSalut/Koffan
 source_code_url: https://github.com/PanSalut/Koffan
-description: Shopping lists for families and couples
+description: Koffan 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

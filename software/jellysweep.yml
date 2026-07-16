@@ -1,7 +1,7 @@
 name: Jellysweep
 website_url: https://github.com/jon4hz/jellysweep
 source_code_url: https://github.com/jon4hz/jellysweep
-description: Smart cleanup tool for Jellyfin media servers
+description: Jellysweep 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

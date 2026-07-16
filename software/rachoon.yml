@@ -1,7 +1,7 @@
 name: Rachoon
 website_url: https://github.com/ad-on-is/rachoon
 source_code_url: https://github.com/ad-on-is/rachoon
-description: Modern invoicing platform for freelancers and small businesses
+description: Rachoon 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

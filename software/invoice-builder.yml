@@ -1,7 +1,7 @@
 name: Invoice Builder
 website_url: https://github.com/piratuks/invoice-builder
 source_code_url: https://github.com/piratuks/invoice-builder
-description: Invoice and quoting app for freelancers
+description: Invoice Builder 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

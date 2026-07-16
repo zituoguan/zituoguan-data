@@ -1,7 +1,7 @@
 name: Karakeep HomeDash
 website_url: https://github.com/CodeJawn/karakeep-homedash
 source_code_url: https://github.com/CodeJawn/karakeep-homedash
-description: Compact dashboard view for Karakeep
+description: Karakeep HomeDash 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

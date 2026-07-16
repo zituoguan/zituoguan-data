@@ -1,7 +1,7 @@
 name: OxiCloud
 website_url: https://atalayalabs.github.io/OxiCloud/
 source_code_url: https://github.com/AtalayaLabs/OxiCloud
-description: Efficient and secure cloud storage
+description: OxiCloud 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

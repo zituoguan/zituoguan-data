@@ -1,10 +1,10 @@
 name: DumbWhoIs
 website_url: https://dumbwhois.dumbware.io/
 source_code_url: https://github.com/DumbWareio/DumbWhoIs
-description: Stupidly simple WHOIS, IP, and ASN lookups
+description: DumbWhoIs 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 网络工具

@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Python
 tags:
-  - 杂项
+  - 软件开发 - API 管理
 source_code_url: https://github.com/LibreTranslate/LibreTranslate
 stargazers_count: 15445
 updated_at: '2026-07-13'

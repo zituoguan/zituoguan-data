@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器
 stargazers_count: 1150
 updated_at: '2026-07-11'
 archived: false

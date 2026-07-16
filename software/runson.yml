@@ -1,7 +1,7 @@
 name: RunsOn
 website_url: https://runs-on.com
 source_code_url: https://github.com/runs-on/runs-on
-description: Self-hosted runner for GitHub Actions via AWS
+description: RunsOn 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

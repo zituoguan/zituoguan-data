@@ -1,7 +1,7 @@
 name: FileSync
 website_url: https://filesync.app
 source_code_url: https://github.com/polius/FileSync
-description: Encrypted, real-time file sharing
+description: FileSync 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Iso
 website_url: https://iso.tim.cv
 source_code_url: https://github.com/Coyenn/iso
-description: Plug-and-play dashboard
+description: Iso 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

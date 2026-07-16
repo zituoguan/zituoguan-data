@@ -1,7 +1,7 @@
 name: Storyden
 website_url: https://www.storyden.org/
 source_code_url: https://github.com/Southclaws/storyden
-description: Fresh take on bulletin board forum software
+description: Storyden 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

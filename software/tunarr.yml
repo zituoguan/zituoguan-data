@@ -1,7 +1,7 @@
 name: Tunarr
 website_url: https://tunarr.com/
 source_code_url: https://github.com/chrisbenincasa/tunarr
-description: Create and configure live TV channels from personal media
+description: Tunarr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

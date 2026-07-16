@@ -1,7 +1,7 @@
 name: Meerkat CRM
 website_url: https://fbuchner.github.io/meerkat-crm/
 source_code_url: https://github.com/fbuchner/meerkat-crm
-description: Simple CRM for the personal life
+description: Meerkat CRM 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

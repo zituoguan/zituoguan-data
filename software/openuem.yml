@@ -1,10 +1,10 @@
 name: OpenUEM
 website_url: https://openuem.eu
 source_code_url: https://github.com/open-uem/openuem-console
-description: Unified endpoint and IT asset manager
+description: OpenUEM 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - IT 资产管理

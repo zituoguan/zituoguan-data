@@ -1,7 +1,7 @@
 name: Lab Dash
 website_url: https://github.com/AnthonyGress/lab-dash
 source_code_url: https://github.com/AnthonyGress/lab-dash
-description: Application and server management dashboard
+description: Lab Dash 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

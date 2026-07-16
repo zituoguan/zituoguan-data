@@ -1,7 +1,7 @@
 name: Homarr iFrames
 website_url: https://github.com/diogovalentte/homarr-iframes
 source_code_url: https://github.com/diogovalentte/homarr-iframes
-description: iFrames designed for Homarr dashboards
+description: Homarr iFrames 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Lingarr
 website_url: https://github.com/lingarr-translate/lingarr
 source_code_url: https://github.com/lingarr-translate/lingarr
-description: Automatically translate subtitle files to a desired language
+description: Lingarr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

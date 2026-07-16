@@ -1,10 +1,10 @@
 name: YTPTube
 website_url: https://github.com/arabcoders/ytptube
 source_code_url: https://github.com/arabcoders/ytptube
-description: Web-based GUI for yt-dlp
+description: YTPTube 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理

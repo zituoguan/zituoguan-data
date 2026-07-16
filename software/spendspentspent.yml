@@ -1,7 +1,7 @@
 name: SpendSpentSpent
 website_url: https://lamarios.github.io/SpendSpentSpent/
 source_code_url: https://github.com/lamarios/SpendSpentSpent
-description: Easy-to-use expense tracker
+description: SpendSpentSpent 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

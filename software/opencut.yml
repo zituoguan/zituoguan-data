@@ -1,7 +1,7 @@
 name: OpenCut
 website_url: https://opencut.app
 source_code_url: https://github.com/OpenCut-app/OpenCut
-description: Video editor for web, desktop, and mobile
+description: OpenCut 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Mergeable
 website_url: https://www.usemergeable.dev
 source_code_url: https://github.com/pvcnt/mergeable
-description: Better inbox for GitHub pull requests
+description: Mergeable 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

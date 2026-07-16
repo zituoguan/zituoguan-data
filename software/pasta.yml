@@ -1,7 +1,7 @@
 name: PASTA
 website_url: https://www.pastatool.com
 source_code_url: https://github.com/cglatot/pasta
-description: Audio and subtitle track changer for Plex
+description: PASTA 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

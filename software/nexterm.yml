@@ -1,10 +1,10 @@
 name: Nexterm
 website_url: https://nexterm.dev
 source_code_url: https://github.com/gnmyt/Nexterm
-description: Server management software for SSH, VNC, and RDP
+description: Nexterm 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 远程访问

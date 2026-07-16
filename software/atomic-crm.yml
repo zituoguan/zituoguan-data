@@ -1,7 +1,7 @@
 name: Atomic CRM
 website_url: https://http://marmelab.com/atomic-crm/
 source_code_url: https://github.com/marmelab/atomic-crm
-description: Full-featured customer relationship manager
+description: Atomic CRM 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

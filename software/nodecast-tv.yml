@@ -1,7 +1,7 @@
 name: nodecast-tv
 website_url: https://github.com/technomancer702/nodecast-tv
 source_code_url: https://github.com/technomancer702/nodecast-tv
-description: Web-based IPTV player
+description: nodecast-tv 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

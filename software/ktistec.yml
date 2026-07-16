@@ -1,10 +1,10 @@
 name: Ktistec
 website_url: https://github.com/toddsundsted/ktistec
 source_code_url: https://github.com/toddsundsted/ktistec
-description: Single-user ActivityPub server
+description: Ktistec 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

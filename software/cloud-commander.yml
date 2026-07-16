@@ -1,7 +1,7 @@
 name: Cloud Commander
 website_url: https://cloudcmd.io
 source_code_url: https://github.com/coderaiser/cloudcmd
-description: File manager and console for the web
+description: Cloud Commander 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

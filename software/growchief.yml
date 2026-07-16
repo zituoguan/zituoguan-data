@@ -1,7 +1,7 @@
 name: GrowChief
 website_url: https://growchief.com
 source_code_url: https://github.com/growchief/growchief
-description: Ultimate social media automation tool
+description: GrowChief 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

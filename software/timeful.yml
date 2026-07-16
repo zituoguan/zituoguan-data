@@ -1,7 +1,7 @@
 name: Timeful
 website_url: https://timeful.app
 source_code_url: https://github.com/schej-it/timeful.app
-description: Scheduling platform for group meets
+description: Timeful 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

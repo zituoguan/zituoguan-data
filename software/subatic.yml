@@ -1,7 +1,7 @@
 name: Subatic
 website_url: https://subatic.com
 source_code_url: https://github.com/orthdron/subatic
-description: Simple video hosting site that scales with content
+description: Subatic 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

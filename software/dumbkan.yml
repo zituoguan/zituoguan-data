@@ -1,7 +1,7 @@
 name: DumbKan
 website_url: https://github.com/DumbWareio/DumbKan
 source_code_url: https://github.com/DumbWareio/DumbKan
-description: Stupidly simple Kanban boards
+description: DumbKan 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

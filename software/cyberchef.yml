@@ -6,7 +6,7 @@ licenses:
 platforms:
   - JavaScript
 tags:
-  - 杂项
+  - 配置管理
 source_code_url: https://github.com/gchq/CyberChef
 demo_url: https://gchq.github.io/CyberChef
 stargazers_count: 35334

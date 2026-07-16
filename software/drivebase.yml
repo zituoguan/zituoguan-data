@@ -1,7 +1,7 @@
 name: Drivebase
 website_url: https://drivebase.io
 source_code_url: https://github.com/drivebase/drivebase
-description: Cloud-agnostic file management platform
+description: Drivebase 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

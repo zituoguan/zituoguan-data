@@ -1,7 +1,7 @@
 name: Profilarr
 website_url: https://dictionarry.dev
 source_code_url: https://github.com/Dictionarry-Hub/profilarr
-description: Import, export, and sync profiles and custom formats via Radarr and Sonarr API
+description: Profilarr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

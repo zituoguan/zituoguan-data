@@ -1,7 +1,7 @@
 name: TaskTrove
 website_url: https://tasktrove.io
 source_code_url: https://github.com/dohsimpson/TaskTrove
-description: Task management and productivity platform
+description: TaskTrove 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

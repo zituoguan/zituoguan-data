@@ -1,7 +1,7 @@
 name: Forms.md
 website_url: https://forms.md
 source_code_url: https://github.com/formsmd/formsmd
-description: Build multi-step forms and surveys with minimal code
+description: Forms.md 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

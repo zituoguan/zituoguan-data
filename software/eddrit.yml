@@ -1,10 +1,10 @@
 name: eddrit
 website_url: https://eddrit.com
 source_code_url: https://github.com/corenting/eddrit
-description: Lightweight alternative frontend for Reddit
+description: eddrit 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 健康和健身

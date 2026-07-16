@@ -1,7 +1,7 @@
 name: Posteria
 website_url: https://posteria.app
 source_code_url: https://github.com/jeremehancock/Posteria
-description: Web-based media poster management system
+description: Posteria 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

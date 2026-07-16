@@ -6,7 +6,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 杂项
+  - 监控和状态页面
 source_code_url: https://github.com/mosparo/mosparo
 stargazers_count: 301
 updated_at: '2026-07-11'

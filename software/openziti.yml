@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Go
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）
 source_code_url: https://github.com/openziti/ziti
 stargazers_count: 4292
 updated_at: '2026-07-08'

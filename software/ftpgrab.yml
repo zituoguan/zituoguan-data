@@ -1,7 +1,7 @@
 name: FTPGrab
 website_url: https://crazymax.dev/ftpgrab/
 source_code_url: https://github.com/crazy-max/ftpgrab
-description: Easily grab files periodically from a remote server
+description: FTPGrab 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

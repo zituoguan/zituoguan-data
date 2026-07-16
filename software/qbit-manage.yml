@@ -1,7 +1,7 @@
 name: qBit Manage
 website_url: https://github.com/StuffAnThings/qbit_manage
 source_code_url: https://github.com/StuffAnThings/qbit_manage
-description: Manage and automate tedious tasks in qBittorrent
+description: qBit Manage 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

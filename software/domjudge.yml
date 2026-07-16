@@ -8,7 +8,7 @@ licenses:
 platforms:
   - PHP
 tags:
-  - 杂项
+  - 软件开发 - 测试
 source_code_url: https://github.com/DOMjudge/domjudge
 demo_url: https://www.domjudge.org/demo
 stargazers_count: 905

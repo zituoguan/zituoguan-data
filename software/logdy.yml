@@ -1,7 +1,7 @@
 name: Logdy
 website_url: https://logdy.dev
 source_code_url: https://github.com/logdyhq/logdy-core
-description: Web-based real-time log viewer
+description: Logdy 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

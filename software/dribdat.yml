@@ -1,7 +1,7 @@
 name: Dribdat
 website_url: https://dribdat.cc
 source_code_url: https://github.com/dribdat/dribdat
-description: Self-hosted challenge boards for sweeter hackathons
+description: Dribdat 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

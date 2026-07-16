@@ -1,10 +1,10 @@
 name: Squirrel Servers Manager
 website_url: https://squirrelserversmanager.io/
 source_code_url: https://github.com/SquirrelCorporation/SquirrelServersManager
-description: User-friendly server configuration and management tool
+description: Squirrel Servers Manager 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 会议管理

@@ -1,10 +1,10 @@
 name: Anonymous Overflow
 website_url: https://aohub.httpjames.space
 source_code_url: https://github.com/httpjamesm/AnonymousOverflow
-description: Privacy frontend for StackOverflow
+description: Anonymous Overflow 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

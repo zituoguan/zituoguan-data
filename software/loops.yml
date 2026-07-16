@@ -1,7 +1,7 @@
 name: Loops
 website_url: https://joinloops.org
 source_code_url: https://github.com/joinloops/loops-server
-description: Federated short video sharing platform
+description: Loops 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

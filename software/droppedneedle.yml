@@ -1,7 +1,7 @@
 name: DroppedNeedle
 website_url: https://musicseerr.com/
 source_code_url: https://github.com/DroppedNeedle/DroppedNeedle
-description: Music request and discovery for Lidarr
+description: DroppedNeedle 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

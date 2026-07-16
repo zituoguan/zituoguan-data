@@ -1,7 +1,7 @@
 name: Mini QR
 website_url: https://github.com/lyqht/mini-qr
 source_code_url: https://github.com/lyqht/mini-qr
-description: Scan and generate customized QR codes easily
+description: Mini QR 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

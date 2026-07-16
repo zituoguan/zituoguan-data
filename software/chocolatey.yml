@@ -7,7 +7,7 @@ platforms:
   - C#
   - PowerShell
 tags:
-  - 杂项
+  - 软件开发 - 项目管理
 source_code_url: https://github.com/chocolatey/choco
 stargazers_count: 11451
 updated_at: '2026-07-14'

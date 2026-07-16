@@ -1,7 +1,7 @@
 name: Mbin
 website_url: https://joinmbin.org
 source_code_url: https://github.com/MbinOrg/mbin
-description: Federated content aggregator and microblogging platform
+description: Mbin 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

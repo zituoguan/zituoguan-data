@@ -1,7 +1,7 @@
 name: YT-DLP Web Player
 website_url: https://github.com/Matszwe02/ytdlp_web_player
 source_code_url: https://github.com/Matszwe02/ytdlp_web_player
-description: Web video player powered by yt-dlp
+description: YT-DLP Web Player 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

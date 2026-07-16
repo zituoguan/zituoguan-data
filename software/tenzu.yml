@@ -1,7 +1,7 @@
 name: Tenzu
 website_url: https://http://tenzu.net
 source_code_url: https://github.com/BIRU-Scop/tenzu-back
-description: Companion tool for launching digital projects
+description: Tenzu 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

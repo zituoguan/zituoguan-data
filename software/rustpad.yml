@@ -1,7 +1,7 @@
 name: Rustpad
 website_url: https://rustpad.io
 source_code_url: https://github.com/ekzhang/rustpad
-description: Minimal collaborative code editor
+description: Rustpad 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

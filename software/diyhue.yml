@@ -1,10 +1,10 @@
 name: diyHue
 website_url: https://diyhue.org/
 source_code_url: https://github.com/diyhue/diyHue
-description: Open source Hue Bridge emulator
+description: diyHue 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 物联网（IoT）

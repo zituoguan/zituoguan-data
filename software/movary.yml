@@ -8,7 +8,7 @@ platforms:
   - Docker
   - PHP
 tags:
-  - 杂项
+  - 媒体管理
 depends_3rdparty: true
 demo_url: https://github.com/leepeuker/movary?tab=readme-ov-file#demo
 stargazers_count: 754

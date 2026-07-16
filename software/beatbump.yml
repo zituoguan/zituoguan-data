@@ -1,7 +1,7 @@
 name: Beatbump
 website_url: https://beatbump.io/
 source_code_url: https://github.com/snuffyDev/Beatbump
-description: Privacy-respecting alternative frontend for YouTube Music
+description: Beatbump 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

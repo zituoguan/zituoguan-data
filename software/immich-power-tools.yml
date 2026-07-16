@@ -1,7 +1,7 @@
 name: Immich Power Tools
 website_url: https://immich-power-tools.featureos.app/
 source_code_url: https://github.com/immich-power-tools/immich-power-tools
-description: Power tools for organizing Immich libraries
+description: Immich Power Tools 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

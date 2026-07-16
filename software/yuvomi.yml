@@ -1,10 +1,10 @@
 name: Yuvomi
 website_url: https://yuvomi.cloud/
 source_code_url: https://github.com/ulsklyc/yuvomi
-description: Family planner for small households
+description: Yuvomi 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 音频流媒体

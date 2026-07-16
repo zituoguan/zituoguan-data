@@ -1,7 +1,7 @@
 name: Hoodik
 website_url: https://github.com/hudikhq/hoodik
 source_code_url: https://github.com/hudikhq/hoodik
-description: Lightweight and secure cloud storage solution
+description: Hoodik 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

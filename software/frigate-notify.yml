@@ -1,7 +1,7 @@
 name: Frigate-Notify
 website_url: https://frigate-notify.0x2142.com/
 source_code_url: https://github.com/0x2142/frigate-notify
-description: Event notifications for a standalone Frigate NVR instance
+description: Frigate-Notify 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

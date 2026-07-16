@@ -1,10 +1,10 @@
 name: Nimtable
 website_url: https://github.com/nimtable/nimtable
 source_code_url: https://github.com/nimtable/nimtable
-description: Web interface for Apache Iceberg
+description: Nimtable 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

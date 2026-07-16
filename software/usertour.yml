@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 工单
 source_code_url: https://github.com/usertour/usertour/
 stargazers_count: 2067
 updated_at: '2026-07-14'

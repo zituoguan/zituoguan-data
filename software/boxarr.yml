@@ -1,7 +1,7 @@
 name: Boxarr
 website_url: https://github.com/iongpt/boxarr
 source_code_url: https://github.com/iongpt/boxarr
-description: Automatically add trending box office movies to Radarr
+description: Boxarr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Touitomamout
 website_url: https://github.com/louisgrasset/touitomamout
 source_code_url: https://github.com/louisgrasset/touitomamout
-description: Easily sync tweets to Mastodon and Bluesky
+description: Touitomamout 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

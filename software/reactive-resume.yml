@@ -7,7 +7,7 @@ platforms:
   - Docker
   - Node.js
 tags:
-  - 杂项
+  - 生成式人工智能（GenAI）
 source_code_url: https://github.com/AmruthPillai/Reactive-Resume
 demo_url: https://rxresu.me/
 stargazers_count: 39603

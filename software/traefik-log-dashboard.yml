@@ -1,7 +1,7 @@
 name: Traefik Log Dashboard
 website_url: https://github.com/hhftechnology/traefik-log-dashboard
 source_code_url: https://github.com/hhftechnology/traefik-log-dashboard
-description: Real-time dashboard for analyzing Traefik logs
+description: Traefik Log Dashboard 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

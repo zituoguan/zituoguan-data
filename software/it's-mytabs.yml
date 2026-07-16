@@ -1,10 +1,10 @@
 name: It's MyTabs
 website_url: https://github.com/louislam/its-mytabs
 source_code_url: https://github.com/louislam/its-mytabs
-description: Guitar tab viewer and player
+description: It's MyTabs 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 书签和链接分享

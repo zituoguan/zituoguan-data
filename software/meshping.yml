@@ -1,7 +1,7 @@
 name: Meshping
 website_url: https://github.com/Svedrin/meshping
 source_code_url: https://github.com/Svedrin/meshping
-description: Ping any number of targets and collect response times
+description: Meshping 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

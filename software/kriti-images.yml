@@ -1,7 +1,7 @@
 name: Kriti Images
 website_url: https://kritiimages.com
 source_code_url: https://github.com/kritihq/kriti-images
-description: Image transformation service for real-time processing
+description: Kriti Images 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:

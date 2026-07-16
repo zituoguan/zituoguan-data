@@ -1,7 +1,7 @@
 name: Rangarr
 website_url: https://github.com/JudoChinX/rangarr
 source_code_url: https://github.com/JudoChinX/rangarr
-description: Automate media searches across the *arr stack
+description: Rangarr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Rackula
 website_url: https://racku.la
 source_code_url: https://github.com/RackulaLives/Rackula
-description: Drag-and-drop server rack visualizer
+description: Rackula 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C
 tags:
-  - 杂项
+  - 配置管理
 source_code_url: https://github.com/OpenPrinting/cups
 stargazers_count: 1684
 updated_at: '2026-07-07'

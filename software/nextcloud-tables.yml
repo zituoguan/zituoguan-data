@@ -1,7 +1,7 @@
 name: Nextcloud Tables
 website_url: https://apps.nextcloud.com/apps/tables
 source_code_url: https://github.com/nextcloud/tables
-description: No-code apps and tables
+description: Nextcloud Tables 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

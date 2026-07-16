@@ -1,7 +1,7 @@
 name: Aurral
 website_url: https://aurral.org
 source_code_url: https://github.com/lklynet/aurral
-description: Streamlined artists requests for Lidarr
+description: Aurral 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

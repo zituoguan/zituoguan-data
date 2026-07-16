@@ -1,10 +1,10 @@
 name: Atuin
 website_url: https://atuin.sh
 source_code_url: https://github.com/atuinsh/atuin
-description: Sync shell history across devices
+description: Atuin 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输和同步

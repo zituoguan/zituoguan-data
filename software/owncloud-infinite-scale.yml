@@ -1,7 +1,7 @@
 name: ownCloud Infinite Scale
 website_url: https://doc.owncloud.com/ocis/
 source_code_url: https://github.com/owncloud/ocis
-description: File sync and share platform
+description: ownCloud Infinite Scale 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

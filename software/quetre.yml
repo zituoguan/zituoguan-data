@@ -1,10 +1,10 @@
 name: Quetre
 website_url: https://quetre.iket.me
 source_code_url: https://github.com/zyachel/quetre
-description: Alternative frontend for Quora
+description: Quetre 是一个自托管的 Web 应用和服务平台。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

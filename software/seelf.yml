@@ -1,7 +1,7 @@
 name: seelf
 website_url: https://yuukanoo.github.io/seelf/
 source_code_url: https://github.com/YuukanOO/seelf
-description: Lightweight self-hosted deployment platform written in Go
+description: seelf 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

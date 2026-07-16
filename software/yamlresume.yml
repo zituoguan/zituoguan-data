@@ -1,7 +1,7 @@
 name: YAMLResume
 website_url: https://yamlresume.dev
 source_code_url: https://github.com/yamlresume/yamlresume
-description: Resume creation, generation, and version control
+description: YAMLResume 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

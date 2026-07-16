@@ -1,7 +1,7 @@
 name: Immich-Frame
 website_url: https://github.com/immichFrame/ImmichFrame
 source_code_url: https://github.com/immichFrame/ImmichFrame
-description: Awesome way to display photos as a digital photo frame
+description: Immich-Frame 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

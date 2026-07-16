@@ -1,7 +1,7 @@
 name: PortChecker
 website_url: https://portchecker.io
 source_code_url: https://github.com/dsgnr/portchecker.io
-description: Port status queries for provided hostnames or IP addresses
+description: PortChecker 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

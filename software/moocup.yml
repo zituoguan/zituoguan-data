@@ -1,10 +1,10 @@
 name: Moocup
 website_url: https://github.com/jellydeck/moocup
 source_code_url: https://github.com/jellydeck/moocup
-description: Visual editor for stunning screenshots
+description: Moocup 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 食谱管理

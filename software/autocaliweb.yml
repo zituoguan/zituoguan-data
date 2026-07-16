@@ -1,7 +1,7 @@
 name: Autocaliweb
 website_url: https://codeberg.org/gelbphoenix/autocaliweb
 source_code_url: https://github.com/gelbphoenix/autocaliweb
-description: Clean web interface for Calibre
+description: Autocaliweb 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

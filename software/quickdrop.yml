@@ -1,7 +1,7 @@
 name: QuickDrop
 website_url: https://github.com/RoastSlav/quickdrop
 source_code_url: https://github.com/RoastSlav/quickdrop
-description: Easy-to-use file sharing application
+description: QuickDrop 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

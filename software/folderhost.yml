@@ -1,7 +1,7 @@
 name: FolderHost
 website_url: https://folderhost.org
 source_code_url: https://github.com/MertJSX/folderhost
-description: Share files and collaborate with others in real-time
+description: FolderHost 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

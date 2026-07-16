@@ -1,10 +1,10 @@
 name: torrra
 website_url: https://torrra.readthedocs.io
 source_code_url: https://github.com/stabldev/torrra
-description: Download torrents directly from the CLI
+description: torrra 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

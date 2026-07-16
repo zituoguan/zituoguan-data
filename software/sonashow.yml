@@ -1,10 +1,10 @@
 name: SonaShow
 website_url: https://github.com/TheWicklowWolf/SonaShow
 source_code_url: https://github.com/TheWicklowWolf/SonaShow
-description: Web GUI for finding similar shows to selected Sonarr shows
+description: SonaShow 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理

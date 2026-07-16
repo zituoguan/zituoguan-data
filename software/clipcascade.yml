@@ -8,7 +8,7 @@ platforms:
   - Java
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享
 stargazers_count: 1820
 updated_at: '2026-05-04'
 archived: false

@@ -1,7 +1,7 @@
 name: Pinkary
 website_url: https://pinkary.com
 source_code_url: https://github.com/pinkary-project/pinkary.com
-description: Federated landing page for links and connecting with others without the noise
+description: Pinkary 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

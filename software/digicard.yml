@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 杂项
+  - 内容管理系统（CMS）
 demo_url: https://ladigitale.dev/digicard/
 source_code_url: https://codeberg.org/ladigitale/digicard

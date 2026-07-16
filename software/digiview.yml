@@ -7,7 +7,7 @@ platforms:
   - Node.js
   - PHP
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体
 source_code_url: https://codeberg.org/ladigitale/digiview
 demo_url: https://ladigitale.dev/digiview/
 depends_3rdparty: true

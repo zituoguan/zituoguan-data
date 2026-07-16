@@ -1,10 +1,10 @@
 name: Relaticle
 website_url: https://relaticle.com
 source_code_url: https://github.com/relaticle/relaticle
-description: Modern client relationship management
+description: Relaticle 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 部署自动化

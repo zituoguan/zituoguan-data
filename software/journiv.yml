@@ -1,10 +1,10 @@
 name: Journiv
 website_url: https://www.journiv.com
 source_code_url: https://github.com/journiv/journiv-app
-description: Private journaling app
+description: Journiv 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 书签和链接分享

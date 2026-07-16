@@ -1,10 +1,10 @@
 name: Fenrus
 website_url: https://github.com/revenz/Fenrus
 source_code_url: https://github.com/revenz/Fenrus
-description: Personal home page for quick access to personal apps
+description: Fenrus 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 个人仪表板

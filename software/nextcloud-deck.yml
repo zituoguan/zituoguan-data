@@ -1,7 +1,7 @@
 name: Nextcloud Deck
 website_url: https://apps.nextcloud.com/apps/deck
 source_code_url: https://github.com/nextcloud/deck
-description: Kanban-style project management app for Nextcloud
+description: Nextcloud Deck 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

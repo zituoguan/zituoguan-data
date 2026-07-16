@@ -1,7 +1,7 @@
 name: Frames
 website_url: https://github.com/eleven-am/frames
 source_code_url: https://github.com/eleven-am/frames
-description: Modern streaming video on demand platform
+description: Frames 是一个自托管的 Web 应用和服务平台。
 licenses:
   - MIT
 platforms:

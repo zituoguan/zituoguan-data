@@ -1,7 +1,7 @@
 name: Invoicerr
 website_url: https://docs.invoicerr.app/
 source_code_url: https://github.com/invoicerr-app/invoicerr
-description: Invoicing app for freelancers
+description: Invoicerr 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Imagor Studio
 website_url: https://imagor.net
 source_code_url: https://github.com/cshum/imagor-studio
-description: Image gallery and live editing web app
+description: Imagor Studio 是一个自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:
