@@ -1,0 +1,11 @@
+name: Docmost
+website_url: https://docmost.com
+source_code_url: https://github.com/docmost/docmost
+description: 开源协作维基和文档平台，Notion 和 Confluence 的替代品，支持实时协作和 Markdown。
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 维基

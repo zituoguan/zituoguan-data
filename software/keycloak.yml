@@ -1,21 +1,11 @@
-name: KeyCloak
+name: Keycloak
 website_url: https://www.keycloak.org
-description: 开源身份与访问管理。
+source_code_url: https://github.com/keycloak/keycloak
+description: 开源身份和访问管理平台，支持 SSO、OIDC、SAML、社交登录和用户联合。
 licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
 tags:
   - 身份管理 - 单点登录（SSO）
-source_code_url: https://github.com/keycloak/keycloak
-stargazers_count: 35678
-updated_at: '2026-07-15'
-archived: false
-current_release:
-  tag: nightly
-  published_at: '2022-09-27'
-commit_history:
-  2026-04: 285
-  2026-05: 244
-  2026-06: 328
-  2026-07: 115

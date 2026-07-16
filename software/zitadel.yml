@@ -1,23 +1,11 @@
 name: ZITADEL
-website_url: https://zitadel.com/
-description: 云原生身份与访问管理解决方案，提供安全认证、授权和身份管理平台。
+website_url: https://zitadel.com
+source_code_url: https://github.com/zitadel/zitadel
+description: 现代身份基础设施平台，提供 OIDC、SSO、用户管理和安全策略的简化方案。
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Go
   - Docker
-  - K8S
 tags:
-  - 身份管理 - 工具和 Web 界面
-source_code_url: https://github.com/zitadel/zitadel
-stargazers_count: 14423
-updated_at: '2026-07-15'
-archived: false
-current_release:
-  tag: v4.16.0
-  published_at: '2026-07-10'
-commit_history:
-  2026-04: 53
-  2026-05: 9
-  2026-06: 34
-  2026-07: 33
+  - 身份管理 - 单点登录（SSO）

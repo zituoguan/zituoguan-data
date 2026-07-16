@@ -1,0 +1,11 @@
+name: AFFiNE
+website_url: https://affine.pro
+source_code_url: https://github.com/toeverything/AFFiNE
+description: 下一代知识库，融合文档、白板和数据库，Notion 和 Miro 的开源替代品。
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - 笔记工具

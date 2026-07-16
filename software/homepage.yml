@@ -1,0 +1,11 @@
+name: Homepage
+website_url: https://gethomepage.dev
+source_code_url: https://github.com/gethomepage/homepage
+description: 高度可定制的应用仪表板起始页，支持 Docker 和服务 API 自动集成。
+licenses:
+  - GPL-3.0
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - 个人仪表板

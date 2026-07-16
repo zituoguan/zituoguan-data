@@ -1,0 +1,11 @@
+name: Readarr
+website_url: https://readarr.com
+source_code_url: https://github.com/Readarr/Readarr
+description: 电子书和有声书自动下载管理器（Sonarr for Ebooks），支持 Usenet 和 BitTorrent。
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - 媒体管理
