@@ -1,0 +1,10 @@
+name: Autocaliweb
+website_url: https://codeberg.org/gelbphoenix/autocaliweb
+source_code_url: https://github.com/gelbphoenix/autocaliweb
+description: Clean web interface for Calibre
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

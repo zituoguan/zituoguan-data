@@ -1,0 +1,10 @@
+name: VaulTLS
+website_url: https://github.com/7ritn/VaulTLS
+source_code_url: https://github.com/7ritn/VaulTLS
+description: mTLS certificate manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

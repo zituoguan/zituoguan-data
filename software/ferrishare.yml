@@ -1,0 +1,10 @@
+name: FerriShare
+website_url: https://github.com/TobiasMarschner/ferrishare
+source_code_url: https://github.com/TobiasMarschner/ferrishare
+description: Simple file sharing app with E2E encryption
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Foundry Virtual Tabletop
+website_url: https://foundryvtt.com/
+source_code_url: https://github.com/foundryvtt/foundryvtt
+description: Modern roleplaying platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

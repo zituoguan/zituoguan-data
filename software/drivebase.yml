@@ -1,0 +1,10 @@
+name: Drivebase
+website_url: https://drivebase.io
+source_code_url: https://github.com/drivebase/drivebase
+description: Cloud-agnostic file management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

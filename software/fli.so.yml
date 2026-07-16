@@ -1,0 +1,10 @@
+name: Fli.so
+website_url: https://Fli.so
+source_code_url: https://github.com/thisuxhq/fli.so
+description: Lightning-fast URL shortener with a clean interface
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

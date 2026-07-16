@@ -1,0 +1,10 @@
+name: Subatic
+website_url: https://subatic.com
+source_code_url: https://github.com/orthdron/subatic
+description: Simple video hosting site that scales with content
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

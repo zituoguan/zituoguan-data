@@ -1,0 +1,10 @@
+name: Xibo
+website_url: https://xibosignage.com
+source_code_url: https://github.com/xibosignage/xibo
+description: Open source digital signage platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

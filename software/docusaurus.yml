@@ -1,0 +1,10 @@
+name: Docusaurus
+website_url: https://docusaurus.io
+source_code_url: https://github.com/facebook/docusaurus
+description: Easy to maintain open source docs
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

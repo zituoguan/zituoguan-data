@@ -1,0 +1,10 @@
+name: Refeed
+website_url: https://github.com/michaelkremenetsky/Refeed
+source_code_url: https://github.com/michaelkremenetsky/Refeed
+description: Open source RSS reader for the modern human
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

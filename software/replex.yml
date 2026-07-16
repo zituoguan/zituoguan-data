@@ -1,0 +1,10 @@
+name: Replex
+website_url: https://github.com/lostb1t/replex
+source_code_url: https://github.com/lostb1t/replex
+description: Proxy for transforming the communication between a Plex server and clients
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 媒体管理

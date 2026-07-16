@@ -1,0 +1,10 @@
+name: Jellyplist
+website_url: https://github.com/kamilkosek/jellyplist
+source_code_url: https://github.com/kamilkosek/jellyplist
+description: Sync Spotify playlists to Jellyfin
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

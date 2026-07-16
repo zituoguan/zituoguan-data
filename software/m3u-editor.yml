@@ -1,0 +1,10 @@
+name: m3u-editor
+website_url: https://github.com/m3ue/m3u-editor
+source_code_url: https://github.com/m3ue/m3u-editor
+description: IPTV playlist filtering and editing
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

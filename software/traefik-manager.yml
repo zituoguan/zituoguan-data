@@ -1,0 +1,10 @@
+name: Traefik Manager
+website_url: https://traefik-manager.xyzlab.dev/
+source_code_url: https://github.com/chr0nzz/traefik-manager
+description: Clean web interface for managing Traefik
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

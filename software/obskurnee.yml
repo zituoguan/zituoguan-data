@@ -1,0 +1,10 @@
+name: Obskurnee
+website_url: https://github.com/zblesk/obskurnee
+source_code_url: https://github.com/zblesk/obskurnee
+description: Book club companion for voting on upcoming books
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

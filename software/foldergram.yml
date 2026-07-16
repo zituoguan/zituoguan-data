@@ -1,0 +1,10 @@
+name: Foldergram
+website_url: https://foldergram.github.io
+source_code_url: https://github.com/foldergram/foldergram
+description: Instagram-inspired photo and video gallery
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

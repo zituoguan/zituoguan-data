@@ -1,0 +1,10 @@
+name: Silicon Notes
+website_url: https://github.com/cu/silicon
+source_code_url: https://github.com/cu/silicon
+description: Web-based personal knowledge base with few frills
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

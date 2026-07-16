@@ -1,0 +1,10 @@
+name: Lingarr
+website_url: https://github.com/lingarr-translate/lingarr
+source_code_url: https://github.com/lingarr-translate/lingarr
+description: Automatically translate subtitle files to a desired language
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

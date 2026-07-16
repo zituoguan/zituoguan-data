@@ -1,0 +1,10 @@
+name: GoAway
+website_url: https://pommee.github.io/goaway/
+source_code_url: https://github.com/pommee/goaway
+description: Lightweight DNS sinkhole for blocking unwanted domains
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

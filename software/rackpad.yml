@@ -1,0 +1,10 @@
+name: Rackpad
+website_url: https://rackpad.net
+source_code_url: https://github.com/Kobii-git/rackpad
+description: Infrastructure inventory and operations workspace
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

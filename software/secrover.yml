@@ -1,0 +1,10 @@
+name: Secrover
+website_url: https://secrover.org
+source_code_url: https://github.com/Secrover/Secrover
+description: Open source security reports
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

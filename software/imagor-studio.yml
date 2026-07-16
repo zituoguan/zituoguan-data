@@ -1,0 +1,10 @@
+name: Imagor Studio
+website_url: https://imagor.net
+source_code_url: https://github.com/cshum/imagor-studio
+description: Image gallery and live editing web app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Notifiarr
+website_url: https://notifiarr.wiki
+source_code_url: https://github.com/Notifiarr/notifiarr
+description: Monitoring and notifications via Discord
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

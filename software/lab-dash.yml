@@ -1,0 +1,10 @@
+name: Lab Dash
+website_url: https://github.com/AnthonyGress/lab-dash
+source_code_url: https://github.com/AnthonyGress/lab-dash
+description: Application and server management dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

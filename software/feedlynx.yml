@@ -1,0 +1,10 @@
+name: Feedlynx
+website_url: https://github.com/wezm/feedlynx
+source_code_url: https://github.com/wezm/feedlynx
+description: Generate RSS feeds for links collected via browser extension
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

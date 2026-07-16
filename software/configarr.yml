@@ -1,0 +1,10 @@
+name: Configarr
+website_url: https://configarr.de/
+source_code_url: https://github.com/raydak-labs/configarr
+description: Simplified config sync for Radarr and Sonarr
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

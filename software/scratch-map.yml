@@ -1,0 +1,10 @@
+name: Scratch Map
+website_url: https://github.com/ad3m3r5/scratch-map
+source_code_url: https://github.com/ad3m3r5/scratch-map
+description: Scratch-off style map for tracking travels
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

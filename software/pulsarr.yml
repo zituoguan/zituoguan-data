@@ -1,0 +1,10 @@
+name: Pulsarr
+website_url: https://jamcalli.github.io/Pulsarr/
+source_code_url: https://github.com/jamcalli/Pulsarr
+description: Plex watchlist monitoring, routing, and notifications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

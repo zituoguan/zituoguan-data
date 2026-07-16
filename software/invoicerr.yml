@@ -1,0 +1,10 @@
+name: Invoicerr
+website_url: https://docs.invoicerr.app/
+source_code_url: https://github.com/invoicerr-app/invoicerr
+description: Invoicing app for freelancers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

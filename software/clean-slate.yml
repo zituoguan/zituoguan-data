@@ -1,0 +1,10 @@
+name: Clean Slate
+website_url: https://cleanslate.sh
+source_code_url: https://github.com/successible/cleanslate
+description: Calorie tracking without judgement
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

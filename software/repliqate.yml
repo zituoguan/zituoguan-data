@@ -1,0 +1,10 @@
+name: Repliqate
+website_url: https://lminlone.github.io/repliqate/
+source_code_url: https://github.com/lminlone/repliqate
+description: Modular backup solution for Docker environments
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

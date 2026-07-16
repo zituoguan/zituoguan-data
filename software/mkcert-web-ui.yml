@@ -1,0 +1,10 @@
+name: mkcert Web UI
+website_url: https://github.com/jeffcaldwellca/mkcertWeb
+source_code_url: https://github.com/jeffcaldwellca/mkcertWeb
+description: Modern web interface for mkcert
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: DumbWhoIs
+website_url: https://dumbwhois.dumbware.io/
+source_code_url: https://github.com/DumbWareio/DumbWhoIs
+description: Stupidly simple WHOIS, IP, and ASN lookups
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

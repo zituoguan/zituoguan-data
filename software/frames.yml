@@ -1,0 +1,10 @@
+name: Frames
+website_url: https://github.com/eleven-am/frames
+source_code_url: https://github.com/eleven-am/frames
+description: Modern streaming video on demand platform
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

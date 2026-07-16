@@ -1,0 +1,10 @@
+name: Haptic
+website_url: https://haptic.md
+source_code_url: https://github.com/chroxify/haptic
+description: Local-first, privacy-focused home for Markdown notes
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

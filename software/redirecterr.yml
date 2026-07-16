@@ -1,0 +1,10 @@
+name: Redirecterr
+website_url: https://github.com/varthe/Redirecterr
+source_code_url: https://github.com/varthe/Redirecterr
+description: Filter and redirect Overseerr requests
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

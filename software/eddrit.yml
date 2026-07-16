@@ -1,0 +1,10 @@
+name: eddrit
+website_url: https://eddrit.com
+source_code_url: https://github.com/corenting/eddrit
+description: Lightweight alternative frontend for Reddit
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: ViniPlay
+website_url: https://github.com/ardoviniandrea/ViniPlay
+source_code_url: https://github.com/ardoviniandrea/ViniPlay
+description: IPTV player with a modern web interface
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: AnyAppStart
+website_url: https://github.com/aceberg/AnyAppStart
+source_code_url: https://github.com/aceberg/AnyAppStart
+description: Basic control panel for Docker, Systemd, VMs, and everything else
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

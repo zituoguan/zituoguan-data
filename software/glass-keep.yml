@@ -1,0 +1,10 @@
+name: Glass Keep
+website_url: https://github.com/nikunjsingh93/react-glass-keep
+source_code_url: https://github.com/nikunjsingh93/react-glass-keep
+description: Glassy Keep-style notes app
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

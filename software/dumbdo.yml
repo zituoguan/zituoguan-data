@@ -1,0 +1,10 @@
+name: DumbDo
+website_url: https://github.com/DumbWareio/DumbDo
+source_code_url: https://github.com/DumbWareio/DumbDo
+description: Stupidly simple to-do list
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

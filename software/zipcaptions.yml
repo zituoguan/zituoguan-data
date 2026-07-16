@@ -1,0 +1,10 @@
+name: ZipCaptions
+website_url: https://zipcaptions.app
+source_code_url: https://github.com/jptrsn/zip-captions
+description: Generate text from a given audio source using only your browser
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

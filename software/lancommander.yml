@@ -1,0 +1,10 @@
+name: LANCommander
+website_url: https://lancommander.app
+source_code_url: https://github.com/LANCommander/LANCommander
+description: Open source video game distribution platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

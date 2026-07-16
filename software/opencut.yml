@@ -1,0 +1,10 @@
+name: OpenCut
+website_url: https://opencut.app
+source_code_url: https://github.com/OpenCut-app/OpenCut
+description: Video editor for web, desktop, and mobile
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Amurex
+website_url: https://api.amurex.ai
+source_code_url: https://github.com/thepersonalaicompany/amurex-backend
+description: Simple yet powerful AI meeting assistant
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

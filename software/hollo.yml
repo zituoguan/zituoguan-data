@@ -1,0 +1,10 @@
+name: Hollo
+website_url: https://docs.hollo.social/
+source_code_url: https://github.com/fedify-dev/hollo
+description: Federated single-user microblogging software
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

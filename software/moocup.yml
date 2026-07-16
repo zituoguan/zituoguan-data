@@ -1,0 +1,10 @@
+name: Moocup
+website_url: https://github.com/jellydeck/moocup
+source_code_url: https://github.com/jellydeck/moocup
+description: Visual editor for stunning screenshots
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

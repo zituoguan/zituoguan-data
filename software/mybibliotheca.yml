@@ -1,0 +1,10 @@
+name: MyBibliotheca
+website_url: https://github.com/pickles4evaaaa/mybibliotheca
+source_code_url: https://github.com/pickles4evaaaa/mybibliotheca
+description: Personal library and reading tracker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

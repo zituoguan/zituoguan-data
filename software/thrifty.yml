@@ -1,0 +1,10 @@
+name: Thrifty
+website_url: https://buymeacoffee.com/tiehfood
+source_code_url: https://github.com/tiehfood/thrifty
+description: Simple monthly income and expense tracker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

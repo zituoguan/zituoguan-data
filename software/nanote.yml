@@ -1,0 +1,10 @@
+name: Nanote
+website_url: https://github.com/omarmir/nanote
+source_code_url: https://github.com/omarmir/nanote
+description: Lightweight note-taking app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

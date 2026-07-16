@@ -1,0 +1,10 @@
+name: lurker
+website_url: https://github.com/oppiliappan/lurker
+source_code_url: https://github.com/oppiliappan/lurker
+description: Read-only Reddit frontend with mobile support
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

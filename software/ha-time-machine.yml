@@ -1,0 +1,10 @@
+name: HA Time Machine
+website_url: https://github.com/saihgupr/HomeAssistantTimeMachine
+source_code_url: https://github.com/saihgupr/HomeAssistantTimeMachine
+description: Web-based time machine tool for Home Assistant configs
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

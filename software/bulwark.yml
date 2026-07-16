@@ -1,0 +1,10 @@
+name: Bulwark
+website_url: https://bulwarkmail.org
+source_code_url: https://github.com/bulwarkmail/webmail
+description: Webmail client for Stalwart Mail
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

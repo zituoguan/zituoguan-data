@@ -1,0 +1,10 @@
+name: Portall
+website_url: https://github.com/need4swede/Portall
+source_code_url: https://github.com/need4swede/Portall
+description: Generate, track, and organize container ports across multiple hosts
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

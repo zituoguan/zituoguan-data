@@ -1,0 +1,10 @@
+name: PortChecker
+website_url: https://portchecker.io
+source_code_url: https://github.com/dsgnr/portchecker.io
+description: Port status queries for provided hostnames or IP addresses
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

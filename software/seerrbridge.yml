@@ -1,0 +1,10 @@
+name: SeerrBridge
+website_url: https://soluify.com
+source_code_url: https://github.com/Woahai321/SeerrBridge
+description: Integration for Jellyseerr/Overseerr and DebridMediaManager
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

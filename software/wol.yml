@@ -1,0 +1,10 @@
+name: wol
+website_url: https://github.com/Trugamr/wol
+source_code_url: https://github.com/Trugamr/wol
+description: Simple Wake-on-LAN web interface
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

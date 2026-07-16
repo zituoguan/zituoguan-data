@@ -1,0 +1,10 @@
+name: Elysian
+website_url: https://github.com/Aadityajoshi151/Elysian
+source_code_url: https://github.com/Aadityajoshi151/Elysian
+description: Backup and sync tool for browser bookmarks
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Sticky
+website_url: https://www.sticky.today
+source_code_url: https://github.com/hamzasaleem2/sticky
+description: Digital sticky note application for organizing thoughts, ideas, and tasks
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

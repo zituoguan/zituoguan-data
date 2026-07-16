@@ -1,0 +1,10 @@
+name: Anonymous Overflow
+website_url: https://aohub.httpjames.space
+source_code_url: https://github.com/httpjamesm/AnonymousOverflow
+description: Privacy frontend for StackOverflow
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

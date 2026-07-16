@@ -1,0 +1,10 @@
+name: Jellyswarrm
+website_url: https://github.com/LLukas22/Jellyswarrm
+source_code_url: https://github.com/LLukas22/Jellyswarrm
+description: Combine multiple Jellyfin servers into one library
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

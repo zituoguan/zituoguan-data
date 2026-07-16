@@ -1,0 +1,10 @@
+name: Traefik Log Dashboard
+website_url: https://github.com/hhftechnology/traefik-log-dashboard
+source_code_url: https://github.com/hhftechnology/traefik-log-dashboard
+description: Real-time dashboard for analyzing Traefik logs
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

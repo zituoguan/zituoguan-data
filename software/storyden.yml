@@ -1,0 +1,10 @@
+name: Storyden
+website_url: https://www.storyden.org/
+source_code_url: https://github.com/Southclaws/storyden
+description: Fresh take on bulletin board forum software
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

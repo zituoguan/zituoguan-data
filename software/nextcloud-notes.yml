@@ -1,0 +1,10 @@
+name: Nextcloud Notes
+website_url: https://apps.nextcloud.com/apps/notes
+source_code_url: https://github.com/nextcloud/notes
+description: Distraction-free notes and writing
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

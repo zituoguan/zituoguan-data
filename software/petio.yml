@@ -1,0 +1,10 @@
+name: Petio
+website_url: https://petio.tv
+source_code_url: https://github.com/petio-team/petio
+description: Request, review, and discover companion app for Plex
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

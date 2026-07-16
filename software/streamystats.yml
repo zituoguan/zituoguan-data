@@ -1,0 +1,10 @@
+name: Streamystats
+website_url: https://github.com/fredrikburmester/streamystats
+source_code_url: https://github.com/fredrikburmester/streamystats
+description: Statistics and analytics service for Jellyfin
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

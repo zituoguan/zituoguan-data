@@ -1,0 +1,10 @@
+name: Markopolis
+website_url: https://markopolis.app
+source_code_url: https://github.com/rishikanthc/markopolis
+description: Web app and API server for Markdown files
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

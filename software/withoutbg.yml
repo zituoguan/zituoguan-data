@@ -1,0 +1,10 @@
+name: withoutbg
+website_url: https://github.com/withoutbg/withoutbg-inference
+source_code_url: https://github.com/withoutbg/withoutbg-inference
+description: AI-powered image background removal
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

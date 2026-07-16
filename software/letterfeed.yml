@@ -1,0 +1,10 @@
+name: LetterFeed
+website_url: https://github.com/LeonMusCoden/LetterFeed
+source_code_url: https://github.com/LeonMusCoden/LetterFeed
+description: Transform e-mail into RSS feeds
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: MinusPod
+website_url: https://github.com/ttlequals0/MinusPod
+source_code_url: https://github.com/ttlequals0/MinusPod
+description: Podcast server with automatic ad removal
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

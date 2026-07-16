@@ -1,0 +1,10 @@
+name: Homarr iFrames
+website_url: https://github.com/diogovalentte/homarr-iframes
+source_code_url: https://github.com/diogovalentte/homarr-iframes
+description: iFrames designed for Homarr dashboards
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 个人仪表板

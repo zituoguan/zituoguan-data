@@ -1,0 +1,10 @@
+name: PatchPanda
+website_url: https://github.com/dkorecko/PatchPanda
+source_code_url: https://github.com/dkorecko/PatchPanda
+description: Docker Compose stack update manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Librum
+website_url: https://librumreader.com
+source_code_url: https://github.com/Librum-Reader/Librum
+description: Ebook reader and manager
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Trailarr
+website_url: https://nandyalu.github.io/trailarr/
+source_code_url: https://github.com/nandyalu/trailarr
+description: Download and manage trailers for media libraries
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

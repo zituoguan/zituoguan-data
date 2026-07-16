@@ -1,0 +1,10 @@
+name: OpenPanel
+website_url: https://openpanel.com
+source_code_url: https://github.com/stefanpejcic/OpenPanel
+description: Powerful and flexible web hosting control panel for Linux
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

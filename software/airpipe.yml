@@ -1,0 +1,10 @@
+name: AirPipe
+website_url: https://airpipe.sanyamgarg.com
+source_code_url: https://github.com/Sanyam-G/Airpipe
+description: P2P file transfers between devices
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

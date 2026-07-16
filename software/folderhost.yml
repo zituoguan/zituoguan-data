@@ -1,0 +1,10 @@
+name: FolderHost
+website_url: https://folderhost.org
+source_code_url: https://github.com/MertJSX/folderhost
+description: Share files and collaborate with others in real-time
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

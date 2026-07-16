@@ -1,0 +1,10 @@
+name: Openchangelog
+website_url: https://openchangelog.com
+source_code_url: https://github.com/JonasHiltl/openchangelog
+description: Easy to configure and self-hostable changelog website
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

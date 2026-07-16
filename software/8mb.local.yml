@@ -1,0 +1,10 @@
+name: 8mb.local
+website_url: https://8mb.campuscal.tech/
+source_code_url: https://github.com/JMS1717/8mb.local
+description: Browser-based video compressor
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

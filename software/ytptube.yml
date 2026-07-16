@@ -1,0 +1,10 @@
+name: YTPTube
+website_url: https://github.com/arabcoders/ytptube
+source_code_url: https://github.com/arabcoders/ytptube
+description: Web-based GUI for yt-dlp
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

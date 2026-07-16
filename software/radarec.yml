@@ -1,0 +1,10 @@
+name: RadaRec
+website_url: https://github.com/TheWicklowWolf/RadaRec
+source_code_url: https://github.com/TheWicklowWolf/RadaRec
+description: Web GUI for finding similar movies to selected Radarr movies
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Posterizarr
+website_url: https://github.com/fscorrupt/posterizarr
+source_code_url: https://github.com/fscorrupt/posterizarr
+description: Automate the creation of posters for media libraries
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 媒体管理

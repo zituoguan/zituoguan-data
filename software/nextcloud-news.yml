@@ -1,0 +1,10 @@
+name: Nextcloud News
+website_url: https://apps.nextcloud.com/apps/news
+source_code_url: https://github.com/nextcloud/news
+description: RSS/Atom feed reader
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Piglet
+website_url: https://github.com/k3nd0x/piglet
+source_code_url: https://github.com/k3nd0x/piglet
+description: Simple web app for managing household budgets
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Music Service
+website_url: https://thijstakken.github.io/MusicService/
+source_code_url: https://github.com/thijstakken/MusicService
+description: Monitor, download, and sync online music
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

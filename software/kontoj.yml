@@ -1,0 +1,10 @@
+name: Kontoj
+website_url: https://kontoj.galaksio.tech
+source_code_url: https://github.com/galaksiotech/kontoj
+description: Tool for creating account credentials for multiple services via JSON
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

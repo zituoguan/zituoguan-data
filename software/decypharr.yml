@@ -1,0 +1,10 @@
+name: Decypharr
+website_url: https://github.com/sirrobot01/decypharr
+source_code_url: https://github.com/sirrobot01/decypharr
+description: qBittorrent implementation with Debrid support
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

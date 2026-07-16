@@ -1,0 +1,10 @@
+name: Hyvor Relay
+website_url: https://relay.hyvor.com
+source_code_url: https://github.com/hyvor/relay
+description: E-mail API for developers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

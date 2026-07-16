@@ -1,0 +1,10 @@
+name: BBYEN
+website_url: https://github.com/MarcelRobitaille/bbyen
+source_code_url: https://github.com/MarcelRobitaille/bbyen
+description: YouTube subscription e-mail notifications
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

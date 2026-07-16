@@ -1,0 +1,10 @@
+name: html2rss
+website_url: https://html2rss.github.io/web-application/
+source_code_url: https://github.com/html2rss/html2rss-web
+description: Generate RSS feeds for any website
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

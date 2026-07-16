@@ -1,0 +1,10 @@
+name: Argus
+website_url: https://release-argus.io
+source_code_url: https://github.com/release-argus/Argus
+description: Software release monitoring and notifications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面

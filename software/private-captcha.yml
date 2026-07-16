@@ -1,0 +1,10 @@
+name: Private Captcha
+website_url: https://privatecaptcha.com
+source_code_url: https://github.com/PrivateCaptcha/PrivateCaptcha
+description: Independent, privacy-first CAPTCHA service
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

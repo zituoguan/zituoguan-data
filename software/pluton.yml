@@ -1,0 +1,10 @@
+name: Pluton
+website_url: https://usepluton.com
+source_code_url: https://github.com/plutonhq/pluton
+description: Secure backups across local and cloud storage
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

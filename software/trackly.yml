@@ -1,0 +1,10 @@
+name: Trackly
+website_url: https://github.com/7eventy7/trackly
+source_code_url: https://github.com/7eventy7/trackly
+description: Jellyfin music library interface and release notifications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

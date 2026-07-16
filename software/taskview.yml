@@ -1,0 +1,10 @@
+name: TaskView
+website_url: https://taskview.tech/
+source_code_url: https://github.com/Gimanh/taskview-community
+description: Project and task management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

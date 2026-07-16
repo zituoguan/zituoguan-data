@@ -1,0 +1,10 @@
+name: Nextcloud Office
+website_url: https://nextcloud.com/collaboraonline
+source_code_url: https://github.com/nextcloud/richdocuments
+description: Collabora Online integration for Nextcloud
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

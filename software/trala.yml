@@ -1,0 +1,10 @@
+name: TraLa
+website_url: https://www.trala.fyi/
+source_code_url: https://github.com/dannybouwers/trala
+description: Simple, modern dashboard for Traefik services
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

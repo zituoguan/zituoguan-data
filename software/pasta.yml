@@ -1,0 +1,10 @@
+name: PASTA
+website_url: https://www.pastatool.com
+source_code_url: https://github.com/cglatot/pasta
+description: Audio and subtitle track changer for Plex
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

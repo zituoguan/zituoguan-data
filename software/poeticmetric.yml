@@ -1,0 +1,10 @@
+name: PoeticMetric
+website_url: https://poeticmetric.com
+source_code_url: https://github.com/th0th/poeticmetric
+description: Privacy-focused web analytics
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

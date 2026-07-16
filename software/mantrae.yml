@@ -1,0 +1,10 @@
+name: Mantrae
+website_url: https://mantrae.pages.dev
+source_code_url: https://github.com/MizuchiLabs/mantrae
+description: User-friendly Traefik management interface
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

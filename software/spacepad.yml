@@ -1,0 +1,10 @@
+name: Spacepad
+website_url: https://spacepad.io
+source_code_url: https://github.com/magweter/spacepad
+description: Simple meeting room occupancy display
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

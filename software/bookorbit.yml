@@ -1,0 +1,10 @@
+name: BookOrbit
+website_url: https://bookorbit.app
+source_code_url: https://github.com/bookorbit/bookorbit
+description: Library management and reading platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

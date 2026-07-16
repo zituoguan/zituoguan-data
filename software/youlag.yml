@@ -1,0 +1,10 @@
+name: Youlag
+website_url: https://github.com/civilblur/youlag
+source_code_url: https://github.com/civilblur/youlag
+description: Theme and video extension for FreshRSS
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

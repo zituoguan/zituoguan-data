@@ -1,0 +1,10 @@
+name: MQTT Web Interface
+website_url: https://github.com/terdia/mqttui
+source_code_url: https://github.com/terdia/mqttui
+description: Lightweight web interface for MQTT visualization
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: PlanarAlly
+website_url: https://www.planarally.io/
+source_code_url: https://github.com/Kruptein/PlanarAlly
+description: Virtual tabletop with offline capabilities
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Kanba
+website_url: https://kanba.co
+source_code_url: https://github.com/Kanba-co/kanba
+description: Project management and collaboration
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

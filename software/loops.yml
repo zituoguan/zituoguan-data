@@ -1,0 +1,10 @@
+name: Loops
+website_url: https://joinloops.org
+source_code_url: https://github.com/joinloops/loops-server
+description: Federated short video sharing platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

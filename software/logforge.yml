@@ -1,0 +1,10 @@
+name: LogForge
+website_url: https://www.logforge.dev/
+source_code_url: https://github.com/log-forge/logforge
+description: Service monitoring dashboard for Docker containers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

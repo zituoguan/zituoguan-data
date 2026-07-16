@@ -1,0 +1,10 @@
+name: GitSave
+website_url: https://github.com/TimWitzdam/GitSave
+source_code_url: https://github.com/TimWitzdam/GitSave
+description: Easily back up git repositories on a schedule
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

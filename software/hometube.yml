@@ -1,0 +1,10 @@
+name: HomeTube
+website_url: https://github.com/EgalitarianMonkey/hometube
+source_code_url: https://github.com/EgalitarianMonkey/hometube
+description: Universal internet video downloader
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

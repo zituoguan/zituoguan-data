@@ -1,0 +1,10 @@
+name: pyShelf
+website_url: https://github.com/th3r00t/pyShelf
+source_code_url: https://github.com/th3r00t/pyShelf
+description: Simple terminal-based ebook server
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

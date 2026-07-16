@@ -1,0 +1,10 @@
+name: Kitsu
+website_url: https://kitsu.cg-wire.com
+source_code_url: https://github.com/cgwire/kitsu
+description: Collaboration platform for VFX and animation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: SurveyJS
+website_url: https://surveyjs.io/form-library
+source_code_url: https://github.com/surveyjs/survey-library
+description: Open source surveys and forms
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

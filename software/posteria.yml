@@ -1,0 +1,10 @@
+name: Posteria
+website_url: https://posteria.app
+source_code_url: https://github.com/jeremehancock/Posteria
+description: Web-based media poster management system
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

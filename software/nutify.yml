@@ -1,0 +1,10 @@
+name: Nutify
+website_url: https://github.com/DartSteven/Nutify
+source_code_url: https://github.com/DartSteven/Nutify
+description: Modern web-based UPS monitoring
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

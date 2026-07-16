@@ -1,0 +1,10 @@
+name: Yacht
+website_url: https://github.com/SelfhostedPro/Yacht
+source_code_url: https://github.com/SelfhostedPro/Yacht
+description: Web interface for managing docker containers with templating and 1-click deployments
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

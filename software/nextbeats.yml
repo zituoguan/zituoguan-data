@@ -1,0 +1,10 @@
+name: NextBeats
+website_url: https://nextbeats.vercel.app
+source_code_url: https://github.com/btahir/next-beats
+description: Modern, customizable lofi music player
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

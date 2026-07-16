@@ -1,0 +1,10 @@
+name: Unregistry
+website_url: https://github.com/psviderski/unregistry
+source_code_url: https://github.com/psviderski/unregistry
+description: Internal container image registry
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

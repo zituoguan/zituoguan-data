@@ -1,0 +1,10 @@
+name: Self-Hosted Metrics
+website_url: https://self-hosted-metrics.com
+source_code_url: https://github.com/kOlapsis/shm
+description: Agnostic telemetry for self-hosted software
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

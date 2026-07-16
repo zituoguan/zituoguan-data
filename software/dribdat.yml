@@ -1,0 +1,10 @@
+name: Dribdat
+website_url: https://dribdat.cc
+source_code_url: https://github.com/dribdat/dribdat
+description: Self-hosted challenge boards for sweeter hackathons
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

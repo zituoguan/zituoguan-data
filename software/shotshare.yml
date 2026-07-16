@@ -1,0 +1,10 @@
+name: ShotShare
+website_url: https://github.com/mdshack/shotshare
+source_code_url: https://github.com/mdshack/shotshare
+description: Open source image sharing application
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

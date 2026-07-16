@@ -1,0 +1,10 @@
+name: Middleware Manager
+website_url: https://github.com/hhftechnology/middleware-manager
+source_code_url: https://github.com/hhftechnology/middleware-manager
+description: Traefik middleware, router, and server manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

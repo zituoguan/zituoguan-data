@@ -1,0 +1,10 @@
+name: Flox
+website_url: https://simounet.github.io/flox/
+source_code_url: https://github.com/Simounet/flox
+description: Self-hosted movie, series, and anime watch list
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Priviblur
+website_url: https://github.com/syeopite/priviblur
+source_code_url: https://github.com/syeopite/priviblur
+description: Privacy-focused alternative frontend to Tumblr
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

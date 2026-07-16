@@ -1,0 +1,10 @@
+name: Sprout Track
+website_url: https://www.sprout-track.com
+source_code_url: https://github.com/Oak-and-Sprout/sprout-track
+description: Track baby diapers, feedings, naps, pumping, and other activities
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

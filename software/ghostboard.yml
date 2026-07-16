@@ -1,0 +1,10 @@
+name: Ghostboard
+website_url: https://github.com/jon6fingrs/ghostboard
+source_code_url: https://github.com/jon6fingrs/ghostboard
+description: Real-time synchronized text sharing
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

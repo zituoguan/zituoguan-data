@@ -1,0 +1,10 @@
+name: CouchTube
+website_url: https://couchtube.fly.dev/
+source_code_url: https://github.com/ozencb/couchtube
+description: Live TV simulated YouTube frontend
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

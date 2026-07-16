@@ -1,0 +1,10 @@
+name: Dockman
+website_url: https://dockman.radn.dev/
+source_code_url: https://github.com/RA341/dockman
+description: Docker Compose file simplification
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

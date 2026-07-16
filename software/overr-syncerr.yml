@@ -1,0 +1,10 @@
+name: Overr-Syncerr
+website_url: https://github.com/gssariev/overr-syncerr
+source_code_url: https://github.com/gssariev/overr-syncerr
+description: Webhook handler for subtitle management
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

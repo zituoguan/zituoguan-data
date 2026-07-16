@@ -1,0 +1,10 @@
+name: PWgen
+website_url: https://github.com/jocxfin/pwgen
+source_code_url: https://github.com/jocxfin/pwgen
+description: Secure password generator with customizable options
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

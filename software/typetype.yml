@@ -1,0 +1,10 @@
+name: TypeType
+website_url: https://typetype.video
+source_code_url: https://github.com/TypeType-Video/TypeType
+description: Privacy-respecting YouTube frontend
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

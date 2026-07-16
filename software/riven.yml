@@ -1,0 +1,10 @@
+name: Riven
+website_url: https://riven.tv
+source_code_url: https://github.com/rivenmedia/riven
+description: Media streaming with various third-party integrations
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

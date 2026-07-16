@@ -1,0 +1,10 @@
+name: RSS Librarian
+website_url: https://www.rsslibrarian.ch/librarian.php
+source_code_url: https://github.com/thefranke/rss-librarian
+description: Read later service for RSS purists
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

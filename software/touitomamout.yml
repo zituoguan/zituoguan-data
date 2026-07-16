@@ -1,0 +1,10 @@
+name: Touitomamout
+website_url: https://github.com/louisgrasset/touitomamout
+source_code_url: https://github.com/louisgrasset/touitomamout
+description: Easily sync tweets to Mastodon and Bluesky
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

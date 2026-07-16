@@ -1,0 +1,10 @@
+name: Mbin
+website_url: https://joinmbin.org
+source_code_url: https://github.com/MbinOrg/mbin
+description: Federated content aggregator and microblogging platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

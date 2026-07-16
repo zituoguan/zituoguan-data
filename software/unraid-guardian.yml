@@ -1,0 +1,10 @@
+name: Unraid Guardian
+website_url: https://github.com/stephondoestech/unraid-config-guardian
+source_code_url: https://github.com/stephondoestech/unraid-config-guardian
+description: Disaster recovery generator for Unraid
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

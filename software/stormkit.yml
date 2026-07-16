@@ -1,0 +1,10 @@
+name: Stormkit
+website_url: https://app.stormkit.io
+source_code_url: https://github.com/stormkit-io/app-stormkit-io
+description: Infrastructure provider for Jamstack applications
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

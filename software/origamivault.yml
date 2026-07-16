@@ -1,0 +1,10 @@
+name: OrigamiVault
+website_url: https://github.com/origamivault/origamivault
+source_code_url: https://github.com/origamivault/origamivault
+description: Encrypt secrets and share them with QR codes
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

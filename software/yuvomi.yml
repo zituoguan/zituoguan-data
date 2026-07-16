@@ -1,0 +1,10 @@
+name: Yuvomi
+website_url: https://yuvomi.cloud/
+source_code_url: https://github.com/ulsklyc/yuvomi
+description: Family planner for small households
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

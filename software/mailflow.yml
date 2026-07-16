@@ -1,0 +1,10 @@
+name: MailFlow
+website_url: https://mailflow.sh
+source_code_url: https://github.com/maathimself/mailflow
+description: Unified webmail client
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: DumbKan
+website_url: https://github.com/DumbWareio/DumbKan
+source_code_url: https://github.com/DumbWareio/DumbKan
+description: Stupidly simple Kanban boards
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

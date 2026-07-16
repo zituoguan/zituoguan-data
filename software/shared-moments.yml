@@ -1,0 +1,10 @@
+name: Shared Moments
+website_url: https://github.com/tech-kev/SharedMoments
+source_code_url: https://github.com/tech-kev/SharedMoments
+description: A website designed for couples to capture and preserve their special moments
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

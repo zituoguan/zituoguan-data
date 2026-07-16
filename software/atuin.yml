@@ -1,0 +1,10 @@
+name: Atuin
+website_url: https://atuin.sh
+source_code_url: https://github.com/atuinsh/atuin
+description: Sync shell history across devices
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

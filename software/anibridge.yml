@@ -1,0 +1,10 @@
+name: AniBridge
+website_url: https://http://anibridge.eliasbenb.dev
+source_code_url: https://github.com/anibridge/anibridge
+description: Sync anime watch activity across platforms
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

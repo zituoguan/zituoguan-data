@@ -1,0 +1,10 @@
+name: Figranium
+website_url: https://figranium.dev
+source_code_url: https://github.com/figranium/figranium
+description: Browser automation and extraction tool
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

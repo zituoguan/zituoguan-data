@@ -1,0 +1,10 @@
+name: DashLit
+website_url: https://dashlit.cwec.dev/
+source_code_url: https://github.com/codewec/dashlit
+description: Simple server startpage
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

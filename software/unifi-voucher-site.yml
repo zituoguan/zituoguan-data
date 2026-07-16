@@ -1,0 +1,10 @@
+name: UniFi Voucher Site
+website_url: https://github.com/glenndehaan/unifi-voucher-site
+source_code_url: https://github.com/glenndehaan/unifi-voucher-site
+description: Generate and manage UniFi network guest vouchers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

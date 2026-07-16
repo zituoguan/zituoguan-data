@@ -1,0 +1,10 @@
+name: Doku
+website_url: https://github.com/amerkurev/doku
+source_code_url: https://github.com/amerkurev/doku
+description: Lightweight web app for analyzing Docker disk usage
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

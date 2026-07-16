@@ -1,0 +1,10 @@
+name: SpendSpentSpent
+website_url: https://lamarios.github.io/SpendSpentSpent/
+source_code_url: https://github.com/lamarios/SpendSpentSpent
+description: Easy-to-use expense tracker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

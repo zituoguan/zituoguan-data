@@ -1,0 +1,10 @@
+name: Tenzu
+website_url: https://http://tenzu.net
+source_code_url: https://github.com/BIRU-Scop/tenzu-back
+description: Companion tool for launching digital projects
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

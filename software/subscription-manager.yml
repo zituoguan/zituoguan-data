@@ -1,0 +1,10 @@
+name: Subscription Manager
+website_url: https://github.com/dh1011/subscription-manager
+source_code_url: https://github.com/dh1011/subscription-manager
+description: Track subscriptions and manage expenses
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

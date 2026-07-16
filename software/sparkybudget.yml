@@ -1,0 +1,10 @@
+name: SparkyBudget
+website_url: https://github.com/CodeWithCJ/SparkyBudget
+source_code_url: https://github.com/CodeWithCJ/SparkyBudget
+description: Personal finance management app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

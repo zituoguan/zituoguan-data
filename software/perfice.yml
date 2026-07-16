@@ -1,0 +1,10 @@
+name: Perfice
+website_url: https://perfice.adoe.dev
+source_code_url: https://github.com/p0lloc/perfice
+description: Self-tracking platform for various life metrics
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

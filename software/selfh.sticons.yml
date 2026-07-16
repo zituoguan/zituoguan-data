@@ -1,0 +1,10 @@
+name: selfh.st/icons
+website_url: https://selfh.st/icons
+source_code_url: https://github.com/selfhst/icons
+description: Dashboard icons with support for custom colors
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

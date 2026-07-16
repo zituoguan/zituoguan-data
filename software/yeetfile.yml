@@ -1,0 +1,10 @@
+name: YeetFile
+website_url: https://github.com/benbusby/yeetfile
+source_code_url: https://github.com/benbusby/yeetfile
+description: Encrypted file sharing vault service
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

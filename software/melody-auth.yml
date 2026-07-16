@@ -1,0 +1,10 @@
+name: Melody Auth
+website_url: https://auth.valuemelody.com/
+source_code_url: https://github.com/ValueMelody/melody-auth
+description: Effortless authentication built for flexibility and control
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

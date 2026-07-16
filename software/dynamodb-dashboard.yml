@@ -1,0 +1,10 @@
+name: DynamoDB Dashboard
+website_url: https://github.com/kritish-dhaubanjar/dynamodb-dashboard
+source_code_url: https://github.com/kritish-dhaubanjar/dynamodb-dashboard
+description: Web GUI dashboard for DynamoDB
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

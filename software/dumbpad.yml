@@ -1,0 +1,10 @@
+name: DumbPad
+website_url: https://github.com/DumbWareio/DumbPad
+source_code_url: https://github.com/DumbWareio/DumbPad
+description: Stupidly simple modern notepad
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

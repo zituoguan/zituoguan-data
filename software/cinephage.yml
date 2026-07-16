@@ -1,0 +1,10 @@
+name: Cinephage
+website_url: https://github.com/MoldyTaint/Cinephage
+source_code_url: https://github.com/MoldyTaint/Cinephage
+description: All-in-one media management app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

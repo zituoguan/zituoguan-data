@@ -1,0 +1,10 @@
+name: Ignidash
+website_url: https://ignidash.com
+source_code_url: https://github.com/schelskedevco/ignidash
+description: Personal finance planning app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Rangarr
+website_url: https://github.com/JudoChinX/rangarr
+source_code_url: https://github.com/JudoChinX/rangarr
+description: Automate media searches across the *arr stack
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

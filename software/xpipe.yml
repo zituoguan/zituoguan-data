@@ -1,0 +1,10 @@
+name: XPipe
+website_url: https://xpipe.io
+source_code_url: https://github.com/xpipe-io/xpipe
+description: Connection hub for SSH, VNC, RDP, and more
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

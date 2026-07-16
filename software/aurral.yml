@@ -1,0 +1,10 @@
+name: Aurral
+website_url: https://aurral.org
+source_code_url: https://github.com/lklynet/aurral
+description: Streamlined artists requests for Lidarr
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

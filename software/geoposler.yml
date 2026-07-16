@@ -1,0 +1,10 @@
+name: Geoposler
+website_url: https://github.com/garanda21/geoposler
+source_code_url: https://github.com/garanda21/geoposler
+description: E-mail campaign management application
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

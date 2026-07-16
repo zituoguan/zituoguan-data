@@ -1,0 +1,10 @@
+name: SoFE
+website_url: https://github.com/chkpwd/sofe
+source_code_url: https://github.com/chkpwd/sofe
+description: Monitor non-filler episodes in Sonarr and generate Plex collections
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

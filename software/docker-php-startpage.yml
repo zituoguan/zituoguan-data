@@ -1,0 +1,10 @@
+name: docker-php-startpage
+website_url: https://github.com/loganmarchione/docker-php-startpage
+source_code_url: https://github.com/loganmarchione/docker-php-startpage
+description: PHP-based startpage and status monitor in Docker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

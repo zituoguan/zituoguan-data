@@ -1,0 +1,10 @@
+name: Invio
+website_url: https://invio.dev
+source_code_url: https://github.com/kittendevv/Invio
+description: Minimalist invoicing without the bloat
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: TestFlight Watcher
+website_url: https://github.com/MaximilianGT500/testflight-watcher
+source_code_url: https://github.com/MaximilianGT500/testflight-watcher
+description: Monitor TestFlight betas and notify on availability
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

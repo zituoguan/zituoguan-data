@@ -1,0 +1,10 @@
+name: Iso
+website_url: https://iso.tim.cv
+source_code_url: https://github.com/Coyenn/iso
+description: Plug-and-play dashboard
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

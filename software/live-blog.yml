@@ -1,0 +1,10 @@
+name: Live Blog
+website_url: https://www.sourcefabric.org/software/liveblog
+source_code_url: https://github.com/liveblog/liveblog
+description: Live blogging platform for professionals
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

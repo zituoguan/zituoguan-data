@@ -1,0 +1,10 @@
+name: Minne
+website_url: https://github.com/perstarkse/minne
+source_code_url: https://github.com/perstarkse/minne
+description: Read-later and personal knowledge management
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: DroppedNeedle
+website_url: https://musicseerr.com/
+source_code_url: https://github.com/DroppedNeedle/DroppedNeedle
+description: Music request and discovery for Lidarr
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Scraparr
+website_url: https://github.com/thecfu/scraparr
+source_code_url: https://github.com/thecfu/scraparr
+description: Prometheus exporter for *arr apps
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

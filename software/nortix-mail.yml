@@ -1,0 +1,10 @@
+name: Nortix Mail
+website_url: https://github.com/Zhoros/NortixMail
+source_code_url: https://github.com/Zhoros/NortixMail
+description: Disposable e-mail server with an easy configuration
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

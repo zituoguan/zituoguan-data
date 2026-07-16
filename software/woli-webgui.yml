@@ -1,0 +1,10 @@
+name: WoLi WebGUI
+website_url: https://github.com/RemyFV/WoLi-webgui
+source_code_url: https://github.com/RemyFV/WoLi-webgui
+description: Extremely lightweight image for sending WoL magic packets
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

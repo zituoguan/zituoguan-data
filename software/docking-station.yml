@@ -1,0 +1,10 @@
+name: Docking Station
+website_url: https://github.com/LooLzzz/docking-station
+source_code_url: https://github.com/LooLzzz/docking-station
+description: Web app for managing and updating Docker containers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

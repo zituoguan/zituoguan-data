@@ -1,0 +1,10 @@
+name: Dashwise
+website_url: https://dashwise-next.vercel.app/
+source_code_url: https://github.com/andreasmolnardev/dashwise
+description: All-in-one homelab dashboard
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

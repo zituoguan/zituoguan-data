@@ -1,0 +1,10 @@
+name: docker-staticmaps
+website_url: https://dietrichmax.github.io/docker-staticmaps/
+source_code_url: https://github.com/dietrichmax/docker-staticmaps
+description: API for rendering static map images
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

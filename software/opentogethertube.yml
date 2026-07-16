@@ -1,0 +1,10 @@
+name: OpenTogetherTube
+website_url: https://opentogethertube.com
+source_code_url: https://github.com/dyc3/opentogethertube
+description: Remote YouTube watch parties
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

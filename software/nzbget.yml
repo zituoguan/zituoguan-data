@@ -1,0 +1,10 @@
+name: NZBGet
+website_url: https://nzbget.com
+source_code_url: https://github.com/nzbgetcom/nzbget
+description: Fast, reliable, and feature-packed NZB downloader
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

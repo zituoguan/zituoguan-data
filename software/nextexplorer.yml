@@ -1,0 +1,10 @@
+name: NextExplorer
+website_url: https://explorer.nxz.ai
+source_code_url: https://github.com/nxzai/NextExplorer
+description: Modern web-based file explorer
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

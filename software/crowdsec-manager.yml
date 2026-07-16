@@ -1,0 +1,10 @@
+name: CrowdSec Manager
+website_url: https://crowdsec-manager.hhf.technology/
+source_code_url: https://github.com/hhftechnology/crowdsec_manager
+description: Web-based management interface for CrowdSec
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

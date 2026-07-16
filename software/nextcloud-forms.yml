@@ -1,0 +1,10 @@
+name: Nextcloud Forms
+website_url: https://apps.nextcloud.com/apps/forms
+source_code_url: https://github.com/nextcloud/forms
+description: Simple form and survey app for Nextcloud
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

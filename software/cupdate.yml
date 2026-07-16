@@ -1,0 +1,10 @@
+name: Cupdate
+website_url: https://alexgustafsson.github.io/cupdate/
+source_code_url: https://github.com/AlexGustafsson/cupdate
+description: Zero-config service for keeping container images up-to-date
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

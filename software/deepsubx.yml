@@ -1,0 +1,10 @@
+name: DeepSubX
+website_url: https://github.com/garanda21/deepsubx
+source_code_url: https://github.com/garanda21/deepsubx
+description: Use DeepL API to translate media subtitles
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

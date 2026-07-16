@@ -1,0 +1,10 @@
+name: Surmai
+website_url: https://surmai.app/
+source_code_url: https://github.com/rohitkumbhar/surmai
+description: Personal and family travel organizer
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

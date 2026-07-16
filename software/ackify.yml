@@ -1,0 +1,10 @@
+name: Ackify
+website_url: https://ackify.eu
+source_code_url: https://github.com/kOlapsis/ackify
+description: Proof of read platform for internal documents
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: DockTail
+website_url: https://docktail.org
+source_code_url: https://github.com/marvinvr/docktail
+description: Expose containers as Tailscale Services with labels
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

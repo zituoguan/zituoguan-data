@@ -1,0 +1,10 @@
+name: Atria
+website_url: https://atria.gg
+source_code_url: https://github.com/thesubtleties/atria
+description: Professional event management and networking
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: HymnoScribe
+website_url: https://hymnoscribe.de
+source_code_url: https://github.com/Revisor01/HymnoScribe
+description: Comprehensive tool for creating hymn sheets
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: File Wizard
+website_url: https://github.com/LoredCast/filewizard
+source_code_url: https://github.com/LoredCast/filewizard
+description: Browser-based utility for file conversion and transcription
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

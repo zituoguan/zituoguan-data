@@ -1,0 +1,10 @@
+name: Exercise Diary
+website_url: https://github.com/aceberg/ExerciseDiary
+source_code_url: https://github.com/aceberg/ExerciseDiary
+description: Workout diary with GitHub-style yearly visualization
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

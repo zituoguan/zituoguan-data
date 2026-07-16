@@ -1,0 +1,10 @@
+name: BookHeaven
+website_url: https://bookheaven.ggarrido.dev/
+source_code_url: https://github.com/BookHeaven/BookHeaven.Server
+description: eBook management and reading platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

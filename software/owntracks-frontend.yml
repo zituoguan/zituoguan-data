@@ -1,0 +1,10 @@
+name: OwnTracks Frontend
+website_url: https://github.com/owntracks/frontend
+source_code_url: https://github.com/owntracks/frontend
+description: Advanced interface for the OwnTracks ecosystem
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: DVinyl
+website_url: https://kyonew.me/dvinyl
+source_code_url: https://github.com/Kyonew/DVinyl
+description: Collection manager for physical media enthusiasts
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

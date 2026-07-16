@@ -1,0 +1,10 @@
+name: Guardian
+website_url: https://github.com/HydroshieldMKII/Guardian
+source_code_url: https://github.com/HydroshieldMKII/Guardian
+description: Security and management app for Plex
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

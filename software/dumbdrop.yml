@@ -1,0 +1,10 @@
+name: DumbDrop
+website_url: https://github.com/DumbWareio/DumbDrop
+source_code_url: https://github.com/DumbWareio/DumbDrop
+description: Stupidly simple file uploads
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

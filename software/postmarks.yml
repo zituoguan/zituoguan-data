@@ -1,0 +1,10 @@
+name: Postmarks
+website_url: https://postmarks.glitch.me
+source_code_url: https://github.com/ckolderup/postmarks
+description: Single-user bookmarking for the Fediverse
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

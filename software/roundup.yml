@@ -1,0 +1,10 @@
+name: Roundup
+website_url: https://www.roundup-tracker.org/
+source_code_url: https://github.com/roundup-tracker/roundup
+description: Simple-to-use issue tracking system
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

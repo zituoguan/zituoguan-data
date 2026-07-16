@@ -1,0 +1,10 @@
+name: WagmiOS
+website_url: https://http://wiki.wagmilabs.fun/
+source_code_url: https://github.com/mentholmike/wagmios
+description: Container deployment and management with AI integration
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

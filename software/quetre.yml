@@ -1,0 +1,10 @@
+name: Quetre
+website_url: https://quetre.iket.me
+source_code_url: https://github.com/zyachel/quetre
+description: Alternative frontend for Quora
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

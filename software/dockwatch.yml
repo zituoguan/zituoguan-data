@@ -1,0 +1,10 @@
+name: Dockwatch
+website_url: https://dockwatch.wiki
+source_code_url: https://github.com/Notifiarr/dockwatch
+description: Simple UI for managing container updates and notifications
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

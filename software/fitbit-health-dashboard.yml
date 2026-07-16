@@ -1,0 +1,10 @@
+name: Fitbit Health Dashboard
+website_url: https://github.com/arpanghosh8453/fitbit-grafana
+source_code_url: https://github.com/arpanghosh8453/fitbit-grafana
+description: Script for FitBit data retrieval, storage, and visualization
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

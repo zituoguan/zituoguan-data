@@ -1,0 +1,10 @@
+name: StencilBox
+website_url: https://jamesread.github.io/StencilBox/
+source_code_url: https://github.com/jamesread/StencilBox
+description: Build YAML into simple and speedy static sites
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

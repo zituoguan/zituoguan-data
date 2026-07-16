@@ -1,0 +1,10 @@
+name: GhostFile
+website_url: https://github.com/jon6fingrs/ghostfile
+source_code_url: https://github.com/jon6fingrs/ghostfile
+description: Lightweight, one-time file upload server
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

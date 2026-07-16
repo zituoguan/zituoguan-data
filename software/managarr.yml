@@ -1,0 +1,10 @@
+name: Managarr
+website_url: https://github.com/Dark-Alex-17/managarr
+source_code_url: https://github.com/Dark-Alex-17/managarr
+description: TUI and CLI tool for managing *arr apps
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Flow-Like
+website_url: https://flow-like.com
+source_code_url: https://github.com/Rheosoph/flow-like
+description: Visual workflow automation platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Jellyfin Rewind
+website_url: https://jellyfin-rewind.chaphasilor.xyz
+source_code_url: https://github.com/Chaphasilor/jellyfin-rewind
+description: A year-in-review app for Jellyfin music listeners
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

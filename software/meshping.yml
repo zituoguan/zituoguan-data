@@ -1,0 +1,10 @@
+name: Meshping
+website_url: https://github.com/Svedrin/meshping
+source_code_url: https://github.com/Svedrin/meshping
+description: Ping any number of targets and collect response times
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: xyOps
+website_url: https://github.com/pixlcore/xyops
+source_code_url: https://github.com/pixlcore/xyops
+description: Workflow automation and server monitoring
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

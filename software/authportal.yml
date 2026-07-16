@@ -1,0 +1,10 @@
+name: AuthPortal
+website_url: https://github.com/modom-ofn/auth-portal
+source_code_url: https://github.com/modom-ofn/auth-portal
+description: Authentication gateway for Plex, Jellyfin, or Emby
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

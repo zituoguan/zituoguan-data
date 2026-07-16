@@ -1,0 +1,10 @@
+name: Sonobarr
+website_url: https://github.com/Dodelidoo-Labs/sonobarr
+source_code_url: https://github.com/Dodelidoo-Labs/sonobarr
+description: Music discovery for Lidarr users via Last.fm
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 自动化

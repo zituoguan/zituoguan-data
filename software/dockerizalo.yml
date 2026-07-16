@@ -1,0 +1,10 @@
+name: Dockerizalo
+website_url: https://github.com/undernightcore/dockerizalo
+source_code_url: https://github.com/undernightcore/dockerizalo
+description: Simple container deployment and management platform 
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

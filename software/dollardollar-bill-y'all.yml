@@ -1,0 +1,10 @@
+name: DollarDollar Bill Y'all
+website_url: https://github.com/harung1993/dollardollar
+source_code_url: https://github.com/harung1993/dollardollar
+description: Expense tracking and bill-splitting application
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

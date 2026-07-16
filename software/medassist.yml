@@ -1,0 +1,10 @@
+name: MedAssist
+website_url: https://github.com/njic/medassist
+source_code_url: https://github.com/njic/medassist
+description: Daily medication reminders and management
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: MediaLyze
+website_url: https://www.medialyze.app
+source_code_url: https://github.com/frederikemmer/MediaLyze
+description: Media library analysis for large collections
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

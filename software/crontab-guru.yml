@@ -1,0 +1,10 @@
+name: Crontab Guru
+website_url: https://github.com/cronitorio/cronitor-cli
+source_code_url: https://github.com/cronitorio/cronitor-cli
+description: Web and CLI-based cron job management
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

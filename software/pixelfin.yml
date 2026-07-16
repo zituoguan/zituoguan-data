@@ -1,0 +1,10 @@
+name: Pixelfin
+website_url: https://github.com/nothing2obvi/pixelfin
+source_code_url: https://github.com/nothing2obvi/pixelfin
+description: Create HTML galleries from Jellyfin photo libraries
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

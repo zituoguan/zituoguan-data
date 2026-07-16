@@ -1,0 +1,10 @@
+name: Ticky
+website_url: https://github.com/dkorecko/Ticky
+source_code_url: https://github.com/dkorecko/Ticky
+description: Modern Kanban app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

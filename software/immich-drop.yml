@@ -1,0 +1,10 @@
+name: Immich Drop
+website_url: https://github.com/Nasogaa/immich-drop
+source_code_url: https://github.com/Nasogaa/immich-drop
+description: Tiny, zero-login web app for collecting media for Immich
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

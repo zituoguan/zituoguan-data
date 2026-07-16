@@ -1,0 +1,10 @@
+name: Tracktor
+website_url: https://tracktor.bytedge.in
+source_code_url: https://github.com/javedh-dev/tracktor
+description: Comprehensive vehicle management
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

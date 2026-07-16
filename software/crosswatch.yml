@@ -1,0 +1,10 @@
+name: CrossWatch
+website_url: https://wiki.crosswatch.app
+source_code_url: https://github.com/cenodude/CrossWatch
+description: Sync media watch statuses across platforms
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

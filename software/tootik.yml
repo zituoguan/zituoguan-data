@@ -1,0 +1,10 @@
+name: Tootik
+website_url: https://github.com/dimkr/tootik
+source_code_url: https://github.com/dimkr/tootik
+description: Federated nano-blogging service with federation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: NutriTrace
+website_url: https://github.com/TraceApps/nutritrace
+source_code_url: https://github.com/TraceApps/nutritrace
+description: Personal nutrition tracker
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

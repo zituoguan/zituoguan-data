@@ -1,0 +1,10 @@
+name: GiftManager
+website_url: https://github.com/icbestCA/giftmanager
+source_code_url: https://github.com/icbestCA/giftmanager
+description: Gift idea manager for families
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

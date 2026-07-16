@@ -1,0 +1,10 @@
+name: HabitTrove
+website_url: https://demo.habittrove.com/
+source_code_url: https://github.com/dohsimpson/HabitTrove
+description: Gamified habit tracking application for building positive habits
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

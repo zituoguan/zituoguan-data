@@ -1,0 +1,10 @@
+name: Honey
+website_url: https://demos-honey.djank.me/
+source_code_url: https://github.com/dani3l0/honey
+description: A nice and sweet place for your self-hosted services
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

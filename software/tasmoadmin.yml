@@ -1,0 +1,10 @@
+name: TasmoAdmin
+website_url: https://github.com/TasmoAdmin/TasmoAdmin
+source_code_url: https://github.com/TasmoAdmin/TasmoAdmin
+description: Administration platform for devices flashed with Tasmota
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

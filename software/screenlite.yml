@@ -1,0 +1,10 @@
+name: Screenlite
+website_url: https://screenlite.org
+source_code_url: https://github.com/screenlite/screenlite
+description: Digital signage solution
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

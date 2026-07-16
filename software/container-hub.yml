@@ -1,0 +1,10 @@
+name: Container Hub
+website_url: https://github.com/eznix86/docker-registry-ui
+source_code_url: https://github.com/eznix86/docker-registry-ui
+description: Simple, lightweight UI for container registries
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Meerkat CRM
+website_url: https://fbuchner.github.io/meerkat-crm/
+source_code_url: https://github.com/fbuchner/meerkat-crm
+description: Simple CRM for the personal life
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

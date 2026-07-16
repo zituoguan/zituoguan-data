@@ -1,0 +1,10 @@
+name: QuickDrop
+website_url: https://github.com/RoastSlav/quickdrop
+source_code_url: https://github.com/RoastSlav/quickdrop
+description: Easy-to-use file sharing application
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

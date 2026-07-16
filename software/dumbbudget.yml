@@ -1,0 +1,10 @@
+name: DumbBudget
+website_url: https://github.com/DumbWareio/DumbBudget
+source_code_url: https://github.com/DumbWareio/DumbBudget
+description: Stupidly simple personal budget
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: seelf
+website_url: https://yuukanoo.github.io/seelf/
+source_code_url: https://github.com/YuukanOO/seelf
+description: Lightweight self-hosted deployment platform written in Go
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

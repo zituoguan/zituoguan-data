@@ -1,0 +1,10 @@
+name: Wapy.dev
+website_url: https://www.wapy.dev
+source_code_url: https://github.com/meceware/wapy.dev
+description: Subscription management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

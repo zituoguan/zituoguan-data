@@ -1,0 +1,10 @@
+name: traefik-kop
+website_url: https://github.com/jittering/traefik-kop
+source_code_url: https://github.com/jittering/traefik-kop
+description: Single public-facing Traefik instance for Kubernetes
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

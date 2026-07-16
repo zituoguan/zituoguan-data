@@ -1,0 +1,10 @@
+name: Dock-Dploy
+website_url: https://docker-compose.hhf.technology
+source_code_url: https://github.com/hhftechnology/Dock-Dploy
+description: Visually build and manage Docker Compose files
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

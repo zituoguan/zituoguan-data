@@ -1,0 +1,10 @@
+name: Fast Music Remover
+website_url: https://github.com/omeryusufyagci/fast-music-remover
+source_code_url: https://github.com/omeryusufyagci/fast-music-remover
+description: Lightweight background music and noise remover
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

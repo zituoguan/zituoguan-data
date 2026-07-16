@@ -1,0 +1,10 @@
+name: Tymeslot
+website_url: https://tymeslot.app
+source_code_url: https://github.com/Tymeslot/tymeslot
+description: Privacy-first scheduling platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

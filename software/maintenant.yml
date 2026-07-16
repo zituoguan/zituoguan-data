@@ -1,0 +1,10 @@
+name: Maintenant
+website_url: https://maintenant.dev
+source_code_url: https://github.com/kOlapsis/maintenant
+description: Monitor everything with a single container
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

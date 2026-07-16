@@ -1,0 +1,10 @@
+name: SUB/WAVE
+website_url: https://www.getsubwave.com
+source_code_url: https://github.com/perminder-klair/subwave
+description: Personal internet radio station
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

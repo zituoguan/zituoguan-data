@@ -1,0 +1,10 @@
+name: SuperBin
+website_url: https://github.com/Zhoros/SuperBin
+source_code_url: https://github.com/Zhoros/SuperBin
+description: File sharing, URL shortening, and pastebin all-in-one
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

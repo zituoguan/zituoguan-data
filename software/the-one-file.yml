@@ -1,0 +1,10 @@
+name: The One File
+website_url: https://therecanonlybe.one/The-One-File/
+source_code_url: https://github.com/gelatinescreams/The-One-File
+description: Visualization and mapping platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

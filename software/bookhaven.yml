@@ -1,0 +1,10 @@
+name: BookHaven
+website_url: https://github.com/HrBingR/BookHaven
+source_code_url: https://github.com/HrBingR/BookHaven
+description: Browser-based ePub reader
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

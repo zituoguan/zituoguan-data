@@ -1,0 +1,10 @@
+name: ProperDocs
+website_url: https://properdocs.org/
+source_code_url: https://github.com/ProperDocs/properdocs
+description: Drop-in replacement for MkDocs
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

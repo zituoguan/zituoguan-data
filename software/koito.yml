@@ -1,0 +1,10 @@
+name: Koito
+website_url: https://koito.io
+source_code_url: https://github.com/gabehf/Koito
+description: Modern music scrobbler
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

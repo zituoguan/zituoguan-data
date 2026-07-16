@@ -1,0 +1,10 @@
+name: Omoide
+website_url: https://github.com/EinAeffchen/Omoide
+source_code_url: https://github.com/EinAeffchen/Omoide
+description: Photo and video library with AI features
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

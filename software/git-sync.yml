@@ -1,0 +1,10 @@
+name: Git-Sync
+website_url: https://github.com/AkashRajpurohit/git-sync/wiki
+source_code_url: https://github.com/AkashRajpurohit/git-sync
+description: Backup and sync tool for git repositories
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

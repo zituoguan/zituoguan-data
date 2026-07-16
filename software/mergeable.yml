@@ -1,0 +1,10 @@
+name: Mergeable
+website_url: https://www.usemergeable.dev
+source_code_url: https://github.com/pvcnt/mergeable
+description: Better inbox for GitHub pull requests
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项
