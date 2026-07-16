@@ -1,10 +1,10 @@
 name: Mosquitto
 website_url: https://mosquitto.org
 source_code_url: https://github.com/eclipse-mosquitto/mosquitto
-description: Open source implementation of the MQTT protocol
+description: 开源的 MQTT 消息代理实现，适用于物联网场景。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 物联网（IoT）

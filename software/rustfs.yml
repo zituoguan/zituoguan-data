@@ -1,10 +1,10 @@
 name: RustFS
 website_url: https://github.com/rustfs/rustfs
 source_code_url: https://github.com/rustfs/rustfs
-description: High-performance distributed object storage
+description: 高性能分布式对象存储系统。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

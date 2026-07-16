@@ -1,10 +1,10 @@
 name: Komodo
 website_url: https://komo.do
 source_code_url: https://github.com/moghtech/komodo
-description: Build and deploy software on multiple servers
+description: 多服务器构建和部署管理平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 持续集成和持续部署

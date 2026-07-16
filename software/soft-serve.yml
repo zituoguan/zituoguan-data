@@ -1,10 +1,10 @@
 name: Soft Serve
 website_url: https://github.com/charmbracelet/soft-serve
 source_code_url: https://github.com/charmbracelet/soft-serve
-description: Self-hostable git server for the command line
+description: 基于终端的自托管 Git 服务器。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 版本控制

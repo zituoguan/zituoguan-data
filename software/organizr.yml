@@ -1,10 +1,10 @@
 name: Organizr
 website_url: https://github.com/causefx/Organizr
 source_code_url: https://github.com/causefx/Organizr
-description: Homelab services organizer and dashboard
+description: 自托管服务的统一仪表板，可集中管理和访问所有服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 个人仪表板

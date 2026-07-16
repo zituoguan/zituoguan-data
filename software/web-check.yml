@@ -1,10 +1,10 @@
 name: Web-Check
 website_url: https://web-check.xyz
 source_code_url: https://github.com/lissy93/web-check
-description: Comprehensive, on-demand intelligence
+description: 全面的网站情报分析工具，一键获取网站信息。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 网络工具

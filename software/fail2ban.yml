@@ -1,10 +1,10 @@
 name: Fail2Ban
 website_url: https://http://www.fail2ban.org
 source_code_url: https://github.com/fail2ban/fail2ban
-description: Ban hosts after too many login atttempts
+description: 入侵防御软件，自动封禁多次认证失败的恶意 IP 地址。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

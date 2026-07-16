@@ -1,10 +1,10 @@
 name: TREK
 website_url: https://github.com/mauriceboe/TREK
 source_code_url: https://github.com/mauriceboe/TREK
-description: Real-time collaborative travel planner
+description: 实时协作旅行规划工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 任务管理和待办清单

@@ -1,10 +1,10 @@
 name: Spacebar
 website_url: https://spacebar.chat
 source_code_url: https://github.com/spacebarchat/spacebarchat
-description: Discord-compatible chat, voice, and video app
+description: 自托管的 Discord 兼容聊天平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 通信 - 社交网络和论坛

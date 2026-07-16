@@ -1,10 +1,10 @@
 name: Requestly
 website_url: https://requestly.com/
 source_code_url: https://github.com/requestly/requestly
-description: Developer tool for building, testing, and debuging web apps
+description: HTTP 请求拦截和修改工具，用于调试和测试。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

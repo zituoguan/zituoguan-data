@@ -1,10 +1,10 @@
 name: NanoClaw
 website_url: https://nanoclaw.dev
 source_code_url: https://github.com/nanocoai/nanoclaw
-description: Lightweight AI chat bot alternative to OpenClaw
+description: 轻量级个人 AI 聊天助手。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - AI 个人助手

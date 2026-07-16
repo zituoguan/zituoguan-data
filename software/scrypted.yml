@@ -1,10 +1,10 @@
 name: Scrypted
 website_url: https://scrypted.app
 source_code_url: https://github.com/koush/scrypted
-description: Home video integration and automation platform
+description: IP 摄像头视频管理平台，支持 HomeKit 和多种协议。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 视频监控

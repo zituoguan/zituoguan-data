@@ -1,10 +1,10 @@
 name: Snapdrop
 website_url: https://snapdrop.net
 source_code_url: https://github.com/SnapDrop/snapdrop
-description: Local file sharing via browser
+description: 基于浏览器的局域网文件即时共享工具。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

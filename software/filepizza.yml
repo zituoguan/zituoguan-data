@@ -1,10 +1,10 @@
 name: FilePizza
 website_url: https://github.com/kern/filepizza
 source_code_url: https://github.com/kern/filepizza
-description: Peer-to-peer file transfers in the browser
+description: 基于 WebRTC 的浏览器端点对点文件传输工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 点对点文件共享

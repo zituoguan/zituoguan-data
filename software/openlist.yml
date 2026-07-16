@@ -1,10 +1,10 @@
 name: OpenList
 website_url: https://doc.oplist.org
 source_code_url: https://github.com/OpenListTeam/OpenList
-description: File manager with support for multiple storage backends
+description: 支持多种存储后端的文件管理器。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 对象存储和文件服务器

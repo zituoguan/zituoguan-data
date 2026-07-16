@@ -1,10 +1,10 @@
 name: ebook2audiobook
 website_url: https://github.com/DrewThomasson/ebook2audiobook
 source_code_url: https://github.com/DrewThomasson/ebook2audiobook
-description: Convert ebooks to audiobooks with metadata
+description: 将电子书自动转换为有声书的工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理

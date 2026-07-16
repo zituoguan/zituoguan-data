@@ -1,10 +1,10 @@
 name: Kan
 website_url: https://kan.bn
 source_code_url: https://github.com/kanbn/kan
-description: Powerful, flexible kanban app
+description: 基于看板的项目管理工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 任务管理和待办清单

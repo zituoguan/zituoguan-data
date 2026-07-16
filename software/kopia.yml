@@ -1,10 +1,10 @@
 name: Kopia
 website_url: https://kopia.io
 source_code_url: https://github.com/kopia/kopia
-description: Cross-platform backup tool
+description: 跨平台备份工具，支持快照、加密和云端存储。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

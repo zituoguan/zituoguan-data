@@ -1,10 +1,10 @@
 name: phpMyAdmin
 website_url: https://www.phpmyadmin.net/
 source_code_url: https://github.com/phpmyadmin/phpmyadmin
-description: Web interface for MySQL and MariaDB
+description: 通过 Web 界面管理 MySQL 和 MariaDB 数据库的经典工具。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

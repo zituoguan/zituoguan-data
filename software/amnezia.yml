@@ -1,10 +1,10 @@
 name: Amnezia
 website_url: https://amnezia.org
 source_code_url: https://github.com/amnezia-vpn/amnezia-client
-description: Open source VPN server and client
+description: 开源 VPN 协议封装工具，支持自托管部署。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）

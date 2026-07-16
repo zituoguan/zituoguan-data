@@ -1,10 +1,10 @@
 name: Cap
 website_url: https://trycap.dev
 source_code_url: https://github.com/tiagozip/cap
-description: Lightweight CAPTCHA alternative
+description: 自托管验证码系统，无需第三方服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 密码管理器

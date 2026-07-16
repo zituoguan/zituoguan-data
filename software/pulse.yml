@@ -1,10 +1,10 @@
 name: Pulse
 website_url: https://pulserelay.pro
 source_code_url: https://github.com/rcourtman/Pulse
-description: Proxmox monitoring interface
+description: 服务器性能监控和告警平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

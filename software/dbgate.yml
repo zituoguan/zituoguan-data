@@ -1,10 +1,10 @@
 name: DbGate
 website_url: https://www.dbgate.io
 source_code_url: https://github.com/dbgate/dbgate
-description: Cross-platform database manager
+description: 现代化数据库管理工具，支持 SQLite、MySQL、PostgreSQL 等。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

@@ -1,10 +1,10 @@
 name: OAuth2 Proxy
 website_url: https://oauth2-proxy.github.io/oauth2-proxy
 source_code_url: https://github.com/oauth2-proxy/oauth2-proxy
-description: Reverse proxy and authentication middleware
+description: 为 HTTP 请求提供 OAuth 2.0 认证的反向代理。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

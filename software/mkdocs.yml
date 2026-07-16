@@ -1,10 +1,10 @@
 name: MkDocs
 website_url: https://www.mkdocs.org
 source_code_url: https://github.com/mkdocs/mkdocs
-description: Project documentation with Markdown
+description: 基于 Markdown 的项目文档生成器，简洁快速。
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 知识管理

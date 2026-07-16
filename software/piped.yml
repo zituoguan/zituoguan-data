@@ -1,10 +1,10 @@
 name: Piped
 website_url: https://piped.video
 source_code_url: https://github.com/TeamPiped/Piped
-description: Privacy-friendly YouTube frontend
+description: 注重隐私的 YouTube 前端，无广告和数据追踪。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 流媒体 - 视频流媒体

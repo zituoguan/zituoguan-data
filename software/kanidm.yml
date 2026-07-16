@@ -1,10 +1,10 @@
 name: Kanidm
 website_url: https://kanidm.com
 source_code_url: https://github.com/kanidm/kanidm
-description: Modern and simple identity management platform
+description: 开源身份管理平台，支持 OAuth 2.0、WebAuthn 和 LDAP。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 身份管理 - 单点登录（SSO）

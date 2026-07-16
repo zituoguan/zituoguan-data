@@ -1,10 +1,10 @@
 name: Sink
 website_url: https://Sink.Cool
 source_code_url: https://github.com/miantiao-me/Sink
-description: Simple, speedy, secure link shortener with analytics and deployed with Cloudflare
+description: 简洁高效的网址缩短服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - URL 缩短服务

@@ -1,10 +1,10 @@
 name: pgweb
 website_url: https://sosedoff.github.io/pgweb
 source_code_url: https://github.com/sosedoff/pgweb
-description: Simple web-based PostgreSQL database explorer
+description: 基于 Web 的 PostgreSQL 数据库浏览器和管理界面。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

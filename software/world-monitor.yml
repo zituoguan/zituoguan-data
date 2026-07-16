@@ -1,10 +1,10 @@
 name: World Monitor
 website_url: https://github.com/koala73/worldmonitor
 source_code_url: https://github.com/koala73/worldmonitor
-description: Real-time global intelligence dashboard
+description: 实时全球情报监控仪表板，聚合多源信息。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

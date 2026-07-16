@@ -1,10 +1,10 @@
 name: Grav
 website_url: https://getgrav.org
 source_code_url: https://github.com/getgrav/grav
-description: Grav is a fast, simple, and flexible file-based web-platform
+description: 快速、简单、灵活的基于文件的 Web 内容管理系统。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 内容管理系统（CMS）

@@ -1,10 +1,10 @@
 name: OpenBao
 website_url: https://openbao.org/
 source_code_url: https://github.com/openbao/openbao
-description: Sensitive data store for secrets, certificates, and keys
+description: 密钥和加密凭据的安全管理平台，Vault 的替代品。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 密码管理器

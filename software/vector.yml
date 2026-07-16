@@ -1,10 +1,10 @@
 name: Vector
 website_url: https://vector.dev
 source_code_url: https://github.com/vectordotdev/vector
-description: High-performance observability data pipeline
+description: 高性能可观测性数据管道，采集、转换和转发日志和指标。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日志管理

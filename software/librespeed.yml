@@ -1,10 +1,10 @@
 name: LibreSpeed
 website_url: https://librespeed.org
 source_code_url: https://github.com/librespeed/speedtest
-description: Free and open source speed test
+description: 自托管的网络速度测试工具，无需 JavaScript。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

@@ -1,10 +1,10 @@
 name: FileBrowser Quantum
 website_url: https://github.com/gtsteffaniak/filebrowser
 source_code_url: https://github.com/gtsteffaniak/filebrowser
-description: Web-based file manager
+description: 基于 Web 的文件管理器，支持文件浏览和上传。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文件传输 - 基于 Web 的文件管理器

@@ -1,10 +1,10 @@
 name: Nakama
 website_url: https://heroiclabs.com
 source_code_url: https://github.com/heroiclabs/nakama
-description: Scalable backend for social and real-time games
+description: 为社交和实时游戏设计的可扩展后端服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 游戏

@@ -1,10 +1,10 @@
 name: InfluxDB
 website_url: https://influxdata.com
 source_code_url: https://github.com/influxdata/influxdb
-description: Scalable datastore for metrics and real-time analytics
+description: 高性能时序数据库，专为指标、事件和实时分析场景设计。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

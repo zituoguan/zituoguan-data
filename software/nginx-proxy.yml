@@ -1,10 +1,10 @@
 name: nginx-proxy
 website_url: https://github.com/nginx-proxy/nginx-proxy
 source_code_url: https://github.com/nginx-proxy/nginx-proxy
-description: Automated proxy for Docker containers
+description: Docker 容器的自动化反向代理，自动生成 Nginx 配置。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

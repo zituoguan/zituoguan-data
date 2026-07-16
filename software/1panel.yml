@@ -1,10 +1,10 @@
 name: 1Panel
 website_url: https://1panel.pro
 source_code_url: https://github.com/1Panel-dev/1Panel
-description: Web-based control panel for managing Linux servers
+description: 现代化 Linux 服务器管理面板，支持一键部署应用。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 控制面板

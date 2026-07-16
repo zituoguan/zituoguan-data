@@ -1,10 +1,10 @@
 name: Zensical
 website_url: https://zensical.org/docs/
 source_code_url: https://github.com/zensical/zensical
-description: Modern static site generator
+description: 跨平台日历和联系人同步服务。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日历和联系人

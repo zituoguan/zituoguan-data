@@ -1,10 +1,10 @@
 name: Valkey
 website_url: https://valkey.io
 source_code_url: https://github.com/valkey-io/valkey
-description: In-memory key-value database
+description: 开源内存键值数据库，兼容 Redis 协议。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 数据库管理

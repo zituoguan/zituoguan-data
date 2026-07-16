@@ -1,10 +1,10 @@
 name: wg-easy
 website_url: https://wg-easy.github.io/wg-easy/latest/
 source_code_url: https://github.com/wg-easy/wg-easy
-description: All-in-one WireGuard and web interface
+description: 带 Web 管理界面的 WireGuard VPN 一键部署方案。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 虚拟专用网络（VPN）

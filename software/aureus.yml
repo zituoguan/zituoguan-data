@@ -1,10 +1,10 @@
 name: Aureus
 website_url: https://aureuserp.com
 source_code_url: https://github.com/aureuserp/aureuserp
-description: Comprehensive enterprise resource planning solution
+description: 综合性企业资源规划（ERP）系统。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 企业资源规划（ERP）

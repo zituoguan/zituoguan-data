@@ -1,10 +1,10 @@
 name: Cloudflared
 website_url: https://github.com/cloudflare/cloudflared
 source_code_url: https://github.com/cloudflare/cloudflared
-description: Tunneling proxy for Cloudflare traffic
+description: Cloudflare Tunnel 客户端，用于建立安全隧道。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 代理

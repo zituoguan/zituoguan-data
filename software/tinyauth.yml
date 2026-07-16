@@ -1,10 +1,10 @@
 name: Tinyauth
 website_url: https://tinyauth.app
 source_code_url: https://github.com/tinyauthapp/tinyauth
-description: Simple authentication middleware for reverse proxies
+description: 基于通行密钥的轻量级身份验证中间件。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 身份管理 - 单点登录（SSO）

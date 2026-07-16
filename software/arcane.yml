@@ -1,7 +1,7 @@
 name: Arcane
 website_url: https://getarcane.app
 source_code_url: https://github.com/getarcaneapp/arcane
-description: Web-based Docker management interface
+description: 应用部署和基础设施管理平台。
 licenses:
   - GPL-3.0
 platforms:

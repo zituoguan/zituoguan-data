@@ -1,10 +1,10 @@
 name: Duplicacy
 website_url: https://duplicacy.com
 source_code_url: https://github.com/gilbertchen/duplicacy
-description: New generation cross-platform cloud backup tool
+description: 跨平台加密备份工具，支持多种云端存储后端。
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 备份

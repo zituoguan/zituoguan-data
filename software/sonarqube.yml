@@ -1,10 +1,10 @@
 name: SonarQube
 website_url: https://http://www.sonarqube.org
 source_code_url: https://github.com/SonarSource/sonarqube
-description: Automated code quality and security analysis
+description: 持续代码质量检查和安全性分析的自动化平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 软件开发 - 测试

@@ -1,10 +1,10 @@
 name: Graylog
 website_url: https://www.graylog.org
 source_code_url: https://github.com/Graylog2/graylog2-server
-description: Free and open log management platform
+description: 集中式日志管理平台，支持实时日志采集、搜索、分析和告警。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 日志管理

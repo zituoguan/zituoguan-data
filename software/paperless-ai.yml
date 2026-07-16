@@ -1,10 +1,10 @@
 name: Paperless AI
 website_url: https://clusterzx.github.io/paperless-ai/
 source_code_url: https://github.com/clusterzx/paperless-ai
-description: Automated document analyzer for Paperless using AI
+description: 为 Paperless-ngx 提供 AI 自动分类和标签功能的插件。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 文档管理 - 电子书

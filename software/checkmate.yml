@@ -1,10 +1,10 @@
 name: Checkmate
 website_url: https://checkmate.so/
 source_code_url: https://github.com/bluewave-labs/Checkmate
-description: Open source server monitoring app
+description: 开源服务器监控工具，支持多服务状态检测。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 监控和状态页面

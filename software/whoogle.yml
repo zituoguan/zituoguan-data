@@ -1,10 +1,10 @@
 name: Whoogle
 website_url: https://pypi.org/project/whoogle-search/
 source_code_url: https://github.com/benbusby/whoogle-search
-description: Privacy-respecting metasearch engine
+description: 注重隐私的元搜索引擎，无追踪和广告。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 搜索引擎

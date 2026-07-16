@@ -1,10 +1,10 @@
 name: Dub
 website_url: https://dub.co
 source_code_url: https://github.com/dubinc/dub
-description: Link management infrastructure for marketing teams
+description: 开源链接管理平台，支持短链接创建和分析。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - URL 缩短服务

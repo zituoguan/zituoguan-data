@@ -1,10 +1,10 @@
 name: Cobalt
 website_url: https://cobalt.tools
 source_code_url: https://github.com/imputnet/cobalt
-description: Fast, friendly media downloader
+description: 快速便捷的在线媒体下载工具，支持多种平台。
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - 杂项
+  - 媒体管理
