@@ -1,0 +1,11 @@
+name: Grok Build
+website_url: https://x.ai/cli
+source_code_url: https://github.com/xai-org/grok-build
+description: xAI 推出的编码智能体终端界面。全屏、鼠标交互、可扩展的 AI 编程助手。
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - AI 智能体
