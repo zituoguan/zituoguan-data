@@ -1,0 +1,10 @@
+name: PostgreSQL
+website_url: https://www.postgresql.org
+source_code_url: https://github.com/postgres/postgres
+description: 先进的开源关系型数据库管理系统，支持 ACID 事务、扩展插件和丰富的数据类型。
+licenses:
+  - PostgreSQL
+platforms:
+  - Docker
+tags:
+  - 数据库管理

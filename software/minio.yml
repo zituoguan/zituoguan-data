@@ -1,0 +1,11 @@
+name: MinIO
+website_url: https://min.io
+source_code_url: https://github.com/minio/minio
+description: S3 兼容的高性能对象存储系统，适合私有云存储、备份和大数据存储场景。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - 文件传输 - 对象存储和文件服务器

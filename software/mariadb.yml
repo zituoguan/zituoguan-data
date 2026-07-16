@@ -1,0 +1,10 @@
+name: MariaDB
+website_url: https://mariadb.org
+source_code_url: https://github.com/MariaDB/server
+description: MySQL 的社区分支关系型数据库，保持开源自由，广泛兼容并持续优化性能。
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+tags:
+  - 数据库管理

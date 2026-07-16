@@ -1,0 +1,10 @@
+name: Logstash
+website_url: https://www.elastic.co/logstash
+source_code_url: https://github.com/elastic/logstash
+description: 服务器端数据处理管道，从多源采集、转换并发送数据到 Elasticsearch 等存储后端。
+licenses:
+  - Elastic-2.0
+platforms:
+  - Docker
+tags:
+  - 日志管理

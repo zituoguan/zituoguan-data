@@ -1,0 +1,10 @@
+name: Redis
+website_url: https://redis.io
+source_code_url: https://github.com/redis/redis
+description: 开源内存数据结构存储系统，用作数据库、缓存和消息代理，支持多种数据结构。
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+tags:
+  - 数据库管理

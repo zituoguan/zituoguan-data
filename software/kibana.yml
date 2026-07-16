@@ -1,0 +1,10 @@
+name: Kibana
+website_url: https://www.elastic.co/kibana
+source_code_url: https://github.com/elastic/kibana
+description: Elasticsearch 的数据可视化仪表板，提供日志分析、图表展示和交互式数据探索。
+licenses:
+  - Elastic-2.0
+platforms:
+  - Docker
+tags:
+  - 日志管理

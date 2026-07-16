@@ -186,3 +186,7 @@
 - identifier: Vim
   name: Vim License
   url: https://spdx.org/licenses/Vim.html
+
+- identifier: PostgreSQL
+  name: PostgreSQL License
+  url: https://spdx.org/licenses/PostgreSQL.html

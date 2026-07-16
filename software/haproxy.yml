@@ -1,12 +1,10 @@
-name: "HAProxy"
-website_url: "https://www.haproxy.org/"
-source_code_url: "https://git.haproxy.org/?p=haproxy.git;a=tree"
-description: "非常快速且可靠的反向代理，提供高可用性、负载均衡以及 TCP 和 HTTP 基于应用程序的代理服务。"
+name: HAProxy
+website_url: https://www.haproxy.org
+source_code_url: https://github.com/haproxy/haproxy
+description: 高性能 TCP/HTTP 负载均衡器和反向代理，广泛应用于高可用和流量分发场景。
 licenses:
   - GPL-2.0
 platforms:
-  - C
-  - deb
   - Docker
 tags:
-  - Web 服务器
+  - 代理
