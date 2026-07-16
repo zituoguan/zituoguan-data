@@ -1,0 +1,11 @@
+name: Shinobi
+website_url: https://shinobi.video
+source_code_url: https://github.com/ShinobiCCTV/Shinobi
+description: 开源视频管理系统，支持 6000+ 款 IP 和 USB 摄像头，提供录像、异常检测和 Web 界面管理。
+licenses:
+  - GPL-3.0
+platforms:
+  - Node.js
+  - Docker
+tags:
+  - 视频监控
