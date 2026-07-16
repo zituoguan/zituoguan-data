@@ -1,0 +1,10 @@
+name: nginx-proxy
+website_url: https://github.com/nginx-proxy/nginx-proxy
+source_code_url: https://github.com/nginx-proxy/nginx-proxy
+description: Automated proxy for Docker containers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

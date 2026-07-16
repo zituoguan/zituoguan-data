@@ -1,0 +1,10 @@
+name: Snapdrop
+website_url: https://snapdrop.net
+source_code_url: https://github.com/SnapDrop/snapdrop
+description: Local file sharing via browser
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 杂项

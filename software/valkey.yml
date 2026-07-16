@@ -1,0 +1,10 @@
+name: Valkey
+website_url: https://valkey.io
+source_code_url: https://github.com/valkey-io/valkey
+description: In-memory key-value database
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

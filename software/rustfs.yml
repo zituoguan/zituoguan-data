@@ -1,0 +1,10 @@
+name: RustFS
+website_url: https://github.com/rustfs/rustfs
+source_code_url: https://github.com/rustfs/rustfs
+description: High-performance distributed object storage
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

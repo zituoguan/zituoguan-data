@@ -1,0 +1,10 @@
+name: FilePizza
+website_url: https://github.com/kern/filepizza
+source_code_url: https://github.com/kern/filepizza
+description: Peer-to-peer file transfers in the browser
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: MkDocs
+website_url: https://www.mkdocs.org
+source_code_url: https://github.com/mkdocs/mkdocs
+description: Project documentation with Markdown
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - 杂项

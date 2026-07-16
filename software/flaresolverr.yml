@@ -1,0 +1,10 @@
+name: FlareSolverr
+website_url: https://github.com/FlareSolverr/FlareSolverr
+source_code_url: https://github.com/FlareSolverr/FlareSolverr
+description: Proxy server to bypass Cloudflare protection
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

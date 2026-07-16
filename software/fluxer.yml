@@ -1,0 +1,10 @@
+name: Fluxer
+website_url: https://docs.fluxer.app/operator/get-started/
+source_code_url: https://github.com/fluxerapp/fluxer
+description: Instant messaging and VoIP platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Fizzy
+website_url: https://fizzy.do
+source_code_url: https://github.com/basecamp/fizzy
+description: Kanban boards for issue and idea tracking
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

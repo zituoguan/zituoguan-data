@@ -1,0 +1,10 @@
+name: Zigbee2MQTT
+website_url: https://www.zigbee2mqtt.io
+source_code_url: https://github.com/Koenkk/zigbee2mqtt
+description: Zigbee to MQTT bridge
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

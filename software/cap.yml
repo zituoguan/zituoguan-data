@@ -1,0 +1,10 @@
+name: Cap
+website_url: https://trycap.dev
+source_code_url: https://github.com/tiagozip/cap
+description: Lightweight CAPTCHA alternative
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

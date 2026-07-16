@@ -1,0 +1,10 @@
+name: Piped
+website_url: https://piped.video
+source_code_url: https://github.com/TeamPiped/Piped
+description: Privacy-friendly YouTube frontend
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

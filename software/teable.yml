@@ -1,0 +1,10 @@
+name: Teable
+website_url: https://teable.ai
+source_code_url: https://github.com/teableio/teable
+description: No-code database built on PostgreSQL
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

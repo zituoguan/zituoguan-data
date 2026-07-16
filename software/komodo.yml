@@ -1,0 +1,10 @@
+name: Komodo
+website_url: https://komo.do
+source_code_url: https://github.com/moghtech/komodo
+description: Build and deploy software on multiple servers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

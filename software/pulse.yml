@@ -1,0 +1,10 @@
+name: Pulse
+website_url: https://pulserelay.pro
+source_code_url: https://github.com/rcourtman/Pulse
+description: Proxmox monitoring interface
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

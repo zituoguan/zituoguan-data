@@ -1,0 +1,10 @@
+name: ESPHome
+website_url: https://esphome.io/
+source_code_url: https://github.com/esphome/esphome
+description: Config system for ESP-based devices
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

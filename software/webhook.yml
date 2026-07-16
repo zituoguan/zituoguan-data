@@ -1,0 +1,10 @@
+name: Webhook
+website_url: https://github.com/adnanh/webhook
+source_code_url: https://github.com/adnanh/webhook
+description: Lightweight webhook server for running shell commands
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

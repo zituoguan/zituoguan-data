@@ -1,0 +1,10 @@
+name: Unsloth Studio
+website_url: https://unsloth.ai/docs
+source_code_url: https://github.com/unslothai/unsloth
+description: Unified interface for training local AI models
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

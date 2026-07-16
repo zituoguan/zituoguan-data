@@ -1,0 +1,10 @@
+name: PairDrop
+website_url: https://pairdrop.net
+source_code_url: https://github.com/schlagmichdoch/PairDrop
+description: Local file sharing in your browser inspired by Apple's AirDrop
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

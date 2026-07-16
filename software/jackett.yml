@@ -1,0 +1,10 @@
+name: Jackett
+website_url: https://github.com/Jackett/Jackett
+source_code_url: https://github.com/Jackett/Jackett
+description: API support for torrent trackers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

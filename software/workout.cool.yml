@@ -1,0 +1,10 @@
+name: Workout.cool
+website_url: https://workout.cool
+source_code_url: https://github.com/Snouzy/workout-cool
+description: Modern fitness coaching platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Dozzle
+website_url: https://dozzle.dev/
+source_code_url: https://github.com/amir20/dozzle
+description: Real-time log viewer for Docker containers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

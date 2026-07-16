@@ -1,0 +1,10 @@
+name: DbGate
+website_url: https://www.dbgate.io
+source_code_url: https://github.com/dbgate/dbgate
+description: Cross-platform database manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

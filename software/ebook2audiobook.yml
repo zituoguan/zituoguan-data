@@ -1,0 +1,10 @@
+name: ebook2audiobook
+website_url: https://github.com/DrewThomasson/ebook2audiobook
+source_code_url: https://github.com/DrewThomasson/ebook2audiobook
+description: Convert ebooks to audiobooks with metadata
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

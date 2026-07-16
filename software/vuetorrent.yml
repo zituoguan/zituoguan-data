@@ -1,0 +1,10 @@
+name: VueTorrent
+website_url: https://vuetorrent.github.io/demo
+source_code_url: https://github.com/VueTorrent/VueTorrent
+description: Sleek web UI for qBittorrent made with Vue.js
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

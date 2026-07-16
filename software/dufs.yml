@@ -1,0 +1,10 @@
+name: Dufs
+website_url: https://github.com/sigoden/dufs
+source_code_url: https://github.com/sigoden/dufs
+description: Static file server with uploads, searching, and access control
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

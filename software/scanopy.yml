@@ -1,0 +1,10 @@
+name: Scanopy
+website_url: https://scanopy.net
+source_code_url: https://github.com/scanopy/scanopy
+description: Automatically discover and document network infrastructure
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

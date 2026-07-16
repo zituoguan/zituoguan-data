@@ -1,0 +1,10 @@
+name: FileBrowser Quantum
+website_url: https://github.com/gtsteffaniak/filebrowser
+source_code_url: https://github.com/gtsteffaniak/filebrowser
+description: Web-based file manager
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

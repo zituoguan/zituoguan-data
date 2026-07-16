@@ -1,0 +1,10 @@
+name: Graylog
+website_url: https://www.graylog.org
+source_code_url: https://github.com/Graylog2/graylog2-server
+description: Free and open log management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

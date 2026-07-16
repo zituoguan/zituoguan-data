@@ -1,0 +1,10 @@
+name: Scrypted
+website_url: https://scrypted.app
+source_code_url: https://github.com/koush/scrypted
+description: Home video integration and automation platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

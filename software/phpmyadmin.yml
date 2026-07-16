@@ -1,0 +1,10 @@
+name: phpMyAdmin
+website_url: https://www.phpmyadmin.net/
+source_code_url: https://github.com/phpmyadmin/phpmyadmin
+description: Web interface for MySQL and MariaDB
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

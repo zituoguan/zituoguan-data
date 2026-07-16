@@ -1,0 +1,10 @@
+name: Aureus
+website_url: https://aureuserp.com
+source_code_url: https://github.com/aureuserp/aureuserp
+description: Comprehensive enterprise resource planning solution
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

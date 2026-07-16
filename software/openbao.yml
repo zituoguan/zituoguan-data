@@ -1,0 +1,10 @@
+name: OpenBao
+website_url: https://openbao.org/
+source_code_url: https://github.com/openbao/openbao
+description: Sensitive data store for secrets, certificates, and keys
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

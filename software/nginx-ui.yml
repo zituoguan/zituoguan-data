@@ -1,0 +1,10 @@
+name: Nginx UI
+website_url: https://nginxui.com
+source_code_url: https://github.com/0xJacky/nginx-ui
+description: Yet another NGINX web interface
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

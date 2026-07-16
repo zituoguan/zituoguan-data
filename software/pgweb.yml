@@ -1,0 +1,10 @@
+name: pgweb
+website_url: https://sosedoff.github.io/pgweb
+source_code_url: https://github.com/sosedoff/pgweb
+description: Simple web-based PostgreSQL database explorer
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

@@ -1,0 +1,10 @@
+name: Zensical
+website_url: https://zensical.org/docs/
+source_code_url: https://github.com/zensical/zensical
+description: Modern static site generator
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

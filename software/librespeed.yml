@@ -1,0 +1,10 @@
+name: LibreSpeed
+website_url: https://librespeed.org
+source_code_url: https://github.com/librespeed/speedtest
+description: Free and open source speed test
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

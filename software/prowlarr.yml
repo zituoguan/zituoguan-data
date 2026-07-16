@@ -1,0 +1,10 @@
+name: Prowlarr
+website_url: https://prowlarr.com
+source_code_url: https://github.com/Prowlarr/Prowlarr
+description: Indexer manager and proxy
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

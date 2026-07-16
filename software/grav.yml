@@ -1,0 +1,10 @@
+name: Grav
+website_url: https://getgrav.org
+source_code_url: https://github.com/getgrav/grav
+description: Grav is a fast, simple, and flexible file-based web-platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

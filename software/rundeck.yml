@@ -1,0 +1,10 @@
+name: Rundeck
+website_url: https://http://rundeck.org
+source_code_url: https://github.com/rundeck/rundeck
+description: Orchestration tool for automation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

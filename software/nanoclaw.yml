@@ -1,0 +1,10 @@
+name: NanoClaw
+website_url: https://nanoclaw.dev
+source_code_url: https://github.com/nanocoai/nanoclaw
+description: Lightweight AI chat bot alternative to OpenClaw
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

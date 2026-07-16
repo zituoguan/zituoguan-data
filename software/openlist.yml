@@ -1,0 +1,10 @@
+name: OpenList
+website_url: https://doc.oplist.org
+source_code_url: https://github.com/OpenListTeam/OpenList
+description: File manager with support for multiple storage backends
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

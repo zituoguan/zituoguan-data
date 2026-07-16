@@ -1,0 +1,10 @@
+name: Mailpit
+website_url: https://mailpit.axllent.org
+source_code_url: https://github.com/axllent/mailpit
+description: Email testing tool and API for developers
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

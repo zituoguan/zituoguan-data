@@ -1,0 +1,10 @@
+name: TaxHacker
+website_url: https://taxhacker.app
+source_code_url: https://github.com/vas3k/TaxHacker
+description: AI-driven accounting app
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

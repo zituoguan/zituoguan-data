@@ -1,0 +1,10 @@
+name: Kanidm
+website_url: https://kanidm.com
+source_code_url: https://github.com/kanidm/kanidm
+description: Modern and simple identity management platform
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

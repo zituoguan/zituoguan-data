@@ -1,0 +1,10 @@
+name: Tautulli
+website_url: https://tautulli.com
+source_code_url: https://github.com/Tautulli/Tautulli
+description: Monitoring and tracking tool for Plex Media Server
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

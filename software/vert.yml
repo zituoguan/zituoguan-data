@@ -1,0 +1,10 @@
+name: VERT
+website_url: https://vert.sh
+source_code_url: https://github.com/VERT-sh/VERT
+description: On-device file conversion utility
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

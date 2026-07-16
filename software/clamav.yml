@@ -1,0 +1,10 @@
+name: ClamAV
+website_url: https://www.clamav.net/
+source_code_url: https://github.com/Cisco-Talos/clamav
+description: Open source antivirus engine for detecting malicious threats
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

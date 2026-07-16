@@ -1,0 +1,10 @@
+name: Obsidian LiveSync
+website_url: https://github.com/vrtmrz/obsidian-livesync
+source_code_url: https://github.com/vrtmrz/obsidian-livesync
+description: Community-implemented sync plugin for Obsidian
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

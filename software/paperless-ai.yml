@@ -1,0 +1,10 @@
+name: Paperless AI
+website_url: https://clusterzx.github.io/paperless-ai/
+source_code_url: https://github.com/clusterzx/paperless-ai
+description: Automated document analyzer for Paperless using AI
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - 杂项

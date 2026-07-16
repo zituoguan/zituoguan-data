@@ -1,10 +1,10 @@
-name: Snipe IT
-website_url: https://snipeitapp.com/
-description: 资产与许可证管理软件。
+name: Snipe-IT
+website_url: https://snipeitapp.com
+source_code_url: https://github.com/grokability/snipe-it
+description: Asset management for IT operations
 licenses:
-  - AGPL-3.0
+  - GPL-3.0
 platforms:
-  - PHP
+  - Docker
 tags:
-  - IT 资产管理
-source_code_url: https://github.com/snipe/snipe-it
+  - 杂项
