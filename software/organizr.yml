@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 个人仪表板
+stargazers_count: 5797
+updated_at: '2026-05-19'
+archived: false
+current_release:
+  tag: '1.90'
+  published_at: '2019-02-26'
+commit_history:
+  2026-05: 7
+  2026-06: 0
+  2026-07: 0

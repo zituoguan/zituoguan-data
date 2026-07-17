@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 知识管理
+stargazers_count: 280
+updated_at: '2026-07-15'
+archived: false
+current_release:
+  tag: v2.11.3
+  published_at: '2026-06-21'
+commit_history:
+  2026-05: 152
+  2026-06: 16
+  2026-07: 7

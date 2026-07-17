@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 任务管理和待办清单
+stargazers_count: 5198
+updated_at: '2026-07-08'
+archived: false
+current_release:
+  tag: v0.6.0
+  published_at: '2026-06-29'
+commit_history:
+  2026-05: 60
+  2026-06: 16
+  2026-07: 3

@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 软件开发 - 测试
+stargazers_count: 10797
+updated_at: '2026-07-16'
+archived: false
+current_release:
+  tag: 26.7.0.124771
+  published_at: '2026-07-08'
+commit_history:
+  2026-05: 83
+  2026-06: 137
+  2026-07: 87

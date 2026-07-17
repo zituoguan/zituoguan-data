@@ -9,7 +9,7 @@ tags:
   - 文档管理 - 机构知识库和数字图书馆
 source_code_url: https://github.com/DSpace/DSpace
 stargazers_count: 1082
-updated_at: '2026-07-15'
+updated_at: '2026-07-16'
 archived: false
 current_release:
   tag: dspace-9.3
@@ -25,5 +25,5 @@ commit_history:
   2026-03: 178
   2026-04: 276
   2026-05: 509
-  2026-06: 63
-  2026-07: 23
+  2026-06: 69
+  2026-07: 26

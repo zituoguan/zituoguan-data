@@ -8,8 +8,8 @@ platforms:
 tags:
   - 容器
 source_code_url: https://github.com/systemd/systemd
-stargazers_count: 16503
-updated_at: '2026-07-15'
+stargazers_count: 16507
+updated_at: '2026-07-16'
 archived: false
 current_release:
   tag: v261.1
@@ -18,4 +18,4 @@ commit_history:
   2026-04: 833
   2026-05: 1055
   2026-06: 748
-  2026-07: 437
+  2026-07: 475

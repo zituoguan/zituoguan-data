@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 身份管理 - 工具和 Web 界面
+stargazers_count: 183
+updated_at: '2026-07-16'
+archived: false
+current_release:
+  tag: v1.38.0
+  published_at: '2026-07-06'
+commit_history:
+  2026-05: 98
+  2026-06: 101
+  2026-07: 41

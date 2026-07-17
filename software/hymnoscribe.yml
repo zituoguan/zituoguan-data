@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 协同办公
+stargazers_count: 7
+updated_at: '2025-07-26'
+archived: false
+current_release:
+  tag: 1.4.2
+  published_at: '2024-08-08'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

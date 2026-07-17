@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 点对点文件共享
+stargazers_count: 691
+updated_at: '2026-07-14'
+archived: false
+current_release:
+  tag: testing
+  published_at: '2026-07-13'
+commit_history:
+  2026-05: 12
+  2026-06: 14
+  2026-07: 8

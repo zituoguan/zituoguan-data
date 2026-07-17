@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 会议管理
+stargazers_count: 1006
+updated_at: '2025-10-24'
+archived: true
+current_release:
+  tag: v0.5.2
+  published_at: '2025-07-21'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

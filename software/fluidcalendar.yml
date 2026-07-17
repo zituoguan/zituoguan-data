@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 日历和联系人
+stargazers_count: 977
+updated_at: '2026-07-02'
+archived: false
+current_release:
+  tag: v1.4.0
+  published_at: '2025-04-24'
+commit_history:
+  2026-05: 2
+  2026-06: 24
+  2026-07: 2

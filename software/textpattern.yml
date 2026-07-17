@@ -9,7 +9,7 @@ tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/textpattern/textpattern
 stargazers_count: 878
-updated_at: '2026-07-15'
+updated_at: '2026-07-16'
 archived: false
 current_release:
   tag: 4.9.1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 24
   2026-05: 22
   2026-06: 9
-  2026-07: 3
+  2026-07: 4

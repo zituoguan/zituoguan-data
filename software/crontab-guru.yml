@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 软件开发 - IDE 和工具
+stargazers_count: 433
+updated_at: '2026-06-02'
+archived: false
+current_release:
+  tag: '33.4'
+  published_at: '2026-06-02'
+commit_history:
+  2026-05: 2
+  2026-06: 4
+  2026-07: 0
