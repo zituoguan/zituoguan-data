@@ -1,0 +1,11 @@
+name: Kaloscope
+website_url: https://kaloscope.org
+source_code_url: https://github.com/kaloscope/kaloscope
+description: 工作流驱动的本地媒体管理器，支持番剧、漫画、小说、电影等多种媒体类型的自动化管理。
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - 媒体管理
