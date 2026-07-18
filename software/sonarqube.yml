@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 软件开发 - 测试
-stargazers_count: 10797
-updated_at: '2026-07-16'
+stargazers_count: 10806
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: 26.7.0.124771

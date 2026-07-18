@@ -10,8 +10,8 @@ tags:
   - Web 服务器
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/pomerium/pomerium
-stargazers_count: 4913
-updated_at: '2026-07-16'
+stargazers_count: 4914
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: v0.33.0
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 56
   2026-05: 63
   2026-06: 49
-  2026-07: 21
+  2026-07: 23

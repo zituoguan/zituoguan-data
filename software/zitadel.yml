@@ -10,14 +10,14 @@ platforms:
 tags:
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/zitadel/zitadel
-stargazers_count: 14436
-updated_at: '2026-07-16'
+stargazers_count: 14447
+updated_at: '2026-07-17'
 archived: false
 current_release:
-  tag: v4.16.0
-  published_at: '2026-07-10'
+  tag: v4.16.1
+  published_at: '2026-07-17'
 commit_history:
   2026-04: 53
   2026-05: 9
   2026-06: 34
-  2026-07: 36
+  2026-07: 43

@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 图表绘制
-stargazers_count: 127673
-updated_at: '2026-07-16'
+stargazers_count: 127742
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: v0.18.1
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 15
   2026-06: 19
-  2026-07: 26
+  2026-07: 28

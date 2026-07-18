@@ -10,7 +10,7 @@ tags:
   - 工单
 stargazers_count: 3147
 updated_at: '2025-09-21'
-archived: false
+archived: true
 current_release:
   tag: 0.5.5
   published_at: '2024-11-14'

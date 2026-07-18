@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 数据库管理
-stargazers_count: 7150
-updated_at: '2026-07-16'
+stargazers_count: 7155
+updated_at: '2026-07-17'
 archived: false
 current_release:
-  tag: v7.2.2-packer-beta.5
-  published_at: '2026-07-16'
+  tag: v7.2.2-packer-beta.8
+  published_at: '2026-07-17'
 commit_history:
   2026-05: 84
   2026-06: 85
-  2026-07: 17
+  2026-07: 25

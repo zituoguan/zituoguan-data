@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 日历和联系人
-stargazers_count: 5221
-updated_at: '2026-07-10'
+stargazers_count: 5229
+updated_at: '2026-07-17'
 archived: false
 current_release:
-  tag: v0.0.50
-  published_at: '2026-07-09'
+  tag: v0.0.51
+  published_at: '2026-07-17'
 commit_history:
   2026-05: 67
   2026-06: 23
-  2026-07: 28
+  2026-07: 30
