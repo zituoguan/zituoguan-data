@@ -9,12 +9,12 @@ platforms:
 tags:
   - 自动化
 stargazers_count: 324
-updated_at: '2026-07-17'
+updated_at: '2026-07-18'
 archived: false
 current_release:
-  tag: v0.19.3-beta.20260717.9a3e79e
-  published_at: '2026-07-17'
+  tag: v0.19.3-beta.20260718.ec36f0e
+  published_at: '2026-07-18'
 commit_history:
   2026-05: 3
   2026-06: 3
-  2026-07: 15
+  2026-07: 18

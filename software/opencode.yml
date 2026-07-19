@@ -10,13 +10,13 @@ platforms:
   - Docker
 tags:
   - 软件开发 - IDE 和工具
-stargazers_count: 186939
-updated_at: '2026-07-17'
+stargazers_count: 187227
+updated_at: '2026-07-18'
 archived: false
 current_release:
-  tag: pr-37526-screenshots
-  published_at: '2026-07-17'
+  tag: v1.18.3
+  published_at: '2026-07-16'
 commit_history:
   2026-05: 1572
   2026-06: 1049
-  2026-07: 375
+  2026-07: 383

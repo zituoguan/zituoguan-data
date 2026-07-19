@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 密码管理器
-stargazers_count: 7313
-updated_at: '2026-07-15'
+stargazers_count: 7321
+updated_at: '2026-07-18'
 archived: false
 current_release:
   tag: standalone@3.1.7
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-05: 54
   2026-06: 18
-  2026-07: 5
+  2026-07: 9
