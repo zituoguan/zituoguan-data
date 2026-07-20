@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 物联网（IoT）
-stargazers_count: 305
-updated_at: '2026-07-17'
+stargazers_count: 311
+updated_at: '2026-07-19'
 archived: false
 current_release:
-  tag: v1.0.4
-  published_at: '2026-07-17'
+  tag: v1.1.1
+  published_at: '2026-07-19'
 commit_history:
   2026-05: 42
   2026-06: 262
-  2026-07: 301
+  2026-07: 309

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 代理
 stargazers_count: 489
-updated_at: '2026-07-18'
+updated_at: '2026-07-19'
 archived: false
 current_release:
   tag: v0.8.9
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-05: 14
   2026-06: 6
-  2026-07: 5
+  2026-07: 6
