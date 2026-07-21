@@ -1,0 +1,11 @@
+name: Apollo
+website_url: https://github.com/ClassicOldSong/Apollo
+source_code_url: https://github.com/ClassicOldSong/Apollo
+description: 游戏串流服务器，Sunshine 的分支，支持以客户端设备原生分辨率进行串流。改进的虚拟显示和手柄支持。
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+  - Docker
+tags:
+  - 游戏 - 管理工具和控制面板
