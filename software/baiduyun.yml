@@ -1,10 +1,10 @@
 name: Baiduyun
 website_url: https://github.com/syhyz1990/baiduyun
 source_code_url: https://github.com/syhyz1990/baiduyun
-description: 生成式人工智能应用和服务。
+description: 油猴脚本 - 一个免费开源的网盘下载助手。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 生成式人工智能（GenAI）

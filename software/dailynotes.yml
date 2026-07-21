@@ -1,7 +1,7 @@
 name: Dailynotes
 website_url: https://github.com/m0ngr31/DailyNotes
 source_code_url: https://github.com/m0ngr31/DailyNotes
-description: 笔记记录和知识管理工具。
+description: Dailynotes 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,11 @@
 name: Iptv Sources
 website_url: https://github.com/HerbertHe/iptv-sources
 source_code_url: https://github.com/HerbertHe/iptv-sources
-description: 媒体文件管理和自动化工具。
+description: Autoupdate iptv sources。
 licenses:
   - MIT
 platforms:
+  - TypeScript
   - Docker
 tags:
   - 媒体管理

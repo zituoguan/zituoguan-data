@@ -1,7 +1,7 @@
 name: Foundry Virtual Tabletop
 website_url: https://foundryvtt.com/
 source_code_url: https://github.com/foundryvtt/foundryvtt
-description: 在线投票和活动管理平台。
+description: Foundry Virtual Tabletop 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

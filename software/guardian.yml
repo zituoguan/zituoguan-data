@@ -1,7 +1,7 @@
 name: Guardian
 website_url: https://github.com/HydroshieldMKII/Guardian
 source_code_url: https://github.com/HydroshieldMKII/Guardian
-description: 视频流媒体和媒体服务器。
+description: Guardian 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

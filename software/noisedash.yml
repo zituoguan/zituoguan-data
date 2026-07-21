@@ -1,7 +1,7 @@
 name: Noisedash
 website_url: https://github.com/kaythomas0/noisedash
 source_code_url: https://github.com/kaythomas0/noisedash
-description: 自托管仪表板。
+description: Noisedash 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

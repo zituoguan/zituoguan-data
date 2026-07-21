@@ -1,11 +1,11 @@
 name: Cleanuparr
 website_url: https://github.com/Cleanuparr/Cleanuparr
 source_code_url: https://github.com/Cleanuparr/Cleanuparr
-description: 视频流媒体和媒体服务器。
+description: Advanced 下载 管理器 for the Servarr ecosystem。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - C#
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 2375

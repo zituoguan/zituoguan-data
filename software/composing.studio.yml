@@ -1,10 +1,10 @@
 name: Composing.studio
 website_url: https://github.com/ekzhang/composing.studio
 source_code_url: https://github.com/ekzhang/composing.studio
-description: Git 代码托管和版本控制平台。
+description: 协作 音乐 composition for everyone.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

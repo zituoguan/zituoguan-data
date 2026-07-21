@@ -1,10 +1,11 @@
 name: Dasherr
 website_url: https://github.com/erohtar/Dasherr
 source_code_url: https://github.com/erohtar/Dasherr
-description: 自托管仪表板。
+description: A minimal and 轻量级 仪表板 for your 自托管 services (and bookmarks)。
 licenses:
   - MIT
 platforms:
+  - JavaScript
   - Docker
 tags:
   - 个人仪表板

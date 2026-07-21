@@ -1,7 +1,7 @@
 name: Scrumboy
 website_url: https://github.com/markrai/scrumboy
 source_code_url: https://github.com/markrai/scrumboy
-description: 生成式人工智能应用和服务。
+description: Scrumboy 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

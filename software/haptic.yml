@@ -1,7 +1,7 @@
 name: Haptic
 website_url: https://haptic.md
 source_code_url: https://github.com/chroxify/haptic
-description: 知识管理和文档协作平台。
+description: Haptic 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,7 +1,7 @@
 name: Mini QR
 website_url: https://github.com/lyqht/mini-qr
 source_code_url: https://github.com/lyqht/mini-qr
-description: Git 代码托管和版本控制平台。
+description: Mini QR 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

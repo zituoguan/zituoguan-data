@@ -1,7 +1,7 @@
 name: Pptist
 website_url: https://github.com/pipipi-pikachu/PPTist
 source_code_url: https://github.com/pipipi-pikachu/PPTist
-description: Git 代码托管和版本控制平台。
+description: Pptist 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

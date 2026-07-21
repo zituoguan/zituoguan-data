@@ -1,7 +1,7 @@
 name: Pixelfin
 website_url: https://github.com/nothing2obvi/pixelfin
 source_code_url: https://github.com/nothing2obvi/pixelfin
-description: 视频流媒体和媒体服务器。
+description: Pixelfin 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

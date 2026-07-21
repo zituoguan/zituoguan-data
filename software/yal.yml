@@ -1,7 +1,7 @@
 name: Yal
 website_url: https://github.com/timo-reymann/yal
 source_code_url: https://github.com/timo-reymann/yal
-description: 社交网络和论坛社区平台。
+description: Yal 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

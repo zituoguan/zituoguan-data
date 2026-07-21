@@ -1,10 +1,10 @@
 name: Bettafish
 website_url: https://github.com/666ghj/BettaFish
 source_code_url: https://github.com/666ghj/BettaFish
-description: Git 代码托管和版本控制平台。
+description: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 版本控制

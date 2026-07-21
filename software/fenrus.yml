@@ -1,7 +1,7 @@
 name: Fenrus
 website_url: https://github.com/revenz/Fenrus
 source_code_url: https://github.com/revenz/Fenrus
-description: 自托管仪表板。
+description: Fenrus 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

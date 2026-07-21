@@ -1,7 +1,7 @@
 name: Owlistic
 website_url: https://owlistic-notes.github.io/owlistic/
 source_code_url: https://github.com/owlistic-notes/owlistic
-description: 知识管理和文档协作平台。
+description: Owlistic 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

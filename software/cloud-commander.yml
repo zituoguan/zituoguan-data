@@ -1,10 +1,11 @@
 name: Cloud Commander
 website_url: https://cloudcmd.io
 source_code_url: https://github.com/coderaiser/cloudcmd
-description: 高性能对象存储和文件服务器。
+description: ✨☁️📁✨ 云 Commander 文件 管理器 for the web with console and editor.
 licenses:
   - GPL-3.0
 platforms:
+  - JavaScript
   - Docker
 tags:
   - 文件传输 - 对象存储和文件服务器

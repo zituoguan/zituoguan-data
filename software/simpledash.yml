@@ -1,7 +1,7 @@
 name: Simpledash
 website_url: https://github.com/securemindorg/SimpleDash
 source_code_url: https://github.com/securemindorg/SimpleDash
-description: 自托管仪表板。
+description: Simpledash 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Elysian Extension
 website_url: https://github.com/Aadityajoshi151/Elysian-Extension
 source_code_url: https://github.com/Aadityajoshi151/Elysian-Extension
-description: Git 代码托管和版本控制平台。
+description: Elysian Extension 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

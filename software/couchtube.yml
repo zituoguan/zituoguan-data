@@ -1,11 +1,11 @@
 name: CouchTube
 website_url: https://couchtube.fly.dev/
 source_code_url: https://github.com/ozencb/couchtube
-description: 视频流媒体和媒体服务器。
+description: 📺 A 自托管, YouTube based application that recreates the feel of a 电视剧 channel. CouchTube schedules YouTube 视频 playback dynamically from 用户-defined channel lists. 自定义, 分享, and submit JSON-based playlists to make CouchTube your own!。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Go
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 258

@@ -1,7 +1,7 @@
 name: Metacubexd
 website_url: https://github.com/MetaCubeX/metacubexd
 source_code_url: https://github.com/MetaCubeX/metacubexd
-description: Git 代码托管和版本控制平台。
+description: Metacubexd 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

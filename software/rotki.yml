@@ -1,7 +1,7 @@
 name: Rotki
 website_url: https://rotki.com
 source_code_url: https://github.com/rotki/rotki
-description: 网站统计和数据分析平台。
+description: Rotki 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

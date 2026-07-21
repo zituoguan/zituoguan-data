@@ -1,11 +1,11 @@
 name: Ktistec
 website_url: https://github.com/toddsundsted/ktistec
 source_code_url: https://github.com/toddsundsted/ktistec
-description: 社交网络和论坛社区平台。
+description: ActivityPub (https://www.w3.org/TR/activitypub/) 服务器 for individual 用户 and small groups.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Crystal
 tags:
   - 通信 - 社交网络和论坛
 stargazers_count: 434

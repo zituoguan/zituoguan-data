@@ -1,7 +1,7 @@
 name: Openwrt Docker
 website_url: https://github.com/SuLingGG/OpenWrt-Docker
 source_code_url: https://github.com/SuLingGG/OpenWrt-Docker
-description: Docker 容器管理和部署平台。
+description: Openwrt Docker 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Veloera
 website_url: https://github.com/Veloera/Veloera
 source_code_url: https://github.com/Veloera/Veloera
-description: Git 代码托管和版本控制平台。
+description: Veloera 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

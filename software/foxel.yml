@@ -1,7 +1,7 @@
 name: Foxel
 website_url: https://github.com/DrizzleTime/Foxel
 source_code_url: https://github.com/DrizzleTime/Foxel
-description: 社交网络和论坛社区平台。
+description: Foxel 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

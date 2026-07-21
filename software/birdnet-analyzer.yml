@@ -1,11 +1,11 @@
 name: BirdNET-Analyzer
 website_url: https://birdnet-team.github.io/BirdNET-Analyzer/
 source_code_url: https://github.com/birdnet-team/BirdNET-Analyzer
-description: 生成式人工智能应用和服务。
+description: BirdNET analyzer for scientific 音频 数据 processing.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Python
 tags:
   - 生成式人工智能（GenAI）
 stargazers_count: 1646

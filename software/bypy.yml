@@ -1,10 +1,10 @@
 name: Bypy
 website_url: https://github.com/houtianze/bypy
 source_code_url: https://github.com/houtianze/bypy
-description: Git 代码托管和版本控制平台。
+description: Python 客户端 for Baidu Yun (Personal 云 存储) 百度云/百度网盘Python客户端。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 版本控制

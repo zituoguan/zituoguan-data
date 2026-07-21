@@ -1,7 +1,7 @@
 name: Euserv Extend
 website_url: https://github.com/CokeMine/EUserv_extend
 source_code_url: https://github.com/CokeMine/EUserv_extend
-description: Git 代码托管和版本控制平台。
+description: Euserv Extend 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

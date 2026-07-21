@@ -1,10 +1,10 @@
 name: Cogito
 website_url: https://github.com/Tukks/cogito
 source_code_url: https://github.com/Tukks/cogito
-description: Git 代码托管和版本控制平台。
+description: An another second brain app。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Java
 tags:
   - 版本控制

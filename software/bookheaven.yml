@@ -1,10 +1,11 @@
 name: BookHeaven
 website_url: https://bookheaven.ggarrido.dev/
 source_code_url: https://github.com/BookHeaven/BookHeaven.Server
-description: 电子书和阅读管理平台。
+description: BookHeaven 服务器 is a web app to 管理 your ebook 库. Compatible with OPDS, Koreader 同步 and a custom API for the BookHeaven Reader android app.
 licenses:
   - GPL-3.0
 platforms:
+  - HTML
   - Docker
 tags:
   - 文档管理 - 电子书

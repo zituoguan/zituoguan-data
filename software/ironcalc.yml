@@ -1,11 +1,11 @@
 name: IronCalc
 website_url: https://www.ironcalc.com
 source_code_url: https://github.com/ironcalc/IronCalc
-description: 电子书和阅读管理平台。
+description: Main engine of the IronCalc ecosystem。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Rust
 tags:
   - 文档管理 - 电子书
 stargazers_count: 4005

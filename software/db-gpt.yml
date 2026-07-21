@@ -1,10 +1,10 @@
 name: Db Gpt
 website_url: https://github.com/eosphoros-ai/DB-GPT
 source_code_url: https://github.com/eosphoros-ai/DB-GPT
-description: 生成式人工智能应用和服务。
+description: 开源 agentic AI 数据 assistant for the next generation of AI + 数据 products.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 生成式人工智能（GenAI）

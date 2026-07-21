@@ -1,10 +1,10 @@
 name: Chatgpt Web
 website_url: https://github.com/Chanzhaoyu/chatgpt-web
 source_code_url: https://github.com/Chanzhaoyu/chatgpt-web
-description: 社交网络和论坛社区平台。
+description: 用 Express 和  Vue3 搭建的 ChatGPT 演示网页。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Vue
 tags:
   - 通信 - 社交网络和论坛

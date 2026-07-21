@@ -1,7 +1,7 @@
 name: Docker Image Pusher
 website_url: https://github.com/tech-shrimp/docker_image_pusher
 source_code_url: https://github.com/tech-shrimp/docker_image_pusher
-description: Docker 容器管理和部署平台。
+description: Docker Image Pusher 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

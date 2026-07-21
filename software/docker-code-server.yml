@@ -1,7 +1,7 @@
 name: Docker Code Server
 website_url: https://github.com/linuxserver/docker-code-server
 source_code_url: https://github.com/linuxserver/docker-code-server
-description: Docker 容器管理和部署平台。
+description: Docker Code Server 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

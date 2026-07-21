@@ -1,7 +1,7 @@
 name: Nextcloud Mail
 website_url: https://apps.nextcloud.com/apps/mail
 source_code_url: https://github.com/nextcloud/mail
-description: AI 驱动的智能应用和智能体平台。
+description: Nextcloud Mail 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

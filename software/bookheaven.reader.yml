@@ -1,10 +1,10 @@
 name: Bookheaven.reader
 website_url: https://github.com/BookHeaven/BookHeaven.Reader
 source_code_url: https://github.com/BookHeaven/BookHeaven.Reader
-description: RSS 订阅和新闻聚合阅读器。
+description: BookHeaven Reader is an ebook reader app developed for Android e-ink readers (although it can work on any Android device) with the ability to 连接 to a BookHeaven 服务器 instance to 下载 ebooks, fonts and 同步 reading progress.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - HTML
 tags:
   - RSS 阅读器

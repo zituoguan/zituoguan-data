@@ -1,7 +1,7 @@
 name: Glimpse
 website_url: https://github.com/jeremehancock/Glimpse
 source_code_url: https://github.com/jeremehancock/Glimpse
-description: 社交网络和论坛社区平台。
+description: Glimpse 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

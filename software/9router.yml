@@ -1,10 +1,10 @@
 name: 9router
 website_url: https://github.com/decolua/9router
 source_code_url: https://github.com/decolua/9router
-description: Git 代码托管和版本控制平台。
+description: Unlimited FREE AI coding. 连接 Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% 令牌, never hit limits.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 版本控制

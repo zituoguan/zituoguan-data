@@ -1,7 +1,7 @@
 name: Pms Docker
 website_url: https://github.com/plexinc/pms-docker
 source_code_url: https://github.com/plexinc/pms-docker
-description: Docker 容器管理和部署平台。
+description: Pms Docker 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

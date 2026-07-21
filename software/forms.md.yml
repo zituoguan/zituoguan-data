@@ -1,7 +1,7 @@
 name: Forms.md
 website_url: https://forms.md
 source_code_url: https://github.com/formsmd/formsmd
-description: 在线投票和活动管理平台。
+description: Forms.md 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,11 @@
 name: Benotes
 website_url: https://github.com/fr0tt/benotes
 source_code_url: https://github.com/fr0tt/benotes
-description: 自托管仪表板。
+description: An 开源 自托管 笔记 and bookmarks taking web app.
 licenses:
   - MIT
 platforms:
+  - PHP
   - Docker
 tags:
   - 笔记工具

@@ -1,7 +1,7 @@
 name: Docker.ui
 website_url: https://github.com/gohutool/docker.ui
 source_code_url: https://github.com/gohutool/docker.ui
-description: Docker 容器管理和部署平台。
+description: Docker.ui 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

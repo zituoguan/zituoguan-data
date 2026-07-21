@@ -1,7 +1,7 @@
 name: TVHeadend
 website_url: https://tvheadend.org
 source_code_url: https://github.com/tvheadend/tvheadend
-description: 视频流媒体和媒体服务器。
+description: TVHeadend 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

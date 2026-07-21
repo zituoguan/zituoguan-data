@@ -1,7 +1,7 @@
 name: Riven
 website_url: https://riven.tv
 source_code_url: https://github.com/rivenmedia/riven
-description: 视频流媒体和媒体服务器。
+description: Riven 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

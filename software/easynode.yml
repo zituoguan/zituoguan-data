@@ -1,7 +1,7 @@
 name: Easynode
 website_url: https://github.com/chaos-zhu/easynode
 source_code_url: https://github.com/chaos-zhu/easynode
-description: Git 代码托管和版本控制平台。
+description: Easynode 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

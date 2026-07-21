@@ -1,10 +1,11 @@
 name: BookOrbit
 website_url: https://bookorbit.app
 source_code_url: https://github.com/bookorbit/bookorbit
-description: 电子书和阅读管理平台。
+description: BookOrbit: Your Reading Space。
 licenses:
   - GPL-3.0
 platforms:
+  - TypeScript
   - Docker
 tags:
   - 文档管理 - 电子书

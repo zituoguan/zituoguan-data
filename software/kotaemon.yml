@@ -1,10 +1,10 @@
 name: Kotaemon
 website_url: https://github.com/Cinnamon/kotaemon
 source_code_url: https://github.com/Cinnamon/kotaemon
-description: Git 代码托管和版本控制平台。
+description: An 开源 RAG-based 工具 for chatting with your documents.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 版本控制

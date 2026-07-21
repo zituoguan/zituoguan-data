@@ -1,10 +1,10 @@
 name: Aingdesk
 website_url: https://github.com/aingdesk/AingDesk
 source_code_url: https://github.com/aingdesk/AingDesk
-description: 生成式人工智能应用和服务。
+description: AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a 简单 and 简单-to-use AI assistant that supports knowledge bases, 模型 APIs, sharing, internet 搜索, and intelligent 智能体. It is still growing rapidly.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 生成式人工智能（GenAI）

@@ -1,7 +1,7 @@
 name: Dockdash
 website_url: https://github.com/dougmaitelli/DockDash
 source_code_url: https://github.com/dougmaitelli/DockDash
-description: 自托管仪表板。
+description: Dockdash 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

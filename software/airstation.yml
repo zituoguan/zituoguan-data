@@ -1,10 +1,10 @@
 name: Airstation
 website_url: https://github.com/cheatsnake/airstation
 source_code_url: https://github.com/cheatsnake/airstation
-description: 生成式人工智能应用和服务。
+description: 🎵 Your own online radio station。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Go
 tags:
   - 生成式人工智能（GenAI）

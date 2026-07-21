@@ -1,7 +1,7 @@
 name: Gopeed
 website_url: https://github.com/GopeedLab/gopeed
 source_code_url: https://github.com/GopeedLab/gopeed
-description: Git 代码托管和版本控制平台。
+description: Gopeed 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

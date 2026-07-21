@@ -1,7 +1,7 @@
 name: Wewe Rss
 website_url: https://github.com/cooderl/wewe-rss
 source_code_url: https://github.com/cooderl/wewe-rss
-description: RSS 订阅和新闻聚合阅读器。
+description: Wewe Rss 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

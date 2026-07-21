@@ -1,7 +1,7 @@
 name: Fasttrack
 website_url: https://github.com/theqldcoalminer/fasttrack
 source_code_url: https://github.com/theqldcoalminer/fasttrack
-description: Git 代码托管和版本控制平台。
+description: Fasttrack 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

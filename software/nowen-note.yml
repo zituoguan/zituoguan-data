@@ -1,7 +1,7 @@
 name: Nowen Note
 website_url: https://github.com/cropflre/nowen-note
 source_code_url: https://github.com/cropflre/nowen-note
-description: 笔记记录和知识管理工具。
+description: Nowen Note 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

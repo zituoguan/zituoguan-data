@@ -1,10 +1,10 @@
 name: Jpress
 website_url: https://github.com/JPressProjects/jpress
 source_code_url: https://github.com/JPressProjects/jpress
-description: 任务管理和待办事项跟踪工具。
+description: JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 任务管理和待办清单

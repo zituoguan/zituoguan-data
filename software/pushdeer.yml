@@ -1,7 +1,7 @@
 name: Pushdeer
 website_url: https://github.com/easychen/pushdeer
 source_code_url: https://github.com/easychen/pushdeer
-description: Git 代码托管和版本控制平台。
+description: Pushdeer 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

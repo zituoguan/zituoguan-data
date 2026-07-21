@@ -1,10 +1,10 @@
 name: Arcall
 website_url: https://github.com/anyRTC-UseCase/ARCall
 source_code_url: https://github.com/anyRTC-UseCase/ARCall
-description: Git 代码托管和版本控制平台。
+description: 一对一呼叫、邀请呼叫、音视频通话、多人通话，适合陌生人交友、在线教学、在线医疗、智能终端等场景；更能轻松实现腾讯会议，Zoom会议，钉钉课堂等多人音视频交互类场景。一对一音视频，一对多音视频。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 版本控制

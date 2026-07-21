@@ -1,7 +1,7 @@
 name: Pollinations
 website_url: https://github.com/pollinations/pollinations
 source_code_url: https://github.com/pollinations/pollinations
-description: 在线投票和活动管理平台。
+description: Pollinations 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

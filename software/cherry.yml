@@ -1,10 +1,10 @@
 name: Cherry
 website_url: https://github.com/haishanh/cherry
 source_code_url: https://github.com/haishanh/cherry
-description: 生成式人工智能应用和服务。
+description: Cherry is a self-hostable bookmark service。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 生成式人工智能（GenAI）

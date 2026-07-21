@@ -1,10 +1,10 @@
 name: Codexa
 website_url: https://github.com/thehijacker/codexa
 source_code_url: https://github.com/thehijacker/codexa
-description: Git 代码托管和版本控制平台。
+description: A 自托管 EPUB web reader with multi-用户 支持, OPDS browsing, KOReader 同步, and a built-in dictionary lookup — all in a single 轻量级 Node.js container.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 版本控制

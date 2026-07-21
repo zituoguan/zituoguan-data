@@ -1,7 +1,7 @@
 name: Tracearr
 website_url: https://www.tracearr.com
 source_code_url: https://github.com/connorgallopo/Tracearr
-description: 视频流媒体和媒体服务器。
+description: Tracearr 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

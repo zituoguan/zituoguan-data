@@ -1,7 +1,7 @@
 name: Yyetsbot
 website_url: https://github.com/tgbot-collection/YYeTsBot
 source_code_url: https://github.com/tgbot-collection/YYeTsBot
-description: Git 代码托管和版本控制平台。
+description: Yyetsbot 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

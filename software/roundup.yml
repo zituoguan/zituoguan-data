@@ -1,7 +1,7 @@
 name: Roundup
 website_url: https://www.roundup-tracker.org/
 source_code_url: https://github.com/roundup-tracker/roundup
-description: 网站统计和数据分析平台。
+description: Roundup 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

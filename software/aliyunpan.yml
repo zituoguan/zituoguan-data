@@ -1,10 +1,10 @@
 name: Aliyunpan
 website_url: https://github.com/tickstep/aliyunpan
 source_code_url: https://github.com/tickstep/aliyunpan
-description: 高性能对象存储和文件服务器。
+description: 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Go
 tags:
   - 文件传输 - 对象存储和文件服务器

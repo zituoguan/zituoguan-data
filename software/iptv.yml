@@ -1,10 +1,11 @@
 name: Iptv
 website_url: https://github.com/rebeliptv/iptv
 source_code_url: https://github.com/rebeliptv/iptv
-description: 媒体文件管理和自动化工具。
+description: Automatic M3U playlist and XML 指南 updater for IPTV clients with interactive web 界面.
 licenses:
   - MIT
 platforms:
+  - 
   - Docker
 tags:
   - 媒体管理

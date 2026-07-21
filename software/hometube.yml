@@ -1,7 +1,7 @@
 name: HomeTube
 website_url: https://github.com/EgalitarianMonkey/hometube
 source_code_url: https://github.com/EgalitarianMonkey/hometube
-description: 视频流媒体和媒体服务器。
+description: HomeTube 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

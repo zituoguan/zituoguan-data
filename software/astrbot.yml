@@ -1,10 +1,11 @@
 name: Astrbot
 website_url: https://github.com/AstrBotDevs/AstrBot
 source_code_url: https://github.com/AstrBotDevs/AstrBot
-description: Git 代码托管和版本控制平台。
+description: AI 智能体 Assistant & development 框架 that integrates lots of 即时通讯 platforms, LLMs, 插件 and AI feature, and can be your openclaw alternative. ✨。
 licenses:
   - MIT
 platforms:
+  - Python
   - Docker
 tags:
   - 版本控制

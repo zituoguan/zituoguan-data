@@ -1,11 +1,11 @@
 name: DashLit
 website_url: https://dashlit.cwec.dev/
 source_code_url: https://github.com/codewec/dashlit
-description: 自托管仪表板。
+description: DashLit is 自托管 startpage for your 服务器.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Svelte
 tags:
   - 个人仪表板
 stargazers_count: 329

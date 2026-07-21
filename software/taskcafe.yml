@@ -1,7 +1,7 @@
 name: Taskcafe
 website_url: https://github.com/JordanKnott/taskcafe
 source_code_url: https://github.com/JordanKnott/taskcafe
-description: 任务管理和待办事项跟踪工具。
+description: Taskcafe 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

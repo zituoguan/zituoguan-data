@@ -1,7 +1,7 @@
 name: Standalone
 website_url: https://github.com/standardnotes/standalone
 source_code_url: https://github.com/standardnotes/standalone
-description: 笔记记录和知识管理工具。
+description: Standalone 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

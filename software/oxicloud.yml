@@ -1,7 +1,7 @@
 name: OxiCloud
 website_url: https://atalayalabs.github.io/OxiCloud/
 source_code_url: https://github.com/AtalayaLabs/OxiCloud
-description: 高性能对象存储和文件服务器。
+description: OxiCloud 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

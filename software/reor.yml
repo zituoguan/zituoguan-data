@@ -1,7 +1,7 @@
 name: Reor
 website_url: https://github.com/reorproject/reor
 source_code_url: https://github.com/reorproject/reor
-description: 任务管理和待办事项跟踪工具。
+description: Reor 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

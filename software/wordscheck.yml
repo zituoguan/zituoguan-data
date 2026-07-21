@@ -1,7 +1,7 @@
 name: Wordscheck
 website_url: https://github.com/bosnzt/wordscheck
 source_code_url: https://github.com/bosnzt/wordscheck
-description: Git 代码托管和版本控制平台。
+description: Wordscheck 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Signal
 website_url: https://github.com/ryohey/signal
 source_code_url: https://github.com/ryohey/signal
-description: Git 代码托管和版本控制平台。
+description: Signal 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: RadaRec
 website_url: https://github.com/TheWicklowWolf/RadaRec
 source_code_url: https://github.com/TheWicklowWolf/RadaRec
-description: 视频流媒体和媒体服务器。
+description: RadaRec 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

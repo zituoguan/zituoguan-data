@@ -1,10 +1,10 @@
 name: Clipable
 website_url: https://github.com/clipable/clipable
 source_code_url: https://github.com/clipable/clipable
-description: Git 代码托管和版本控制平台。
+description: A 简单, 自托管, alternative to Streamable。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Go
 tags:
   - 版本控制

@@ -1,7 +1,7 @@
 name: Rocker Versioned2
 website_url: https://github.com/rocker-org/rocker-versioned2
 source_code_url: https://github.com/rocker-org/rocker-versioned2
-description: Git 代码托管和版本控制平台。
+description: Rocker Versioned2 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

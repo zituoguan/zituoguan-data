@@ -1,7 +1,7 @@
 name: MediaLyze
 website_url: https://www.medialyze.app
 source_code_url: https://github.com/frederikemmer/MediaLyze
-description: 电子书和阅读管理平台。
+description: MediaLyze 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

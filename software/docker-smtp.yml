@@ -1,7 +1,7 @@
 name: Docker Smtp
 website_url: https://github.com/WeAreGenki/docker-smtp
 source_code_url: https://github.com/WeAreGenki/docker-smtp
-description: Docker 容器管理和部署平台。
+description: Docker Smtp 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

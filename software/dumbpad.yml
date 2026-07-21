@@ -1,7 +1,7 @@
 name: DumbPad
 website_url: https://github.com/DumbWareio/DumbPad
 source_code_url: https://github.com/DumbWareio/DumbPad
-description: 知识管理和文档协作平台。
+description: DumbPad 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

@@ -1,10 +1,11 @@
 name: Aiaw
 website_url: https://github.com/NitroRCr/AIaW
 source_code_url: https://github.com/NitroRCr/AIaW
-description: 生成式人工智能应用和服务。
+description: AI as Workspace - An elegant AI 聊天 客户端. Full-featured, 轻量级. 支持 multiple workspaces, 插件 system, 跨平台, local first + 实时 云 同步, Artifacts, MCP | 更好的 AI 客户端。
 licenses:
   - MIT
 platforms:
+  - TypeScript
   - Docker
 tags:
   - 生成式人工智能（GenAI）

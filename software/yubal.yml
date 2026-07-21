@@ -1,7 +1,7 @@
 name: yubal
 website_url: https://github.com/guillevc/yubal
 source_code_url: https://github.com/guillevc/yubal
-description: 音频流媒体和音乐服务器。
+description: yubal 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Gmail Cleaner
 website_url: https://gururagavendra.github.io/gmail-cleaner/
 source_code_url: https://github.com/Gururagavendra/gmail-cleaner
-description: AI 驱动的智能应用和智能体平台。
+description: Gmail Cleaner 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: GrowChief
 website_url: https://growchief.com
 source_code_url: https://github.com/growchief/growchief
-description: 工作流自动化和任务编排工具。
+description: GrowChief 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

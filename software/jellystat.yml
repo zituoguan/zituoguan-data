@@ -1,11 +1,11 @@
 name: Jellystat
 website_url: https://github.com/CyferShepard/Jellystat
 source_code_url: https://github.com/CyferShepard/Jellystat
-description: 网站统计和数据分析平台。
+description: Jellystat is a free and 开源 统计 App for Jellyfin。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 2408

@@ -1,7 +1,7 @@
 name: Grimmory
 website_url: https://grimmory.org
 source_code_url: https://github.com/grimmory-tools/grimmory
-description: 电子书和阅读管理平台。
+description: Grimmory 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,11 +1,11 @@
 name: Boxarr
 website_url: https://github.com/iongpt/boxarr
 source_code_url: https://github.com/iongpt/boxarr
-description: 工作流自动化和任务编排工具。
+description: Boxarr is an automated box office tracking application that integrates with Radarr to 监控, add, and 管理 the latest theatrical 发布. It provides a 美观 仪表板 showing the current box office top 10, their status in your Radarr 库, and allows 质量 个人资料 管理.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Python
 tags:
   - 自动化
 stargazers_count: 287

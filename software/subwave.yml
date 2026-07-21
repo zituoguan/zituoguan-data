@@ -1,7 +1,7 @@
 name: SUB/WAVE
 website_url: https://www.getsubwave.com
 source_code_url: https://github.com/perminder-klair/subwave
-description: 音频流媒体和音乐服务器。
+description: SUB/WAVE 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

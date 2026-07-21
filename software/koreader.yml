@@ -1,10 +1,10 @@
 name: Koreader
 website_url: https://github.com/koreader/koreader
 source_code_url: https://github.com/koreader/koreader
-description: RSS 订阅和新闻聚合阅读器。
+description: An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Lua
 tags:
   - RSS 阅读器

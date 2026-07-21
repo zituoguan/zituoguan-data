@@ -1,7 +1,7 @@
 name: Streamdock
 website_url: https://github.com/limmer55/streamdock
 source_code_url: https://github.com/limmer55/streamdock
-description: 笔记记录和知识管理工具。
+description: Streamdock 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

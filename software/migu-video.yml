@@ -1,7 +1,7 @@
 name: Migu Video
 website_url: https://github.com/develop202/migu_video
 source_code_url: https://github.com/develop202/migu_video
-description: 媒体文件管理和自动化工具。
+description: Migu Video 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

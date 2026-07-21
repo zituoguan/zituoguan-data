@@ -1,10 +1,10 @@
 name: Kokoro Fastapi
 website_url: https://github.com/remsky/Kokoro-FastAPI
 source_code_url: https://github.com/remsky/Kokoro-FastAPI
-description: Git 代码托管和版本控制平台。
+description: Dockerized FastAPI wrapper for Kokoro-82M text-to-speech 模型 w/multiplatform CPU, AMD, NVIDIA GPU PyTorch 支持, handling, and auto-stitching。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 版本控制

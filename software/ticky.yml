@@ -1,7 +1,7 @@
 name: Ticky
 website_url: https://github.com/dkorecko/Ticky
 source_code_url: https://github.com/dkorecko/Ticky
-description: 任务管理和待办事项跟踪工具。
+description: Ticky 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

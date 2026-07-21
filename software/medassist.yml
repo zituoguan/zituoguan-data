@@ -1,7 +1,7 @@
 name: MedAssist
 website_url: https://github.com/njic/medassist
 source_code_url: https://github.com/njic/medassist
-description: AI 驱动的智能应用和智能体平台。
+description: MedAssist 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

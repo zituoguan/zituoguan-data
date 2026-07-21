@@ -1,11 +1,11 @@
 name: Jellyplist
 website_url: https://github.com/kamilkosek/jellyplist
 source_code_url: https://github.com/kamilkosek/jellyplist
-description: 视频流媒体和媒体服务器。
+description: A  实用工具 to 帮助 you 同步 playlists from spotify to your jellyfin 服务器。
 licenses:
   - Apache-2.0
 platforms:
-  - Docker
+  - Python
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 377

@@ -1,7 +1,7 @@
 name: SoulSync
 website_url: https://ssync.net/
 source_code_url: https://github.com/Nezreka/SoulSync
-description: 音频流媒体和音乐服务器。
+description: SoulSync 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

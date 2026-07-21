@@ -1,7 +1,7 @@
 name: Send2ereader
 website_url: https://github.com/daniel-j/send2ereader
 source_code_url: https://github.com/daniel-j/send2ereader
-description: RSS 订阅和新闻聚合阅读器。
+description: Send2ereader 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

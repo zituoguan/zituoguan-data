@@ -1,10 +1,11 @@
 name: Alexandrie
 website_url: https://alexandrie-hub.fr
 source_code_url: https://github.com/Smaug6739/Alexandrie
-description: 知识管理和文档协作平台。
+description: 📚 The 开源, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant 团队, OIDC/SSO, and local S3 backups. 部署 in one command.
 licenses:
   - GPL-3.0
 platforms:
+  - Vue
   - Docker
 tags:
   - 知识管理

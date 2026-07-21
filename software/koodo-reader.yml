@@ -1,7 +1,7 @@
 name: Koodo Reader
 website_url: https://github.com/troyeguo/koodo-reader
 source_code_url: https://github.com/troyeguo/koodo-reader
-description: RSS 订阅和新闻聚合阅读器。
+description: Koodo Reader 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

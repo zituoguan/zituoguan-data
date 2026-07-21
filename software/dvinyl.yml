@@ -1,7 +1,7 @@
 name: DVinyl
 website_url: https://kyonew.me/dvinyl
 source_code_url: https://github.com/Kyonew/DVinyl
-description: 视频流媒体和媒体服务器。
+description: DVinyl 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,10 +1,10 @@
 name: Coai
 website_url: https://github.com/coaidev/coai
 source_code_url: https://github.com/coaidev/coai
-description: 生成式人工智能应用和服务。
+description: 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin 管理 & 账单 System. 企业-Grade Unified LLM 网关 支持 for 200+ 模型 And 35+ Providers, Load Balacing w/ Priority-base 路由, Cost 管理, 聊天 分享, 云 同步, Credit/Subscription 账单, All 文件 Parsing, Web 搜索, Built-in 模型 缓存.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 生成式人工智能（GenAI）

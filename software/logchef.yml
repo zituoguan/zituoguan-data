@@ -1,11 +1,11 @@
 name: Logchef
 website_url: https://logchef.app/
 source_code_url: https://github.com/mr-karan/logchef
-description: 网站统计和数据分析平台。
+description: 轻量级, single-binary log 分析 界面 for ClickHouse, focused on 高性能 querying and 可视化。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Go
 tags:
   - 日志管理
 stargazers_count: 763

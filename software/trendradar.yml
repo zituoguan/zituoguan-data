@@ -1,7 +1,7 @@
 name: Trendradar
 website_url: https://github.com/sansan0/TrendRadar
 source_code_url: https://github.com/sansan0/TrendRadar
-description: Git 代码托管和版本控制平台。
+description: Trendradar 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

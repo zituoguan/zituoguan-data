@@ -1,10 +1,10 @@
 name: Kodiwebportal
 website_url: https://github.com/yanncam/KodiWebPortal
 source_code_url: https://github.com/yanncam/KodiWebPortal
-description: 高性能对象存储和文件服务器。
+description: The Web Portal for Kodi to display, 搜索 and 下载 your personal multimedia content.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - PHP
 tags:
   - 文件传输 - 对象存储和文件服务器

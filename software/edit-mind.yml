@@ -1,7 +1,7 @@
 name: Edit Mind
 website_url: https://github.com/IliasHad/edit-mind
 source_code_url: https://github.com/IliasHad/edit-mind
-description: AI 驱动的智能应用和智能体平台。
+description: Edit Mind 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

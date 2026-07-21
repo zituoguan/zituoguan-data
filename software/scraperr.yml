@@ -1,7 +1,7 @@
 name: Scraperr
 website_url: https://github.com/jaypyles/Scraperr
 source_code_url: https://github.com/jaypyles/Scraperr
-description: Git 代码托管和版本控制平台。
+description: Scraperr 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: DroppedNeedle
 website_url: https://musicseerr.com/
 source_code_url: https://github.com/DroppedNeedle/DroppedNeedle
-description: 音频流媒体和音乐服务器。
+description: DroppedNeedle 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

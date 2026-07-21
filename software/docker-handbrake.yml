@@ -1,7 +1,7 @@
 name: Docker Handbrake
 website_url: https://github.com/jlesage/docker-handbrake
 source_code_url: https://github.com/jlesage/docker-handbrake
-description: Docker 容器管理和部署平台。
+description: Docker Handbrake 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

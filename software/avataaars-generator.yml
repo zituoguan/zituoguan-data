@@ -1,10 +1,10 @@
 name: Avataaars Generator
 website_url: https://github.com/fangpenlin/avataaars-generator
 source_code_url: https://github.com/fangpenlin/avataaars-generator
-description: Git 代码托管和版本控制平台。
+description: 简单 generator React app for avataaars。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

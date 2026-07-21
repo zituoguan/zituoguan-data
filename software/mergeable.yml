@@ -1,7 +1,7 @@
 name: Mergeable
 website_url: https://www.usemergeable.dev
 source_code_url: https://github.com/pvcnt/mergeable
-description: Git 代码托管和版本控制平台。
+description: Mergeable 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

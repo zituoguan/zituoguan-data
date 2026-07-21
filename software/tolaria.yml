@@ -1,7 +1,7 @@
 name: Tolaria
 website_url: https://github.com/refactoringhq/tolaria
 source_code_url: https://github.com/refactoringhq/tolaria
-description: 笔记记录和知识管理工具。
+description: Tolaria 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,10 @@
 name: Jw Community
 website_url: https://github.com/jogetworkflow/jw-community
 source_code_url: https://github.com/jogetworkflow/jw-community
-description: 任务管理和待办事项跟踪工具。
+description: Joget is an 开源 no-code/low-code application platform that combines the best of rapid application development, 商业 process 自动化 and 工作流 管理. This Joget 开源 repository is licensed under GPLv3. For commercial licensing, please visit www.joget.org.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 任务管理和待办清单

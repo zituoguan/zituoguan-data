@@ -1,11 +1,11 @@
 name: Calorific
 website_url: https://github.com/xdpirate/calorific
 source_code_url: https://github.com/xdpirate/calorific
-description: 网站统计和数据分析平台。
+description: Dead 简单 自托管 calorie tracker。
 licenses:
   - Apache-2.0
 platforms:
-  - Docker
+  - PHP
 tags:
   - 分析
 stargazers_count: 94

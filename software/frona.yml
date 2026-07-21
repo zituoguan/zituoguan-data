@@ -1,7 +1,7 @@
 name: Frona
 website_url: https://github.com/fronalabs/frona
 source_code_url: https://github.com/fronalabs/frona
-description: Git 代码托管和版本控制平台。
+description: Frona 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

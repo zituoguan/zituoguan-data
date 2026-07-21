@@ -1,11 +1,11 @@
 name: AutoKitteh
 website_url: https://autokitteh.com
 source_code_url: https://github.com/autokitteh/autokitteh
-description: 工作流自动化和任务编排工具。
+description: Durable 工作流 自动化 in just a few lines of code。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Go
 tags:
   - 自动化
 stargazers_count: 1138

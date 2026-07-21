@@ -1,10 +1,11 @@
 name: Astro
 website_url: https://github.com/igorsheg/astro
 source_code_url: https://github.com/igorsheg/astro
-description: Git 代码托管和版本控制平台。
+description: An open, extensible, 仪表板 for all of your homelab services.
 licenses:
   - MIT
 platforms:
+  - TypeScript
   - Docker
 tags:
   - 版本控制

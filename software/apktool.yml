@@ -1,10 +1,10 @@
 name: Apktool
 website_url: https://github.com/iBotPeaches/Apktool
 source_code_url: https://github.com/iBotPeaches/Apktool
-description: Git 代码托管和版本控制平台。
+description: A 工具 for reverse engineering Android apk 文件。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Java
 tags:
   - 版本控制

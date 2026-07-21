@@ -1,7 +1,7 @@
 name: WhoRang
 website_url: https://github.com/Beast12/who-rang
 source_code_url: https://github.com/Beast12/who-rang
-description: AI 驱动的智能应用和智能体平台。
+description: WhoRang 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

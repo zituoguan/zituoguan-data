@@ -1,7 +1,7 @@
 name: One Api
 website_url: https://github.com/songquanpeng/one-api
 source_code_url: https://github.com/songquanpeng/one-api
-description: 音频流媒体和音乐服务器。
+description: One Api 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

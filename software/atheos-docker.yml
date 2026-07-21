@@ -1,7 +1,7 @@
 name: Atheos Docker
 website_url: https://github.com/Atheos/Atheos-Docker
 source_code_url: https://github.com/Atheos/Atheos-Docker
-description: Docker 容器管理和部署平台。
+description: 基于 Web 云 IDE and code editor with minimal footprint and requirements.
 licenses:
   - MIT
 platforms:

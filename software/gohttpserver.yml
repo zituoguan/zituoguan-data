@@ -1,7 +1,7 @@
 name: Gohttpserver
 website_url: https://github.com/codeskyblue/gohttpserver
 source_code_url: https://github.com/codeskyblue/gohttpserver
-description: Git 代码托管和版本控制平台。
+description: Gohttpserver 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

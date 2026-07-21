@@ -1,11 +1,11 @@
 name: LinguaCafe
 website_url: https://simjanos-dev.github.io/LinguaCafeHome/
 source_code_url: https://github.com/simjanos-dev/LinguaCafe
-description: 电子书和阅读管理平台。
+description: LinguaCafe is a 自托管 software that helps language learners read foreign languages.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Vue
 tags:
   - 文档管理 - 电子书
 stargazers_count: 1415

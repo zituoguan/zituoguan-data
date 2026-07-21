@@ -1,7 +1,7 @@
 name: Vcompose
 website_url: https://github.com/zbrave/vcompose
 source_code_url: https://github.com/zbrave/vcompose
-description: Docker 容器管理和部署平台。
+description: Vcompose 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

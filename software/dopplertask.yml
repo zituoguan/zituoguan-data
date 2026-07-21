@@ -1,7 +1,7 @@
 name: Dopplertask
 website_url: https://github.com/dopplertask/dopplertask
 source_code_url: https://github.com/dopplertask/dopplertask
-description: 任务管理和待办事项跟踪工具。
+description: Dopplertask 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

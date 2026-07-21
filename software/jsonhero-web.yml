@@ -1,10 +1,10 @@
 name: Jsonhero Web
 website_url: https://github.com/triggerdotdev/jsonhero-web
 source_code_url: https://github.com/triggerdotdev/jsonhero-web
-description: Git 代码托管和版本控制平台。
+description: JSON Hero is an 开源, 美观 JSON explorer for the web that lets you browse, 搜索 and navigate your JSON 文件 at 速度. 🚀. Built with 💜 by the Trigger.开发 团队.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

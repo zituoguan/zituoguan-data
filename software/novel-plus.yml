@@ -1,7 +1,7 @@
 name: Novel Plus
 website_url: https://github.com/201206030/novel-plus
 source_code_url: https://github.com/201206030/novel-plus
-description: Git 代码托管和版本控制平台。
+description: Novel Plus 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Splayer
 website_url: https://github.com/imsyy/SPlayer
 source_code_url: https://github.com/imsyy/SPlayer
-description: 社交网络和论坛社区平台。
+description: Splayer 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

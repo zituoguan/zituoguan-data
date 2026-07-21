@@ -1,11 +1,11 @@
 name: Anchor
 website_url: https://github.com/ZhFahim/anchor
 source_code_url: https://github.com/ZhFahim/anchor
-description: 知识管理和文档协作平台。
+description: Offline first, self hostable 笔记 taking application。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 知识管理
 stargazers_count: 1129

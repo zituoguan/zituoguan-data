@@ -1,7 +1,7 @@
 name: TaskView
 website_url: https://taskview.tech/
 source_code_url: https://github.com/Gimanh/taskview-community
-description: 任务管理和待办事项跟踪工具。
+description: TaskView 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

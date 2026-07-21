@@ -1,7 +1,7 @@
 name: FolderHost
 website_url: https://folderhost.org
 source_code_url: https://github.com/MertJSX/folderhost
-description: 高性能对象存储和文件服务器。
+description: FolderHost 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

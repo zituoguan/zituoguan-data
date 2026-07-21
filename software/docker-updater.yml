@@ -1,7 +1,7 @@
 name: Docker Updater
 website_url: https://github.com/liquidguru/docker-updater
 source_code_url: https://github.com/liquidguru/docker-updater
-description: Docker 容器管理和部署平台。
+description: Docker Updater 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

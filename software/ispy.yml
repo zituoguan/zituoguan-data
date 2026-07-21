@@ -1,10 +1,10 @@
 name: Ispy
 website_url: https://github.com/ispysoftware/iSpy
 source_code_url: https://github.com/ispysoftware/iSpy
-description: Git 代码托管和版本控制平台。
+description: 开源 surveillance software。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - C#
 tags:
   - 版本控制

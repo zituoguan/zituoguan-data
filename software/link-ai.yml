@@ -1,10 +1,10 @@
 name: Link Ai
 website_url: https://github.com/star7th/link-ai
 source_code_url: https://github.com/star7th/link-ai
-description: 生成式人工智能应用和服务。
+description: 保护每一次 AI 调用的隐私安全 — 面向企业和个人的大模型安全接入网关。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 生成式人工智能（GenAI）

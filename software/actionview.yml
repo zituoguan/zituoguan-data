@@ -1,10 +1,10 @@
 name: Actionview
 website_url: https://github.com/lxerxa/actionview
 source_code_url: https://github.com/lxerxa/actionview
-description: 任务管理和待办事项跟踪工具。
+description: An issue tracking 工具 based on laravel+reactjs for small and medium-sized enterprises, 开源 and free, similar to Jira.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - PHP
 tags:
   - 任务管理和待办清单

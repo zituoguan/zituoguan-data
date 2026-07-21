@@ -1,10 +1,11 @@
 name: Koito
 website_url: https://koito.io
 source_code_url: https://github.com/gabehf/Koito
-description: 音频流媒体和音乐服务器。
+description: Koito is a 现代化, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL。
 licenses:
   - GPL-3.0
 platforms:
+  - Go
   - Docker
 tags:
   - 流媒体 - 音频流媒体

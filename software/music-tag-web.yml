@@ -1,7 +1,7 @@
 name: Music Tag Web
 website_url: https://github.com/xhongc/music-tag-web
 source_code_url: https://github.com/xhongc/music-tag-web
-description: 音频流媒体和音乐服务器。
+description: Music Tag Web 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

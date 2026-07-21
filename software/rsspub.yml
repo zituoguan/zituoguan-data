@@ -1,7 +1,7 @@
 name: Rsspub
 website_url: https://github.com/harshit181/RSSPub
 source_code_url: https://github.com/harshit181/RSSPub
-description: RSS 订阅和新闻聚合阅读器。
+description: Rsspub 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

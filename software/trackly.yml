@@ -1,7 +1,7 @@
 name: Trackly
 website_url: https://github.com/7eventy7/trackly
 source_code_url: https://github.com/7eventy7/trackly
-description: 电子书和阅读管理平台。
+description: Trackly 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

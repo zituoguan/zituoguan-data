@@ -1,7 +1,7 @@
 name: Priviblur
 website_url: https://github.com/syeopite/priviblur
 source_code_url: https://github.com/syeopite/priviblur
-description: 社交网络和论坛社区平台。
+description: Priviblur 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

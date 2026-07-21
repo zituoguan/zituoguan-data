@@ -1,7 +1,7 @@
 name: Wuhan 2019 Ncov
 website_url: https://github.com/canghailan/Wuhan-2019-nCoV
 source_code_url: https://github.com/canghailan/Wuhan-2019-nCoV
-description: 生成式人工智能应用和服务。
+description: Wuhan 2019 Ncov 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,11 +1,11 @@
 name: BiblioReads
 website_url: https://biblioreads.eu.org
 source_code_url: https://github.com/nesaku/BiblioReads
-description: 电子书和阅读管理平台。
+description: An Alternative 私有 Goodreads Front-End.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 文档管理 - 电子书
 stargazers_count: 329

@@ -1,7 +1,7 @@
 name: Dashwise Next
 website_url: https://github.com/andreasmolnardev/dashwise-next
 source_code_url: https://github.com/andreasmolnardev/dashwise-next
-description: 自托管仪表板。
+description: Dashwise Next 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

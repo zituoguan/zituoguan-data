@@ -1,7 +1,7 @@
 name: Quant Ux Docker
 website_url: https://github.com/bmcgonag/quant-ux-docker
 source_code_url: https://github.com/bmcgonag/quant-ux-docker
-description: Docker 容器管理和部署平台。
+description: Quant Ux Docker 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,10 @@
 name: Iptv Checker
 website_url: https://github.com/zhimin-dev/iptv-checker
 source_code_url: https://github.com/zhimin-dev/iptv-checker
-description: 社交网络和论坛社区平台。
+description: IPTV checker 工具 for Docker && CMD, check your playlist is available。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Makefile
 tags:
   - 通信 - 社交网络和论坛

@@ -1,11 +1,11 @@
 name: Bulwark
 website_url: https://bulwarkmail.org
 source_code_url: https://github.com/bulwarkmail/webmail
-description: AI 驱动的智能应用和智能体平台。
+description: JMAP Webmail built for the 21st Century. A 现代化, 自托管 email 客户端 for Stalwart Mail 服务器 powered by the JMAP protocol. Email, 日历, contacts and 文件. 快速, 私有, and 开源.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 stargazers_count: 844

@@ -1,10 +1,11 @@
 name: Bar Keep
 website_url: https://github.com/nckslvrmn/bar_keep
 source_code_url: https://github.com/nckslvrmn/bar_keep
-description: Git 代码托管和版本控制平台。
+description: A 简单 inventory 管理器 for your home bar。
 licenses:
   - MIT
 platforms:
+  - HTML
   - Docker
 tags:
   - 版本控制

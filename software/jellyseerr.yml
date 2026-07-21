@@ -1,7 +1,7 @@
 name: Jellyseerr
 website_url: https://github.com/Fallenbagel/jellyseerr
 source_code_url: https://github.com/Fallenbagel/jellyseerr
-description: Git 代码托管和版本控制平台。
+description: Jellyseerr 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

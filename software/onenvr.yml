@@ -1,7 +1,7 @@
 name: Onenvr
 website_url: https://github.com/cyb3rdoc/onenvr
 source_code_url: https://github.com/cyb3rdoc/onenvr
-description: 笔记记录和知识管理工具。
+description: Onenvr 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

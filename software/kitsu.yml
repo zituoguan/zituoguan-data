@@ -1,11 +1,11 @@
 name: Kitsu
 website_url: https://kitsu.cg-wire.com
 source_code_url: https://github.com/cgwire/kitsu
-description: 在线投票和活动管理平台。
+description: 协作 Platform for Animation and VFX Productions。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Vue
 tags:
   - 投票和活动
 stargazers_count: 669

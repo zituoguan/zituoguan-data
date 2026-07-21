@@ -1,7 +1,7 @@
 name: Picgo Plugin Cloudimgs Uploader
 website_url: https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader
 source_code_url: https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader
-description: 社交网络和论坛社区平台。
+description: Picgo Plugin Cloudimgs Uploader 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

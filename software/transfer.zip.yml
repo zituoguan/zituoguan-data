@@ -1,7 +1,7 @@
 name: Transfer.zip
 website_url: https://transfer.zip
 source_code_url: https://github.com/robinkarlberg/transfer.zip-web
-description: 高性能对象存储和文件服务器。
+description: Transfer.zip 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

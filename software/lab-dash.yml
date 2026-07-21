@@ -1,10 +1,11 @@
 name: Lab Dash
 website_url: https://github.com/AnthonyGress/lab-dash
 source_code_url: https://github.com/AnthonyGress/lab-dash
-description: 自托管仪表板。
+description: An 开源 仪表板 designed to 管理 your 服务器/homelab applications and services.
 licenses:
   - GPL-3.0
 platforms:
+  - TypeScript
   - Docker
 tags:
   - 监控和状态页面

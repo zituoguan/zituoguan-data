@@ -1,7 +1,7 @@
 name: Newsnow
 website_url: https://github.com/ourongxing/newsnow
 source_code_url: https://github.com/ourongxing/newsnow
-description: RSS 订阅和新闻聚合阅读器。
+description: Newsnow 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

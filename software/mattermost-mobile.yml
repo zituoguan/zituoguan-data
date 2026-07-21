@@ -1,7 +1,7 @@
 name: Mattermost Mobile
 website_url: https://github.com/mattermost/mattermost-mobile
 source_code_url: https://github.com/mattermost/mattermost-mobile
-description: 社交网络和论坛社区平台。
+description: Mattermost Mobile 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

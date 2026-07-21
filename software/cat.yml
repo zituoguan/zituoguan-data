@@ -1,10 +1,10 @@
 name: Cat
 website_url: https://github.com/celaraze/cat
 source_code_url: https://github.com/celaraze/cat
-description: Git 代码托管和版本控制平台。
+description: Sebastian is a LLM assistant with the ability to have permanent 记忆.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Blade
 tags:
   - 版本控制

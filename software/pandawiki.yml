@@ -1,7 +1,7 @@
 name: Pandawiki
 website_url: https://github.com/chaitin/PandaWiki
 source_code_url: https://github.com/chaitin/PandaWiki
-description: 笔记记录和知识管理工具。
+description: Pandawiki 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

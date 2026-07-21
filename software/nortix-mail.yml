@@ -1,7 +1,7 @@
 name: Nortix Mail
 website_url: https://github.com/Zhoros/NortixMail
 source_code_url: https://github.com/Zhoros/NortixMail
-description: AI 驱动的智能应用和智能体平台。
+description: Nortix Mail 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Zen Notes
 website_url: https://www.sheshbabu.com/zen/
 source_code_url: https://github.com/sheshbabu/zen
-description: 知识管理和文档协作平台。
+description: Zen Notes 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

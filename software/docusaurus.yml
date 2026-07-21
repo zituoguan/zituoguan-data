@@ -1,7 +1,7 @@
 name: Docusaurus
 website_url: https://docusaurus.io
 source_code_url: https://github.com/facebook/docusaurus
-description: AI 驱动的智能应用和智能体平台。
+description: Docusaurus 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

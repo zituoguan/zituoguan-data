@@ -1,7 +1,7 @@
 name: Scriberr
 website_url: https://scriberr.app
 source_code_url: https://github.com/rishikanthc/Scriberr
-description: AI 驱动的智能应用和智能体平台。
+description: Scriberr 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

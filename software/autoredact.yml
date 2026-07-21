@@ -1,10 +1,10 @@
 name: Autoredact
 website_url: https://github.com/karant-dev/AutoRedact
 source_code_url: https://github.com/karant-dev/AutoRedact
-description: Git 代码托管和版本控制平台。
+description: 🛡️ 客户端-side, 隐私-first 图片 redaction 工具. Automatically detects and blurs PII (Emails, IPs, 密钥) using local OCR. No 服务器, no 数据 leaks.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

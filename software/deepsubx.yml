@@ -1,7 +1,7 @@
 name: DeepSubX
 website_url: https://github.com/garanda21/deepsubx
 source_code_url: https://github.com/garanda21/deepsubx
-description: 视频流媒体和媒体服务器。
+description: DeepSubX 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

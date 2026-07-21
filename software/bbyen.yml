@@ -1,11 +1,11 @@
 name: BBYEN
 website_url: https://github.com/MarcelRobitaille/bbyen
 source_code_url: https://github.com/MarcelRobitaille/bbyen
-description: AI 驱动的智能应用和智能体平台。
+description: Bring Back YouTube Email Notifications! YouTube 上传 email 通知 replacement。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 stargazers_count: 18

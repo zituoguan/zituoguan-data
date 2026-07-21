@@ -1,11 +1,11 @@
 name: Ackify
 website_url: https://ackify.eu
 source_code_url: https://github.com/kOlapsis/ackify
-description: 电子书和阅读管理平台。
+description: 🔏 Proof of Read. 合规 made 简单.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Go
 tags:
   - 知识管理
 stargazers_count: 202

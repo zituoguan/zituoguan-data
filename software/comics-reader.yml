@@ -1,10 +1,10 @@
 name: Comics Reader
 website_url: https://github.com/onigoetz/Comics-Reader
 source_code_url: https://github.com/onigoetz/Comics-Reader
-description: RSS 订阅和新闻聚合阅读器。
+description: Read your comic book scans on tablet !。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - RSS 阅读器

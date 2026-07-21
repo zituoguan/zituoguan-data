@@ -1,7 +1,7 @@
 name: Operately
 website_url: https://operately.com
 source_code_url: https://github.com/operately/operately
-description: 任务管理和待办事项跟踪工具。
+description: Operately 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

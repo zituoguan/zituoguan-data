@@ -1,7 +1,7 @@
 name: Rustscan
 website_url: https://github.com/RustScan/RustScan
 source_code_url: https://github.com/RustScan/RustScan
-description: Git 代码托管和版本控制平台。
+description: Rustscan 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Glass Keep
 website_url: https://github.com/nikunjsingh93/react-glass-keep
 source_code_url: https://github.com/nikunjsingh93/react-glass-keep
-description: 知识管理和文档协作平台。
+description: Glass Keep 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

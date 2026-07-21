@@ -1,10 +1,10 @@
 name: Chatbot Ui
 website_url: https://github.com/mckaywrigley/chatbot-ui
 source_code_url: https://github.com/mckaywrigley/chatbot-ui
-description: 社交网络和论坛社区平台。
+description: AI 聊天 for any 模型.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 通信 - 社交网络和论坛

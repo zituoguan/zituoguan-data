@@ -1,10 +1,10 @@
 name: Lazydocker
 website_url: https://github.com/jesseduffield/lazydocker
 source_code_url: https://github.com/jesseduffield/lazydocker
-description: Docker 容器管理和部署平台。
+description: The lazier way to 管理 everything Docker。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Go
 tags:
   - 容器

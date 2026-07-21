@@ -1,7 +1,7 @@
 name: Wealth Tracker
 website_url: https://github.com/nicejade/wealth-tracker
 source_code_url: https://github.com/nicejade/wealth-tracker
-description: Git 代码托管和版本控制平台。
+description: Wealth Tracker 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

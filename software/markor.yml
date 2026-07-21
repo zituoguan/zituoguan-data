@@ -1,7 +1,7 @@
 name: Markor
 website_url: https://github.com/gsantner/markor
 source_code_url: https://github.com/gsantner/markor
-description: Git 代码托管和版本控制平台。
+description: Markor 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

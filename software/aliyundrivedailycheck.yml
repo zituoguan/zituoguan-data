@@ -1,10 +1,10 @@
 name: Aliyundrivedailycheck
 website_url: https://github.com/mrabit/aliyundriveDailyCheck
 source_code_url: https://github.com/mrabit/aliyundriveDailyCheck
-description: 高性能对象存储和文件服务器。
+description: 阿里云盘每日签到脚本 青龙面板支持。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 文件传输 - 对象存储和文件服务器

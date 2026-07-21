@@ -1,7 +1,7 @@
 name: Tini
 website_url: https://github.com/krallin/tini
 source_code_url: https://github.com/krallin/tini
-description: Git 代码托管和版本控制平台。
+description: Tini 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,11 +1,11 @@
 name: Amurex
 website_url: https://api.amurex.ai
 source_code_url: https://github.com/thepersonalaicompany/amurex-backend
-description: AI 驱动的智能应用和智能体平台。
+description: This is the backend for the entire Amurex 项目.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 生成式人工智能（GenAI）
 stargazers_count: 146

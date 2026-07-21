@@ -1,7 +1,7 @@
 name: Snapp
 website_url: https://github.com/urania-dev/snapp
 source_code_url: https://github.com/urania-dev/snapp
-description: Git 代码托管和版本控制平台。
+description: Snapp 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

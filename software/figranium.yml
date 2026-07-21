@@ -1,7 +1,7 @@
 name: Figranium
 website_url: https://figranium.dev
 source_code_url: https://github.com/figranium/figranium
-description: 工作流自动化和任务编排工具。
+description: Figranium 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

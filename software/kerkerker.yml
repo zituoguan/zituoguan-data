@@ -1,10 +1,10 @@
 name: Kerkerker
 website_url: https://github.com/unilei/kerkerker
 source_code_url: https://github.com/unilei/kerkerker
-description: Git 代码托管和版本控制平台。
+description: 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署 | Vercel 部署。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

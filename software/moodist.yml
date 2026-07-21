@@ -1,7 +1,7 @@
 name: Moodist
 website_url: https://github.com/remvze/moodist
 source_code_url: https://github.com/remvze/moodist
-description: 音频流媒体和音乐服务器。
+description: Moodist 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

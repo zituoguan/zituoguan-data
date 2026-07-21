@@ -1,11 +1,11 @@
 name: Comic Library Utilities
 website_url: https://clucomics.org
 source_code_url: https://github.com/allaboutduncan/clu-comics
-description: 电子书和阅读管理平台。
+description: Digital comic curation app to read, 管理, edit, and 更新 库 of any size.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Python
 tags:
   - 文档管理 - 电子书
 stargazers_count: 242

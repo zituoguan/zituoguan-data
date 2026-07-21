@@ -1,10 +1,10 @@
 name: Algermusicplayer
 website_url: https://github.com/algerkong/AlgerMusicPlayer
 source_code_url: https://github.com/algerkong/AlgerMusicPlayer
-description: 音频流媒体和音乐服务器。
+description: 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Vue
 tags:
   - 流媒体 - 音频流媒体

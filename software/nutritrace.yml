@@ -1,7 +1,7 @@
 name: NutriTrace
 website_url: https://github.com/TraceApps/nutritrace
 source_code_url: https://github.com/TraceApps/nutritrace
-description: 任务管理和待办事项跟踪工具。
+description: NutriTrace 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

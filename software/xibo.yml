@@ -1,7 +1,7 @@
 name: Xibo
 website_url: https://xibosignage.com
 source_code_url: https://github.com/xibosignage/xibo
-description: Git 代码托管和版本控制平台。
+description: Xibo 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

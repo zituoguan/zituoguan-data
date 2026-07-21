@@ -1,7 +1,7 @@
 name: Shelfmark
 website_url: https://github.com/calibrain/shelfmark
 source_code_url: https://github.com/calibrain/shelfmark
-description: 电子书和阅读管理平台。
+description: Shelfmark 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

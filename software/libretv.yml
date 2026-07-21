@@ -1,10 +1,10 @@
 name: Libretv
 website_url: https://github.com/bestZwei/LibreTV
 source_code_url: https://github.com/bestZwei/LibreTV
-description: 媒体文件管理和自动化工具。
+description: 不要fork此仓库，去fork上游：。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 媒体管理

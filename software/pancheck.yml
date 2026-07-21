@@ -1,7 +1,7 @@
 name: Pancheck
 website_url: https://github.com/Lampon/PanCheck
 source_code_url: https://github.com/Lampon/PanCheck
-description: 高性能对象存储和文件服务器。
+description: Pancheck 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

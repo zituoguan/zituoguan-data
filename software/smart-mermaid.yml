@@ -1,7 +1,7 @@
 name: Smart Mermaid
 website_url: https://github.com/liujuntao123/smart-mermaid
 source_code_url: https://github.com/liujuntao123/smart-mermaid
-description: 生成式人工智能应用和服务。
+description: Smart Mermaid 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

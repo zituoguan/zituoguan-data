@@ -1,7 +1,7 @@
 name: TradeTally
 website_url: https://tradetally.io
 source_code_url: https://github.com/GeneBO98/tradetally
-description: 网站统计和数据分析平台。
+description: TradeTally 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

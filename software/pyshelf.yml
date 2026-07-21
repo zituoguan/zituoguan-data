@@ -1,7 +1,7 @@
 name: pyShelf
 website_url: https://github.com/th3r00t/pyShelf
 source_code_url: https://github.com/th3r00t/pyShelf
-description: 电子书和阅读管理平台。
+description: pyShelf 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

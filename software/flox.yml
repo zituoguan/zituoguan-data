@@ -1,7 +1,7 @@
 name: Flox
 website_url: https://simounet.github.io/flox/
 source_code_url: https://github.com/Simounet/flox
-description: 视频流媒体和媒体服务器。
+description: Flox 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

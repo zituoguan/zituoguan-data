@@ -1,7 +1,7 @@
 name: Hauk
 website_url: https://github.com/bilde2910/Hauk
 source_code_url: https://github.com/bilde2910/Hauk
-description: Git 代码托管和版本控制平台。
+description: Hauk 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

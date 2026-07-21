@@ -1,7 +1,7 @@
 name: SonaShow
 website_url: https://github.com/TheWicklowWolf/SonaShow
 source_code_url: https://github.com/TheWicklowWolf/SonaShow
-description: 媒体文件管理和自动化工具。
+description: SonaShow 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

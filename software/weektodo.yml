@@ -1,7 +1,7 @@
 name: Weektodo
 website_url: https://github.com/manuelernestog/weektodo
 source_code_url: https://github.com/manuelernestog/weektodo
-description: 任务管理和待办事项跟踪工具。
+description: Weektodo 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

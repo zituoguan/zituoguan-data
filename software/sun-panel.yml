@@ -1,7 +1,7 @@
 name: Sun Panel
 website_url: https://github.com/hslr-s/sun-panel
 source_code_url: https://github.com/hslr-s/sun-panel
-description: 高性能对象存储和文件服务器。
+description: Sun Panel 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

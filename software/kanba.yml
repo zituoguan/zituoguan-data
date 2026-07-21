@@ -1,11 +1,11 @@
 name: Kanba
 website_url: https://kanba.co
 source_code_url: https://github.com/Kanba-co/kanba
-description: 任务管理和待办事项跟踪工具。
+description: Kanba is an 开源 项目管理 工具 for 现代化 团队.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 任务管理和待办清单
 stargazers_count: 633

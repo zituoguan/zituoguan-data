@@ -1,7 +1,7 @@
 name: HabitTrove
 website_url: https://demo.habittrove.com/
 source_code_url: https://github.com/dohsimpson/HabitTrove
-description: 网站统计和数据分析平台。
+description: HabitTrove 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

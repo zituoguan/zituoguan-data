@@ -1,10 +1,10 @@
 name: Android
 website_url: https://github.com/gotify/android
 source_code_url: https://github.com/gotify/android
-description: Git 代码托管和版本控制平台。
+description: An app for creating push notifications for new messages posted to gotify/服务器.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Java
 tags:
   - 版本控制

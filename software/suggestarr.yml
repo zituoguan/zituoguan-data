@@ -1,7 +1,7 @@
 name: SuggestArr
 website_url: https://giuseppe99barchetta.github.io/SuggestArr/
 source_code_url: https://github.com/giuseppe99barchetta/SuggestArr
-description: 视频流媒体和媒体服务器。
+description: SuggestArr 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

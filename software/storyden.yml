@@ -1,7 +1,7 @@
 name: Storyden
 website_url: https://www.storyden.org/
 source_code_url: https://github.com/Southclaws/storyden
-description: 社交网络和论坛社区平台。
+description: Storyden 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

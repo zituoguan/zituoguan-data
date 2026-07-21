@@ -1,7 +1,7 @@
 name: Rawtherapee
 website_url: https://github.com/Beep6581/RawTherapee
 source_code_url: https://github.com/Beep6581/RawTherapee
-description: Git 代码托管和版本控制平台。
+description: Rawtherapee 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

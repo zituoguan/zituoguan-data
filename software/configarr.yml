@@ -1,11 +1,11 @@
 name: Configarr
 website_url: https://configarr.de/
 source_code_url: https://github.com/raydak-labs/configarr
-description: 媒体文件管理和自动化工具。
+description: 同步 TRaSH 指南 + custom configs with Sonarr/Radarr。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 媒体管理
 stargazers_count: 630

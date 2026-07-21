@@ -1,10 +1,10 @@
 name: Apitable
 website_url: https://github.com/apitable/apitable
 source_code_url: https://github.com/apitable/apitable
-description: Git 代码托管和版本控制平台。
+description: 🚀🎉📚 APITable, an API-oriented low-code platform for building 协作 apps and better than all other Airtable 开源 alternatives.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 版本控制

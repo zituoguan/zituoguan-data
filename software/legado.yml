@@ -1,10 +1,10 @@
 name: Legado
 website_url: https://github.com/gedoor/legado
 source_code_url: https://github.com/gedoor/legado
-description: Git 代码托管和版本控制平台。
+description: Legado 3.0 Book Reader with 强大 controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Kotlin
 tags:
   - 版本控制

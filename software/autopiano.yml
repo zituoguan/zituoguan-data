@@ -1,10 +1,10 @@
 name: Autopiano
 website_url: https://github.com/AutoPiano/AutoPiano
 source_code_url: https://github.com/AutoPiano/AutoPiano
-description: Git 代码托管和版本控制平台。
+description: 🎹 自由钢琴 AutoPiano - 简单 & Elegant Piano Online。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - JavaScript
 tags:
   - 版本控制

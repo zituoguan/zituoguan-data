@@ -1,7 +1,7 @@
 name: Prompts.chat
 website_url: https://github.com/f/prompts.chat
 source_code_url: https://github.com/f/prompts.chat
-description: 社交网络和论坛社区平台。
+description: Prompts.chat 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

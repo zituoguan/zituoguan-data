@@ -1,7 +1,7 @@
 name: SeerrBridge
 website_url: https://soluify.com
 source_code_url: https://github.com/Woahai321/SeerrBridge
-description: 视频流媒体和媒体服务器。
+description: SeerrBridge 是一个自托管的  应用。
 licenses:
   - Apache-2.0
 platforms:

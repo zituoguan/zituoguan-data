@@ -1,7 +1,7 @@
 name: PASTA
 website_url: https://www.pastatool.com
 source_code_url: https://github.com/cglatot/pasta
-description: 视频流媒体和媒体服务器。
+description: PASTA 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

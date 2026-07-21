@@ -1,10 +1,11 @@
 name: Jump
 website_url: https://github.com/daledavies/jump
 source_code_url: https://github.com/daledavies/jump
-description: Git 代码托管和版本控制平台。
+description: Jump is a 自托管 startpage and 实时 status page for your 服务器 designed to be 简单, stylish, 快速 and 安全.
 licenses:
   - MIT
 platforms:
+  - PHP
   - Docker
 tags:
   - 版本控制

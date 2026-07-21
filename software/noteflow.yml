@@ -1,7 +1,7 @@
 name: Noteflow
 website_url: https://github.com/Xafloc/NoteFlow
 source_code_url: https://github.com/Xafloc/NoteFlow
-description: 笔记记录和知识管理工具。
+description: Noteflow 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,10 @@
 name: Chat Ollama
 website_url: https://github.com/sugarforever/chat-ollama
 source_code_url: https://github.com/sugarforever/chat-ollama
-description: 社交网络和论坛社区平台。
+description: ChatOllama is an 开源 AI chatbot that brings cutting-edge language 模型 to your fingertips while keeping your 数据 私有 and 安全.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 通信 - 社交网络和论坛

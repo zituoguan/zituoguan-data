@@ -1,10 +1,10 @@
 name: Livego
 website_url: https://github.com/gwuhaolin/livego
 source_code_url: https://github.com/gwuhaolin/livego
-description: 视频流媒体和媒体服务器。
+description: Live 视频 流媒体 服务器 in golang。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Go
 tags:
   - 流媒体 - 视频流媒体

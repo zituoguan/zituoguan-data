@@ -1,7 +1,7 @@
 name: Project N.O.M.A.D.
 website_url: https://github.com/Crosstalk-Solutions/project-nomad
 source_code_url: https://github.com/Crosstalk-Solutions/project-nomad
-description: 知识管理和文档协作平台。
+description: Project N.O.M.A.D. 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

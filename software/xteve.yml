@@ -1,7 +1,7 @@
 name: Xteve
 website_url: https://github.com/xteve-project/xTeVe
 source_code_url: https://github.com/xteve-project/xTeVe
-description: 任务管理和待办事项跟踪工具。
+description: Xteve 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

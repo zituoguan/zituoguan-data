@@ -1,7 +1,7 @@
 name: Surveyking
 website_url: https://github.com/javahuang/SurveyKing
 source_code_url: https://github.com/javahuang/SurveyKing
-description: 在线投票和活动管理平台。
+description: Surveyking 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

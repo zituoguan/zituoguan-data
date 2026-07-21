@@ -1,7 +1,7 @@
 name: Oasis
 website_url: https://github.com/machengim/oasis
 source_code_url: https://github.com/machengim/oasis
-description: 社交网络和论坛社区平台。
+description: Oasis 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

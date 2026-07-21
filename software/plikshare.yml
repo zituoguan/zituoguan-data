@@ -1,7 +1,7 @@
 name: PlikShare
 website_url: https://plikshare.com
 source_code_url: https://github.com/damian-krychowski/plikshare
-description: 高性能对象存储和文件服务器。
+description: PlikShare 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

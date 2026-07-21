@@ -1,7 +1,7 @@
 name: Open Notebook
 website_url: https://github.com/lfnovo/open-notebook
 source_code_url: https://github.com/lfnovo/open-notebook
-description: 笔记记录和知识管理工具。
+description: Open Notebook 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,11 @@
 name: Davical Docker
 website_url: https://github.com/fintechstudios/davical-docker
 source_code_url: https://github.com/fintechstudios/davical-docker
-description: Docker 容器管理和部署平台。
+description: Standalone DAViCal Docker 图片 (based on official PHP 图片)。
 licenses:
   - MIT
 platforms:
+  - PHP
   - Docker
 tags:
   - 容器

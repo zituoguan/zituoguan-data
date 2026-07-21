@@ -1,10 +1,10 @@
 name: Langflow
 website_url: https://github.com/langflow-ai/langflow
 source_code_url: https://github.com/langflow-ai/langflow
-description: 生成式人工智能应用和服务。
+description: Langflow is a 强大 工具 for building and deploying AI-powered 智能体 and 工作流.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 生成式人工智能（GenAI）

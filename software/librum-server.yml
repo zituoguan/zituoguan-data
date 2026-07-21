@@ -1,10 +1,10 @@
 name: Librum Server
 website_url: https://github.com/Librum-Reader/Librum-Server
 source_code_url: https://github.com/Librum-Reader/Librum-Server
-description: RSS 订阅和新闻聚合阅读器。
+description: The Librum 服务器。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - C#
 tags:
   - RSS 阅读器

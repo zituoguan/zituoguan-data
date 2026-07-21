@@ -1,7 +1,7 @@
 name: Wapy.dev
 website_url: https://www.wapy.dev
 source_code_url: https://github.com/meceware/wapy.dev
-description: 在线投票和活动管理平台。
+description: Wapy.dev 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

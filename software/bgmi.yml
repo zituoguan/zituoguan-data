@@ -1,10 +1,10 @@
 name: Bgmi
 website_url: https://github.com/BGmi/BGmi
 source_code_url: https://github.com/BGmi/BGmi
-description: Git 代码托管和版本控制平台。
+description: [looking for 维护者] BGmi is a CLI 工具 with Web UI for subscribed bangumi.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 版本控制

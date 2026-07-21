@@ -1,7 +1,7 @@
 name: HA Time Machine
 website_url: https://github.com/saihgupr/HomeAssistantTimeMachine
 source_code_url: https://github.com/saihgupr/HomeAssistantTimeMachine
-description: AI 驱动的智能应用和智能体平台。
+description: HA Time Machine 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

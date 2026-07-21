@@ -1,11 +1,11 @@
 name: Cinephage
 website_url: https://github.com/MoldyTaint/Cinephage
 source_code_url: https://github.com/MoldyTaint/Cinephage
-description: 视频流媒体和媒体服务器。
+description: The AIO solution to your 自托管 媒体 gathering needs。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 780

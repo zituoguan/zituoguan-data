@@ -1,7 +1,7 @@
 name: Server Bee Backend
 website_url: https://github.com/ZingerLittleBee/server_bee-backend
 source_code_url: https://github.com/ZingerLittleBee/server_bee-backend
-description: Git 代码托管和版本控制平台。
+description: Server Bee Backend 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

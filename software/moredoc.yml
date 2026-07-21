@@ -1,7 +1,7 @@
 name: Moredoc
 website_url: https://github.com/mnt-ltd/moredoc
 source_code_url: https://github.com/mnt-ltd/moredoc
-description: 笔记记录和知识管理工具。
+description: Moredoc 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

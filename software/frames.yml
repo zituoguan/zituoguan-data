@@ -1,7 +1,7 @@
 name: Frames
 website_url: https://github.com/eleven-am/frames
 source_code_url: https://github.com/eleven-am/frames
-description: 视频流媒体和媒体服务器。
+description: Frames 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

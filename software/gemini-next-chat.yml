@@ -1,7 +1,7 @@
 name: Gemini Next Chat
 website_url: https://github.com/u14app/gemini-next-chat
 source_code_url: https://github.com/u14app/gemini-next-chat
-description: 社交网络和论坛社区平台。
+description: Gemini Next Chat 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

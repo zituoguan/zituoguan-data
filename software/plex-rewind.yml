@@ -1,7 +1,7 @@
 name: Plex Rewind
 website_url: https://github.com/RaunoT/plex-rewind
 source_code_url: https://github.com/RaunoT/plex-rewind
-description: 网站统计和数据分析平台。
+description: Plex Rewind 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

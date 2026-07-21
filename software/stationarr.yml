@@ -1,7 +1,7 @@
 name: Stationarr
 website_url: https://github.com/rroy676/Stationarr
 source_code_url: https://github.com/rroy676/Stationarr
-description: Git 代码托管和版本控制平台。
+description: Stationarr 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

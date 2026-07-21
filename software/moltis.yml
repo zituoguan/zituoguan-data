@@ -1,7 +1,7 @@
 name: Moltis
 website_url: https://github.com/moltis-org/moltis
 source_code_url: https://github.com/moltis-org/moltis
-description: 社交网络和论坛社区平台。
+description: Moltis 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

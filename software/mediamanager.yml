@@ -1,7 +1,7 @@
 name: MediaManager
 website_url: https://github.com/maxdorninger/MediaManager
 source_code_url: https://github.com/maxdorninger/MediaManager
-description: 电子书和阅读管理平台。
+description: MediaManager 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

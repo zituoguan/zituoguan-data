@@ -1,11 +1,11 @@
 name: Jellysweep
 website_url: https://github.com/jon4hz/jellysweep
 source_code_url: https://github.com/jon4hz/jellysweep
-description: 视频流媒体和媒体服务器。
+description: 🧹 Jellysweep is a smart cleanup 工具 for your Jellyfin 媒体 服务器。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - Go
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 238

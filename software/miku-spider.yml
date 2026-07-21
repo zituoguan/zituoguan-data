@@ -1,7 +1,7 @@
 name: Miku Spider
 website_url: https://github.com/GobinFan/Miku_Spider
 source_code_url: https://github.com/GobinFan/Miku_Spider
-description: Git 代码托管和版本控制平台。
+description: Miku Spider 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

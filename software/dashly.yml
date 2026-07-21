@@ -1,10 +1,11 @@
 name: Dashly
 website_url: https://github.com/lklynet/dashly
 source_code_url: https://github.com/lklynet/dashly
-description: 自托管仪表板。
+description: Dashly is a 可自定义, 实时 仪表板 for Nginx 代理 管理器 用户。
 licenses:
   - MIT
 platforms:
+  - JavaScript
   - Docker
 tags:
   - 个人仪表板

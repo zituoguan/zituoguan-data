@@ -1,7 +1,7 @@
 name: Rss
 website_url: https://github.com/ssddanbrown/rss
 source_code_url: https://github.com/ssddanbrown/rss
-description: RSS 订阅和新闻聚合阅读器。
+description: Rss 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

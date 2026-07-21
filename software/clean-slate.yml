@@ -1,11 +1,11 @@
 name: Clean Slate
 website_url: https://cleanslate.sh
 source_code_url: https://github.com/successible/cleanslate
-description: 网站统计和数据分析平台。
+description: ☀️ Track food without judgment。
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 分析
 stargazers_count: 239

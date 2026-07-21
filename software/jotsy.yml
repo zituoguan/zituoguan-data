@@ -1,10 +1,10 @@
 name: Jotsy
 website_url: https://github.com/ohsayan/jotsy
 source_code_url: https://github.com/ohsayan/jotsy
-description: Git 代码托管和版本控制平台。
+description: Jotsy is a 自托管, free and 开源 笔记 taking app with a goal of simplicity in mind。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Rust
 tags:
   - 版本控制

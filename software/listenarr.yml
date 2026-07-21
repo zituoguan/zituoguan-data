@@ -1,11 +1,11 @@
 name: Listenarr
 website_url: https://getlistenarr.com
 source_code_url: https://github.com/Listenarrs/Listenarr
-description: 电子书和阅读管理平台。
+description: Listenarr automates audiobook collection 管理 similar to Sonarr or Radarr, but for audiobooks. It can 搜索, 下载, and organize your 库 automatically using metadata from Audible and other sources.
 licenses:
   - GPL-3.0
 platforms:
-  - Docker
+  - C#
 tags:
   - 流媒体 - 音频流媒体
 stargazers_count: 817

@@ -1,7 +1,7 @@
 name: Meta Rules Dat
 website_url: https://github.com/MetaCubeX/meta-rules-dat
 source_code_url: https://github.com/MetaCubeX/meta-rules-dat
-description: Git 代码托管和版本控制平台。
+description: Meta Rules Dat 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

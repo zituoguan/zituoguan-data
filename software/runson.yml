@@ -1,7 +1,7 @@
 name: RunsOn
 website_url: https://runs-on.com
 source_code_url: https://github.com/runs-on/runs-on
-description: Git 代码托管和版本控制平台。
+description: RunsOn 是一个自托管的  应用。
 licenses:
   - GPL-3.0
 platforms:

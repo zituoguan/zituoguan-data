@@ -1,10 +1,10 @@
 name: Kanmail
 website_url: https://github.com/Oxygem/Kanmail
 source_code_url: https://github.com/Oxygem/Kanmail
-description: 生成式人工智能应用和服务。
+description: 📥 Turn your inbox into a kanban board.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 生成式人工智能（GenAI）

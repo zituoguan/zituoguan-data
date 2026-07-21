@@ -1,10 +1,10 @@
 name: Dailyhot
 website_url: https://github.com/imsyy/DailyHot
 source_code_url: https://github.com/imsyy/DailyHot
-description: 社交网络和论坛社区平台。
+description: DailyHot 今日热榜前端页面 | API：https://GitHub.com/imsyy/DailyHotApi。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Vue
 tags:
   - 通信 - 社交网络和论坛

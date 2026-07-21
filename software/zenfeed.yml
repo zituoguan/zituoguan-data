@@ -1,7 +1,7 @@
 name: Zenfeed
 website_url: https://github.com/glidea/zenfeed
 source_code_url: https://github.com/glidea/zenfeed
-description: RSS 订阅和新闻聚合阅读器。
+description: Zenfeed 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,11 @@
 name: Dashlet
 website_url: https://github.com/jaberio/dashlet
 source_code_url: https://github.com/jaberio/dashlet
-description: 自托管仪表板。
+description: 轻量级 仪表板 for small apps。
 licenses:
   - MIT
 platforms:
+  - JavaScript
   - Docker
 tags:
   - 个人仪表板

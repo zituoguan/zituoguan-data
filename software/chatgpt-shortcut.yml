@@ -1,10 +1,10 @@
 name: Chatgpt Shortcut
 website_url: https://github.com/rockbenben/ChatGPT-Shortcut
 source_code_url: https://github.com/rockbenben/ChatGPT-Shortcut
-description: 社交网络和论坛社区平台。
+description: 🚀💪Maximize your 效率 and 生产力. The ultimate hub to 管理, 自定义, and 分享 提示. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 通信 - 社交网络和论坛

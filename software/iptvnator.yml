@@ -1,10 +1,10 @@
 name: Iptvnator
 website_url: https://github.com/4gray/iptvnator
 source_code_url: https://github.com/4gray/iptvnator
-description: 媒体文件管理和自动化工具。
+description: :电视剧: 跨平台 IPTV 播放器 application with multiple features, such as 支持 of m3u and m3u8 playlists, favorites, 电视剧 指南, 电视剧 archive/catchup and more.
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 媒体管理

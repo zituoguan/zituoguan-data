@@ -1,7 +1,7 @@
 name: Subs Check
 website_url: https://github.com/beck-8/subs-check
 source_code_url: https://github.com/beck-8/subs-check
-description: Git 代码托管和版本控制平台。
+description: Subs Check 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

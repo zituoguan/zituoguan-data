@@ -1,10 +1,10 @@
 name: Banban
 website_url: https://github.com/m0g/banban
 source_code_url: https://github.com/m0g/banban
-description: Git 代码托管和版本控制平台。
+description: 自托管 Kanban board 工具。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Svelte
 tags:
   - 版本控制

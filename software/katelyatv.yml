@@ -1,10 +1,10 @@
 name: Katelyatv
 website_url: https://github.com/katelya77/KatelyaTV
 source_code_url: https://github.com/katelya77/KatelyaTV
-description: 媒体文件管理和自动化工具。
+description: 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://GitHub.com/Decohererk/DecoTV。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - TypeScript
 tags:
   - 媒体管理

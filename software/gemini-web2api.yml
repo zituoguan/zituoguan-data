@@ -1,7 +1,7 @@
 name: Gemini Web2api
 website_url: https://github.com/Sophomoresty/gemini-web2api
 source_code_url: https://github.com/Sophomoresty/gemini-web2api
-description: Git 代码托管和版本控制平台。
+description: Gemini Web2api 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

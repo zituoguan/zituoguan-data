@@ -1,7 +1,7 @@
 name: Docker Jitsi Meet
 website_url: https://github.com/jitsi/docker-jitsi-meet
 source_code_url: https://github.com/jitsi/docker-jitsi-meet
-description: Docker 容器管理和部署平台。
+description: Docker Jitsi Meet 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

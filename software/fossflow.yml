@@ -1,7 +1,7 @@
 name: Fossflow
 website_url: https://github.com/stan-smith/FossFLOW
 source_code_url: https://github.com/stan-smith/FossFLOW
-description: Git 代码托管和版本控制平台。
+description: Fossflow 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

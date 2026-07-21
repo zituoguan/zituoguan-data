@@ -1,7 +1,7 @@
 name: Docker Flarum
 website_url: https://github.com/mondediefr/docker-flarum
 source_code_url: https://github.com/mondediefr/docker-flarum
-description: Docker 容器管理和部署平台。
+description: Docker Flarum 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:

@@ -1,10 +1,10 @@
 name: Cloud189
 website_url: https://github.com/Aruelius/cloud189
 source_code_url: https://github.com/Aruelius/cloud189
-description: 高性能对象存储和文件服务器。
+description: 天翼云盘 CLI Python。
 licenses:
   - MIT
 platforms:
-  - Docker
+  - Python
 tags:
   - 文件传输 - 对象存储和文件服务器

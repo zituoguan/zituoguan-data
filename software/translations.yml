@@ -1,7 +1,7 @@
 name: Translations
 website_url: https://github.com/filerun/translations
 source_code_url: https://github.com/filerun/translations
-description: 高性能对象存储和文件服务器。
+description: Translations 是一个自托管的  应用。
 licenses:
   - MIT
 platforms:
