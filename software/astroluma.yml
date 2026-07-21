@@ -1,7 +1,7 @@
 name: Astroluma
 website_url: https://github.com/Sanjeet990/Astroluma
 source_code_url: https://github.com/Sanjeet990/Astroluma
-description: Astroluma 是一个自托管的 Web 应用和服务平台。
+description: 功能丰富的自托管仪表板。
 licenses:
   - MIT
 platforms:

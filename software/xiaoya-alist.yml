@@ -1,7 +1,7 @@
 name: Xiaoya Alist
 website_url: https://github.com/DDS-Derek/xiaoya-alist
 source_code_url: https://github.com/DDS-Derek/xiaoya-alist
-description: Xiaoya Alist 是一个自托管的 Web 应用和服务平台。
+description: 支持多种存储后端的文件列表程序。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Minio
 website_url: https://github.com/minio/minio
 source_code_url: https://github.com/minio/minio
-description: Minio 是一个自托管的 Web 应用和服务平台。
+description: 高性能对象存储服务器。
 licenses:
   - MIT
 platforms:

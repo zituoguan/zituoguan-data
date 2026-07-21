@@ -1,7 +1,7 @@
 name: Magicmirror
 website_url: https://github.com/MichMich/MagicMirror
 source_code_url: https://github.com/MichMich/MagicMirror
-description: Magicmirror 是一个自托管的 Web 应用和服务平台。
+description: 智能镜子平台，显示个性化信息。
 licenses:
   - MIT
 platforms:

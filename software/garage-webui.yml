@@ -1,7 +1,7 @@
 name: Garage Webui
 website_url: https://github.com/khairul169/garage-webui
 source_code_url: https://github.com/khairul169/garage-webui
-description: Garage Webui 是一个自托管的 Web 应用和服务平台。
+description: 轻量级分布式对象存储。
 licenses:
   - MIT
 platforms:

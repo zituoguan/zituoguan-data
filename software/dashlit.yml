@@ -1,7 +1,7 @@
 name: DashLit
 website_url: https://dashlit.cwec.dev/
 source_code_url: https://github.com/codewec/dashlit
-description: DashLit 是一个自托管的 Web 应用和服务平台。
+description: 自托管仪表板。
 licenses:
   - MIT
 platforms:

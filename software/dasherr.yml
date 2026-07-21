@@ -1,7 +1,7 @@
 name: Dasherr
 website_url: https://github.com/erohtar/Dasherr
 source_code_url: https://github.com/erohtar/Dasherr
-description: Dasherr 是一个自托管的 Web 应用和服务平台。
+description: 自托管仪表板。
 licenses:
   - MIT
 platforms:

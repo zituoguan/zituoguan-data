@@ -1,7 +1,7 @@
 name: Immich-Frame
 website_url: https://github.com/immichFrame/ImmichFrame
 source_code_url: https://github.com/immichFrame/ImmichFrame
-description: Immich-Frame 是一个自托管的 Web 应用和服务平台。
+description: 高性能自托管照片和视频备份方案，支持 AI 识别。
 licenses:
   - GPL-3.0
 platforms:

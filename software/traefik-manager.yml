@@ -1,7 +1,7 @@
 name: Traefik Manager
 website_url: https://traefik-manager.xyzlab.dev/
 source_code_url: https://github.com/chr0nzz/traefik-manager
-description: Traefik Manager 是一个自托管的 Web 应用和服务平台。
+description: 现代化反向代理和负载均衡器。
 licenses:
   - GPL-3.0
 platforms:

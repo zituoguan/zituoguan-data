@@ -1,7 +1,7 @@
 name: Nextcloud Office
 website_url: https://nextcloud.com/collaboraonline
 source_code_url: https://github.com/nextcloud/richdocuments
-description: Nextcloud Office 是一个自托管的 Web 应用和服务平台。
+description: 自托管私有云存储和协作平台，支持文件同步和共享。
 licenses:
   - GPL-3.0
 platforms:

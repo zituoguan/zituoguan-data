@@ -1,7 +1,7 @@
 name: Audiobookshelf App
 website_url: https://github.com/advplyr/audiobookshelf-app
 source_code_url: https://github.com/advplyr/audiobookshelf-app
-description: Audiobookshelf App 是一个自托管的 Web 应用和服务平台。
+description: 自托管有声书和播客服务器。
 licenses:
   - MIT
 platforms:

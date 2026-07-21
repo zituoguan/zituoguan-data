@@ -1,7 +1,7 @@
 name: Heimdallr
 website_url: https://github.com/AMEST/Heimdallr
 source_code_url: https://github.com/AMEST/Heimdallr
-description: Heimdallr 是一个自托管的 Web 应用和服务平台。
+description: 应用仪表板和起始页。
 licenses:
   - MIT
 platforms:

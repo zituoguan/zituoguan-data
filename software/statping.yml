@@ -1,7 +1,7 @@
 name: Statping
 website_url: https://github.com/statping/statping
 source_code_url: https://github.com/statping/statping
-description: Statping 是一个自托管的 Web 应用和服务平台。
+description: 自托管状态页面和监控平台。
 licenses:
   - MIT
 platforms:

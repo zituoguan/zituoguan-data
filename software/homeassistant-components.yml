@@ -1,7 +1,7 @@
 name: Homeassistant Components
 website_url: https://github.com/yongman/homeassistant-components
 source_code_url: https://github.com/yongman/homeassistant-components
-description: Homeassistant Components 是一个自托管的 Web 应用和服务平台。
+description: 开源智能家居自动化平台。
 licenses:
   - MIT
 platforms:

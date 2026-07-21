@@ -1,7 +1,7 @@
 name: Vigil
 website_url: https://github.com/pineappledr/vigil
 source_code_url: https://github.com/pineappledr/vigil
-description: Vigil 是一个自托管的 Web 应用和服务平台。
+description: 轻量级服务器和硬盘监控系统。
 licenses:
   - MIT
 platforms:

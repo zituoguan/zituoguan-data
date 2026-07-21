@@ -1,7 +1,7 @@
 name: Coolmonitor
 website_url: https://github.com/star7th/coolmonitor
 source_code_url: https://github.com/star7th/coolmonitor
-description: Coolmonitor 是一个自托管的 Web 应用和服务平台。
+description: 监控系统。
 licenses:
   - MIT
 platforms:

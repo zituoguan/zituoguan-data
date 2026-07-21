@@ -1,7 +1,7 @@
 name: Sharelist
 website_url: https://github.com/reruin/sharelist
 source_code_url: https://github.com/reruin/sharelist
-description: Sharelist 是一个自托管的 Web 应用和服务平台。
+description: 网盘挂载和分享工具。
 licenses:
   - MIT
 platforms:

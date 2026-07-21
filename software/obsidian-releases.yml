@@ -1,7 +1,7 @@
 name: Obsidian Releases
 website_url: https://github.com/obsidianmd/obsidian-releases
 source_code_url: https://github.com/obsidianmd/obsidian-releases
-description: Obsidian Releases 是一个自托管的 Web 应用和服务平台。
+description: 本地优先的笔记和知识管理平台。
 licenses:
   - MIT
 platforms:

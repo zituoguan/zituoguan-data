@@ -1,7 +1,7 @@
 name: Dashlet
 website_url: https://github.com/jaberio/dashlet
 source_code_url: https://github.com/jaberio/dashlet
-description: Dashlet 是一个自托管的 Web 应用和服务平台。
+description: 自托管仪表板。
 licenses:
   - MIT
 platforms:

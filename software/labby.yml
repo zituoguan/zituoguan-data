@@ -1,7 +1,7 @@
 name: Labby
 website_url: https://github.com/samuelloranger/labby
 source_code_url: https://github.com/samuelloranger/labby
-description: Labby 是一个自托管的 Web 应用和服务平台。
+description: 自托管家庭实验室仪表板。
 licenses:
   - MIT
 platforms:

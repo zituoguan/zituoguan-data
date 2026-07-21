@@ -1,7 +1,7 @@
 name: Airsonic
 website_url: https://github.com/airsonic/airsonic
 source_code_url: https://github.com/airsonic/airsonic
-description: Airsonic 是一个自托管的 Web 应用和服务平台。
+description: 音乐流媒体服务器，兼容 Subsonic 客户端。
 licenses:
   - MIT
 platforms:

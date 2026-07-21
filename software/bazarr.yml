@@ -1,7 +1,7 @@
 name: Bazarr
 website_url: https://www.bazarr.media
 source_code_url: https://github.com/morpheus65535/bazarr
-description: Bazarr 是一个自托管的 Web 应用和服务平台。
+description: 字幕自动下载和管理工具。
 licenses:
   - GPL-3.0
 platforms:
