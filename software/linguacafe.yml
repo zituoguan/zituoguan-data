@@ -5,7 +5,7 @@ description: LinguaCafe is a 自托管 software that helps language learners rea
 licenses:
   - MIT
 platforms:
-  - Vue
+  - TypeScript
 tags:
   - 文档管理 - 电子书
 stargazers_count: 1415

@@ -5,7 +5,7 @@ description: 📚 The 开源, offline-first Notion, Obsidian & Confluence altern
 licenses:
   - GPL-3.0
 platforms:
-  - Vue
+  - TypeScript
   - Docker
 tags:
   - 知识管理

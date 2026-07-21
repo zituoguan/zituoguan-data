@@ -1,10 +1,10 @@
 name: Booksonic Air
 website_url: https://github.com/popeen/Booksonic-Air
 source_code_url: https://github.com/popeen/Booksonic-Air
-description: A new Booksonic 服务器 based on Airsonic. - OBS: The code here might not be ready for 发布. Feel free to 编译 it yourself but if so I recommend searching for the latest commit with the description "Prepare for 发布"。
+description: "基于 Airsonic 的有声书服务器，支持流式播放和播客订阅。"
 licenses:
   - MIT
 platforms:
   - Java
 tags:
-  - 生成式人工智能（GenAI）
+  - 文档管理 - 电子书

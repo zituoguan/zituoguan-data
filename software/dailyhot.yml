@@ -5,6 +5,6 @@ description: DailyHot 今日热榜前端页面 | API：https://GitHub.com/imsyy/
 licenses:
   - MIT
 platforms:
-  - Vue
+  - TypeScript
 tags:
   - 通信 - 社交网络和论坛

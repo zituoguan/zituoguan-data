@@ -5,7 +5,7 @@ description: DashLit is 自托管 startpage for your 服务器.
 licenses:
   - MIT
 platforms:
-  - Svelte
+  - TypeScript
 tags:
   - 个人仪表板
 stargazers_count: 329

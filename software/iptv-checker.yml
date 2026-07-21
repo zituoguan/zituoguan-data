@@ -5,6 +5,6 @@ description: IPTV checker 工具 for Docker && CMD, check your playlist is avail
 licenses:
   - MIT
 platforms:
-  - Makefile
+  - TypeScript
 tags:
   - 通信 - 社交网络和论坛

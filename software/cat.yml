@@ -5,6 +5,6 @@ description: Sebastian is a LLM assistant with the ability to have permanent 记
 licenses:
   - MIT
 platforms:
-  - Blade
+  - PHP
 tags:
   - 版本控制

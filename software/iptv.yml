@@ -5,7 +5,7 @@ description: Automatic M3U playlist and XML 指南 updater for IPTV clients with
 licenses:
   - MIT
 platforms:
-  - 
+  - Go
   - Docker
 tags:
   - 媒体管理

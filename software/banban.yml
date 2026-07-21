@@ -5,6 +5,6 @@ description: 自托管 Kanban board 工具。
 licenses:
   - MIT
 platforms:
-  - Svelte
+  - TypeScript
 tags:
   - 版本控制

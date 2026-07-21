@@ -5,7 +5,7 @@ description: 协作 Platform for Animation and VFX Productions。
 licenses:
   - GPL-3.0
 platforms:
-  - Vue
+  - Python
 tags:
   - 投票和活动
 stargazers_count: 669

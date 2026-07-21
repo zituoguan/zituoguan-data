@@ -1,7 +1,7 @@
 name: Iptvnator
 website_url: https://github.com/4gray/iptvnator
 source_code_url: https://github.com/4gray/iptvnator
-description: :电视剧: 跨平台 IPTV 播放器 application with multiple features, such as 支持 of m3u and m3u8 playlists, favorites, 电视剧 指南, 电视剧 archive/catchup and more.
+description: "跨平台 IPTV 播放器，支持 m3u/m3u8 播放列表、收藏夹、节目指南和回看功能。"
 licenses:
   - MIT
 platforms:
