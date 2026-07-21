@@ -1,10 +1,10 @@
 name: Bgmi
 website_url: https://github.com/BGmi/BGmi
 source_code_url: https://github.com/BGmi/BGmi
-description: [looking for 维护者] BGmi is a CLI 工具 with Web UI for subscribed bangumi.
+description: "自动追番工具，提供 CLI 和 Web UI 管理订阅的番剧（寻找维护者中）。"
 licenses:
   - MIT
 platforms:
   - Python
 tags:
-  - 版本控制
+  - 媒体管理
