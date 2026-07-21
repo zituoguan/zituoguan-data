@@ -10,7 +10,7 @@ platforms:
 tags:
   - AI 记忆与持久化
 stargazers_count: 3332
-updated_at: '2026-06-05'
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: v0.3.9
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 45
   2026-06: 1
-  2026-07: 0
+  2026-07: 1

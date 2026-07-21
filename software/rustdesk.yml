@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 远程访问
-stargazers_count: 118511
-updated_at: '2026-07-18'
+stargazers_count: 118572
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: nightly
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 52
   2026-06: 76
-  2026-07: 28
+  2026-07: 32

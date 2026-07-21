@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - AI 智能体
-stargazers_count: 113
-updated_at: '2026-07-18'
+stargazers_count: 114
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: dev
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 280
   2026-06: 743
-  2026-07: 119
+  2026-07: 121

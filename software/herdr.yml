@@ -8,8 +8,8 @@ platforms:
   - Rust
 tags:
   - 软件开发 - IDE 和工具
-stargazers_count: 18368
-updated_at: '2026-07-19'
+stargazers_count: 18763
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: preview-2026-07-17-813fec141faa
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-05: 358
   2026-06: 300
-  2026-07: 187
+  2026-07: 191

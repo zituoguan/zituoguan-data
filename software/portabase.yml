@@ -8,14 +8,14 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/Portabase/portabase
-stargazers_count: 1416
-updated_at: '2026-07-19'
+stargazers_count: 1485
+updated_at: '2026-07-20'
 archived: false
 current_release:
-  tag: 1.24.1
-  published_at: '2026-07-17'
+  tag: 1.25.0
+  published_at: '2026-07-20'
 commit_history:
   2026-04: 22
   2026-05: 99
   2026-06: 155
-  2026-07: 132
+  2026-07: 154

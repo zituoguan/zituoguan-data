@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 文档管理 - 电子书
-stargazers_count: 90625
-updated_at: '2026-07-17'
+stargazers_count: 90634
+updated_at: '2026-07-20'
 archived: false
 current_release:
-  tag: v10.6.0-alpha.1
-  published_at: '2026-07-16'
+  tag: v10.6.0-alpha.2
+  published_at: '2026-07-20'
 commit_history:
   2026-05: 1030
   2026-06: 1159
-  2026-07: 399
+  2026-07: 408

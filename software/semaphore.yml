@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 部署自动化
-stargazers_count: 13891
-updated_at: '2026-07-19'
+stargazers_count: 13892
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: v2.19.5-beta11
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-05: 110
   2026-06: 124
-  2026-07: 141
+  2026-07: 142

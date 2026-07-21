@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 投票和活动
-stargazers_count: 4808
-updated_at: '2026-07-17'
+stargazers_count: 4809
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: v2.5.34
   published_at: '2026-07-14'
 commit_history:
   2026-05: 68
-  2026-06: 58
-  2026-07: 29
+  2026-06: 61
+  2026-07: 44

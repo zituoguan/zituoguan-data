@@ -9,12 +9,12 @@ platforms:
 tags:
   - 文档管理 - 电子书
 stargazers_count: 1505
-updated_at: '2026-07-07'
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: 3.10.3
   published_at: '2026-07-07'
 commit_history:
   2026-05: 14
-  2026-06: 15
-  2026-07: 3
+  2026-06: 17
+  2026-07: 4

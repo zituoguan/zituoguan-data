@@ -9,13 +9,13 @@ platforms:
   - Node.js
 tags:
   - 笔记工具
-stargazers_count: 2599
-updated_at: '2026-07-19'
+stargazers_count: 2606
+updated_at: '2026-07-20'
 archived: false
 current_release:
-  tag: 2.3.4
-  published_at: '2026-07-16'
+  tag: 2.4.0
+  published_at: '2026-07-20'
 commit_history:
   2026-05: 145
   2026-06: 48
-  2026-07: 96
+  2026-07: 100
