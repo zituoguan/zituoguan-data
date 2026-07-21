@@ -1,0 +1,10 @@
+name: Bililiverecorder
+website_url: https://github.com/BililiveRecorder/BililiveRecorder
+source_code_url: https://github.com/BililiveRecorder/BililiveRecorder
+description: Bililiverecorder 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 流媒体 - 视频流媒体

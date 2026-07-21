@@ -1,0 +1,10 @@
+name: Xteve
+website_url: https://github.com/xteve-project/xTeVe
+source_code_url: https://github.com/xteve-project/xTeVe
+description: Xteve 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 任务管理和待办清单

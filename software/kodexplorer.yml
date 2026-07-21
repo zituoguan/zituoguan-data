@@ -1,0 +1,10 @@
+name: Kodexplorer
+website_url: https://github.com/kalcaddle/KodExplorer
+source_code_url: https://github.com/kalcaddle/KodExplorer
+description: Kodexplorer 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文件传输 - 对象存储和文件服务器

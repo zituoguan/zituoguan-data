@@ -1,0 +1,10 @@
+name: Md
+website_url: https://github.com/doocs/md
+source_code_url: https://github.com/doocs/md
+description: Md 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

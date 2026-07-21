@@ -1,0 +1,10 @@
+name: Maigret
+website_url: https://github.com/soxoj/maigret
+source_code_url: https://github.com/soxoj/maigret
+description: Maigret 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）

@@ -1,0 +1,10 @@
+name: Bypy
+website_url: https://github.com/houtianze/bypy
+source_code_url: https://github.com/houtianze/bypy
+description: Bypy 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

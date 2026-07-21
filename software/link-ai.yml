@@ -1,0 +1,10 @@
+name: Link Ai
+website_url: https://github.com/star7th/link-ai
+source_code_url: https://github.com/star7th/link-ai
+description: Link Ai 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）

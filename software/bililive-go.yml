@@ -1,0 +1,10 @@
+name: Bililive Go
+website_url: https://github.com/hr3lxphr6j/bililive-go
+source_code_url: https://github.com/hr3lxphr6j/bililive-go
+description: Bililive Go 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 人力资源管理（HRM）

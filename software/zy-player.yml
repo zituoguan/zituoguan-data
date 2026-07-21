@@ -1,0 +1,10 @@
+name: Zy Player
+website_url: https://github.com/Hunlongyu/ZY-Player
+source_code_url: https://github.com/Hunlongyu/ZY-Player
+description: Zy Player 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 游戏

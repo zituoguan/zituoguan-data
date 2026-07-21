@@ -1,0 +1,10 @@
+name: Page Assist
+website_url: https://github.com/n4ze3m/page-assist
+source_code_url: https://github.com/n4ze3m/page-assist
+description: Page Assist 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

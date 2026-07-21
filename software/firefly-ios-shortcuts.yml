@@ -1,0 +1,10 @@
+name: Firefly Ios Shortcuts
+website_url: https://github.com/tmytro/firefly-ios-shortcuts
+source_code_url: https://github.com/tmytro/firefly-ios-shortcuts
+description: Firefly Ios Shortcuts 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 财务与预算管理

@@ -1,0 +1,10 @@
+name: Euterpe Mobile
+website_url: https://github.com/ironsmile/euterpe-mobile
+source_code_url: https://github.com/ironsmile/euterpe-mobile
+description: Euterpe Mobile 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 企业资源规划（ERP）

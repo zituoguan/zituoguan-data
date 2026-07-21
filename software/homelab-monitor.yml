@@ -1,0 +1,10 @@
+name: Homelab Monitor
+website_url: https://github.com/SikamikanikoBG/homelab-monitor
+source_code_url: https://github.com/SikamikanikoBG/homelab-monitor
+description: Homelab Monitor 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 监控和状态页面

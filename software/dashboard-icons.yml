@@ -1,0 +1,10 @@
+name: Dashboard Icons
+website_url: https://github.com/walkxhub/dashboard-icons
+source_code_url: https://github.com/walkxhub/dashboard-icons
+description: Dashboard Icons 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 个人仪表板

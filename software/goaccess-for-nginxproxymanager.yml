@@ -1,0 +1,10 @@
+name: Goaccess For Nginxproxymanager
+website_url: https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
+source_code_url: https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
+description: Goaccess For Nginxproxymanager 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 虚拟专用网络（VPN）

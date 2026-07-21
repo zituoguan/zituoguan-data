@@ -1,0 +1,10 @@
+name: Pichome
+website_url: https://github.com/zyx0814/Pichome
+source_code_url: https://github.com/zyx0814/Pichome
+description: Pichome 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 相册

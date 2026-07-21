@@ -1,0 +1,10 @@
+name: Docker 1panel
+website_url: https://github.com/okxlin/docker-1panel
+source_code_url: https://github.com/okxlin/docker-1panel
+description: Docker 1panel 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

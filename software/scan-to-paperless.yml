@@ -1,0 +1,10 @@
+name: Scan To Paperless
+website_url: https://github.com/sbrunner/scan-to-paperless
+source_code_url: https://github.com/sbrunner/scan-to-paperless
+description: Scan To Paperless 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文档管理

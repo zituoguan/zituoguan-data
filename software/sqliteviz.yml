@@ -1,0 +1,10 @@
+name: Sqliteviz
+website_url: https://github.com/lana-k/sqliteviz
+source_code_url: https://github.com/lana-k/sqliteviz
+description: Sqliteviz 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 数据库管理

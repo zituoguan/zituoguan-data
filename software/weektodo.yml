@@ -1,0 +1,10 @@
+name: Weektodo
+website_url: https://github.com/manuelernestog/weektodo
+source_code_url: https://github.com/manuelernestog/weektodo
+description: Weektodo 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 任务管理和待办清单

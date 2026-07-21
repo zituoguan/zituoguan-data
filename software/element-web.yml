@@ -1,0 +1,10 @@
+name: Element Web
+website_url: https://github.com/vector-im/element-web
+source_code_url: https://github.com/vector-im/element-web
+description: Element Web 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 通信 - 社交网络和论坛

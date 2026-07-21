@@ -7,7 +7,7 @@ platforms:
   - Docker
   - PHP
 tags:
-  - 杂项
+  - 版本控制
 source_code_url: https://github.com/benjaminjonard/koillection
 stargazers_count: 1239
 updated_at: '2026-07-01'

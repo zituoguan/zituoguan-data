@@ -1,0 +1,10 @@
+name: Excalidraw Cn
+website_url: https://github.com/korbinzhao/excalidraw-cn
+source_code_url: https://github.com/korbinzhao/excalidraw-cn
+description: Excalidraw Cn 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 图表绘制

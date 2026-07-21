@@ -1,0 +1,10 @@
+name: Docker Kspeeder
+website_url: https://github.com/linkease/docker_kspeeder
+source_code_url: https://github.com/linkease/docker_kspeeder
+description: Docker Kspeeder 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

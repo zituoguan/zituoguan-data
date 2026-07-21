@@ -1,0 +1,10 @@
+name: Etherpad Lite
+website_url: https://github.com/ether/etherpad-lite
+source_code_url: https://github.com/ether/etherpad-lite
+description: Etherpad Lite 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 企业资源规划（ERP）

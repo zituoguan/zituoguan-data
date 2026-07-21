@@ -1,0 +1,10 @@
+name: Blossom
+website_url: https://github.com/blossom-editor/blossom
+source_code_url: https://github.com/blossom-editor/blossom
+description: Blossom 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 身份管理 - 单点登录（SSO）

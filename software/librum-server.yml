@@ -1,0 +1,10 @@
+name: Librum Server
+website_url: https://github.com/Librum-Reader/Librum-Server
+source_code_url: https://github.com/Librum-Reader/Librum-Server
+description: Librum Server 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - RSS 阅读器

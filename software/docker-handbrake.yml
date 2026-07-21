@@ -1,0 +1,10 @@
+name: Docker Handbrake
+website_url: https://github.com/jlesage/docker-handbrake
+source_code_url: https://github.com/jlesage/docker-handbrake
+description: Docker Handbrake 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

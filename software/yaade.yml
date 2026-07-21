@@ -1,0 +1,10 @@
+name: Yaade
+website_url: https://github.com/EsperoTech/yaade
+source_code_url: https://github.com/EsperoTech/yaade
+description: Yaade 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 物联网（IoT）

@@ -1,0 +1,10 @@
+name: Jellyseerr
+website_url: https://github.com/Fallenbagel/jellyseerr
+source_code_url: https://github.com/Fallenbagel/jellyseerr
+description: Jellyseerr 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

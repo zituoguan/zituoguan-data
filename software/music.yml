@@ -1,0 +1,10 @@
+name: Music
+website_url: https://github.com/Sherlockouo/music
+source_code_url: https://github.com/Sherlockouo/music
+description: Music 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 流媒体 - 音频流媒体

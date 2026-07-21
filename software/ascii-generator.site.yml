@@ -1,0 +1,10 @@
+name: Ascii Generator.site
+website_url: https://github.com/hermanTenuki/ASCII-Generator.site
+source_code_url: https://github.com/hermanTenuki/ASCII-Generator.site
+description: Ascii Generator.site 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 内容管理系统（CMS）

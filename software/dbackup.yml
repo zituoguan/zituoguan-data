@@ -1,0 +1,10 @@
+name: Dbackup
+website_url: https://github.com/Skyfay/DBackup
+source_code_url: https://github.com/Skyfay/DBackup
+description: Dbackup 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 数据库管理

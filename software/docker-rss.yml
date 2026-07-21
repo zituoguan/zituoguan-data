@@ -1,0 +1,10 @@
+name: Docker Rss
+website_url: https://github.com/thebigbone/docker-rss
+source_code_url: https://github.com/thebigbone/docker-rss
+description: Docker Rss 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

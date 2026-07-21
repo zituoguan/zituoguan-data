@@ -1,0 +1,10 @@
+name: Crumbs
+website_url: https://github.com/bretzel-app/crumbs
+source_code_url: https://github.com/bretzel-app/crumbs
+description: Crumbs 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 笔记工具

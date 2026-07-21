@@ -1,0 +1,10 @@
+name: Filegogo
+website_url: https://github.com/a-wing/filegogo
+source_code_url: https://github.com/a-wing/filegogo
+description: Filegogo 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文件传输 - 对象存储和文件服务器

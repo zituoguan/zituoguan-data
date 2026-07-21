@@ -1,0 +1,10 @@
+name: Send2ereader
+website_url: https://github.com/daniel-j/send2ereader
+source_code_url: https://github.com/daniel-j/send2ereader
+description: Send2ereader 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - RSS 阅读器

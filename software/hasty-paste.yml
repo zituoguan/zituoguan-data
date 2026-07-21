@@ -1,0 +1,10 @@
+name: Hasty Paste
+website_url: https://github.com/enchant97/hasty-paste
+source_code_url: https://github.com/enchant97/hasty-paste
+description: Hasty Paste 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 代码粘贴工具

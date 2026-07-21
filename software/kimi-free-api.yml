@@ -1,0 +1,10 @@
+name: Kimi Free Api
+website_url: https://github.com/LLM-Red-Team/kimi-free-api
+source_code_url: https://github.com/LLM-Red-Team/kimi-free-api
+description: Kimi Free Api 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 通信 - 社交网络和论坛

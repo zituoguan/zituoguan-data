@@ -1,0 +1,10 @@
+name: Docker Flare
+website_url: https://github.com/soulteary/docker-flare
+source_code_url: https://github.com/soulteary/docker-flare
+description: Docker Flare 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

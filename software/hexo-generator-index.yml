@@ -1,0 +1,10 @@
+name: Hexo Generator Index
+website_url: https://github.com/hexojs/hexo-generator-index
+source_code_url: https://github.com/hexojs/hexo-generator-index
+description: Hexo Generator Index 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 内容管理系统（CMS）

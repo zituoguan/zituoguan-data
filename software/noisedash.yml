@@ -1,0 +1,10 @@
+name: Noisedash
+website_url: https://github.com/kaythomas0/noisedash
+source_code_url: https://github.com/kaythomas0/noisedash
+description: Noisedash 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

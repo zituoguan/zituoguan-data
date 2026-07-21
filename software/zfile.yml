@@ -1,0 +1,10 @@
+name: Zfile
+website_url: https://github.com/zhaojun1998/zfile
+source_code_url: https://github.com/zhaojun1998/zfile
+description: Zfile 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文件传输 - 对象存储和文件服务器

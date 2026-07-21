@@ -1,0 +1,10 @@
+name: Markdownxiaoshujiang
+website_url: https://github.com/suziwen/markdownxiaoshujiang
+source_code_url: https://github.com/suziwen/markdownxiaoshujiang
+description: Markdownxiaoshujiang 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

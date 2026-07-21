@@ -1,0 +1,10 @@
+name: Homelists
+website_url: https://github.com/aceberg/HomeLists
+source_code_url: https://github.com/aceberg/HomeLists
+description: Homelists 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 物联网（IoT）

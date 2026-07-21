@@ -1,0 +1,10 @@
+name: Tiddlywiki5
+website_url: https://github.com/Jermolene/TiddlyWiki5
+source_code_url: https://github.com/Jermolene/TiddlyWiki5
+description: Tiddlywiki5 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 笔记工具

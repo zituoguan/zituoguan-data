@@ -1,0 +1,10 @@
+name: Elysian Extension
+website_url: https://github.com/Aadityajoshi151/Elysian-Extension
+source_code_url: https://github.com/Aadityajoshi151/Elysian-Extension
+description: Elysian Extension 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

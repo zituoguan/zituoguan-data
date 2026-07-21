@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Node.js
 tags:
-  - 杂项
+  - 版本控制
 source_code_url: https://github.com/majodev/google-webfonts-helper
 demo_url: https://gwfh.mranftl.com/fonts
 depends_3rdparty: true

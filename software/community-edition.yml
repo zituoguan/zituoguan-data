@@ -1,0 +1,10 @@
+name: Community Edition
+website_url: https://github.com/plausible/community-edition
+source_code_url: https://github.com/plausible/community-edition
+description: Community Edition 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 分析

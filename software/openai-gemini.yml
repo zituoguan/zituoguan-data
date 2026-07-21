@@ -1,0 +1,10 @@
+name: Openai Gemini
+website_url: https://github.com/PublicAffairs/openai-gemini
+source_code_url: https://github.com/PublicAffairs/openai-gemini
+description: Openai Gemini 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）

@@ -1,0 +1,10 @@
+name: Docker Switchboard
+website_url: https://github.com/cfstcyr/docker-switchboard
+source_code_url: https://github.com/cfstcyr/docker-switchboard
+description: Docker Switchboard 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

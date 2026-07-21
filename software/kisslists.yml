@@ -1,0 +1,10 @@
+name: Kisslists
+website_url: https://github.com/vincent/kisslists
+source_code_url: https://github.com/vincent/kisslists
+description: Kisslists 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 书签和链接分享

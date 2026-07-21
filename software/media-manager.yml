@@ -1,0 +1,10 @@
+name: Media Manager
+website_url: https://github.com/laravel-admin-extensions/media-manager
+source_code_url: https://github.com/laravel-admin-extensions/media-manager
+description: Media Manager 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 媒体管理

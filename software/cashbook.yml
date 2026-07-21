@@ -1,0 +1,10 @@
+name: Cashbook
+website_url: https://github.com/DingDangDog/cashbook
+source_code_url: https://github.com/DingDangDog/cashbook
+description: Cashbook 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文档管理 - 电子书

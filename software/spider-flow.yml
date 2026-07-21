@@ -1,0 +1,10 @@
+name: Spider Flow
+website_url: https://github.com/ssssssss-team/spider-flow
+source_code_url: https://github.com/ssssssss-team/spider-flow
+description: Spider Flow 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

@@ -1,0 +1,10 @@
+name: Homebox
+website_url: https://github.com/hay-kot/homebox
+source_code_url: https://github.com/hay-kot/homebox
+description: Homebox 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - IT 资产管理

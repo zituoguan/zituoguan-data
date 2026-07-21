@@ -1,0 +1,10 @@
+name: Weddingshare
+website_url: https://github.com/Cirx08/WeddingShare
+source_code_url: https://github.com/Cirx08/WeddingShare
+description: Weddingshare 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

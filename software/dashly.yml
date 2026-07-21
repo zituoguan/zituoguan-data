@@ -1,0 +1,10 @@
+name: Dashly
+website_url: https://github.com/lklynet/dashly
+source_code_url: https://github.com/lklynet/dashly
+description: Dashly 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 个人仪表板

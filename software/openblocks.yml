@@ -1,0 +1,10 @@
+name: Openblocks
+website_url: https://github.com/openblocks-dev/openblocks
+source_code_url: https://github.com/openblocks-dev/openblocks
+description: Openblocks 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

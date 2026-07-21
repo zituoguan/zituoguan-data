@@ -1,0 +1,10 @@
+name: Traccar Docker
+website_url: https://github.com/traccar/traccar-docker
+source_code_url: https://github.com/traccar/traccar-docker
+description: Traccar Docker 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

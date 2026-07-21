@@ -1,0 +1,10 @@
+name: Deepseek Free Api
+website_url: https://github.com/LLM-Red-Team/deepseek-free-api
+source_code_url: https://github.com/LLM-Red-Team/deepseek-free-api
+description: Deepseek Free Api 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）

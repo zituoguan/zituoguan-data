@@ -1,0 +1,10 @@
+name: Mind Map
+website_url: https://github.com/wanglin2/mind-map
+source_code_url: https://github.com/wanglin2/mind-map
+description: Mind Map 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 地图和全球定位系统（GPS）

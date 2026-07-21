@@ -1,0 +1,10 @@
+name: Docker Port Viewer
+website_url: https://github.com/hollowpnt92/docker-port-viewer
+source_code_url: https://github.com/hollowpnt92/docker-port-viewer
+description: Docker Port Viewer 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

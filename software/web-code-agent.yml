@@ -1,0 +1,10 @@
+name: Web Code Agent
+website_url: https://github.com/oldjs/web-code-agent
+source_code_url: https://github.com/oldjs/web-code-agent
+description: Web Code Agent 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

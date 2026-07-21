@@ -1,0 +1,11 @@
+name: Gisia
+website_url: https://gisia.dev
+source_code_url: https://github.com/gisiahq/gisia
+description: 自托管的个人 DevOps 平台，集成项目管理、CI/CD 和环境部署。
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - Docker
+tags:
+  - 自动化

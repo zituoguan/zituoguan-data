@@ -1,0 +1,10 @@
+name: Webp Server Go
+website_url: https://github.com/webp-sh/webp_server_go
+source_code_url: https://github.com/webp-sh/webp_server_go
+description: Webp Server Go 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 版本控制

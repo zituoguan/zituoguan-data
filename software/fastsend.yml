@@ -1,0 +1,10 @@
+name: Fastsend
+website_url: https://github.com/ShouChenICU/FastSend
+source_code_url: https://github.com/ShouChenICU/FastSend
+description: Fastsend 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 文件传输 - 点对点文件共享

@@ -1,0 +1,10 @@
+name: Musicn
+website_url: https://github.com/zonemeen/musicn
+source_code_url: https://github.com/zonemeen/musicn
+description: Musicn 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 流媒体 - 音频流媒体

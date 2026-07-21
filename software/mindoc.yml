@@ -1,0 +1,10 @@
+name: Mindoc
+website_url: https://github.com/mindoc-org/mindoc
+source_code_url: https://github.com/mindoc-org/mindoc
+description: Mindoc 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 笔记工具

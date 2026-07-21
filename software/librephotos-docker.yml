@@ -1,0 +1,10 @@
+name: Librephotos Docker
+website_url: https://github.com/LibrePhotos/librephotos-docker
+source_code_url: https://github.com/LibrePhotos/librephotos-docker
+description: Librephotos Docker 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 容器

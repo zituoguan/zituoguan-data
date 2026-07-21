@@ -1,0 +1,10 @@
+name: Garage Webui
+website_url: https://github.com/khairul169/garage-webui
+source_code_url: https://github.com/khairul169/garage-webui
+description: Garage Webui 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 生成式人工智能（GenAI）

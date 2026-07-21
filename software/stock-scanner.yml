@@ -1,0 +1,10 @@
+name: Stock Scanner
+website_url: https://github.com/DR-lin-eng/stock-scanner
+source_code_url: https://github.com/DR-lin-eng/stock-scanner
+description: Stock Scanner 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - IT 资产管理

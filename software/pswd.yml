@@ -1,0 +1,10 @@
+name: Pswd
+website_url: https://github.com/remvze/pswd
+source_code_url: https://github.com/remvze/pswd
+description: Pswd 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 密码管理器

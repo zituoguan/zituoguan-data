@@ -1,0 +1,10 @@
+name: Smart Excalidraw Next
+website_url: https://github.com/liujuntao123/smart-excalidraw-next
+source_code_url: https://github.com/liujuntao123/smart-excalidraw-next
+description: Smart Excalidraw Next 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 图表绘制

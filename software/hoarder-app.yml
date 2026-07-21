@@ -1,0 +1,10 @@
+name: Hoarder App
+website_url: https://github.com/MohamedBassem/hoarder-app
+source_code_url: https://github.com/MohamedBassem/hoarder-app
+description: Hoarder App 是一个自托管的 Web 应用和服务平台。
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - 数据库管理
