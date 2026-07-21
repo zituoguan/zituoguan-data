@@ -1,7 +1,7 @@
 name: ProxCenter
 website_url: https://www.proxcenter.io
 source_code_url: https://github.com/adminsyspro/proxcenter-ui
-description: ProxCenter 是一个自托管的 Web 应用和服务平台。
+description: Docker 容器管理和部署平台。
 licenses:
   - GPL-3.0
 platforms:

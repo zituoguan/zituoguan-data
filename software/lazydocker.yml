@@ -1,7 +1,7 @@
 name: Lazydocker
 website_url: https://github.com/jesseduffield/lazydocker
 source_code_url: https://github.com/jesseduffield/lazydocker
-description: Lazydocker 是一个自托管的 Web 应用和服务平台。
+description: Docker 容器管理和部署平台。
 licenses:
   - MIT
 platforms:

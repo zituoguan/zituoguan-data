@@ -1,7 +1,7 @@
 name: Dribdat
 website_url: https://dribdat.cc
 source_code_url: https://github.com/dribdat/dribdat
-description: Dribdat 是一个自托管的 Web 应用和服务平台。
+description: 社交网络和论坛社区平台。
 licenses:
   - GPL-3.0
 platforms:

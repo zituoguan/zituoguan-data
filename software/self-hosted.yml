@@ -1,7 +1,7 @@
 name: Self Hosted
 website_url: https://github.com/revoltchat/self-hosted
 source_code_url: https://github.com/revoltchat/self-hosted
-description: Self Hosted 是一个自托管的 Web 应用和服务平台。
+description: 社交网络和论坛社区平台。
 licenses:
   - MIT
 platforms:

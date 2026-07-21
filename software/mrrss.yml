@@ -1,7 +1,7 @@
 name: Mrrss
 website_url: https://github.com/WCY-dt/MrRSS
 source_code_url: https://github.com/WCY-dt/MrRSS
-description: Mrrss 是一个自托管的 Web 应用和服务平台。
+description: RSS 订阅和新闻聚合阅读器。
 licenses:
   - MIT
 platforms:

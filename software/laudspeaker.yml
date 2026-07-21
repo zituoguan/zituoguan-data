@@ -1,7 +1,7 @@
 name: Laudspeaker
 website_url: https://laudspeaker.com/?ref=github
 source_code_url: https://github.com/laudspeaker/laudspeaker
-description: Laudspeaker 是一个自托管的 Web 应用和服务平台。
+description: 客户关系和销售管理平台。
 licenses:
   - GPL-3.0
 platforms:

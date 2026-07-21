@@ -1,7 +1,7 @@
 name: Nimtable
 website_url: https://github.com/nimtable/nimtable
 source_code_url: https://github.com/nimtable/nimtable
-description: Nimtable 是一个自托管的 Web 应用和服务平台。
+description: 数据库管理和 Web 管理界面。
 licenses:
   - Apache-2.0
 platforms:

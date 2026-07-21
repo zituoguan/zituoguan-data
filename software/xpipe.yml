@@ -1,7 +1,7 @@
 name: XPipe
 website_url: https://xpipe.io
 source_code_url: https://github.com/xpipe-io/xpipe
-description: XPipe 是一个自托管的 Web 应用和服务平台。
+description: 远程桌面和服务器访问工具。
 licenses:
   - GPL-3.0
 platforms:

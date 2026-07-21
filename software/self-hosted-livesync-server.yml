@@ -1,7 +1,7 @@
 name: Self Hosted Livesync Server
 website_url: https://github.com/vrtmrz/self-hosted-livesync-server
 source_code_url: https://github.com/vrtmrz/self-hosted-livesync-server
-description: Self Hosted Livesync Server 是一个自托管的 Web 应用和服务平台。
+description: 多设备文件同步和分发工具。
 licenses:
   - MIT
 platforms:

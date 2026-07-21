@@ -1,7 +1,7 @@
 name: Mediatracker
 website_url: https://github.com/bonukai/MediaTracker
 source_code_url: https://github.com/bonukai/MediaTracker
-description: Mediatracker 是一个自托管的 Web 应用和服务平台。
+description: 媒体文件管理和自动化工具。
 licenses:
   - MIT
 platforms:

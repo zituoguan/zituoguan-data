@@ -1,7 +1,7 @@
 name: 9router
 website_url: https://github.com/decolua/9router
 source_code_url: https://github.com/decolua/9router
-description: 9router 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

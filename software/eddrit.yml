@@ -1,7 +1,7 @@
 name: eddrit
 website_url: https://eddrit.com
 source_code_url: https://github.com/corenting/eddrit
-description: eddrit 是一个自托管的 Web 应用和服务平台。
+description: 健康数据和健身活动追踪工具。
 licenses:
   - GPL-3.0
 platforms:

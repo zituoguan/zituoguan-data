@@ -1,7 +1,7 @@
 name: Fast Poster
 website_url: https://github.com/psoho/fast-poster
 source_code_url: https://github.com/psoho/fast-poster
-description: Fast Poster 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Bibliotheca
 website_url: https://github.com/pickles4evaaaa/bibliotheca
 source_code_url: https://github.com/pickles4evaaaa/bibliotheca
-description: Bibliotheca 是一个自托管的 Web 应用和服务平台。
+description: 照片管理和相册展示平台。
 licenses:
   - MIT
 platforms:

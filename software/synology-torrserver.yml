@@ -1,7 +1,7 @@
 name: Synology Torrserver
 website_url: https://github.com/vladlenas/Synology-TorrServer
 source_code_url: https://github.com/vladlenas/Synology-TorrServer
-description: Synology Torrserver 是一个自托管的 Web 应用和服务平台。
+description: 集中式日志采集、分析和可视化平台。
 licenses:
   - MIT
 platforms:

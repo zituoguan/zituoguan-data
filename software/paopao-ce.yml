@@ -1,7 +1,7 @@
 name: Paopao Ce
 website_url: https://github.com/rocboss/paopao-ce
 source_code_url: https://github.com/rocboss/paopao-ce
-description: Paopao Ce 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

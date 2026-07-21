@@ -1,7 +1,7 @@
 name: Flint
 website_url: https://github.com/0xchasercat/flint
 source_code_url: https://github.com/0xchasercat/flint
-description: Flint 是一个自托管的 Web 应用和服务平台。
+description: 健康数据和健身活动追踪工具。
 licenses:
   - GPL-3.0
 platforms:

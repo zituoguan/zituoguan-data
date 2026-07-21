@@ -1,7 +1,7 @@
 name: Scholarsome
 website_url: https://http://scholarsome.com
 source_code_url: https://github.com/hwgilbert16/scholarsome
-description: Scholarsome 是一个自托管的 Web 应用和服务平台。
+description: 在线教育和课程管理平台。
 licenses:
   - GPL-3.0
 platforms:

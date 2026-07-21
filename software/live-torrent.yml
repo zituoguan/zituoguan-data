@@ -1,7 +1,7 @@
 name: Live Torrent
 website_url: https://github.com/Davenchy/live-torrent
 source_code_url: https://github.com/Davenchy/live-torrent
-description: Live Torrent 是一个自托管的 Web 应用和服务平台。
+description: 点对点文件传输和共享工具。
 licenses:
   - MIT
 platforms:

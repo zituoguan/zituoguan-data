@@ -1,7 +1,7 @@
 name: Diskover
 website_url: https://diskoverdata.com
 source_code_url: https://github.com/diskoverdata/diskover-community
-description: Diskover 是一个自托管的 Web 应用和服务平台。
+description: 全文搜索引擎和索引管理服务。
 licenses:
   - GPL-3.0
 platforms:

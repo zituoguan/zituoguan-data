@@ -1,7 +1,7 @@
 name: ProperDocs
 website_url: https://properdocs.org/
 source_code_url: https://github.com/ProperDocs/properdocs
-description: ProperDocs 是一个自托管的 Web 应用和服务平台。
+description: 知识库和文档管理平台。
 licenses:
   - GPL-3.0
 platforms:

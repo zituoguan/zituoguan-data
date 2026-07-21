@@ -1,7 +1,7 @@
 name: Search4all
 website_url: https://github.com/fatwang2/search4all
 source_code_url: https://github.com/fatwang2/search4all
-description: Search4all 是一个自托管的 Web 应用和服务平台。
+description: 全文搜索引擎和索引管理服务。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Wxpusher Docs
 website_url: https://github.com/wxpusher/wxpusher-docs
 source_code_url: https://github.com/wxpusher/wxpusher-docs
-description: Wxpusher Docs 是一个自托管的 Web 应用和服务平台。
+description: 笔记记录和知识管理工具。
 licenses:
   - MIT
 platforms:

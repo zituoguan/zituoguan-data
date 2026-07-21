@@ -1,7 +1,7 @@
 name: Crontab Guru
 website_url: https://github.com/cronitorio/cronitor-cli
 source_code_url: https://github.com/cronitorio/cronitor-cli
-description: Crontab Guru 是一个自托管的 Web 应用和服务平台。
+description: 在线 Cron 表达式生成和验证工具。
 licenses:
   - GPL-3.0
 platforms:

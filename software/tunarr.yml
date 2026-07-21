@@ -1,7 +1,7 @@
 name: Tunarr
 website_url: https://tunarr.com/
 source_code_url: https://github.com/chrisbenincasa/tunarr
-description: Tunarr 是一个自托管的 Web 应用和服务平台。
+description: 视频流媒体和媒体服务器。
 licenses:
   - GPL-3.0
 platforms:

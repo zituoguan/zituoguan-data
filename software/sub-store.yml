@@ -1,7 +1,7 @@
 name: Sub Store
 website_url: https://github.com/sub-store-org/Sub-Store
 source_code_url: https://github.com/sub-store-org/Sub-Store
-description: Sub Store 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

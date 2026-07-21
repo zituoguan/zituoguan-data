@@ -1,7 +1,7 @@
 name: Playedu
 website_url: https://github.com/PlayEdu/PlayEdu
 source_code_url: https://github.com/PlayEdu/PlayEdu
-description: Playedu 是一个自托管的 Web 应用和服务平台。
+description: 游戏服务器托管和管理工具。
 licenses:
   - MIT
 platforms:

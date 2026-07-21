@@ -1,7 +1,7 @@
 name: Auddly Server
 website_url: https://github.com/Wellenline/auddly-server
 source_code_url: https://github.com/Wellenline/auddly-server
-description: Auddly Server 是一个自托管的 Web 应用和服务平台。
+description: 音频流媒体和音乐服务器。
 licenses:
   - MIT
 platforms:

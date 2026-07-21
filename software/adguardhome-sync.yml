@@ -1,7 +1,7 @@
 name: AdGuardHome Sync
 website_url: https://github.com/bakito/adguardhome-sync
 source_code_url: https://github.com/bakito/adguardhome-sync
-description: AdGuardHome Sync 是一个自托管的 Web 应用和服务平台。
+description: DNS 域名解析和管理服务。
 licenses:
   - GPL-3.0
 platforms:

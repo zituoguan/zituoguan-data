@@ -1,7 +1,7 @@
 name: Astrbot
 website_url: https://github.com/AstrBotDevs/AstrBot
 source_code_url: https://github.com/AstrBotDevs/AstrBot
-description: Astrbot 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

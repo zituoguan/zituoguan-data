@@ -1,7 +1,7 @@
 name: Iptv M3u Maker
 website_url: https://github.com/EvilCult/iptv-m3u-maker
 source_code_url: https://github.com/EvilCult/iptv-m3u-maker
-description: Iptv M3u Maker 是一个自托管的 Web 应用和服务平台。
+description: 媒体文件管理和自动化工具。
 licenses:
   - MIT
 platforms:

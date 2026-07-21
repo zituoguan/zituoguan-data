@@ -1,7 +1,7 @@
 name: Skyoffice
 website_url: https://github.com/kevinshen56714/SkyOffice
 source_code_url: https://github.com/kevinshen56714/SkyOffice
-description: Skyoffice 是一个自托管的 Web 应用和服务平台。
+description: 在线办公文档和表格协作工具。
 licenses:
   - MIT
 platforms:

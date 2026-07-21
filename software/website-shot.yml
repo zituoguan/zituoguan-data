@@ -1,7 +1,7 @@
 name: Website Shot
 website_url: https://github.com/flowko/website-shot
 source_code_url: https://github.com/flowko/website-shot
-description: Website Shot 是一个自托管的 Web 应用和服务平台。
+description: 内容管理和网站建设平台。
 licenses:
   - MIT
 platforms:

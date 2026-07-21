@@ -1,7 +1,7 @@
 name: Trwebocr
 website_url: https://github.com/alisen39/TrWebOCR
 source_code_url: https://github.com/alisen39/TrWebOCR
-description: Trwebocr 是一个自托管的 Web 应用和服务平台。
+description: 文档管理和自动化处理平台。
 licenses:
   - MIT
 platforms:

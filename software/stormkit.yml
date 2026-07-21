@@ -1,7 +1,7 @@
 name: Stormkit
 website_url: https://app.stormkit.io
 source_code_url: https://github.com/stormkit-io/app-stormkit-io
-description: Stormkit 是一个自托管的 Web 应用和服务平台。
+description: 应用部署和基础设施管理平台。
 licenses:
   - Apache-2.0
 platforms:

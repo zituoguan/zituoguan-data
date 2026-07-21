@@ -1,7 +1,7 @@
 name: Spacepad
 website_url: https://spacepad.io
 source_code_url: https://github.com/magweter/spacepad
-description: Spacepad 是一个自托管的 Web 应用和服务平台。
+description: 视频会议和远程协作平台。
 licenses:
   - GPL-3.0
 platforms:

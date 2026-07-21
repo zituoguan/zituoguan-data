@@ -1,7 +1,7 @@
 name: Ocrmypdf
 website_url: https://github.com/ocrmypdf/OCRmyPDF
 source_code_url: https://github.com/ocrmypdf/OCRmyPDF
-description: Ocrmypdf 是一个自托管的 Web 应用和服务平台。
+description: 客户关系和销售管理平台。
 licenses:
   - MIT
 platforms:

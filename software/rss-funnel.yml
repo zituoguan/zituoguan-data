@@ -1,7 +1,7 @@
 name: Rss Funnel
 website_url: https://github.com/shouya/rss-funnel
 source_code_url: https://github.com/shouya/rss-funnel
-description: Rss Funnel 是一个自托管的 Web 应用和服务平台。
+description: RSS 订阅和新闻聚合阅读器。
 licenses:
   - MIT
 platforms:

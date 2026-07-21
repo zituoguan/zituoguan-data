@@ -1,7 +1,7 @@
 name: mkcert Web UI
 website_url: https://github.com/jeffcaldwellca/mkcertWeb
 source_code_url: https://github.com/jeffcaldwellca/mkcertWeb
-description: mkcert Web UI 是一个自托管的 Web 应用和服务平台。
+description: 工单管理和 Helpdesk 客服系统。
 licenses:
   - GPL-3.0
 platforms:

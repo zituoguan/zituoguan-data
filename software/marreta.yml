@@ -1,7 +1,7 @@
 name: Marreta
 website_url: https://marreta.link
 source_code_url: https://github.com/manualdousuario/marreta
-description: Marreta 是一个自托管的 Web 应用和服务平台。
+description: 网址缩短和链接管理服务。
 licenses:
   - GPL-3.0
 platforms:

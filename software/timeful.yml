@@ -1,7 +1,7 @@
 name: Timeful
 website_url: https://timeful.app
 source_code_url: https://github.com/schej-it/timeful.app
-description: Timeful 是一个自托管的 Web 应用和服务平台。
+description: 在线投票和活动管理平台。
 licenses:
   - GPL-3.0
 platforms:

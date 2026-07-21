@@ -1,7 +1,7 @@
 name: Overr-Syncerr
 website_url: https://github.com/gssariev/overr-syncerr
 source_code_url: https://github.com/gssariev/overr-syncerr
-description: Overr-Syncerr 是一个自托管的 Web 应用和服务平台。
+description: 多设备文件同步和分发工具。
 licenses:
   - Apache-2.0
 platforms:

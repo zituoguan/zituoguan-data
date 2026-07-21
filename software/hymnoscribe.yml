@@ -1,7 +1,7 @@
 name: HymnoScribe
 website_url: https://hymnoscribe.de
 source_code_url: https://github.com/Revisor01/HymnoScribe
-description: HymnoScribe 是一个自托管的 Web 应用和服务平台。
+description: 在线办公文档和表格协作工具。
 licenses:
   - Apache-2.0
 platforms:

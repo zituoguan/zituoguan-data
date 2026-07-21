@@ -1,7 +1,7 @@
 name: Zusam
 website_url: https://github.com/zusam/zusam
 source_code_url: https://github.com/zusam/zusam
-description: Zusam 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

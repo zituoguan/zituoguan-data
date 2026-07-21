@@ -1,7 +1,7 @@
 name: Agendav
 website_url: https://github.com/agendav/agendav
 source_code_url: https://github.com/agendav/agendav
-description: Agendav 是一个自托管的 Web 应用和服务平台。
+description: 日历、联系人和日程管理服务。
 licenses:
   - MIT
 platforms:

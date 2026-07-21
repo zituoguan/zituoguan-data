@@ -1,7 +1,7 @@
 name: Photopea
 website_url: https://github.com/photopea/photopea
 source_code_url: https://github.com/photopea/photopea
-description: Photopea 是一个自托管的 Web 应用和服务平台。
+description: 照片管理和相册展示平台。
 licenses:
   - MIT
 platforms:

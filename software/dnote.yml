@@ -1,7 +1,7 @@
 name: Dnote
 website_url: https://github.com/dnote/dnote
 source_code_url: https://github.com/dnote/dnote
-description: Dnote 是一个自托管的 Web 应用和服务平台。
+description: 笔记记录和知识管理工具。
 licenses:
   - MIT
 platforms:

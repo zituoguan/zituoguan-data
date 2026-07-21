@@ -1,7 +1,7 @@
 name: Jellyplist
 website_url: https://github.com/kamilkosek/jellyplist
 source_code_url: https://github.com/kamilkosek/jellyplist
-description: Jellyplist 是一个自托管的 Web 应用和服务平台。
+description: 视频流媒体和媒体服务器。
 licenses:
   - Apache-2.0
 platforms:

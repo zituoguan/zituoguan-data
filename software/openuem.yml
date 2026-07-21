@@ -1,7 +1,7 @@
 name: OpenUEM
 website_url: https://openuem.eu
 source_code_url: https://github.com/open-uem/openuem-console
-description: OpenUEM 是一个自托管的 Web 应用和服务平台。
+description: IT 资产和库存管理平台。
 licenses:
   - GPL-3.0
 platforms:

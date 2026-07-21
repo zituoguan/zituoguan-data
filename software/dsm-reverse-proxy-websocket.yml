@@ -1,7 +1,7 @@
 name: Dsm Reverse Proxy Websocket
 website_url: https://github.com/orobardet/dsm-reverse-proxy-websocket
 source_code_url: https://github.com/orobardet/dsm-reverse-proxy-websocket
-description: Dsm Reverse Proxy Websocket 是一个自托管的 Web 应用和服务平台。
+description: VPN 连接和网络安全隧道工具。
 licenses:
   - MIT
 platforms:

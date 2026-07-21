@@ -1,7 +1,7 @@
 name: Gpt4free
 website_url: https://github.com/xtekky/gpt4free
 source_code_url: https://github.com/xtekky/gpt4free
-description: Gpt4free 是一个自托管的 Web 应用和服务平台。
+description: 生成式人工智能应用和服务。
 licenses:
   - MIT
 platforms:

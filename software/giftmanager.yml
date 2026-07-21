@@ -1,7 +1,7 @@
 name: GiftManager
 website_url: https://github.com/icbestCA/giftmanager
 source_code_url: https://github.com/icbestCA/giftmanager
-description: GiftManager 是一个自托管的 Web 应用和服务平台。
+description: 礼物管理和赠送规划工具。
 licenses:
   - GPL-3.0
 platforms:

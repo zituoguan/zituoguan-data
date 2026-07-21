@@ -1,7 +1,7 @@
 name: Iptv Speed Tester
 website_url: https://github.com/evecus/IPTV-Speed-Tester
 source_code_url: https://github.com/evecus/IPTV-Speed-Tester
-description: Iptv Speed Tester 是一个自托管的 Web 应用和服务平台。
+description: 媒体文件管理和自动化工具。
 licenses:
   - MIT
 platforms:

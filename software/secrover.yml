@@ -1,7 +1,7 @@
 name: Secrover
 website_url: https://secrover.org
 source_code_url: https://github.com/Secrover/Secrover
-description: Secrover 是一个自托管的 Web 应用和服务平台。
+description: 工单管理和 Helpdesk 客服系统。
 licenses:
   - GPL-3.0
 platforms:

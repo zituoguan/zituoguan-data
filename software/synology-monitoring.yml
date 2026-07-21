@@ -1,7 +1,7 @@
 name: Synology Monitoring
 website_url: https://github.com/kernelkaribou/synology-monitoring
 source_code_url: https://github.com/kernelkaribou/synology-monitoring
-description: Synology Monitoring 是一个自托管的 Web 应用和服务平台。
+description: 服务器和服务的实时监控与状态检测平台。
 licenses:
   - MIT
 platforms:

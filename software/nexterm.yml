@@ -1,7 +1,7 @@
 name: Nexterm
 website_url: https://nexterm.dev
 source_code_url: https://github.com/gnmyt/Nexterm
-description: Nexterm 是一个自托管的 Web 应用和服务平台。
+description: 远程桌面和服务器访问工具。
 licenses:
   - GPL-3.0
 platforms:

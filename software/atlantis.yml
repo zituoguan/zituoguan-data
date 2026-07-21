@@ -1,7 +1,7 @@
 name: Atlantis
 website_url: https://github.com/Fantastic-Computing-Machine/atlantis
 source_code_url: https://github.com/Fantastic-Computing-Machine/atlantis
-description: Atlantis 是一个自托管的 Web 应用和服务平台。
+description: 知识库和文档管理平台。
 licenses:
   - MIT
 platforms:

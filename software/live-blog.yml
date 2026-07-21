@@ -1,7 +1,7 @@
 name: Live Blog
 website_url: https://www.sourcefabric.org/software/liveblog
 source_code_url: https://github.com/liveblog/liveblog
-description: Live Blog 是一个自托管的 Web 应用和服务平台。
+description: 集中式日志采集、分析和可视化平台。
 licenses:
   - GPL-3.0
 platforms:

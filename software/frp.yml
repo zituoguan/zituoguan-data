@@ -1,7 +1,7 @@
 name: Frp
 website_url: https://github.com/fatedier/frp
 source_code_url: https://github.com/fatedier/frp
-description: Frp 是一个自托管的 Web 应用和服务平台。
+description: VPN 连接和网络安全隧道工具。
 licenses:
   - MIT
 platforms:

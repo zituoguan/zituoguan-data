@@ -1,7 +1,7 @@
 name: Tldraw
 website_url: https://github.com/tldraw/tldraw
 source_code_url: https://github.com/tldraw/tldraw
-description: Tldraw 是一个自托管的 Web 应用和服务平台。
+description: 图表、流程图和白板绘制工具。
 licenses:
   - MIT
 platforms:

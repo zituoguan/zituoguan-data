@@ -1,7 +1,7 @@
 name: Maigret
 website_url: https://github.com/soxoj/maigret
 source_code_url: https://github.com/soxoj/maigret
-description: Maigret 是一个自托管的 Web 应用和服务平台。
+description: 生成式人工智能应用和服务。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Webmonitor
 website_url: https://github.com/LogicJake/WebMonitor
 source_code_url: https://github.com/LogicJake/WebMonitor
-description: Webmonitor 是一个自托管的 Web 应用和服务平台。
+description: 服务器和服务的实时监控与状态检测平台。
 licenses:
   - MIT
 platforms:

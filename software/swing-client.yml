@@ -1,7 +1,7 @@
 name: Swing Client
 website_url: https://github.com/geoffrey45/swing-client
 source_code_url: https://github.com/geoffrey45/swing-client
-description: Swing Client 是一个自托管的 Web 应用和服务平台。
+description: 地图和地理信息服务平台。
 licenses:
   - MIT
 platforms:

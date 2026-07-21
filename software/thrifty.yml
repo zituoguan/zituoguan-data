@@ -1,7 +1,7 @@
 name: Thrifty
 website_url: https://buymeacoffee.com/tiehfood
 source_code_url: https://github.com/tiehfood/thrifty
-description: Thrifty 是一个自托管的 Web 应用和服务平台。
+description: 任务管理和待办事项跟踪工具。
 licenses:
   - GPL-3.0
 platforms:

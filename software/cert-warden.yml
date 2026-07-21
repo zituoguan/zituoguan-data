@@ -1,7 +1,7 @@
 name: Cert Warden
 website_url: https://www.certwarden.com/
 source_code_url: https://github.com/gregtwallace/certwarden
-description: Cert Warden 是一个自托管的 Web 应用和服务平台。
+description: 工单管理和 Helpdesk 客服系统。
 licenses:
   - GPL-3.0
 platforms:

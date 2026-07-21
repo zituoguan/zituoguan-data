@@ -1,7 +1,7 @@
 name: Middleware Manager
 website_url: https://github.com/hhftechnology/middleware-manager
 source_code_url: https://github.com/hhftechnology/middleware-manager
-description: Middleware Manager 是一个自托管的 Web 应用和服务平台。
+description: HTTP 反向代理和流量管理工具。
 licenses:
   - GPL-3.0
 platforms:

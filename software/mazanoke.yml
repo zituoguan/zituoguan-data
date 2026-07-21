@@ -1,7 +1,7 @@
 name: Mazanoke
 website_url: https://MAZANOKE.com
 source_code_url: https://github.com/civilblur/mazanoke
-description: Mazanoke 是一个自托管的 Web 应用和服务平台。
+description: 照片管理和相册展示平台。
 licenses:
   - GPL-3.0
 platforms:

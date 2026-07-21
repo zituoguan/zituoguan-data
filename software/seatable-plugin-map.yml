@@ -1,7 +1,7 @@
 name: Seatable Plugin Map
 website_url: https://github.com/seatable/seatable-plugin-map
 source_code_url: https://github.com/seatable/seatable-plugin-map
-description: Seatable Plugin Map 是一个自托管的 Web 应用和服务平台。
+description: 地图和地理信息服务平台。
 licenses:
   - MIT
 platforms:

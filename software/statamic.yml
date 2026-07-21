@@ -1,7 +1,7 @@
 name: Statamic
 website_url: https://statamic.com
 source_code_url: https://github.com/statamic/cms
-description: Statamic 是一个自托管的 Web 应用和服务平台。
+description: 内容管理和网站建设平台。
 licenses:
   - GPL-3.0
 platforms:

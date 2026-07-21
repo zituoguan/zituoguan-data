@@ -1,7 +1,7 @@
 name: 13ft Ladder
 website_url: https://13ft-ladder.vercel.app/
 source_code_url: https://github.com/wasi-master/13ft
-description: 13ft Ladder 是一个自托管的 Web 应用和服务平台。
+description: HTTP 反向代理和流量管理工具。
 licenses:
   - GPL-3.0
 platforms:

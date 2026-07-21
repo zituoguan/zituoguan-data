@@ -1,7 +1,7 @@
 name: Petio
 website_url: https://petio.tv
 source_code_url: https://github.com/petio-team/petio
-description: Petio 是一个自托管的 Web 应用和服务平台。
+description: 视频流媒体和媒体服务器。
 licenses:
   - MIT
 platforms:

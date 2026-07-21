@@ -1,7 +1,7 @@
 name: Streamshield Proxy
 website_url: https://github.com/pppyyyccc/streamshield-proxy
 source_code_url: https://github.com/pppyyyccc/streamshield-proxy
-description: Streamshield Proxy 是一个自托管的 Web 应用和服务平台。
+description: VPN 连接和网络安全隧道工具。
 licenses:
   - MIT
 platforms:

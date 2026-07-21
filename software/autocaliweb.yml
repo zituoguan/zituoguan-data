@@ -1,7 +1,7 @@
 name: Autocaliweb
 website_url: https://codeberg.org/gelbphoenix/autocaliweb
 source_code_url: https://github.com/gelbphoenix/autocaliweb
-description: Autocaliweb 是一个自托管的 Web 应用和服务平台。
+description: 电子书管理和阅读平台。
 licenses:
   - GPL-3.0
 platforms:

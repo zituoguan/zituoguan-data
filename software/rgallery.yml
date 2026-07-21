@@ -1,7 +1,7 @@
 name: Rgallery
 website_url: https://github.com/robbymilo/rgallery
 source_code_url: https://github.com/robbymilo/rgallery
-description: Rgallery 是一个自托管的 Web 应用和服务平台。
+description: 照片管理和相册展示平台。
 licenses:
   - MIT
 platforms:

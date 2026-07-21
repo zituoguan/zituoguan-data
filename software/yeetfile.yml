@@ -1,7 +1,7 @@
 name: YeetFile
 website_url: https://github.com/benbusby/yeetfile
 source_code_url: https://github.com/benbusby/yeetfile
-description: YeetFile 是一个自托管的 Web 应用和服务平台。
+description: 密码和敏感凭据的安全管理工具。
 licenses:
   - Apache-2.0
 platforms:

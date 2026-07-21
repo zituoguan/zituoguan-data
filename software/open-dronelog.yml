@@ -1,7 +1,7 @@
 name: Open DroneLog
 website_url: https://www.opendronelog.com
 source_code_url: https://github.com/arpanghosh8453/open-dronelog
-description: Open DroneLog 是一个自托管的 Web 应用和服务平台。
+description: 服务器和服务的实时监控与状态检测平台。
 licenses:
   - GPL-3.0
 platforms:

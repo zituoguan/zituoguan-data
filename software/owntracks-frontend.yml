@@ -1,7 +1,7 @@
 name: OwnTracks Frontend
 website_url: https://github.com/owntracks/frontend
 source_code_url: https://github.com/owntracks/frontend
-description: OwnTracks Frontend 是一个自托管的 Web 应用和服务平台。
+description: 地图和地理信息服务平台。
 licenses:
   - MIT
 platforms:

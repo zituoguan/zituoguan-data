@@ -1,7 +1,7 @@
 name: Videotogether
 website_url: https://github.com/VideoTogether/VideoTogether
 source_code_url: https://github.com/VideoTogether/VideoTogether
-description: Videotogether 是一个自托管的 Web 应用和服务平台。
+description: 媒体文件管理和自动化工具。
 licenses:
   - MIT
 platforms:

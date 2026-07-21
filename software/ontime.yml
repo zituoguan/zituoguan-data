@@ -1,7 +1,7 @@
 name: Ontime
 website_url: https://www.getontime.no
 source_code_url: https://github.com/cpvalente/ontime
-description: Ontime 是一个自托管的 Web 应用和服务平台。
+description: 日历、联系人和日程管理服务。
 licenses:
   - GPL-3.0
 platforms:

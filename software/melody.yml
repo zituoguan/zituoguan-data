@@ -1,7 +1,7 @@
 name: Melody
 website_url: https://github.com/foamzou/melody
 source_code_url: https://github.com/foamzou/melody
-description: Melody 是一个自托管的 Web 应用和服务平台。
+description: 音频流媒体和音乐服务器。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: Drydock
 website_url: https://github.com/CodesWhat/drydock
 source_code_url: https://github.com/CodesWhat/drydock
-description: Drydock 是一个自托管的 Web 应用和服务平台。
+description: 笔记记录和知识管理工具。
 licenses:
   - MIT
 platforms:

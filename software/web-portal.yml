@@ -1,7 +1,7 @@
 name: Web Portal
 website_url: https://github.com/enchant97/web-portal
 source_code_url: https://github.com/enchant97/web-portal
-description: Web Portal 是一个自托管的 Web 应用和服务平台。
+description: Git 代码托管和版本控制平台。
 licenses:
   - MIT
 platforms:

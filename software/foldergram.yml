@@ -1,7 +1,7 @@
 name: Foldergram
 website_url: https://foldergram.github.io
 source_code_url: https://github.com/foldergram/foldergram
-description: Foldergram 是一个自托管的 Web 应用和服务平台。
+description: 照片管理和相册展示平台。
 licenses:
   - GPL-3.0
 platforms:

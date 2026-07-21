@@ -1,7 +1,7 @@
 name: Rackula
 website_url: https://racku.la
 source_code_url: https://github.com/RackulaLives/Rackula
-description: Rackula 是一个自托管的 Web 应用和服务平台。
+description: 点对点文件传输和共享工具。
 licenses:
   - GPL-3.0
 platforms:

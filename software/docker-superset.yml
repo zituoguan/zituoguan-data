@@ -1,7 +1,7 @@
 name: Docker Superset
 website_url: https://github.com/amancevice/docker-superset
 source_code_url: https://github.com/amancevice/docker-superset
-description: Docker Superset 是一个自托管的 Web 应用和服务平台。
+description: Docker 容器管理和部署平台。
 licenses:
   - MIT
 platforms:

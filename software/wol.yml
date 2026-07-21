@@ -1,7 +1,7 @@
 name: wol
 website_url: https://github.com/Trugamr/wol
 source_code_url: https://github.com/Trugamr/wol
-description: wol 是一个自托管的 Web 应用和服务平台。
+description: 工作流自动化和任务编排工具。
 licenses:
   - GPL-3.0
 platforms:

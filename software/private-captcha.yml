@@ -1,7 +1,7 @@
 name: Private Captcha
 website_url: https://privatecaptcha.com
 source_code_url: https://github.com/PrivateCaptcha/PrivateCaptcha
-description: Private Captcha 是一个自托管的 Web 应用和服务平台。
+description: 身份管理系统的工具和 Web 界面。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Koreader
 website_url: https://github.com/koreader/koreader
 source_code_url: https://github.com/koreader/koreader
-description: Koreader 是一个自托管的 Web 应用和服务平台。
+description: RSS 订阅和新闻聚合阅读器。
 licenses:
   - MIT
 platforms:

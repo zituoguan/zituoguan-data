@@ -1,7 +1,7 @@
 name: Rocket.chat.reactnative
 website_url: https://github.com/RocketChat/Rocket.Chat.ReactNative
 source_code_url: https://github.com/RocketChat/Rocket.Chat.ReactNative
-description: Rocket.chat.reactnative 是一个自托管的 Web 应用和服务平台。
+description: 社交网络和论坛社区平台。
 licenses:
   - MIT
 platforms:

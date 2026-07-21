@@ -1,7 +1,7 @@
 name: Mindwtr
 website_url: https://mindwtr.app
 source_code_url: https://github.com/dongdongbh/Mindwtr
-description: Mindwtr 是一个自托管的 Web 应用和服务平台。
+description: 笔记记录和知识管理工具。
 licenses:
   - GPL-3.0
 platforms:

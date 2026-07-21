@@ -1,7 +1,7 @@
 name: Pdfmanager
 website_url: https://github.com/G0rsthir/pdfmanager
 source_code_url: https://github.com/G0rsthir/pdfmanager
-description: Pdfmanager 是一个自托管的 Web 应用和服务平台。
+description: 文档管理和自动化处理平台。
 licenses:
   - MIT
 platforms:

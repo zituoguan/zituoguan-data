@@ -1,7 +1,7 @@
 name: Koito
 website_url: https://koito.io
 source_code_url: https://github.com/gabehf/Koito
-description: Koito 是一个自托管的 Web 应用和服务平台。
+description: 音频流媒体和音乐服务器。
 licenses:
   - GPL-3.0
 platforms:

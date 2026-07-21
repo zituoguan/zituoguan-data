@@ -1,7 +1,7 @@
 name: AniBridge
 website_url: https://http://anibridge.eliasbenb.dev
 source_code_url: https://github.com/anibridge/anibridge
-description: AniBridge 是一个自托管的 Web 应用和服务平台。
+description: 在线投票和活动管理平台。
 licenses:
   - GPL-3.0
 platforms:

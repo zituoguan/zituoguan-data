@@ -1,7 +1,7 @@
 name: VaulTLS
 website_url: https://github.com/7ritn/VaulTLS
 source_code_url: https://github.com/7ritn/VaulTLS
-description: VaulTLS 是一个自托管的 Web 应用和服务平台。
+description: 密码和敏感凭据的安全管理工具。
 licenses:
   - GPL-3.0
 platforms:

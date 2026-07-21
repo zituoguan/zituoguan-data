@@ -1,7 +1,7 @@
 name: Shared Moments
 website_url: https://github.com/tech-kev/SharedMoments
 source_code_url: https://github.com/tech-kev/SharedMoments
-description: Shared Moments 是一个自托管的 Web 应用和服务平台。
+description: 工作流自动化和任务编排工具。
 licenses:
   - GPL-3.0
 platforms:

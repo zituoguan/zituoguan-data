@@ -1,7 +1,7 @@
 name: Gomodel
 website_url: https://github.com/ENTERPILOT/GoModel
 source_code_url: https://github.com/ENTERPILOT/GoModel
-description: Gomodel 是一个自托管的 Web 应用和服务平台。
+description: 企业资源规划和业务管理平台。
 licenses:
   - MIT
 platforms:

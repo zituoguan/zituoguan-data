@@ -1,7 +1,7 @@
 name: Project Management
 website_url: https://github.com/devaslanphp/project-management
 source_code_url: https://github.com/devaslanphp/project-management
-description: Project Management 是一个自托管的 Web 应用和服务平台。
+description: 任务管理和待办事项跟踪工具。
 licenses:
   - MIT
 platforms:

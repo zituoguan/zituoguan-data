@@ -1,7 +1,7 @@
 name: Nametag
 website_url: https://github.com/mattogodoy/nametag
 source_code_url: https://github.com/mattogodoy/nametag
-description: Nametag 是一个自托管的 Web 应用和服务平台。
+description: 域名管理和 DNS 记录工具。
 licenses:
   - GPL-3.0
 platforms:

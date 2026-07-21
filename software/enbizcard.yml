@@ -1,7 +1,7 @@
 name: Enbizcard
 website_url: https://github.com/vishnuraghavb/EnBizCard
 source_code_url: https://github.com/vishnuraghavb/EnBizCard
-description: Enbizcard 是一个自托管的 Web 应用和服务平台。
+description: AI 智能体的记忆存储和检索平台。
 licenses:
   - MIT
 platforms:

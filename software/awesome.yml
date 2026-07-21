@@ -1,7 +1,7 @@
 name: Awesome
 website_url: https://github.com/YOURLS/awesome
 source_code_url: https://github.com/YOURLS/awesome
-description: Awesome 是一个自托管的 Web 应用和服务平台。
+description: 网址缩短和链接管理服务。
 licenses:
   - MIT
 platforms:

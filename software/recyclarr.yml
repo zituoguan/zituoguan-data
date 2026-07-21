@@ -1,7 +1,7 @@
 name: Recyclarr
 website_url: https://recyclarr.dev
 source_code_url: https://github.com/recyclarr/recyclarr
-description: Recyclarr 是一个自托管的 Web 应用和服务平台。
+description: 媒体文件管理和自动化工具。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Aiclient 2 Api
 website_url: https://github.com/justlovemaki/AIClient-2-API
 source_code_url: https://github.com/justlovemaki/AIClient-2-API
-description: Aiclient 2 Api 是一个自托管的 Web 应用和服务平台。
+description: 生成式人工智能应用和服务。
 licenses:
   - MIT
 platforms:

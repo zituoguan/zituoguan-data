@@ -1,7 +1,7 @@
 name: Webtop
 website_url: https://github.com/linuxserver/docker-webtop
 source_code_url: https://github.com/linuxserver/docker-webtop
-description: Webtop 是一个自托管的 Web 应用和服务平台。
+description: Docker 容器管理和部署平台。
 licenses:
   - GPL-3.0
 platforms:

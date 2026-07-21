@@ -1,7 +1,7 @@
 name: Self-Hosted Metrics
 website_url: https://self-hosted-metrics.com
 source_code_url: https://github.com/kOlapsis/shm
-description: Self-Hosted Metrics 是一个自托管的 Web 应用和服务平台。
+description: 服务器和服务的实时监控与状态检测平台。
 licenses:
   - GPL-3.0
 platforms:

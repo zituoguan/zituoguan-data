@@ -1,7 +1,7 @@
 name: Mantrae
 website_url: https://mantrae.pages.dev
 source_code_url: https://github.com/MizuchiLabs/mantrae
-description: Mantrae 是一个自托管的 Web 应用和服务平台。
+description: HTTP 反向代理和流量管理工具。
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,7 @@
 name: Bookologia
 website_url: https://github.com/blankresearch/Bookologia
 source_code_url: https://github.com/blankresearch/Bookologia
-description: Bookologia 是一个自托管的 Web 应用和服务平台。
+description: 电子书管理和阅读平台。
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,7 @@
 name: OpenPanel
 website_url: https://openpanel.com
 source_code_url: https://github.com/stefanpejcic/OpenPanel
-description: OpenPanel 是一个自托管的 Web 应用和服务平台。
+description: 服务器管理和运维控制面板。
 licenses:
   - GPL-3.0
 platforms:

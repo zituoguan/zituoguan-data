@@ -1,7 +1,7 @@
 name: Focalboard
 website_url: https://github.com/mattermost/focalboard
 source_code_url: https://github.com/mattermost/focalboard
-description: Focalboard 是一个自托管的 Web 应用和服务平台。
+description: 社交网络和论坛社区平台。
 licenses:
   - MIT
 platforms:

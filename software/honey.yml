@@ -1,7 +1,7 @@
 name: Honey
 website_url: https://demos-honey.djank.me/
 source_code_url: https://github.com/dani3l0/honey
-description: Honey 是一个自托管的 Web 应用和服务平台。
+description: 自托管的 Web 应用和服务平台。
 licenses:
   - GPL-3.0
 platforms:

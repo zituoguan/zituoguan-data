@@ -1,7 +1,7 @@
 name: Intellissh
 website_url: https://github.com/clusterzx/intellissh
 source_code_url: https://github.com/clusterzx/intellissh
-description: Intellissh 是一个自托管的 Web 应用和服务平台。
+description: 远程桌面和服务器访问工具。
 licenses:
   - MIT
 platforms:

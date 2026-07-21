@@ -1,7 +1,7 @@
 name: Einvault
 website_url: https://github.com/davefatkin/EinVault
 source_code_url: https://github.com/davefatkin/EinVault
-description: Einvault 是一个自托管的 Web 应用和服务平台。
+description: 密码和敏感凭据的安全管理工具。
 licenses:
   - MIT
 platforms:
