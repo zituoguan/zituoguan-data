@@ -8,3 +8,13 @@ platforms:
   - TypeScript
 tags:
   - 媒体管理
+stargazers_count: 3868
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: android-tv-apk-2026-04-02
+  published_at: '2026-04-02'
+commit_history:
+  2026-05: 0
+  2026-06: 4
+  2026-07: 36

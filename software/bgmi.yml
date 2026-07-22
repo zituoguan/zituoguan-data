@@ -1,10 +1,20 @@
 name: Bgmi
 website_url: https://github.com/BGmi/BGmi
 source_code_url: https://github.com/BGmi/BGmi
-description: "自动追番工具，提供 CLI 和 Web UI 管理订阅的番剧（寻找维护者中）。"
+description: 自动追番工具，提供 CLI 和 Web UI 管理订阅的番剧（寻找维护者中）。
 licenses:
   - MIT
 platforms:
   - Python
 tags:
   - 媒体管理
+stargazers_count: 1020
+updated_at: '2026-07-17'
+archived: false
+current_release:
+  tag: v5.0.0b1
+  published_at: '2026-07-17'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 5

@@ -8,3 +8,13 @@ platforms:
   - Python
 tags:
   - 版本控制
+stargazers_count: 5234
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: v0.6.0
+  published_at: '2026-07-12'
+commit_history:
+  2026-05: 38
+  2026-06: 6
+  2026-07: 6

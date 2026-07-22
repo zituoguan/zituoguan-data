@@ -1,7 +1,7 @@
 name: Atlas CMMS
 website_url: https://atlas-cmms.com
 source_code_url: https://github.com/Grashjs/cmms
-description: "企业计算机化维护管理系统（CMMS），支持工单管理、设备跟踪和预防性维护。"
+description: 企业计算机化维护管理系统（CMMS），支持工单管理、设备跟踪和预防性维护。
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 企业资源规划（ERP）
+stargazers_count: 697
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: v1.7.0
+  published_at: '2026-06-23'
+commit_history:
+  2026-05: 141
+  2026-06: 152
+  2026-07: 97

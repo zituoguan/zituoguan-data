@@ -8,3 +8,13 @@ platforms:
   - Go
 tags:
   - 容器
+stargazers_count: 52113
+updated_at: '2026-04-19'
+archived: false
+current_release:
+  tag: v0.25.2
+  published_at: '2026-04-19'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

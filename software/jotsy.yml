@@ -8,3 +8,13 @@ platforms:
   - Rust
 tags:
   - 版本控制
+stargazers_count: 510
+updated_at: '2022-11-28'
+archived: false
+current_release:
+  tag: v0.2.0-alpha.1
+  published_at: '2022-11-28'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

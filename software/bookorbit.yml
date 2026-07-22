@@ -1,7 +1,7 @@
 name: BookOrbit
 website_url: https://bookorbit.app
 source_code_url: https://github.com/bookorbit/bookorbit
-description: "BookOrbit: 个人图书管理与阅读空间。"
+description: 'BookOrbit: 个人图书管理与阅读空间。'
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - 文档管理 - 电子书
-stargazers_count: 1645
+stargazers_count: 1661
 updated_at: '2026-07-16'
 archived: false
 current_release:

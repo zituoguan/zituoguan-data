@@ -8,3 +8,13 @@ platforms:
   - PHP
 tags:
   - 任务管理和待办清单
+stargazers_count: 1808
+updated_at: '2023-07-01'
+archived: false
+current_release:
+  tag: v1.15.3
+  published_at: '2023-09-03'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

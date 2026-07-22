@@ -1,10 +1,20 @@
 name: Booksonic Air
 website_url: https://github.com/popeen/Booksonic-Air
 source_code_url: https://github.com/popeen/Booksonic-Air
-description: "基于 Airsonic 的有声书服务器，支持流式播放和播客订阅。"
+description: 基于 Airsonic 的有声书服务器，支持流式播放和播客订阅。
 licenses:
   - MIT
 platforms:
   - Java
 tags:
   - 文档管理 - 电子书
+stargazers_count: 224
+updated_at: '2023-01-28'
+archived: false
+current_release:
+  tag: v2201.1.0
+  published_at: '2022-01-13'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

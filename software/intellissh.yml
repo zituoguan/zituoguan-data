@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 远程访问
+stargazers_count: 357
+updated_at: '2025-08-24'
+archived: false
+current_release:
+  tag: v1.2.0
+  published_at: '2025-08-23'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

@@ -8,3 +8,13 @@ platforms:
   - Go
 tags:
   - 生成式人工智能（GenAI）
+stargazers_count: 346
+updated_at: '2026-06-15'
+archived: false
+current_release:
+  tag: 1.4.1
+  published_at: '2026-04-04'
+commit_history:
+  2026-05: 0
+  2026-06: 3
+  2026-07: 0

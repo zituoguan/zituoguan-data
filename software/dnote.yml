@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 笔记工具
+stargazers_count: 3047
+updated_at: '2026-07-18'
+archived: false
+current_release:
+  tag: cli-v0.16.0
+  published_at: '2025-11-08'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 1

@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 书签和链接分享
+stargazers_count: 2295
+updated_at: '2026-06-09'
+archived: false
+current_release:
+  tag: v0.14.3
+  published_at: '2026-05-19'
+commit_history:
+  2026-05: 2
+  2026-06: 2
+  2026-07: 0

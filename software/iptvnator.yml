@@ -1,10 +1,20 @@
 name: Iptvnator
 website_url: https://github.com/4gray/iptvnator
 source_code_url: https://github.com/4gray/iptvnator
-description: "跨平台 IPTV 播放器，支持 m3u/m3u8 播放列表、收藏夹、节目指南和回看功能。"
+description: 跨平台 IPTV 播放器，支持 m3u/m3u8 播放列表、收藏夹、节目指南和回看功能。
 licenses:
   - MIT
 platforms:
   - TypeScript
 tags:
   - 媒体管理
+stargazers_count: 6657
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: v0.22.0
+  published_at: '2026-07-05'
+commit_history:
+  2026-05: 273
+  2026-06: 69
+  2026-07: 66

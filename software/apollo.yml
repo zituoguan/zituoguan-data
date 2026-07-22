@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - 游戏 - 管理工具和控制面板
+stargazers_count: 10288
+updated_at: '2026-05-21'
+archived: false
+current_release:
+  tag: v0.4.7-alpha.1
+  published_at: '2025-08-12'
+commit_history:
+  2026-05: 4
+  2026-06: 0
+  2026-07: 0

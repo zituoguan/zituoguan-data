@@ -10,7 +10,7 @@ tags:
   - 文件传输 - 对象存储和文件服务器
 stargazers_count: 647
 updated_at: '2025-04-12'
-archived: false
+archived: true
 current_release:
   tag: v0.2.11
   published_at: '2025-04-12'

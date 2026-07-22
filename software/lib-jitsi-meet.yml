@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 通信 - 视频会议
+stargazers_count: 1416
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: v2176.0.0+196bb825
+  published_at: '2026-07-21'
+commit_history:
+  2026-05: 8
+  2026-06: 7
+  2026-07: 9

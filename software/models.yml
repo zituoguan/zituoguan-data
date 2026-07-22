@@ -8,3 +8,13 @@ platforms:
   - Docker
 tags:
   - 版本控制
+stargazers_count: 30
+updated_at: '2021-12-08'
+archived: false
+current_release:
+  tag: u2net
+  published_at: '2023-02-09'
+commit_history:
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0
