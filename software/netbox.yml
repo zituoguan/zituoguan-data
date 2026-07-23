@@ -9,8 +9,8 @@ tags:
   - 配置管理数据库
 demo_url: https://demo.netbox.dev/
 source_code_url: https://github.com/netbox-community/netbox
-stargazers_count: 21152
-updated_at: '2026-07-21'
+stargazers_count: 21155
+updated_at: '2026-07-22'
 archived: false
 current_release:
   tag: v4.6.5
@@ -19,4 +19,4 @@ commit_history:
   2026-04: 155
   2026-05: 147
   2026-06: 109
-  2026-07: 59
+  2026-07: 69

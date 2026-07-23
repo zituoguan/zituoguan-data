@@ -8,8 +8,8 @@ platforms:
   - Java
 tags:
   - 版本控制
-stargazers_count: 25070
-updated_at: '2026-07-21'
+stargazers_count: 25081
+updated_at: '2026-07-22'
 archived: false
 current_release:
   tag: v3.0.3
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-05: 4
   2026-06: 3
-  2026-07: 3
+  2026-07: 4
