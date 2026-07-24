@@ -8,13 +8,13 @@ platforms:
   - Python
 tags:
   - 自动化
-stargazers_count: 288
-updated_at: '2026-04-05'
+stargazers_count: 289
+updated_at: '2026-07-23'
 archived: false
 current_release:
-  tag: v1.7.0
-  published_at: '2026-04-05'
+  tag: v2.0.0
+  published_at: '2026-07-23'
 commit_history:
   2026-05: 0
   2026-06: 0
-  2026-07: 0
+  2026-07: 14

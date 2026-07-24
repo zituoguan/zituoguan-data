@@ -8,11 +8,11 @@ platforms:
 tags:
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/fusiondirectory/fusiondirectory
-stargazers_count: 188
-updated_at: '2026-07-20'
+stargazers_count: 189
+updated_at: '2026-07-23'
 archived: false
 commit_history:
   2026-04: 4
   2026-05: 19
   2026-06: 33
-  2026-07: 19
+  2026-07: 27

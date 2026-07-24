@@ -9,7 +9,7 @@ platforms:
 tags:
   - 日志管理
 stargazers_count: 763
-updated_at: '2026-07-21'
+updated_at: '2026-07-23'
 archived: false
 current_release:
   tag: cli-v0.2.1
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-05: 49
   2026-06: 16
-  2026-07: 160
+  2026-07: 161

@@ -9,13 +9,13 @@ tags:
   - 指标采集
 source_code_url: https://github.com/elastic/beats
 stargazers_count: 12639
-updated_at: '2026-07-22'
+updated_at: '2026-07-23'
 archived: false
 current_release:
-  tag: v9.3.8
-  published_at: '2026-07-21'
+  tag: v9.4.4
+  published_at: '2026-07-23'
 commit_history:
   2026-04: 123
   2026-05: 107
   2026-06: 124
-  2026-07: 136
+  2026-07: 138
