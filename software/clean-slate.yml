@@ -9,12 +9,12 @@ platforms:
 tags:
   - 分析
 stargazers_count: 240
-updated_at: '2026-07-23'
+updated_at: '2026-07-26'
 archived: false
 current_release:
-  tag: v4.25.0
-  published_at: '2026-07-11'
+  tag: v4.26.0
+  published_at: '2026-07-26'
 commit_history:
   2026-05: 15
   2026-06: 13
-  2026-07: 9
+  2026-07: 11

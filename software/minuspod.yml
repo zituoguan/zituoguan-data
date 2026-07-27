@@ -9,12 +9,12 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 stargazers_count: 327
-updated_at: '2026-07-24'
+updated_at: '2026-07-26'
 archived: false
 commit_history:
   2026-05: 72
   2026-06: 141
-  2026-07: 388
+  2026-07: 389
 current_release:
-  tag: v2.77.1
-  published_at: '2026-07-24'
+  tag: v2.79.0
+  published_at: '2026-07-26'

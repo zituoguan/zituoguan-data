@@ -10,11 +10,11 @@ platforms:
 tags:
   - 自动化
 stargazers_count: 3674
-updated_at: '2026-07-25'
+updated_at: '2026-07-26'
 archived: false
 current_release:
-  tag: helm-dagu-1.0.11
-  published_at: '2026-07-21'
+  tag: v2.11.0
+  published_at: '2026-07-26'
 commit_history:
   2025-08: 85
   2025-09: 44
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 167
   2026-05: 177
   2026-06: 90
-  2026-07: 78
+  2026-07: 91

@@ -9,13 +9,13 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 stargazers_count: 494
-updated_at: '2026-07-10'
+updated_at: '2026-07-26'
 archived: false
 current_release:
-  tag: v0.9.5
-  published_at: '2026-07-10'
+  tag: v0.9.6
+  published_at: '2026-07-26'
 commit_history:
   2026-04: 29
   2026-05: 28
   2026-06: 15
-  2026-07: 9
+  2026-07: 12
