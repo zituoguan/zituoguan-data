@@ -9,8 +9,8 @@ platforms:
 tags:
   - 分析
 source_code_url: https://github.com/metabase/metabase
-stargazers_count: 48377
-updated_at: '2026-07-26'
+stargazers_count: 48392
+updated_at: '2026-07-27'
 archived: false
 current_release:
   tag: v0.63.1
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 575
   2026-05: 579
   2026-06: 724
-  2026-07: 501
+  2026-07: 530

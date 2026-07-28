@@ -9,7 +9,7 @@ tags:
   - 博客平台
 source_code_url: https://github.com/mataroablog/mataroa
 stargazers_count: 358
-updated_at: '2026-06-23'
+updated_at: '2026-07-27'
 archived: false
 current_release:
   tag: v1.5
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 2
   2026-05: 0
   2026-06: 6
-  2026-07: 0
+  2026-07: 1
