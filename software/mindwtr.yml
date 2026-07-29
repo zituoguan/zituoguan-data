@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 笔记工具
-stargazers_count: 1533
+stargazers_count: 1548
 updated_at: '2026-07-28'
 archived: false
 current_release:
-  tag: v1.1.5-rc.5
-  published_at: '2026-07-25'
+  tag: v1.1.5
+  published_at: '2026-07-28'
 commit_history:
   2026-05: 527
   2026-06: 744
-  2026-07: 672
+  2026-07: 700
