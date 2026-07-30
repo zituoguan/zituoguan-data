@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - 文档管理
-stargazers_count: 2785
-updated_at: '2026-07-27'
+stargazers_count: 2786
+updated_at: '2026-07-29'
 archived: false
 current_release:
-  tag: '@eventcatalog/core@4.3.3'
-  published_at: '2026-07-27'
+  tag: '@eventcatalog/core@4.3.4'
+  published_at: '2026-07-29'
 commit_history:
   2026-05: 107
   2026-06: 50
-  2026-07: 69
+  2026-07: 71
