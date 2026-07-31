@@ -9,13 +9,13 @@ platforms:
   - Docker
 tags:
   - 笔记工具
-stargazers_count: 969
-updated_at: '2026-07-16'
+stargazers_count: 981
+updated_at: '2026-07-30'
 archived: false
 current_release:
-  tag: v0.8.8+obsidian.1.12.7
-  published_at: '2026-07-05'
+  tag: v0.8.9+obsidian.1.12.7
+  published_at: '2026-07-30'
 commit_history:
   2026-05: 49
   2026-06: 58
-  2026-07: 12
+  2026-07: 27
