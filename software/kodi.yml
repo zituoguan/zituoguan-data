@@ -9,14 +9,13 @@ platforms:
 tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/xbmc/xbmc
-stargazers_count: 21012
-updated_at: '2026-07-30'
+stargazers_count: 21018
+updated_at: '2026-07-31'
 archived: false
 current_release:
   tag: 22.0b1-Piers
   published_at: '2026-06-21'
 commit_history:
-  2025-08: 347
   2025-09: 172
   2025-10: 202
   2025-11: 244
@@ -27,4 +26,4 @@ commit_history:
   2026-04: 258
   2026-05: 338
   2026-06: 164
-  2026-07: 268
+  2026-07: 280

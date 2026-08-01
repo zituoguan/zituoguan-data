@@ -10,14 +10,13 @@ tags:
   - 代码粘贴工具
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/Tanq16/local-content-share
-stargazers_count: 470
+stargazers_count: 480
 updated_at: '2026-01-28'
 archived: false
 current_release:
   tag: v37
   published_at: '2026-01-28'
 commit_history:
-  2025-08: 6
   2025-09: 1
   2025-10: 0
   2025-11: 1

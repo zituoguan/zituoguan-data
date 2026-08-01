@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - 工单
-stargazers_count: 3271
+stargazers_count: 3275
 updated_at: '2026-07-30'
 archived: false
 current_release:
   tag: v1.28.1
   published_at: '2026-07-23'
 commit_history:
-  2025-08: 417
   2025-09: 237
   2025-10: 233
   2025-11: 217

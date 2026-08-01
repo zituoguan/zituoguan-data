@@ -8,14 +8,13 @@ platforms:
 tags:
   - 文档管理 - 电子书
 source_code_url: https://github.com/kiwix/kiwix-tools
-stargazers_count: 905
+stargazers_count: 906
 updated_at: '2026-03-02'
 archived: false
 current_release:
   tag: 3.8.2
   published_at: '2026-03-02'
 commit_history:
-  2025-08: 0
   2025-09: 13
   2025-10: 9
   2025-11: 13

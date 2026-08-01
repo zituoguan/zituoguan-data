@@ -9,14 +9,13 @@ platforms:
 tags:
   - 书签和链接分享
 source_code_url: https://github.com/linkwarden/linkwarden
-stargazers_count: 19231
+stargazers_count: 19238
 updated_at: '2026-07-28'
 archived: false
 current_release:
   tag: v2.16.0
   published_at: '2026-07-28'
 commit_history:
-  2025-08: 174
   2025-09: 86
   2025-10: 52
   2025-11: 30

@@ -8,14 +8,13 @@ platforms:
 tags:
   - 财务与预算管理
 source_code_url: https://github.com/getlago/lago
-stargazers_count: 10275
+stargazers_count: 10276
 updated_at: '2026-07-27'
 archived: false
 current_release:
   tag: v1.51.0
   published_at: '2026-07-27'
 commit_history:
-  2025-08: 24
   2025-09: 23
   2025-10: 14
   2025-11: 30

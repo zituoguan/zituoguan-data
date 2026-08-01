@@ -9,12 +9,11 @@ platforms:
 tags:
   - 相册
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 8008
+stargazers_count: 8011
 updated_at: '2026-07-27'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
 commit_history:
-  2025-08: 42
   2025-09: 21
   2025-10: 50
   2025-11: 15
