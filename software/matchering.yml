@@ -8,7 +8,7 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/sergree/matchering
-stargazers_count: 2591
+stargazers_count: 2592
 updated_at: '2026-07-08'
 archived: false
 current_release:
@@ -26,3 +26,4 @@ commit_history:
   2026-05: 1
   2026-06: 0
   2026-07: 3
+  2026-08: 0

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/sentriz/gonic
-stargazers_count: 2488
+stargazers_count: 2489
 updated_at: '2026-07-24'
 archived: false
 current_release:
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 40
   2026-06: 21
   2026-07: 24
+  2026-08: 0

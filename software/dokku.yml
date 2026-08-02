@@ -11,7 +11,7 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/dokku/dokku
-stargazers_count: 32071
+stargazers_count: 32074
 updated_at: '2026-07-31'
 archived: false
 current_release:
@@ -22,3 +22,4 @@ commit_history:
   2026-05: 320
   2026-06: 108
   2026-07: 168
+  2026-08: 0

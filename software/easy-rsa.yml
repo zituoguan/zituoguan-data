@@ -8,7 +8,7 @@ platforms:
 tags:
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/OpenVPN/easy-rsa
-stargazers_count: 4465
+stargazers_count: 4464
 updated_at: '2026-07-25'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-05: 0
   2026-06: 1
   2026-07: 20
+  2026-08: 0

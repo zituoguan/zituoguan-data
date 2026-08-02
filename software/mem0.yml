@@ -9,13 +9,14 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 62216
-updated_at: '2026-07-31'
+stargazers_count: 62274
+updated_at: '2026-08-01'
 archived: false
 current_release:
-  tag: n8n-nodes-mem0-v0.1.1
-  published_at: '2026-07-30'
+  tag: v2.0.15
+  published_at: '2026-08-01'
 commit_history:
   2026-05: 55
   2026-06: 200
   2026-07: 118
+  2026-08: 2

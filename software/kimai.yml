@@ -9,7 +9,7 @@ tags:
   - 工时记录
 source_code_url: https://github.com/kimai/kimai
 demo_url: https://www.kimai.org/demo/
-stargazers_count: 4850
+stargazers_count: 4852
 updated_at: '2026-07-26'
 archived: false
 current_release:
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 6
   2026-06: 33
   2026-07: 35
+  2026-08: 0

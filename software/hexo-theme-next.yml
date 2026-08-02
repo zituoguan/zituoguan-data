@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 内容管理系统（CMS）
-stargazers_count: 8255
+stargazers_count: 8254
 updated_at: '2021-07-30'
 archived: false
 current_release:
@@ -18,3 +18,4 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
+  2026-08: 0

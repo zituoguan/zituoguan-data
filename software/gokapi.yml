@@ -9,7 +9,7 @@ platforms:
 tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/Forceu/gokapi
-stargazers_count: 2819
+stargazers_count: 2820
 updated_at: '2026-07-15'
 archived: false
 current_release:
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 6
   2026-06: 0
   2026-07: 1
+  2026-08: 0

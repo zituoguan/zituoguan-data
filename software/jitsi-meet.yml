@@ -11,7 +11,7 @@ tags:
   - 通信 - 视频会议
 source_code_url: https://github.com/jitsi/jitsi-meet
 demo_url: https://meet.jit.si
-stargazers_count: 29683
+stargazers_count: 29685
 updated_at: '2026-07-31'
 archived: false
 current_release:
@@ -29,3 +29,4 @@ commit_history:
   2026-05: 55
   2026-06: 87
   2026-07: 85
+  2026-08: 0

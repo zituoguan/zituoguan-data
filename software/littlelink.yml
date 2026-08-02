@@ -9,7 +9,7 @@ tags:
   - 个人仪表板
 source_code_url: https://github.com/sethcottle/littlelink
 demo_url: https://littlelink.io/
-stargazers_count: 3040
+stargazers_count: 3041
 updated_at: '2026-07-29'
 archived: false
 current_release:
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 0
   2026-06: 1
   2026-07: 4
+  2026-08: 0

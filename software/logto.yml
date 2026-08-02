@@ -10,7 +10,7 @@ platforms:
   - Docker
 tags:
   - 身份管理 - 单点登录（SSO）
-stargazers_count: 14259
+stargazers_count: 14267
 updated_at: '2026-07-31'
 archived: false
 current_release:
@@ -20,3 +20,4 @@ commit_history:
   2026-05: 116
   2026-06: 163
   2026-07: 140
+  2026-08: 0

@@ -9,7 +9,7 @@ platforms:
   - Node.js
 tags:
   - 网络工具
-stargazers_count: 2973
+stargazers_count: 2972
 updated_at: '2026-07-29'
 archived: false
 current_release:
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 91
   2026-06: 32
   2026-07: 36
+  2026-08: 0

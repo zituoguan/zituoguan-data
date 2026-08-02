@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 点对点文件共享
-stargazers_count: 2817
-updated_at: '2026-07-31'
+stargazers_count: 2818
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: v4.16.0
@@ -18,3 +18,4 @@ commit_history:
   2026-05: 28
   2026-06: 26
   2026-07: 158
+  2026-08: 4

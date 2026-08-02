@@ -10,7 +10,7 @@ tags:
   - 流媒体 - 多媒体流媒体
 demo_url: https://kyoo.zoriya.dev
 stargazers_count: 2485
-updated_at: '2026-07-30'
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: v5.1.0
@@ -27,3 +27,4 @@ commit_history:
   2026-05: 65
   2026-06: 81
   2026-07: 92
+  2026-08: 1

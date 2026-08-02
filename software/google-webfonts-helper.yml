@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/majodev/google-webfonts-helper
 demo_url: https://gwfh.mranftl.com/fonts
 depends_3rdparty: true
-stargazers_count: 13031
+stargazers_count: 13033
 updated_at: '2025-10-11'
 archived: false
 current_release:
@@ -28,3 +28,4 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
+  2026-08: 0

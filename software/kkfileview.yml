@@ -8,7 +8,7 @@ platforms:
   - Java
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 14409
+stargazers_count: 14410
 updated_at: '2026-07-13'
 archived: false
 current_release:
@@ -18,3 +18,4 @@ commit_history:
   2026-05: 2
   2026-06: 4
   2026-07: 3
+  2026-08: 0
