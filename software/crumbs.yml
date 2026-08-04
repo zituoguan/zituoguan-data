@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 笔记工具
-stargazers_count: 92
-updated_at: '2026-07-31'
+stargazers_count: 93
+updated_at: '2026-08-03'
 archived: false
 current_release:
   tag: v0.31.0
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 0
   2026-06: 6
   2026-07: 29
-  2026-08: 0
+  2026-08: 4

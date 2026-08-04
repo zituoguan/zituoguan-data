@@ -8,14 +8,14 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 3163
-updated_at: '2026-07-30'
+stargazers_count: 3167
+updated_at: '2026-08-03'
 archived: false
 current_release:
-  tag: cli-v0.34.0
-  published_at: '2026-07-26'
+  tag: v0.32.5
+  published_at: '2026-08-03'
 commit_history:
   2026-05: 111
   2026-06: 17
-  2026-07: 747
-  2026-08: 0
+  2026-07: 750
+  2026-08: 9

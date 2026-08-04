@@ -8,9 +8,9 @@ platforms:
   - Rust
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 9780
+stargazers_count: 9779
 updated_at: '2026-02-20'
-archived: false
+archived: true
 current_release:
   tag: v2.3.3
   published_at: '2023-10-02'
