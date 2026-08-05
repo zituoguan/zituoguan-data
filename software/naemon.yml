@@ -9,7 +9,7 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/naemon/naemon-core
 stargazers_count: 170
-updated_at: '2026-08-03'
+updated_at: '2026-08-04'
 archived: false
 current_release:
   tag: v1.5.2
@@ -19,4 +19,4 @@ commit_history:
   2026-05: 2
   2026-06: 1
   2026-07: 1
-  2026-08: 1
+  2026-08: 2
