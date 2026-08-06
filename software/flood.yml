@@ -9,13 +9,13 @@ platforms:
 tags:
   - 文件传输 - 点对点文件共享
 stargazers_count: 2819
-updated_at: '2026-08-03'
+updated_at: '2026-08-05'
 archived: false
 current_release:
-  tag: v4.16.0
-  published_at: '2026-07-31'
+  tag: v4.16.1
+  published_at: '2026-08-05'
 commit_history:
   2026-05: 28
   2026-06: 26
   2026-07: 158
-  2026-08: 6
+  2026-08: 9
