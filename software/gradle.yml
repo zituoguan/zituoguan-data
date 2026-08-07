@@ -9,15 +9,15 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/gradle/gradle
-stargazers_count: 18758
-updated_at: '2026-08-05'
+stargazers_count: 18760
+updated_at: '2026-08-06'
 archived: false
 current_release:
-  tag: v9.7.0-RC3
-  published_at: '2026-08-04'
+  tag: v9.7.0
+  published_at: '2026-08-06'
 commit_history:
   2026-04: 751
   2026-05: 623
   2026-06: 948
-  2026-07: 779
-  2026-08: 107
+  2026-07: 800
+  2026-08: 144

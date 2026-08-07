@@ -10,7 +10,7 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/home-assistant/core
 demo_url: https://home-assistant.io/demo/
-stargazers_count: 89752
+stargazers_count: 89781
 updated_at: '2026-08-06'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 1701
   2026-06: 1773
   2026-07: 1526
-  2026-08: 284
+  2026-08: 305

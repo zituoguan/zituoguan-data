@@ -9,8 +9,8 @@ platforms:
 tags:
   - 部署自动化
 source_code_url: https://github.com/apache/cloudstack
-stargazers_count: 3007
-updated_at: '2026-07-25'
+stargazers_count: 3012
+updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: 4.22.1.0
@@ -20,4 +20,4 @@ commit_history:
   2026-05: 55
   2026-06: 47
   2026-07: 78
-  2026-08: 0
+  2026-08: 3
