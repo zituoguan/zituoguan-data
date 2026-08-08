@@ -13,7 +13,7 @@ updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: v1.7.5
-  published_at: '2026-08-06'
+  published_at: '2026-08-07'
 commit_history:
   2026-05: 36
   2026-06: 32

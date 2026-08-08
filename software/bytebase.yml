@@ -10,7 +10,7 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/bytebase/bytebase
-stargazers_count: 14355
+stargazers_count: 14356
 updated_at: '2026-08-07'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 230
   2026-06: 225
   2026-07: 347
-  2026-08: 59
+  2026-08: 79

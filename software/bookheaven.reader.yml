@@ -9,13 +9,13 @@ platforms:
 tags:
   - RSS 阅读器
 stargazers_count: 30
-updated_at: '2026-08-05'
+updated_at: '2026-08-07'
 archived: false
 current_release:
-  tag: v1.13.11
-  published_at: '2026-08-05'
+  tag: v1.14.0
+  published_at: '2026-08-07'
 commit_history:
   2026-05: 2
   2026-06: 13
   2026-07: 0
-  2026-08: 22
+  2026-08: 30
