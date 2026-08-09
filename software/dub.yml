@@ -8,11 +8,11 @@ platforms:
   - Docker
 tags:
   - URL 缩短服务
-stargazers_count: 24244
-updated_at: '2026-08-08'
+stargazers_count: 24248
+updated_at: '2026-08-09'
 archived: false
 commit_history:
   2026-05: 208
   2026-06: 266
-  2026-07: 612
-  2026-08: 112
+  2026-07: 617
+  2026-08: 122
