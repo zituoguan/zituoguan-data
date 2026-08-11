@@ -10,14 +10,14 @@ tags:
 source_code_url: https://github.com/kuvasz-uptime/kuvasz
 demo_url: https://kuvasz-uptime.dev/demo/
 stargazers_count: 571
-updated_at: '2026-08-07'
+updated_at: '2026-08-10'
 archived: false
 current_release:
-  tag: 4.1.0
-  published_at: '2026-07-14'
+  tag: 4.2.0
+  published_at: '2026-08-10'
 commit_history:
   2026-04: 13
   2026-05: 15
   2026-06: 20
   2026-07: 30
-  2026-08: 16
+  2026-08: 18
