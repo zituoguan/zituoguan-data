@@ -9,7 +9,7 @@ tags:
   - 容器
 source_code_url: https://github.com/docker/compose
 stargazers_count: 38084
-updated_at: '2026-08-13'
+updated_at: '2026-08-14'
 archived: false
 current_release:
   tag: v5.4.0
@@ -19,4 +19,4 @@ commit_history:
   2026-05: 33
   2026-06: 63
   2026-07: 68
-  2026-08: 44
+  2026-08: 48
