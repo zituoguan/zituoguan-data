@@ -9,8 +9,8 @@ tags:
   - 相册
 source_code_url: https://github.com/immich-app/immich
 demo_url: https://github.com/immich-app/immich#demo
-stargazers_count: 110314
-updated_at: '2026-08-12'
+stargazers_count: 110431
+updated_at: '2026-08-13'
 archived: false
 current_release:
   tag: v3.1.0
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 215
   2026-06: 270
   2026-07: 262
-  2026-08: 99
+  2026-08: 100

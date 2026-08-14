@@ -8,9 +8,9 @@ platforms:
   - Docker
 tags:
   - 生成式人工智能（GenAI）
-stargazers_count: 55358
-updated_at: '2026-08-10'
-archived: false
+stargazers_count: 55362
+updated_at: '2026-08-13'
+archived: true
 current_release:
   tag: flowise@3.1.4
   published_at: '2026-07-29'
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 31
   2026-06: 13
   2026-07: 18
-  2026-08: 7
+  2026-08: 8
