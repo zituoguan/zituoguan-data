@@ -11,14 +11,14 @@ tags:
 demo_url: https://captain.server.demo.caprover.com/#/login
 source_code_url: https://github.com/caprover/caprover
 stargazers_count: 15130
-updated_at: '2026-08-08'
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: v1.15.1
-  published_at: '2026-08-08'
+  tag: v1.15.2
+  published_at: '2026-08-15'
 commit_history:
   2026-04: 4
   2026-05: 6
   2026-06: 0
   2026-07: 74
-  2026-08: 24
+  2026-08: 33
