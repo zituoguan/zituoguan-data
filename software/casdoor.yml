@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - 身份管理 - 单点登录（SSO）
-stargazers_count: 14201
-updated_at: '2026-08-13'
+stargazers_count: 14203
+updated_at: '2026-08-16'
 archived: false
 current_release:
-  tag: v3.153.0
-  published_at: '2026-08-13'
+  tag: v3.154.3
+  published_at: '2026-08-16'
 commit_history:
   2026-05: 53
   2026-06: 36
   2026-07: 29
-  2026-08: 34
+  2026-08: 39

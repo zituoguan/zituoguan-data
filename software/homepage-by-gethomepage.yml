@@ -9,8 +9,8 @@ platforms:
 tags:
   - 个人仪表板
 source_code_url: https://github.com/gethomepage/homepage
-stargazers_count: 32033
-updated_at: '2026-08-15'
+stargazers_count: 32058
+updated_at: '2026-08-16'
 archived: false
 current_release:
   tag: v2.0.0
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 47
   2026-06: 34
   2026-07: 53
-  2026-08: 58
+  2026-08: 59

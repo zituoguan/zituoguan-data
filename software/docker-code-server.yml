@@ -9,13 +9,13 @@ platforms:
 tags:
   - 容器
 stargazers_count: 1987
-updated_at: '2026-08-10'
+updated_at: '2026-08-16'
 archived: false
 current_release:
-  tag: 4.132.0-ls356
-  published_at: '2026-08-10'
+  tag: 4.132.0-ls357
+  published_at: '2026-08-16'
 commit_history:
   2026-05: 7
   2026-06: 8
   2026-07: 6
-  2026-08: 2
+  2026-08: 4
