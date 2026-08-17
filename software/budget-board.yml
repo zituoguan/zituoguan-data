@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 财务与预算管理
-stargazers_count: 869
-updated_at: '2026-08-16'
+stargazers_count: 870
+updated_at: '2026-08-17'
 archived: false
 current_release:
   tag: v3.7.0
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 24
   2026-06: 38
   2026-07: 23
-  2026-08: 28
+  2026-08: 29

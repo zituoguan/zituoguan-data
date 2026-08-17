@@ -10,12 +10,12 @@ platforms:
 tags:
   - 软件开发 - 低代码
 source_code_url: https://github.com/Budibase/budibase
-stargazers_count: 28203
-updated_at: '2026-08-16'
+stargazers_count: 28209
+updated_at: '2026-08-17'
 archived: false
 current_release:
-  tag: 3.41.3
-  published_at: '2026-08-04'
+  tag: v3.42.0
+  published_at: '2026-08-17'
 commit_history:
   2025-09: 882
   2025-10: 923
@@ -27,5 +27,5 @@ commit_history:
   2026-04: 1115
   2026-05: 1126
   2026-06: 1495
-  2026-07: 947
-  2026-08: 368
+  2026-07: 971
+  2026-08: 524

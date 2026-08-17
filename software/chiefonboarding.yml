@@ -9,7 +9,7 @@ tags:
   - 自动化
 source_code_url: https://github.com/chiefonboarding/ChiefOnboarding
 stargazers_count: 922
-updated_at: '2026-08-05'
+updated_at: '2026-08-17'
 archived: false
 current_release:
   tag: v2.4.0
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 2
   2026-06: 1
   2026-07: 0
-  2026-08: 2
+  2026-08: 3

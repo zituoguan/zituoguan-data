@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - AI 第二大脑
-stargazers_count: 44479
-updated_at: '2026-08-16'
+stargazers_count: 44491
+updated_at: '2026-08-17'
 archived: false
 current_release:
   tag: nightly
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 409
   2026-06: 350
   2026-07: 285
-  2026-08: 63
+  2026-08: 67

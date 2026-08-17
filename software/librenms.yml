@@ -8,15 +8,15 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/librenms/librenms
-stargazers_count: 4837
-updated_at: '2026-08-16'
+stargazers_count: 4841
+updated_at: '2026-08-17'
 archived: false
 current_release:
-  tag: 26.7.0
-  published_at: '2026-07-20'
+  tag: 26.8.0
+  published_at: '2026-08-17'
 commit_history:
   2026-04: 115
   2026-05: 143
   2026-06: 126
   2026-07: 139
-  2026-08: 73
+  2026-08: 77

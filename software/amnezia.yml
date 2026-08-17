@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 虚拟专用网络（VPN）
-stargazers_count: 14486
-updated_at: '2026-08-14'
+stargazers_count: 14498
+updated_at: '2026-08-17'
 archived: false
 current_release:
   tag: 5.0.0.5
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 43
   2026-06: 13
   2026-07: 38
-  2026-08: 23
+  2026-08: 25
