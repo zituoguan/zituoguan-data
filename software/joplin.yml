@@ -8,12 +8,12 @@ platforms:
 tags:
   - 笔记工具
 source_code_url: https://github.com/laurent22/joplin
-stargazers_count: 55976
-updated_at: '2026-08-17'
+stargazers_count: 55999
+updated_at: '2026-08-18'
 archived: false
 current_release:
-  tag: v3.7.10
-  published_at: '2026-07-28'
+  tag: v3.7.12
+  published_at: '2026-08-18'
 commit_history:
   2025-09: 178
   2025-10: 200
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 253
   2026-06: 195
   2026-07: 197
-  2026-08: 51
+  2026-08: 69

@@ -8,15 +8,15 @@ platforms:
 tags:
   - 日历和联系人
 source_code_url: https://github.com/ridafkih/keeper.sh
-stargazers_count: 1247
-updated_at: '2026-08-17'
+stargazers_count: 1250
+updated_at: '2026-08-18'
 archived: false
 current_release:
-  tag: v2.18.7
-  published_at: '2026-08-17'
+  tag: v2.18.13
+  published_at: '2026-08-18'
 commit_history:
   2026-04: 19
   2026-05: 11
   2026-06: 18
   2026-07: 22
-  2026-08: 129
+  2026-08: 137

@@ -9,7 +9,7 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/InvoicePlane/InvoicePlane
 stargazers_count: 3110
-updated_at: '2026-08-17'
+updated_at: '2026-08-18'
 archived: false
 current_release:
   tag: v1.7.2-rc-2
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 11
   2026-06: 16
   2026-07: 111
-  2026-08: 53
+  2026-08: 59

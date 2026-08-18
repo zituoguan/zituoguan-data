@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 生成式人工智能（GenAI）
-stargazers_count: 1366
-updated_at: '2026-08-14'
+stargazers_count: 1368
+updated_at: '2026-08-18'
 archived: false
 current_release:
   tag: '2.260810224844'
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 17
   2026-06: 12
   2026-07: 87
-  2026-08: 56
+  2026-08: 63
