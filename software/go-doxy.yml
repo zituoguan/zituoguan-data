@@ -9,12 +9,12 @@ platforms:
   - Go
 tags:
   - Web 服务器
-stargazers_count: 4077
-updated_at: '2026-08-17'
+stargazers_count: 4081
+updated_at: '2026-08-19'
 archived: false
 current_release:
-  tag: v0.30.3
-  published_at: '2026-08-16'
+  tag: v0.30.4
+  published_at: '2026-08-19'
 commit_history:
   2025-09: 142
   2025-10: 160
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 57
   2026-06: 28
   2026-07: 75
-  2026-08: 26
+  2026-08: 39

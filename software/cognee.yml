@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 30107
-updated_at: '2026-08-16'
+stargazers_count: 30129
+updated_at: '2026-08-19'
 archived: false
 current_release:
-  tag: v1.5.0
-  published_at: '2026-08-15'
+  tag: v1.5.0.dev3
+  published_at: '2026-08-19'
 commit_history:
   2026-05: 618
   2026-06: 683
   2026-07: 853
-  2026-08: 416
+  2026-08: 417

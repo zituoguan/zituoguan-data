@@ -10,7 +10,7 @@ tags:
   - 库存管理
 source_code_url: https://github.com/bigcapitalhq/bigcapital
 stargazers_count: 3846
-updated_at: '2026-08-18'
+updated_at: '2026-08-19'
 archived: false
 current_release:
   tag: v0.25.31
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 66
   2026-06: 80
   2026-07: 53
-  2026-08: 140
+  2026-08: 148
