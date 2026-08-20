@@ -11,7 +11,7 @@ tags:
   - 投票和活动
 demo_url: https://app.formbricks.com
 stargazers_count: 12795
-updated_at: '2026-08-19'
+updated_at: '2026-08-20'
 archived: false
 current_release:
   tag: 5.3.4
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 135
   2026-06: 114
   2026-07: 196
-  2026-08: 118
+  2026-08: 128

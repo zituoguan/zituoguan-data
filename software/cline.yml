@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - AI 智能体
-stargazers_count: 66493
-updated_at: '2026-08-19'
+stargazers_count: 66549
+updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: desktop-v0.0.14
-  published_at: '2026-08-19'
+  tag: desktop-v0.0.15-beta.1
+  published_at: '2026-08-20'
 commit_history:
   2026-05: 322
   2026-06: 426
   2026-07: 355
-  2026-08: 253
+  2026-08: 273
