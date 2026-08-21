@@ -12,7 +12,7 @@ tags:
   - 文件传输 - 基于 Web 的文件管理器
   - 流媒体 - 多媒体流媒体
 stargazers_count: 370
-updated_at: '2026-07-07'
+updated_at: '2026-08-21'
 archived: false
 current_release:
   tag: 1.11.0
@@ -29,4 +29,4 @@ commit_history:
   2026-05: 1
   2026-06: 1
   2026-07: 7
-  2026-08: 0
+  2026-08: 5

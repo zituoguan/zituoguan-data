@@ -11,8 +11,8 @@ tags:
   - 文档管理
 demo_url: https://bentopdf.com
 depends_3rdparty: true
-stargazers_count: 14689
-updated_at: '2026-08-18'
+stargazers_count: 14701
+updated_at: '2026-08-21'
 archived: false
 current_release:
   tag: v2.8.7
@@ -22,4 +22,4 @@ commit_history:
   2026-05: 52
   2026-06: 18
   2026-07: 24
-  2026-08: 19
+  2026-08: 29
