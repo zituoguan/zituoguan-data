@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - AI 个人助手
-stargazers_count: 30593
-updated_at: '2026-08-21'
+stargazers_count: 30603
+updated_at: '2026-08-22'
 archived: false
 current_release:
   tag: v2.2.0
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 401
   2026-06: 242
   2026-07: 340
-  2026-08: 317
+  2026-08: 327
