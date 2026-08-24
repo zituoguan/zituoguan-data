@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 数据库管理
-stargazers_count: 8128
+stargazers_count: 8135
 updated_at: '2026-08-19'
 archived: false
 current_release:
-  tag: mariadb-10.6.28
-  published_at: '2026-08-13'
+  tag: mariadb-12.3.3
+  published_at: '2026-08-24'
 commit_history:
   2026-05: 178
   2026-06: 174

@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - 文档管理 - 电子书
-stargazers_count: 264
-updated_at: '2026-08-21'
+stargazers_count: 266
+updated_at: '2026-08-24'
 archived: false
 current_release:
   tag: v6.3.1
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 40
   2026-06: 34
   2026-07: 74
-  2026-08: 35
+  2026-08: 37
