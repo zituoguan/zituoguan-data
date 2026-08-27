@@ -9,13 +9,13 @@ platforms:
 tags:
   - 版本控制
 stargazers_count: 53
-updated_at: '2026-08-18'
+updated_at: '2026-08-26'
 archived: false
 current_release:
-  tag: v2.5.5
-  published_at: '2026-08-18'
+  tag: v2.6.0
+  published_at: '2026-08-26'
 commit_history:
   2026-05: 48
   2026-06: 50
   2026-07: 32
-  2026-08: 34
+  2026-08: 50

@@ -8,12 +8,12 @@ platforms:
 tags:
   - 包管理
 source_code_url: https://github.com/jordansissel/fpm
-stargazers_count: 11500
+stargazers_count: 11499
 updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: v1.17.0
-  published_at: '2025-10-02'
+  tag: v1.18.0
+  published_at: '2026-08-26'
 commit_history:
   2026-04: 1
   2026-05: 0
