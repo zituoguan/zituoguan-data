@@ -9,11 +9,11 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/flarum/flarum
 stargazers_count: 16383
-updated_at: '2026-08-24'
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: v2.0.0-rc.7
-  published_at: '2026-08-24'
+  tag: v2.0.0-rc.8
+  published_at: '2026-08-27'
 commit_history:
   2025-09: 0
   2025-10: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 1
   2026-06: 4
   2026-07: 1
-  2026-08: 2
+  2026-08: 3

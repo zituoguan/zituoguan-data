@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 通信 - 社交网络和论坛
-stargazers_count: 2661
-updated_at: '2026-08-26'
+stargazers_count: 2663
+updated_at: '2026-08-27'
 archived: false
 current_release:
   tag: chatto-desktop/v0.1.0-alpha.2
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 320
   2026-06: 452
   2026-07: 410
-  2026-08: 177
+  2026-08: 200

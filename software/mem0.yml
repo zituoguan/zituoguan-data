@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 64146
-updated_at: '2026-08-24'
+stargazers_count: 64229
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: v2.0.19
-  published_at: '2026-08-24'
+  tag: mem0-strands-v0.1.1
+  published_at: '2026-08-27'
 commit_history:
   2026-05: 55
   2026-06: 200
   2026-07: 118
-  2026-08: 75
+  2026-08: 77
