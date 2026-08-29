@@ -9,13 +9,13 @@ platforms:
 tags:
   - 书签和链接分享
 stargazers_count: 52
-updated_at: '2026-08-23'
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: 2.4.0
-  published_at: '2026-08-23'
+  tag: 2.5.0
+  published_at: '2026-08-28'
 commit_history:
   2026-05: 4
   2026-06: 5
   2026-07: 10
-  2026-08: 16
+  2026-08: 17

@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 监控和状态页面
-stargazers_count: 445
-updated_at: '2026-08-25'
+stargazers_count: 447
+updated_at: '2026-08-28'
 archived: false
 current_release:
   tag: v1.0-rc1
@@ -18,4 +18,4 @@ commit_history:
   2026-05: 198
   2026-06: 57
   2026-07: 106
-  2026-08: 89
+  2026-08: 116
