@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - AI 智能体
-stargazers_count: 67091
+stargazers_count: 67138
 updated_at: '2026-08-29'
 archived: false
 current_release:
@@ -19,4 +19,4 @@ commit_history:
   2026-05: 322
   2026-06: 426
   2026-07: 355
-  2026-08: 382
+  2026-08: 384
