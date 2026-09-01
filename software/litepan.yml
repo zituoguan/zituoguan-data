@@ -8,7 +8,7 @@ platforms:
   - Python
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 1047
+stargazers_count: 1058
 updated_at: '2026-08-29'
 archived: false
 commit_history:
@@ -16,3 +16,4 @@ commit_history:
   2026-06: 0
   2026-07: 30
   2026-08: 103
+  2026-09: 0

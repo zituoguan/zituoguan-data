@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 514
+stargazers_count: 568
 updated_at: '2026-06-03'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-06: 9
   2026-07: 0
   2026-08: 0
+  2026-09: 0

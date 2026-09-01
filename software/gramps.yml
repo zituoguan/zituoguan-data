@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 游戏 - 管理工具和控制面板
-stargazers_count: 3079
+stargazers_count: 3081
 updated_at: '2026-07-04'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-06: 89
   2026-07: 1
   2026-08: 0
+  2026-09: 0

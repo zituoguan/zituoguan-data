@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 投票和活动
-stargazers_count: 383
+stargazers_count: 384
 updated_at: '2026-08-21'
 archived: false
 commit_history:
@@ -16,3 +16,4 @@ commit_history:
   2026-06: 8
   2026-07: 4
   2026-08: 1
+  2026-09: 0

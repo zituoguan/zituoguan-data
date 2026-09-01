@@ -8,7 +8,7 @@ platforms:
   - Node.js
 tags:
   - 自动化
-stargazers_count: 5813
+stargazers_count: 5814
 updated_at: '2026-08-29'
 archived: false
 current_release:
@@ -26,3 +26,4 @@ commit_history:
   2026-06: 13
   2026-07: 11
   2026-08: 18
+  2026-09: 0

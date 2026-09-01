@@ -8,7 +8,7 @@ platforms:
   - TypeScript
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 814
+stargazers_count: 817
 updated_at: '2026-08-08'
 archived: false
 current_release:
@@ -19,3 +19,4 @@ commit_history:
   2026-06: 204
   2026-07: 303
   2026-08: 3
+  2026-09: 0

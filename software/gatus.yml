@@ -10,7 +10,7 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/TwiN/gatus
 demo_url: https://status.twin.sh
-stargazers_count: 11934
+stargazers_count: 11944
 updated_at: '2026-08-27'
 archived: false
 current_release:
@@ -22,3 +22,4 @@ commit_history:
   2026-06: 3
   2026-07: 3
   2026-08: 5
+  2026-09: 0
