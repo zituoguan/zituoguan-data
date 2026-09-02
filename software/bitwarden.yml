@@ -10,8 +10,8 @@ tags:
   - 密码管理器
 source_code_url: https://github.com/bitwarden/server
 depends_3rdparty: true
-stargazers_count: 19971
-updated_at: '2026-08-31'
+stargazers_count: 19977
+updated_at: '2026-09-01'
 archived: false
 current_release:
   tag: v2026.8.0
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 121
   2026-07: 169
   2026-08: 147
-  2026-09: 0
+  2026-09: 5

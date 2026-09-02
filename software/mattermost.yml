@@ -10,7 +10,7 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/mattermost/mattermost
-stargazers_count: 38949
+stargazers_count: 38966
 updated_at: '2026-09-01'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 190
   2026-07: 218
   2026-08: 170
-  2026-09: 1
+  2026-09: 19
