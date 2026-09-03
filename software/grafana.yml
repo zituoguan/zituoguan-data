@@ -8,16 +8,16 @@ platforms:
 tags:
   - 指标采集
 source_code_url: https://github.com/grafana/grafana
-stargazers_count: 76548
-updated_at: '2026-09-01'
+stargazers_count: 76567
+updated_at: '2026-09-02'
 archived: false
 current_release:
-  tag: v13.2.0
-  published_at: '2026-08-18'
+  tag: v13.2.1
+  published_at: '2026-09-02'
 commit_history:
   2026-04: 1184
   2026-05: 887
   2026-06: 886
   2026-07: 1247
   2026-08: 1034
-  2026-09: 2
+  2026-09: 5

@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/itflow-org/itflow
 demo_url: https://demo.itflow.org
 stargazers_count: 994
-updated_at: '2026-09-01'
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: v26.09
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 27
   2026-07: 215
   2026-08: 202
-  2026-09: 12
+  2026-09: 20

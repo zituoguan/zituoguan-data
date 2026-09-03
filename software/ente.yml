@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - 相册
-stargazers_count: 28611
-updated_at: '2026-09-01'
+stargazers_count: 28625
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: photos-v1.3.61
@@ -27,5 +27,5 @@ commit_history:
   2026-05: 1511
   2026-06: 1464
   2026-07: 1921
-  2026-08: 1926
-  2026-09: 60
+  2026-08: 1934
+  2026-09: 124

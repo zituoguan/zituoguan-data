@@ -8,8 +8,8 @@ platforms:
   - Rust
 tags:
   - 文档管理 - 电子书
-stargazers_count: 4131
-updated_at: '2026-08-31'
+stargazers_count: 4134
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: v0.8.3
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 167
   2026-07: 208
   2026-08: 138
-  2026-09: 0
+  2026-09: 2

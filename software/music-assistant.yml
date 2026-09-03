@@ -8,15 +8,15 @@ platforms:
   - Docker
 tags:
   - 流媒体 - 音频流媒体
-stargazers_count: 3019
-updated_at: '2026-09-01'
+stargazers_count: 3024
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: 2.11.0.dev2026090103
-  published_at: '2026-09-01'
+  tag: 2.11.0b1
+  published_at: '2026-09-02'
 commit_history:
   2026-05: 196
   2026-06: 425
   2026-07: 581
   2026-08: 893
-  2026-09: 13
+  2026-09: 37

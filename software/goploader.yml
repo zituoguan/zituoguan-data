@@ -9,7 +9,7 @@ tags:
   - 文件传输 - 单击和拖放上传
 source_code_url: https://github.com/Depado/goploader
 stargazers_count: 301
-updated_at: '2026-09-01'
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: v1.0.2
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 16
   2026-07: 22
   2026-08: 21
-  2026-09: 1
+  2026-09: 5

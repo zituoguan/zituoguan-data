@@ -9,7 +9,7 @@ platforms:
 tags:
   - 笔记工具
 stargazers_count: 118
-updated_at: '2026-09-01'
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: v0.34.1
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 6
   2026-07: 29
   2026-08: 28
-  2026-09: 4
+  2026-09: 11
