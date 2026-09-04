@@ -9,14 +9,14 @@ platforms:
 tags:
   - 代码粘贴工具
 stargazers_count: 255
-updated_at: '2026-05-04'
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: v2.4.0
-  published_at: '2026-05-04'
+  tag: v2.4.1
+  published_at: '2026-09-03'
 commit_history:
   2026-05: 11
   2026-06: 0
   2026-07: 0
-  2026-08: 0
-  2026-09: 0
+  2026-08: 3
+  2026-09: 2

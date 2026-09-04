@@ -8,15 +8,15 @@ platforms:
   - Docker
 tags:
   - 文档管理
-stargazers_count: 2870
-updated_at: '2026-08-31'
+stargazers_count: 2872
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: '@eventcatalog/create-eventcatalog@4.3.9'
-  published_at: '2026-08-31'
+  tag: '@eventcatalog/core@4.10.6'
+  published_at: '2026-09-03'
 commit_history:
   2026-05: 107
   2026-06: 50
   2026-07: 71
   2026-08: 81
-  2026-09: 0
+  2026-09: 8

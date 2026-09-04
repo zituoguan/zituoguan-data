@@ -10,7 +10,7 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/Checkmk/checkmk
 stargazers_count: 2353
-updated_at: '2026-09-02'
+updated_at: '2026-09-03'
 archived: false
 commit_history:
   2026-04: 1688
@@ -18,4 +18,4 @@ commit_history:
   2026-06: 1590
   2026-07: 2313
   2026-08: 1815
-  2026-09: 188
+  2026-09: 314

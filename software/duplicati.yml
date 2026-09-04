@@ -8,12 +8,12 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/duplicati/duplicati
-stargazers_count: 14960
+stargazers_count: 14963
 updated_at: '2026-09-02'
 archived: false
 current_release:
-  tag: v2.3.1.1_beta_2026-08-26
-  published_at: '2026-08-26'
+  tag: v2.4.0.0_stable_2026-09-03
+  published_at: '2026-09-03'
 commit_history:
   2026-04: 130
   2026-05: 178
