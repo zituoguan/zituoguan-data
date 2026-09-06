@@ -10,12 +10,12 @@ tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/bluenviron/mediamtx
 related_software_url: https://mediamtx.org/docs/kickoff/introduction
-stargazers_count: 20030
-updated_at: '2026-09-04'
+stargazers_count: 20034
+updated_at: '2026-09-05'
 archived: false
 current_release:
-  tag: v1.20.1
-  published_at: '2026-08-18'
+  tag: v1.21.0
+  published_at: '2026-09-05'
 commit_history:
   2025-12: 39
   2026-01: 51
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 56
   2026-07: 60
   2026-08: 103
-  2026-09: 16
+  2026-09: 29

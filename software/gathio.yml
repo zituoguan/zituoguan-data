@@ -11,7 +11,7 @@ tags:
   - 投票和活动
 demo_url: https://gath.io/
 stargazers_count: 461
-updated_at: '2026-09-02'
+updated_at: '2026-09-05'
 archived: false
 current_release:
   tag: v1.6.6
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 0
   2026-07: 3
   2026-08: 18
-  2026-09: 4
+  2026-09: 7

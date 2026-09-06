@@ -9,7 +9,7 @@ tags:
   - 维基
 source_code_url: https://github.com/dokuwiki/dokuwiki
 stargazers_count: 4708
-updated_at: '2026-09-02'
+updated_at: '2026-09-05'
 archived: false
 current_release:
   tag: release-2026-07-14c
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 69
   2026-07: 79
   2026-08: 31
-  2026-09: 1
+  2026-09: 3

@@ -9,12 +9,12 @@ platforms:
 tags:
   - 文件传输 - 单击和拖放上传
   - 代码粘贴工具
-stargazers_count: 398
-updated_at: '2026-08-13'
+stargazers_count: 399
+updated_at: '2026-09-05'
 archived: false
 current_release:
-  tag: 0.13.0
-  published_at: '2026-08-16'
+  tag: 0.14.0
+  published_at: '2026-09-05'
 commit_history:
   2025-10: 46
   2025-11: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 10
   2026-07: 25
   2026-08: 2
-  2026-09: 0
+  2026-09: 57
