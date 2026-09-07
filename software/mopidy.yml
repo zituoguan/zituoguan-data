@@ -10,12 +10,12 @@ tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/mopidy/mopidy
 depends_3rdparty: true
-stargazers_count: 8569
-updated_at: '2026-09-05'
+stargazers_count: 8568
+updated_at: '2026-09-06'
 archived: false
 current_release:
-  tag: v4.0.2
-  published_at: '2026-08-19'
+  tag: v4.0.3
+  published_at: '2026-09-06'
 commit_history:
   2025-10: 0
   2025-11: 24
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 1
   2026-07: 5
   2026-08: 21
-  2026-09: 14
+  2026-09: 28

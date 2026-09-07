@@ -9,7 +9,7 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/ioBroker/ioBroker
 stargazers_count: 1376
-updated_at: '2026-09-01'
+updated_at: '2026-09-06'
 archived: false
 current_release:
   tag: '2026-08-30'
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 2
   2026-07: 0
   2026-08: 4
-  2026-09: 2
+  2026-09: 3

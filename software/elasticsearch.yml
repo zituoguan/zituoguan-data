@@ -9,7 +9,7 @@ tags:
   - 搜索引擎
 source_code_url: https://github.com/elastic/elasticsearch
 stargazers_count: 77901
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'
 archived: false
 current_release:
   tag: v9.5.3
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 1416
   2026-07: 1675
   2026-08: 1352
-  2026-09: 221
+  2026-09: 225

@@ -9,16 +9,16 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/rajnandan1/kener
-stargazers_count: 5146
-updated_at: '2026-09-05'
+stargazers_count: 5148
+updated_at: '2026-09-06'
 archived: false
 current_release:
-  tag: v4.1.4
-  published_at: '2026-09-04'
+  tag: v4.1.5
+  published_at: '2026-09-06'
 commit_history:
   2026-04: 8
   2026-05: 5
   2026-06: 104
   2026-07: 74
-  2026-08: 48
-  2026-09: 4
+  2026-08: 75
+  2026-09: 20
