@@ -8,8 +8,8 @@ platforms:
 tags:
   - 游戏
 source_code_url: https://github.com/lichess-org/lila
-stargazers_count: 18710
-updated_at: '2026-09-06'
+stargazers_count: 18709
+updated_at: '2026-09-07'
 archived: false
 current_release:
   tag: v1.1.0
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 629
   2026-07: 989
   2026-08: 941
-  2026-09: 257
+  2026-09: 386

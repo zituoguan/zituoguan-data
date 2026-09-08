@@ -9,14 +9,14 @@ platforms:
 tags:
   - 文档管理
 stargazers_count: 2884
-updated_at: '2026-09-04'
+updated_at: '2026-09-07'
 archived: false
 current_release:
-  tag: '@eventcatalog/sdk@2.29.0'
-  published_at: '2026-09-04'
+  tag: '@eventcatalog/visualiser@4.1.4'
+  published_at: '2026-09-07'
 commit_history:
   2026-05: 107
   2026-06: 50
   2026-07: 71
   2026-08: 81
-  2026-09: 12
+  2026-09: 17
