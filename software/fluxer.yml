@@ -8,15 +8,15 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-stargazers_count: 10226
-updated_at: '2026-09-07'
+stargazers_count: 10233
+updated_at: '2026-09-09'
 archived: false
 current_release:
-  tag: fluxer-api@2026.907.90248
-  published_at: '2026-09-07'
+  tag: fluxer-gateway@2026.909.1035
+  published_at: '2026-09-09'
 commit_history:
   2026-05: 0
   2026-06: 47
   2026-07: 59
   2026-08: 692
-  2026-09: 224
+  2026-09: 271

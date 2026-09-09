@@ -9,14 +9,14 @@ platforms:
 tags:
   - 代理
 stargazers_count: 2676
-updated_at: '2026-09-07'
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: v2.13.10
-  published_at: '2026-08-20'
+  tag: v2.13.11
+  published_at: '2026-09-08'
 commit_history:
   2026-05: 7
   2026-06: 5
   2026-07: 7
   2026-08: 8
-  2026-09: 7
+  2026-09: 9
