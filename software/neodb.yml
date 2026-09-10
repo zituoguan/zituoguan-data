@@ -9,7 +9,7 @@ platforms:
 tags:
   - 数据库管理
 stargazers_count: 884
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 archived: false
 current_release:
   tag: 0.18.2
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 156
   2026-07: 122
   2026-08: 68
-  2026-09: 59
+  2026-09: 65

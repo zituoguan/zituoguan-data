@@ -9,8 +9,8 @@ tags:
   - 预约与日程管理
 source_code_url: https://github.com/calcom/cal.diy
 demo_url: https://app.cal.com/bailey
-stargazers_count: 48295
-updated_at: '2026-09-07'
+stargazers_count: 48330
+updated_at: '2026-09-09'
 archived: false
 current_release:
   tag: v6.2.0
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 30
   2026-07: 13
   2026-08: 4
-  2026-09: 7
+  2026-09: 9

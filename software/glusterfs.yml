@@ -10,7 +10,7 @@ tags:
   - 分布式文件系统
 source_code_url: https://github.com/gluster/glusterfs
 stargazers_count: 5232
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 archived: false
 current_release:
   tag: v11.2
@@ -21,4 +21,4 @@ commit_history:
   2026-06: 0
   2026-07: 0
   2026-08: 15
-  2026-09: 5
+  2026-09: 8

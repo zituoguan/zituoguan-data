@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - 软件开发 - 功能开关
-stargazers_count: 4892
-updated_at: '2026-09-07'
+stargazers_count: 4894
+updated_at: '2026-09-09'
 archived: false
 current_release:
   tag: v2.12.0
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 63
   2026-07: 91
   2026-08: 39
-  2026-09: 17
+  2026-09: 19
