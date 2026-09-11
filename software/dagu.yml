@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 自动化
-stargazers_count: 3857
-updated_at: '2026-09-09'
+stargazers_count: 3886
+updated_at: '2026-09-10'
 archived: false
 current_release:
   tag: v2.16.3
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 90
   2026-07: 108
   2026-08: 184
-  2026-09: 56
+  2026-09: 57

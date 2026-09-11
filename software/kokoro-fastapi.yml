@@ -8,15 +8,15 @@ platforms:
   - Python
 tags:
   - 版本控制
-stargazers_count: 5423
-updated_at: '2026-09-09'
+stargazers_count: 5425
+updated_at: '2026-09-10'
 archived: false
 current_release:
-  tag: v0.8.2
-  published_at: '2026-09-05'
+  tag: v0.9.0
+  published_at: '2026-09-10'
 commit_history:
   2026-05: 38
   2026-06: 6
   2026-07: 35
   2026-08: 68
-  2026-09: 35
+  2026-09: 42
