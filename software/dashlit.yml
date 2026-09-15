@@ -8,15 +8,15 @@ platforms:
   - TypeScript
 tags:
   - 个人仪表板
-stargazers_count: 404
-updated_at: '2026-09-10'
+stargazers_count: 406
+updated_at: '2026-09-14'
 archived: false
 current_release:
-  tag: v1.0.6
-  published_at: '2026-09-01'
+  tag: v1.1.1
+  published_at: '2026-09-14'
 commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
   2026-08: 78
-  2026-09: 8
+  2026-09: 38

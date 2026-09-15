@@ -9,16 +9,16 @@ platforms:
 tags:
   - 分布式文件系统
 source_code_url: https://github.com/ipfs/kubo
-stargazers_count: 17136
-updated_at: '2026-09-09'
+stargazers_count: 17139
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v0.43.0
-  published_at: '2026-08-03'
+  tag: v0.43.1
+  published_at: '2026-09-15'
 commit_history:
   2026-04: 47
   2026-05: 21
   2026-06: 31
   2026-07: 46
   2026-08: 20
-  2026-09: 9
+  2026-09: 34
