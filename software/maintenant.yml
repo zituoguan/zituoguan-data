@@ -9,7 +9,7 @@ platforms:
 tags:
   - 监控和状态页面
 stargazers_count: 504
-updated_at: '2026-09-10'
+updated_at: '2026-09-15'
 archived: false
 current_release:
   tag: v1.5.0
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 71
   2026-07: 45
   2026-08: 81
-  2026-09: 17
+  2026-09: 18

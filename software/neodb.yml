@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 数据库管理
-stargazers_count: 884
+stargazers_count: 885
 updated_at: '2026-09-15'
 archived: false
 current_release:
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 156
   2026-07: 122
   2026-08: 68
-  2026-09: 104
+  2026-09: 110
