@@ -8,8 +8,8 @@ platforms:
   - JavaScript
 tags:
   - 版本控制
-stargazers_count: 64
-updated_at: '2026-09-14'
+stargazers_count: 65
+updated_at: '2026-09-16'
 archived: false
 current_release:
   tag: v2.6.2
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 50
   2026-07: 32
   2026-08: 51
-  2026-09: 22
+  2026-09: 24

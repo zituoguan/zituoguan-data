@@ -10,12 +10,12 @@ platforms:
 tags:
   - 文档管理
 source_code_url: https://github.com/eikek/docspell
-stargazers_count: 2328
+stargazers_count: 2329
 updated_at: '2026-09-16'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-09-12'
+  published_at: '2026-09-16'
 commit_history:
   2025-10: 23
   2025-11: 3
