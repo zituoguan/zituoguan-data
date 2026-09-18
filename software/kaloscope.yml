@@ -10,7 +10,7 @@ platforms:
 tags:
   - 媒体管理
 stargazers_count: 481
-updated_at: '2026-09-16'
+updated_at: '2026-09-17'
 archived: false
 current_release:
   tag: v0.10.0
@@ -20,4 +20,4 @@ commit_history:
   2026-06: 179
   2026-07: 206
   2026-08: 7
-  2026-09: 26
+  2026-09: 27
