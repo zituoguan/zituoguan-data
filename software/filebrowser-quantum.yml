@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 基于 Web 的文件管理器
-stargazers_count: 8334
-updated_at: '2026-09-17'
+stargazers_count: 8346
+updated_at: '2026-09-18'
 archived: false
 current_release:
   tag: v2.0.7-beta
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 5
   2026-07: 4
   2026-08: 9
-  2026-09: 7
+  2026-09: 8

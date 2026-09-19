@@ -9,15 +9,15 @@ tags:
   - 部署自动化
 source_code_url: https://github.com/cobbler/cobbler
 stargazers_count: 2773
-updated_at: '2026-09-17'
+updated_at: '2026-09-18'
 archived: false
 current_release:
-  tag: v4.0.0b6
-  published_at: '2026-08-31'
+  tag: v3.3.10
+  published_at: '2026-09-18'
 commit_history:
   2026-04: 24
   2026-05: 23
   2026-06: 45
   2026-07: 44
   2026-08: 109
-  2026-09: 9
+  2026-09: 14

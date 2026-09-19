@@ -9,15 +9,15 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 65522
+stargazers_count: 65609
 updated_at: '2026-09-18'
 archived: false
 current_release:
-  tag: pi-agent-v0.3.0
-  published_at: '2026-09-09'
+  tag: v2.1.0
+  published_at: '2026-09-18'
 commit_history:
   2026-05: 55
   2026-06: 200
   2026-07: 118
   2026-08: 79
-  2026-09: 14
+  2026-09: 22
