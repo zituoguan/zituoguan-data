@@ -12,11 +12,11 @@ stargazers_count: 787
 updated_at: '2026-09-20'
 archived: false
 current_release:
-  tag: v0.15.0-beta.2
-  published_at: '2026-09-15'
+  tag: v0.15.0-beta.3
+  published_at: '2026-09-20'
 commit_history:
   2026-05: 177
   2026-06: 352
   2026-07: 455
   2026-08: 2495
-  2026-09: 1471
+  2026-09: 1504
