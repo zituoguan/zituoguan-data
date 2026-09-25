@@ -9,8 +9,8 @@ platforms:
 tags:
   - 客户关系管理（CRM）
 source_code_url: https://github.com/monicahq/monica
-stargazers_count: 25353
-updated_at: '2025-08-30'
+stargazers_count: 25358
+updated_at: '2026-09-24'
 archived: false
 current_release:
   tag: v5.0.0-beta.5
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 0
   2026-07: 0
   2026-08: 0
-  2026-09: 0
+  2026-09: 2
