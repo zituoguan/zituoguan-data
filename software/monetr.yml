@@ -9,7 +9,7 @@ platforms:
   - K8S
 tags:
   - 财务与预算管理
-stargazers_count: 677
+stargazers_count: 683
 updated_at: '2026-09-25'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 120
   2026-07: 85
   2026-08: 40
-  2026-09: 41
+  2026-09: 46
