@@ -8,7 +8,7 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/argoproj/argo-cd
-stargazers_count: 24249
+stargazers_count: 24257
 updated_at: '2026-09-26'
 archived: false
 current_release:

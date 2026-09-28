@@ -9,7 +9,7 @@ platforms:
 tags:
   - 密码管理器
 stargazers_count: 66
-updated_at: '2026-09-26'
+updated_at: '2026-09-27'
 archived: false
 current_release:
   tag: v1.4.0
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 63
   2026-07: 28
   2026-08: 33
-  2026-09: 32
+  2026-09: 33
