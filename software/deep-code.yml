@@ -9,15 +9,15 @@ platforms:
   - Node.js
 tags:
   - 软件开发 - IDE 和工具
-stargazers_count: 2257
-updated_at: '2026-09-24'
+stargazers_count: 2255
+updated_at: '2026-09-28'
 archived: false
 current_release:
-  tag: v0.4.1
-  published_at: '2026-09-17'
+  tag: v0.4.2
+  published_at: '2026-09-28'
 commit_history:
   2026-05: 385
   2026-06: 119
   2026-07: 23
   2026-08: 66
-  2026-09: 41
+  2026-09: 48

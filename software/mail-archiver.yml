@@ -9,7 +9,7 @@ licenses:
 tags:
   - 档案和数字保存
 stargazers_count: 2123
-updated_at: '2026-09-22'
+updated_at: '2026-09-28'
 archived: false
 current_release:
   tag: '2609.1'
@@ -24,4 +24,4 @@ commit_history:
   2026-06: 103
   2026-07: 81
   2026-08: 52
-  2026-09: 91
+  2026-09: 92

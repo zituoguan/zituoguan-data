@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 监控和状态页面
-stargazers_count: 18687
-updated_at: '2026-09-11'
+stargazers_count: 18693
+updated_at: '2026-09-28'
 archived: false
 current_release:
   tag: 1.1.1
@@ -19,4 +19,4 @@ commit_history:
   2026-06: 7
   2026-07: 0
   2026-08: 46
-  2026-09: 4
+  2026-09: 5
