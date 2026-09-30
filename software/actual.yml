@@ -9,7 +9,7 @@ platforms:
 tags:
   - 财务与预算管理
 source_code_url: https://github.com/actualbudget/actual
-stargazers_count: 29208
+stargazers_count: 29224
 updated_at: '2026-09-29'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 165
   2026-07: 88
   2026-08: 89
-  2026-09: 80
+  2026-09: 82

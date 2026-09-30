@@ -9,15 +9,15 @@ platforms:
   - Docker
 tags:
   - AI 智能体
-stargazers_count: 69506
-updated_at: '2026-09-28'
+stargazers_count: 69578
+updated_at: '2026-09-30'
 archived: false
 current_release:
-  tag: desktop-v0.0.37
-  published_at: '2026-09-26'
+  tag: sdk/sdk/v0.0.87
+  published_at: '2026-09-29'
 commit_history:
   2026-05: 322
   2026-06: 426
   2026-07: 355
   2026-08: 392
-  2026-09: 289
+  2026-09: 305

@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/elabftw/elabftw
 demo_url: https://demo.elabftw.net
 stargazers_count: 1430
-updated_at: '2026-09-28'
+updated_at: '2026-09-29'
 archived: false
 current_release:
   tag: 6.1.0-alpha
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 68
   2026-07: 110
   2026-08: 156
-  2026-09: 73
+  2026-09: 75

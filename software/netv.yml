@@ -16,7 +16,7 @@ commit_history:
   2026-06: 0
   2026-07: 0
   2026-08: 6
-  2026-09: 43
+  2026-09: 62
 current_release:
-  tag: v0.2.1
-  published_at: '2026-09-26'
+  tag: v0.3.0
+  published_at: '2026-09-29'
