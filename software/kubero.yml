@@ -11,7 +11,7 @@ tags:
   - PaaS
 demo_url: https://demo.kubero.dev/
 source_code_url: https://github.com/kubero-dev/kubero
-stargazers_count: 4428
+stargazers_count: 4429
 updated_at: '2026-06-24'
 archived: false
 current_release:
@@ -24,3 +24,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
+  2026-10: 0

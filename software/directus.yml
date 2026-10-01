@@ -9,14 +9,13 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/directus/directus
-stargazers_count: 37996
-updated_at: '2026-09-29'
+stargazers_count: 38000
+updated_at: '2026-09-30'
 archived: false
 current_release:
   tag: v12.4.1
   published_at: '2026-09-23'
 commit_history:
-  2025-10: 55
   2025-11: 59
   2025-12: 44
   2026-01: 54
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 70
   2026-07: 88
   2026-08: 50
-  2026-09: 43
+  2026-09: 45
+  2026-10: 0

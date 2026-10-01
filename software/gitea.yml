@@ -11,14 +11,13 @@ tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/go-gitea/gitea
 demo_url: https://demo.gitea.com
-stargazers_count: 58231
-updated_at: '2026-09-29'
+stargazers_count: 58245
+updated_at: '2026-10-01'
 archived: false
 current_release:
   tag: v28.0.0
   published_at: '2026-09-29'
 commit_history:
-  2025-10: 89
   2025-11: 68
   2025-12: 102
   2026-01: 95
@@ -29,4 +28,5 @@ commit_history:
   2026-06: 171
   2026-07: 211
   2026-08: 226
-  2026-09: 141
+  2026-09: 151
+  2026-10: 1

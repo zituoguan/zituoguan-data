@@ -9,11 +9,10 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
-stargazers_count: 47923
-updated_at: '2026-09-29'
+stargazers_count: 47927
+updated_at: '2026-09-30'
 archived: false
 commit_history:
-  2025-10: 556
   2025-11: 501
   2025-12: 524
   2026-01: 403
@@ -24,7 +23,8 @@ commit_history:
   2026-06: 677
   2026-07: 680
   2026-08: 583
-  2026-09: 812
+  2026-09: 820
+  2026-10: 0
 current_release:
   tag: _gh-attach-assets
   published_at: '2026-07-15'

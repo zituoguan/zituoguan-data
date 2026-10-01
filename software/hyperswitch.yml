@@ -10,14 +10,13 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/juspay/hyperswitch
 depends_3rdparty: true
-stargazers_count: 45257
-updated_at: '2026-09-30'
+stargazers_count: 45270
+updated_at: '2026-10-01'
 archived: false
 current_release:
   tag: v1.127.0
   published_at: '2026-09-28'
 commit_history:
-  2025-10: 193
   2025-11: 220
   2025-12: 187
   2026-01: 184
@@ -28,4 +27,5 @@ commit_history:
   2026-06: 202
   2026-07: 232
   2026-08: 186
-  2026-09: 223
+  2026-09: 231
+  2026-10: 1

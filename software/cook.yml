@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - 食谱管理
-stargazers_count: 6516
+stargazers_count: 6515
 updated_at: '2026-08-17'
 archived: false
 current_release:
@@ -20,3 +20,4 @@ commit_history:
   2026-07: 0
   2026-08: 16
   2026-09: 0
+  2026-10: 0

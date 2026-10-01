@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/FOSSBilling/FOSSBilling
 demo_url: https://fossbilling.org/demo
 stargazers_count: 1706
-updated_at: '2026-09-29'
+updated_at: '2026-09-30'
 archived: false
 current_release:
   tag: 0.8.7
   published_at: '2026-09-01'
 commit_history:
-  2025-10: 85
   2025-11: 70
   2025-12: 93
   2026-01: 117
@@ -28,4 +27,5 @@ commit_history:
   2026-06: 164
   2026-07: 252
   2026-08: 186
-  2026-09: 182
+  2026-09: 183
+  2026-10: 0

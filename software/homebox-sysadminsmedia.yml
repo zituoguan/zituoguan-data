@@ -10,14 +10,13 @@ platforms:
 tags:
   - 库存管理
 demo_url: https://demo.homebox.software/
-stargazers_count: 7400
+stargazers_count: 7411
 updated_at: '2026-09-28'
 archived: false
 current_release:
   tag: v0.27.0-rc.1
   published_at: '2026-09-28'
 commit_history:
-  2025-10: 11
   2025-11: 14
   2025-12: 96
   2026-01: 66
@@ -29,3 +28,4 @@ commit_history:
   2026-07: 18
   2026-08: 19
   2026-09: 12
+  2026-10: 0

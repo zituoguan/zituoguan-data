@@ -11,13 +11,12 @@ tags:
   - 软件开发 - 本地化
 depends_3rdparty: true
 stargazers_count: 73
-updated_at: '2026-09-29'
+updated_at: '2026-09-30'
 archived: false
 current_release:
   tag: 4.0.0
   published_at: '2026-09-29'
 commit_history:
-  2025-10: 1
   2025-11: 0
   2025-12: 0
   2026-01: 72
@@ -28,4 +27,5 @@ commit_history:
   2026-06: 8
   2026-07: 26
   2026-08: 69
-  2026-09: 103
+  2026-09: 107
+  2026-10: 0

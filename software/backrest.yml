@@ -9,7 +9,7 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/garethgeorge/backrest
-stargazers_count: 7435
+stargazers_count: 7436
 updated_at: '2026-07-28'
 archived: false
 current_release:
@@ -22,3 +22,4 @@ commit_history:
   2026-07: 31
   2026-08: 0
   2026-09: 0
+  2026-10: 0

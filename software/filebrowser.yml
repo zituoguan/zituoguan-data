@@ -8,14 +8,13 @@ platforms:
 tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/filebrowser/filebrowser
-stargazers_count: 35933
+stargazers_count: 35934
 updated_at: '2026-07-28'
 archived: true
 current_release:
   tag: v2.63.23
   published_at: '2026-07-27'
 commit_history:
-  2025-10: 8
   2025-11: 106
   2025-12: 35
   2026-01: 27
@@ -27,3 +26,4 @@ commit_history:
   2026-07: 58
   2026-08: 0
   2026-09: 0
+  2026-10: 0

@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - RSS 阅读器
-stargazers_count: 190
+stargazers_count: 191
 updated_at: '2026-09-29'
 archived: false
 current_release:
@@ -20,3 +20,4 @@ commit_history:
   2026-07: 5
   2026-08: 70
   2026-09: 30
+  2026-10: 0

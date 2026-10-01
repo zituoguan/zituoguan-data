@@ -8,14 +8,13 @@ platforms:
 tags:
   - 文件传输 - 基于 Web 的文件管理器
 source_code_url: https://github.com/pldubouilh/gossa
-stargazers_count: 1100
+stargazers_count: 1102
 updated_at: '2025-07-21'
 archived: false
 current_release:
   tag: v1.1.2
   published_at: '2024-08-30'
 commit_history:
-  2025-10: 0
   2025-11: 0
   2025-12: 0
   2026-01: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
+  2026-10: 0

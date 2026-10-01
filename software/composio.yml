@@ -9,14 +9,13 @@ platforms:
 tags:
   - 软件开发 - API 管理
 depends_3rdparty: true
-stargazers_count: 30366
+stargazers_count: 30377
 updated_at: '2026-09-30'
 archived: false
 current_release:
-  tag: versioning-example@0.1.6
-  published_at: '2026-09-29'
+  tag: '@composio/cli@0.4.3-beta.409'
+  published_at: '2026-09-30'
 commit_history:
-  2025-10: 132
   2025-11: 95
   2025-12: 247
   2026-01: 668
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 146
   2026-07: 255
   2026-08: 502
-  2026-09: 452
+  2026-09: 489
+  2026-10: 0

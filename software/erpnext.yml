@@ -9,14 +9,13 @@ platforms:
 tags:
   - 企业资源规划（ERP）
 source_code_url: https://github.com/frappe/erpnext
-stargazers_count: 39656
-updated_at: '2026-09-29'
+stargazers_count: 39692
+updated_at: '2026-09-30'
 archived: false
 current_release:
-  tag: v16.36.1
-  published_at: '2026-09-28'
+  tag: v16.37.0
+  published_at: '2026-09-30'
 commit_history:
-  2025-10: 401
   2025-11: 441
   2025-12: 505
   2026-01: 463
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 1354
   2026-07: 899
   2026-08: 557
-  2026-09: 408
+  2026-09: 429
+  2026-10: 0

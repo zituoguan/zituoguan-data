@@ -9,7 +9,7 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/gocd/gocd
-stargazers_count: 7434
+stargazers_count: 7433
 updated_at: '2026-09-29'
 archived: false
 current_release:
@@ -22,3 +22,4 @@ commit_history:
   2026-07: 150
   2026-08: 142
   2026-09: 66
+  2026-10: 0
