@@ -10,8 +10,8 @@ tags:
   - 文档管理 - 电子书
 source_code_url: https://github.com/Kareadita/Kavita
 demo_url: https://www.kavitareader.com/#demo
-stargazers_count: 11785
-updated_at: '2026-09-24'
+stargazers_count: 11789
+updated_at: '2026-10-01'
 archived: false
 current_release:
   tag: v0.9.1.4
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 10
   2026-08: 41
   2026-09: 18
-  2026-10: 0
+  2026-10: 6

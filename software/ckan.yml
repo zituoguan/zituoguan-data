@@ -8,7 +8,7 @@ platforms:
 tags:
   - 档案和数字保存
 source_code_url: https://github.com/ckan/ckan
-stargazers_count: 5126
+stargazers_count: 5128
 updated_at: '2026-10-01'
 archived: false
 current_release:
@@ -24,6 +24,6 @@ commit_history:
   2026-05: 80
   2026-06: 58
   2026-07: 122
-  2026-08: 95
-  2026-09: 37
-  2026-10: 1
+  2026-08: 99
+  2026-09: 38
+  2026-10: 8

@@ -11,8 +11,8 @@ tags:
   - 媒体管理
 depends_3rdparty: true
 demo_url: https://github.com/leepeuker/movary?tab=readme-ov-file#demo
-stargazers_count: 776
-updated_at: '2026-09-30'
+stargazers_count: 777
+updated_at: '2026-10-01'
 archived: false
 current_release:
   tag: 0.73.1
@@ -28,5 +28,5 @@ commit_history:
   2026-06: 6
   2026-07: 0
   2026-08: 1
-  2026-09: 83
-  2026-10: 0
+  2026-09: 84
+  2026-10: 1

@@ -8,14 +8,14 @@ platforms:
 tags:
   - 版本控制
 source_code_url: https://github.com/git/git
-stargazers_count: 63474
-updated_at: '2026-09-28'
+stargazers_count: 63488
+updated_at: '2026-10-01'
 archived: false
 commit_history:
   2026-04: 282
   2026-05: 362
   2026-06: 324
   2026-07: 411
-  2026-08: 277
-  2026-09: 158
-  2026-10: 0
+  2026-08: 278
+  2026-09: 199
+  2026-10: 8

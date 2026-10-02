@@ -10,12 +10,12 @@ platforms:
 tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/AppFlowy-IO/appflowy
-stargazers_count: 77035
+stargazers_count: 77055
 updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: 0.14.5
-  published_at: '2026-09-22'
+  tag: 0.14.6
+  published_at: '2026-10-01'
 commit_history:
   2025-11: 6
   2025-12: 0

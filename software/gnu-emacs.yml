@@ -8,8 +8,8 @@ platforms:
 tags:
   - 代码编辑器
 source_code_url: https://github.com/emacs-mirror/emacs
-stargazers_count: 5212
-updated_at: '2026-09-30'
+stargazers_count: 5210
+updated_at: '2026-10-01'
 archived: false
 commit_history:
   2026-04: 328
@@ -17,5 +17,5 @@ commit_history:
   2026-06: 304
   2026-07: 248
   2026-08: 354
-  2026-09: 299
-  2026-10: 0
+  2026-09: 309
+  2026-10: 24

@@ -9,8 +9,8 @@ tags:
   - 投票和活动
 source_code_url: https://github.com/LimeSurvey/LimeSurvey
 demo_url: https://demo.limesurvey.org
-stargazers_count: 3738
-updated_at: '2026-09-30'
+stargazers_count: 3740
+updated_at: '2026-10-01'
 archived: false
 commit_history:
   2025-11: 65
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 109
   2026-08: 145
   2026-09: 320
-  2026-10: 0
+  2026-10: 14
