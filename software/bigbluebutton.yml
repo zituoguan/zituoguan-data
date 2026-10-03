@@ -8,12 +8,12 @@ platforms:
 tags:
   - 通信 - 视频会议
 source_code_url: https://github.com/bigbluebutton/bigbluebutton
-stargazers_count: 9231
-updated_at: '2026-10-01'
+stargazers_count: 9232
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v4.0.0-rc.4
-  published_at: '2026-10-01'
+  tag: v3.0.39
+  published_at: '2026-10-02'
 commit_history:
   2025-11: 140
   2025-12: 133
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 168
   2026-08: 78
   2026-09: 88
-  2026-10: 24
+  2026-10: 58

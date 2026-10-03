@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 持续集成和持续部署
-stargazers_count: 7678
-updated_at: '2026-10-02'
+stargazers_count: 7690
+updated_at: '2026-10-03'
 archived: false
 current_release:
   tag: v2.14.0
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 318
   2026-08: 284
   2026-09: 312
-  2026-10: 9
+  2026-10: 16

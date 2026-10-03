@@ -10,7 +10,7 @@ tags:
   - 虚拟化
 source_code_url: https://github.com/ganeti/ganeti
 stargazers_count: 586
-updated_at: '2026-09-30'
+updated_at: '2026-10-02'
 archived: false
 current_release:
   tag: v3.1.1
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 4
   2026-08: 0
   2026-09: 21
-  2026-10: 0
+  2026-10: 1

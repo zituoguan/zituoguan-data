@@ -10,8 +10,8 @@ tags:
   - 档案和数字保存
 source_code_url: https://github.com/ArchiveBox/ArchiveBox
 demo_url: https://demo.archivebox.io/
-stargazers_count: 28668
-updated_at: '2026-09-30'
+stargazers_count: 28671
+updated_at: '2026-10-02'
 archived: false
 current_release:
   tag: v0.9.71
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 307
   2026-08: 542
   2026-09: 1195
-  2026-10: 0
+  2026-10: 19

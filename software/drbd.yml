@@ -9,7 +9,7 @@ tags:
   - 分布式文件系统
 source_code_url: https://github.com/LINBIT/drbd
 stargazers_count: 726
-updated_at: '2026-09-25'
+updated_at: '2026-10-01'
 archived: false
 commit_history:
   2026-04: 78
@@ -17,5 +17,5 @@ commit_history:
   2026-06: 94
   2026-07: 41
   2026-08: 45
-  2026-09: 344
-  2026-10: 0
+  2026-09: 355
+  2026-10: 5

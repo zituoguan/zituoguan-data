@@ -9,11 +9,11 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 stargazers_count: 142
-updated_at: '2026-09-28'
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v1.2.11-bixa
-  published_at: '2026-09-22'
+  tag: v1.2.12-styrax
+  published_at: '2026-10-02'
 commit_history:
   2026-04: 68
   2026-05: 3
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 37
   2026-08: 292
   2026-09: 133
-  2026-10: 0
+  2026-10: 22
