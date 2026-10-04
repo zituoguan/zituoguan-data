@@ -9,8 +9,8 @@ platforms:
 tags:
   - 控制面板
 source_code_url: https://github.com/ajenti/ajenti
-stargazers_count: 7968
-updated_at: '2026-09-12'
+stargazers_count: 7967
+updated_at: '2026-10-03'
 archived: false
 current_release:
   tag: v2.2.15
@@ -21,5 +21,5 @@ commit_history:
   2026-06: 12
   2026-07: 11
   2026-08: 3
-  2026-09: 13
-  2026-10: 0
+  2026-09: 14
+  2026-10: 1

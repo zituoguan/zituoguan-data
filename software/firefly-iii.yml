@@ -10,11 +10,11 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
-stargazers_count: 24802
-updated_at: '2026-10-02'
+stargazers_count: 24811
+updated_at: '2026-10-03'
 archived: false
 current_release:
-  tag: develop-20261003
+  tag: v6.7.7
   published_at: '2026-10-03'
 commit_history:
   2025-11: 164
@@ -27,5 +27,5 @@ commit_history:
   2026-06: 102
   2026-07: 268
   2026-08: 237
-  2026-09: 451
-  2026-10: 4
+  2026-09: 498
+  2026-10: 41

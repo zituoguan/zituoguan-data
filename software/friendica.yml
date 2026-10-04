@@ -9,7 +9,7 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/friendica/friendica
 stargazers_count: 1693
-updated_at: '2026-10-02'
+updated_at: '2026-10-03'
 archived: false
 current_release:
   tag: 2026.05-1
@@ -23,5 +23,5 @@ commit_history:
   2026-06: 359
   2026-07: 234
   2026-08: 535
-  2026-09: 223
-  2026-10: 6
+  2026-09: 224
+  2026-10: 7
