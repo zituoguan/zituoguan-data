@@ -9,8 +9,8 @@ tags:
   - 家谱研究
 source_code_url: https://github.com/gramps-project/gramps-web-api
 demo_url: https://gramps-project.github.io/gramps-web-api/
-stargazers_count: 223
-updated_at: '2026-10-03'
+stargazers_count: 224
+updated_at: '2026-10-04'
 archived: false
 current_release:
   tag: v3.23.0
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 13
   2026-08: 33
   2026-09: 51
-  2026-10: 6
+  2026-10: 8

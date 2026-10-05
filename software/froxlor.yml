@@ -8,12 +8,12 @@ platforms:
 tags:
   - 控制面板
 source_code_url: https://github.com/Froxlor/Froxlor/
-stargazers_count: 1750
+stargazers_count: 1749
 updated_at: '2026-09-20'
 archived: false
 current_release:
-  tag: 2.3.14
-  published_at: '2026-09-15'
+  tag: 2.3.15
+  published_at: '2026-10-04'
 commit_history:
   2026-04: 0
   2026-05: 0

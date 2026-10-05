@@ -9,15 +9,15 @@ platforms:
 tags:
   - 数据库管理
 stargazers_count: 341
-updated_at: '2026-09-16'
+updated_at: '2026-10-04'
 archived: false
 current_release:
-  tag: v3.4.0
-  published_at: '2026-09-16'
+  tag: v4.0.0
+  published_at: '2026-10-04'
 commit_history:
   2026-05: 183
   2026-06: 99
   2026-07: 200
   2026-08: 56
-  2026-09: 19
-  2026-10: 0
+  2026-09: 160
+  2026-10: 55

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 食谱管理
 stargazers_count: 1398
-updated_at: '2026-10-03'
+updated_at: '2026-10-04'
 archived: false
 current_release:
   tag: v0.37.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 9
   2026-08: 146
   2026-09: 192
-  2026-10: 25
+  2026-10: 28

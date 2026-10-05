@@ -8,8 +8,8 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/AzuraCast/AzuraCast
-stargazers_count: 4055
-updated_at: '2026-10-03'
+stargazers_count: 4057
+updated_at: '2026-10-04'
 archived: false
 current_release:
   tag: 0.19.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 23
   2026-08: 34
   2026-09: 11
-  2026-10: 3
+  2026-10: 7

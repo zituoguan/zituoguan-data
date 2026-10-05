@@ -8,7 +8,7 @@ platforms:
 tags:
   - 自托管解决方案
 source_code_url: https://github.com/MichaIng/DietPi
-stargazers_count: 6317
+stargazers_count: 6320
 updated_at: '2026-10-04'
 archived: false
 current_release:
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 33
   2026-08: 87
   2026-09: 80
-  2026-10: 13
+  2026-10: 16

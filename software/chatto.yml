@@ -9,15 +9,15 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 stargazers_count: 2819
-updated_at: '2026-10-03'
+updated_at: '2026-10-04'
 archived: false
 current_release:
-  tag: v0.5.0-beta.10
-  published_at: '2026-09-29'
+  tag: v0.5.0-beta.11
+  published_at: '2026-10-04'
 commit_history:
   2026-05: 320
   2026-06: 452
   2026-07: 410
   2026-08: 282
   2026-09: 445
-  2026-10: 23
+  2026-10: 34

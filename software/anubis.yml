@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - 监控和状态页面
-stargazers_count: 23036
-updated_at: '2026-09-30'
+stargazers_count: 23073
+updated_at: '2026-10-05'
 archived: false
 current_release:
   tag: v1.28.0-pre2
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 29
   2026-08: 78
   2026-09: 25
-  2026-10: 0
+  2026-10: 2
