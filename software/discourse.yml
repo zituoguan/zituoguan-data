@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
 stargazers_count: 47932
-updated_at: '2026-10-02'
+updated_at: '2026-10-06'
 archived: false
 commit_history:
   2025-11: 501
@@ -24,7 +24,7 @@ commit_history:
   2026-07: 680
   2026-08: 583
   2026-09: 820
-  2026-10: 8
+  2026-10: 24
 current_release:
   tag: _gh-attach-assets
   published_at: '2026-07-15'

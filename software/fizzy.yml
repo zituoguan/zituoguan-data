@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-stargazers_count: 8243
-updated_at: '2026-10-04'
+stargazers_count: 8244
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: fizzy@abadf36
-  published_at: '2026-10-04'
+  tag: fizzy@6aebc0c
+  published_at: '2026-10-05'
 commit_history:
   2026-05: 23
   2026-06: 21
   2026-07: 69
   2026-08: 79
   2026-09: 53
-  2026-10: 9
+  2026-10: 11

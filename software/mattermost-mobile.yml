@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 通信 - 社交网络和论坛
-stargazers_count: 2728
-updated_at: '2026-10-04'
+stargazers_count: 2727
+updated_at: '2026-10-05'
 archived: false
 current_release:
   tag: release-2.44
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 37
   2026-08: 34
   2026-09: 38
-  2026-10: 5
+  2026-10: 6

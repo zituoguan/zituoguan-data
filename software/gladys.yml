@@ -10,7 +10,7 @@ tags:
   - 物联网（IoT）
 source_code_url: https://github.com/GladysAssistant/Gladys
 stargazers_count: 3222
-updated_at: '2026-10-02'
+updated_at: '2026-10-05'
 archived: false
 current_release:
   tag: v5.1.4
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 83
   2026-08: 265
   2026-09: 58
-  2026-10: 7
+  2026-10: 14

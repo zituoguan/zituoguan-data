@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 容器
-stargazers_count: 6621
-updated_at: '2026-10-04'
+stargazers_count: 6629
+updated_at: '2026-10-05'
 archived: false
 current_release:
   tag: v1.0.51
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 23
   2026-08: 148
   2026-09: 168
-  2026-10: 34
+  2026-10: 43

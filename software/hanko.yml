@@ -10,7 +10,7 @@ platforms:
 tags:
   - 身份管理 - 单点登录（SSO）
 stargazers_count: 9034
-updated_at: '2026-10-02'
+updated_at: '2026-10-05'
 archived: false
 current_release:
   tag: backend/v3.1.0
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 56
   2026-08: 30
   2026-09: 70
-  2026-10: 2
+  2026-10: 4
