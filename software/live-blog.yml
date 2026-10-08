@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 日志管理
-stargazers_count: 118
-updated_at: '2026-10-06'
+stargazers_count: 119
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v3.94.0
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 0
   2026-08: 12
   2026-09: 13
-  2026-10: 40
+  2026-10: 70

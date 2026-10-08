@@ -10,8 +10,8 @@ platforms:
 tags:
   - 任务管理和待办清单
 demo_url: https://app.donetick.com/
-stargazers_count: 2624
-updated_at: '2026-10-04'
+stargazers_count: 2628
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v0.1.81-beta.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 16
   2026-08: 18
   2026-09: 24
-  2026-10: 7
+  2026-10: 17

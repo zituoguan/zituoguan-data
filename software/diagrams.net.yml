@@ -9,12 +9,12 @@ platforms:
 tags:
   - 图表绘制
 source_code_url: https://github.com/jgraph/drawio
-stargazers_count: 8593
-updated_at: '2026-10-06'
+stargazers_count: 8611
+updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: v32.2.0
-  published_at: '2026-10-06'
+  tag: v32.3.0
+  published_at: '2026-10-07'
 commit_history:
   2026-04: 2
   2026-05: 7
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 12
   2026-08: 4
   2026-09: 8
-  2026-10: 6
+  2026-10: 7

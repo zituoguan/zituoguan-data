@@ -11,7 +11,7 @@ tags:
   - 维基
 demo_url: https://demo.leafwiki.com
 stargazers_count: 1170
-updated_at: '2026-10-06'
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v0.13.0
@@ -23,4 +23,4 @@ commit_history:
   2026-07: 95
   2026-08: 91
   2026-09: 75
-  2026-10: 21
+  2026-10: 27

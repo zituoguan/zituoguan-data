@@ -8,8 +8,8 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/modoboa/modoboa
-stargazers_count: 3542
-updated_at: '2026-10-06'
+stargazers_count: 3541
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: 2.11.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 81
   2026-08: 26
   2026-09: 136
-  2026-10: 34
+  2026-10: 36
