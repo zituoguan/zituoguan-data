@@ -9,7 +9,7 @@ tags:
   - 视频监控
 source_code_url: https://github.com/bluecherrydvr/bluecherry-apps
 stargazers_count: 275
-updated_at: '2026-10-07'
+updated_at: '2026-10-08'
 archived: false
 current_release:
   tag: v3.1.15
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 18
-  2026-10: 3
+  2026-10: 4
