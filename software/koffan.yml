@@ -9,15 +9,15 @@ platforms:
 tags:
   - 电子商务
 stargazers_count: 791
-updated_at: '2026-09-27'
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: v2.15.0
-  published_at: '2026-09-27'
+  tag: v2.16.1
+  published_at: '2026-10-09'
 commit_history:
   2026-05: 4
   2026-06: 12
   2026-07: 8
   2026-08: 6
   2026-09: 8
-  2026-10: 0
+  2026-10: 3

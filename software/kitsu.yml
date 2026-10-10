@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - 投票和活动
-stargazers_count: 734
-updated_at: '2026-10-07'
+stargazers_count: 733
+updated_at: '2026-10-09'
 archived: false
 current_release:
   tag: v1.0.70
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 666
   2026-08: 206
   2026-09: 443
-  2026-10: 239
+  2026-10: 245

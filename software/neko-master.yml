@@ -8,11 +8,11 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 4117
+stargazers_count: 4123
 updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: agent-v1.4.8
+  tag: v1.4.3
   published_at: '2026-10-09'
 commit_history:
   2026-05: 2
