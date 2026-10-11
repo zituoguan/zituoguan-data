@@ -8,8 +8,8 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/jenkinsci/jenkins/
-stargazers_count: 26631
-updated_at: '2026-10-08'
+stargazers_count: 26637
+updated_at: '2026-10-10'
 archived: false
 current_release:
   tag: jenkins-2.585
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 98
   2026-08: 89
   2026-09: 98
-  2026-10: 35
+  2026-10: 48

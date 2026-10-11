@@ -8,8 +8,8 @@ platforms:
   - Rust
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 928
-updated_at: '2026-10-07'
+stargazers_count: 929
+updated_at: '2026-10-10'
 archived: false
 current_release:
   tag: v0.3.1
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 53
   2026-08: 23
   2026-09: 37
-  2026-10: 24
+  2026-10: 33

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 文件传输 - 对象存储和文件服务器
 stargazers_count: 803
-updated_at: '2026-10-09'
+updated_at: '2026-10-11'
 archived: false
 current_release:
   tag: nightly
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 25
   2026-08: 48
   2026-09: 50
-  2026-10: 12
+  2026-10: 13

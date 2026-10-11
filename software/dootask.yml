@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 生成式人工智能（GenAI）
-stargazers_count: 5587
-updated_at: '2026-10-01'
+stargazers_count: 5588
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: v1.9.59
-  published_at: '2026-10-01'
+  tag: v1.9.66
+  published_at: '2026-10-10'
 commit_history:
   2026-05: 35
   2026-06: 96
   2026-07: 34
   2026-08: 25
   2026-09: 24
-  2026-10: 17
+  2026-10: 23
