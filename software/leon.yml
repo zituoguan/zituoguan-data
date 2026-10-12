@@ -8,7 +8,7 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/leon-ai/leon
-stargazers_count: 17564
+stargazers_count: 17567
 updated_at: '2026-10-11'
 archived: false
 current_release:
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 57
   2026-08: 101
   2026-09: 52
-  2026-10: 169
+  2026-10: 173

@@ -9,16 +9,16 @@ platforms:
   - Docker
 tags:
   - 数据库管理
-stargazers_count: 50333
-updated_at: '2026-10-10'
+stargazers_count: 50347
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v26.9.15.5-stable
-  published_at: '2026-10-10'
+  tag: v26.9.16.11-stable
+  published_at: '2026-10-11'
 commit_history:
   2026-05: 7948
   2026-06: 10754
   2026-07: 14002
-  2026-08: 16162
-  2026-09: 15310
-  2026-10: 3500
+  2026-08: 16384
+  2026-09: 15459
+  2026-10: 3826
