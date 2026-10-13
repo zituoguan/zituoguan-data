@@ -8,16 +8,16 @@ platforms:
   - TypeScript
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 4112
-updated_at: '2026-10-12'
+stargazers_count: 4119
+updated_at: '2026-10-13'
 archived: false
 current_release:
-  tag: latest
-  published_at: '2026-03-16'
+  tag: prebuilts
+  published_at: '2026-10-13'
 commit_history:
   2026-05: 0
   2026-06: 23
   2026-07: 1
   2026-08: 11
   2026-09: 140
-  2026-10: 65
+  2026-10: 72
