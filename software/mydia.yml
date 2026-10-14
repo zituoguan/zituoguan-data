@@ -9,15 +9,15 @@ platforms:
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 790
-updated_at: '2026-10-13'
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: cardigann-guest-b5f4a2a9d0948caa
-  published_at: '2026-10-12'
+  tag: cardigann-cwasm-b5f4a2a9d0948caa-wasmtime47.0.2-cfg1
+  published_at: '2026-10-14'
 commit_history:
   2026-05: 177
   2026-06: 352
   2026-07: 455
   2026-08: 2495
   2026-09: 2275
-  2026-10: 1272
+  2026-10: 1321

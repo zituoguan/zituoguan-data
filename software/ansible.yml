@@ -8,12 +8,12 @@ platforms:
 tags:
   - 配置管理
 source_code_url: https://github.com/ansible/ansible
-stargazers_count: 70975
+stargazers_count: 70995
 updated_at: '2026-10-12'
 archived: false
 current_release:
-  tag: v2.21.5
-  published_at: '2026-10-05'
+  tag: v2.22.0rc1
+  published_at: '2026-10-13'
 commit_history:
   2026-04: 45
   2026-05: 27

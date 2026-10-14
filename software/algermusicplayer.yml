@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 流媒体 - 音频流媒体
-stargazers_count: 16977
-updated_at: '2026-09-19'
+stargazers_count: 16984
+updated_at: '2026-10-13'
 archived: false
 current_release:
   tag: v5.1.0
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 34
   2026-08: 9
   2026-09: 5
-  2026-10: 0
+  2026-10: 1

@@ -8,8 +8,8 @@ platforms:
   - C++
 tags:
   - 游戏
-stargazers_count: 838
-updated_at: '2026-10-12'
+stargazers_count: 839
+updated_at: '2026-10-13'
 archived: false
 commit_history:
   2026-04: 135
@@ -18,4 +18,4 @@ commit_history:
   2026-07: 254
   2026-08: 350
   2026-09: 226
-  2026-10: 67
+  2026-10: 73
