@@ -13,12 +13,12 @@ tags:
   - 企业资源规划（ERP）
   - 任务管理和待办清单
 demo_url: https://demo.gauzy.co
-stargazers_count: 8363
-updated_at: '2026-10-13'
+stargazers_count: 8370
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: v111.54.19
-  published_at: '2026-10-13'
+  tag: v111.55.6
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 71
   2025-12: 74
@@ -29,6 +29,6 @@ commit_history:
   2026-05: 139
   2026-06: 81
   2026-07: 143
-  2026-08: 608
-  2026-09: 293
-  2026-10: 355
+  2026-08: 618
+  2026-09: 662
+  2026-10: 871

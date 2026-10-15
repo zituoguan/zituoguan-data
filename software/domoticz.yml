@@ -13,7 +13,7 @@ tags:
 source_code_url: https://github.com/domoticz/domoticz
 related_software_url: https://github.com/domoticz/domoticz-android
 stargazers_count: 3822
-updated_at: '2026-10-09'
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: '2026.4'
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 65
   2026-08: 179
   2026-09: 52
-  2026-10: 94
+  2026-10: 95

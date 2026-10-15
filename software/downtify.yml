@@ -9,12 +9,12 @@ platforms:
 tags:
   - 媒体管理
 depends_3rdparty: true
-stargazers_count: 699
-updated_at: '2026-10-13'
+stargazers_count: 709
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: 3.4.0
-  published_at: '2026-10-02'
+  tag: 3.5.0
+  published_at: '2026-10-14'
 commit_history:
   2026-04: 50
   2026-05: 68
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 60
   2026-08: 22
   2026-09: 292
-  2026-10: 60
+  2026-10: 62

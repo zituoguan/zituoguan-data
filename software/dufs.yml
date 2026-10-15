@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 单击和拖放上传
-stargazers_count: 10915
-updated_at: '2026-10-13'
+stargazers_count: 10917
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: v0.46.0
-  published_at: '2026-05-07'
+  tag: v0.47.0-rc1
+  published_at: '2026-10-14'
 commit_history:
   2026-05: 5
   2026-06: 7
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 10
+  2026-10: 13

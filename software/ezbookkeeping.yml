@@ -10,7 +10,7 @@ platforms:
 tags:
   - 财务与预算管理
 demo_url: https://ezbookkeeping-demo.mayswind.net/
-stargazers_count: 5761
+stargazers_count: 5767
 updated_at: '2026-10-14'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 71
   2026-08: 123
   2026-09: 118
-  2026-10: 37
+  2026-10: 42

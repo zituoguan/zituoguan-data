@@ -8,8 +8,8 @@ platforms:
 tags:
   - 投票和活动
 source_code_url: https://github.com/heyform/heyform
-stargazers_count: 9021
-updated_at: '2026-10-10'
+stargazers_count: 9022
+updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: v3.0.3
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 8
   2026-08: 40
   2026-09: 13
-  2026-10: 6
+  2026-10: 8
