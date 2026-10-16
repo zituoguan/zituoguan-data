@@ -9,12 +9,12 @@ platforms:
 tags:
   - 文档管理
   - 自动化
-stargazers_count: 13288
-updated_at: '2026-10-13'
+stargazers_count: 13305
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: v8.37.0
-  published_at: '2026-09-11'
+  tag: v8.38.1
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 18
   2025-12: 7
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 15
   2026-08: 51
   2026-09: 50
-  2026-10: 13
+  2026-10: 14
