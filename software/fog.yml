@@ -9,12 +9,12 @@ platforms:
 tags:
   - 备份
 source_code_url: https://github.com/FOGProject/fogproject
-stargazers_count: 1679
+stargazers_count: 1681
 updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: 1.6.0-RC-12
-  published_at: '2026-10-15'
+  tag: 1.6.0-RC-13
+  published_at: '2026-10-16'
 commit_history:
   2026-04: 2
   2026-05: 31

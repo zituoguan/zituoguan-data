@@ -9,7 +9,7 @@ tags:
   - 容器
 source_code_url: https://github.com/moby/swarmkit
 stargazers_count: 3651
-updated_at: '2026-09-17'
+updated_at: '2026-10-16'
 archived: false
 current_release:
   tag: v2.1.2
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 59
   2026-08: 27
   2026-09: 3
-  2026-10: 0
+  2026-10: 11
