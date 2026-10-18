@@ -9,7 +9,7 @@ tags:
   - 构建工具
 source_code_url: https://github.com/easybuilders/easybuild-easyconfigs
 stargazers_count: 450
-updated_at: '2026-10-16'
+updated_at: '2026-10-17'
 archived: false
 current_release:
   tag: easybuild-easyconfigs-v5.4.1
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 323
   2026-08: 684
   2026-09: 525
-  2026-10: 229
+  2026-10: 247
