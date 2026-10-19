@@ -10,7 +10,7 @@ tags:
   - 虚拟专用网络（VPN）
 source_code_url: https://github.com/firezone/firezone
 stargazers_count: 9121
-updated_at: '2026-10-16'
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: headless-client-1.5.14
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 424
   2026-08: 393
   2026-09: 485
-  2026-10: 155
+  2026-10: 167

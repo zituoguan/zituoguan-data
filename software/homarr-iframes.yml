@@ -9,7 +9,7 @@ platforms:
 tags:
   - 个人仪表板
 stargazers_count: 122
-updated_at: '2026-09-26'
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v1.19.0
@@ -19,5 +19,5 @@ commit_history:
   2026-06: 0
   2026-07: 1
   2026-08: 5
-  2026-09: 3
-  2026-10: 0
+  2026-09: 2
+  2026-10: 1

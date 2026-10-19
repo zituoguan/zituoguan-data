@@ -8,8 +8,8 @@ platforms:
 tags:
   - 文档管理 - 电子书
 source_code_url: https://github.com/bookwyrm-social/bookwyrm
-stargazers_count: 2797
-updated_at: '2026-10-16'
+stargazers_count: 2798
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v0.9.3
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 175
   2026-08: 103
   2026-09: 137
-  2026-10: 31
+  2026-10: 58

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 文档管理
 stargazers_count: 2941
-updated_at: '2026-10-16'
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: '@eventcatalog/sdk@2.31.1'
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 71
   2026-08: 81
   2026-09: 67
-  2026-10: 19
+  2026-10: 21

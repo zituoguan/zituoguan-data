@@ -8,16 +8,16 @@ platforms:
   - C#
 tags:
   - 流媒体 - 音频流媒体
-stargazers_count: 914
-updated_at: '2026-10-14'
+stargazers_count: 913
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v1.3.11-canary
-  published_at: '2026-10-14'
+  tag: v1.3.13-canary
+  published_at: '2026-10-18'
 commit_history:
   2026-05: 118
   2026-06: 45
   2026-07: 0
   2026-08: 15
   2026-09: 0
-  2026-10: 21
+  2026-10: 27

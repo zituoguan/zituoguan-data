@@ -9,11 +9,11 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 stargazers_count: 1106
-updated_at: '2026-03-13'
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v2.4.0
-  published_at: '2026-03-13'
+  tag: v2.5.0
+  published_at: '2026-10-18'
 commit_history:
   2025-11: 5
   2025-12: 12
@@ -24,6 +24,6 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
-  2026-08: 0
-  2026-09: 0
-  2026-10: 0
+  2026-08: 24
+  2026-09: 1
+  2026-10: 90

@@ -8,12 +8,12 @@ platforms:
 tags:
   - 持续集成和持续部署
 source_code_url: https://github.com/buildbot/buildbot
-stargazers_count: 5482
-updated_at: '2026-10-17'
+stargazers_count: 5481
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v4.3.0
-  published_at: '2025-05-12'
+  tag: v4.4.0a1
+  published_at: '2026-10-18'
 commit_history:
   2026-04: 0
   2026-05: 0
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 1
   2026-08: 77
   2026-09: 27
-  2026-10: 29
+  2026-10: 62
