@@ -10,11 +10,11 @@ tags:
   - 自动化
 source_code_url: https://github.com/gradle/gradle
 stargazers_count: 18897
-updated_at: '2026-10-17'
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: v8.14.6
-  published_at: '2026-10-08'
+  tag: v9.8.2
+  published_at: '2026-10-19'
 commit_history:
   2026-04: 751
   2026-05: 623
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 833
   2026-08: 563
   2026-09: 608
-  2026-10: 225
+  2026-10: 260

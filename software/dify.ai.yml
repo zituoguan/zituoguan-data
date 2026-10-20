@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - 软件开发 - 低代码
-stargazers_count: 158813
+stargazers_count: 158940
 updated_at: '2026-10-19'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 791
   2026-08: 802
   2026-09: 782
-  2026-10: 493
+  2026-10: 522

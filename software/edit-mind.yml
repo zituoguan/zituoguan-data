@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 搜索引擎
-stargazers_count: 1813
-updated_at: '2026-06-30'
+stargazers_count: 1814
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: v0.30.0
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 0
+  2026-10: 1

@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 通信 - 电子邮件 - 完整解决方案
-stargazers_count: 555
-updated_at: '2026-10-18'
+stargazers_count: 557
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: v4.0.1
-  published_at: '2026-10-16'
+  tag: v4.0.2
+  published_at: '2026-10-19'
 commit_history:
   2026-05: 254
   2026-06: 143
   2026-07: 206
   2026-08: 116
   2026-09: 193
-  2026-10: 207
+  2026-10: 214
