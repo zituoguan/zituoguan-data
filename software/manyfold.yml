@@ -8,8 +8,8 @@ platforms:
 tags:
   - 制造设备管理
 source_code_url: https://github.com/manyfold3d/manyfold
-stargazers_count: 2207
-updated_at: '2026-10-19'
+stargazers_count: 2211
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v0.152.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 420
   2026-08: 265
   2026-09: 480
-  2026-10: 324
+  2026-10: 345

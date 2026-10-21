@@ -9,10 +9,10 @@ platforms:
 tags:
   - 通信 - 视频会议
 stargazers_count: 1417
-updated_at: '2026-10-19'
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v2230.0.0+8a2801d9
+  tag: v2231.0.0+f88763ea
   published_at: '2026-10-20'
 commit_history:
   2026-05: 8
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 15
   2026-08: 15
   2026-09: 20
-  2026-10: 14
+  2026-10: 15

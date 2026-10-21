@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 部署自动化
-stargazers_count: 1098
-updated_at: '2026-10-17'
+stargazers_count: 1097
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v0.64.1
-  published_at: '2026-10-16'
+  tag: v0.65.0
+  published_at: '2026-10-20'
 commit_history:
   2026-05: 184
   2026-06: 55
   2026-07: 250
   2026-08: 54
   2026-09: 7
-  2026-10: 12
+  2026-10: 18

@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 档案和数字保存
-stargazers_count: 2024
-updated_at: '2026-10-19'
+stargazers_count: 2026
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: 2.1.1
-  published_at: '2026-10-07'
+  tag: 2.2.0
+  published_at: '2026-10-20'
 commit_history:
   2026-04: 28
   2026-05: 110
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 29
   2026-08: 34
   2026-09: 34
-  2026-10: 45
+  2026-10: 52

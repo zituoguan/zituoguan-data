@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - 媒体管理
-stargazers_count: 1027
-updated_at: '2026-09-30'
+stargazers_count: 1025
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v5.0.2
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 5
   2026-08: 0
   2026-09: 7
-  2026-10: 0
+  2026-10: 2

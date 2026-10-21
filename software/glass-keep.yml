@@ -9,7 +9,7 @@ platforms:
 tags:
   - 知识管理
 stargazers_count: 602
-updated_at: '2026-10-19'
+updated_at: '2026-10-20'
 archived: false
 commit_history:
   2026-05: 0
@@ -17,7 +17,7 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 38
+  2026-10: 39
 current_release:
-  tag: v1.0.16
-  published_at: '2026-10-19'
+  tag: v1.0.17
+  published_at: '2026-10-20'

@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 工单
-stargazers_count: 2135
-updated_at: '2026-10-19'
+stargazers_count: 2136
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: 2.6.1
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 181
   2026-08: 17
   2026-09: 63
-  2026-10: 46
+  2026-10: 56
