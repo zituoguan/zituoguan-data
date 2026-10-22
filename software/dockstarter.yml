@@ -9,7 +9,7 @@ tags:
   - 自托管解决方案
 source_code_url: https://github.com/GhostWriters/DockSTARTer
 stargazers_count: 2575
-updated_at: '2026-10-14'
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v1.20260831.1
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 21
   2026-08: 14
   2026-09: 5
-  2026-10: 1
+  2026-10: 2

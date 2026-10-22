@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 控制面板
-stargazers_count: 6188
+stargazers_count: 6184
 updated_at: '2026-08-30'
 archived: false
 current_release:
-  tag: v0.24.0-unstable029
-  published_at: '2026-10-09'
+  tag: v0.24.0-unstable030
+  published_at: '2026-10-21'
 commit_history:
   2026-05: 10
   2026-06: 5

@@ -9,7 +9,7 @@ tags:
   - 容器
 source_code_url: https://github.com/canonical/lxd
 stargazers_count: 4838
-updated_at: '2026-10-20'
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: lxd-6.10.0
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 551
   2026-08: 370
   2026-09: 756
-  2026-10: 569
+  2026-10: 573

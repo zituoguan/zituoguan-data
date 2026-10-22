@@ -9,12 +9,12 @@ platforms:
 tags:
   - 办公套件
 source_code_url: https://github.com/cryptpad/cryptpad
-stargazers_count: 8020
-updated_at: '2026-10-19'
+stargazers_count: 8022
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: 2026.5.1
-  published_at: '2026-05-26'
+  tag: 2026.10.0
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 1
   2025-12: 40
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 0
   2026-08: 120
   2026-09: 104
-  2026-10: 76
+  2026-10: 81
