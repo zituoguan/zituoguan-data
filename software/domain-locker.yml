@@ -11,7 +11,7 @@ tags:
   - 生成式人工智能（GenAI）
 demo_url: https://demo.domain-locker.com
 stargazers_count: 1549
-updated_at: '2026-10-13'
+updated_at: '2026-10-22'
 archived: false
 current_release:
   tag: v0.3.0
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 14
   2026-08: 31
   2026-09: 56
-  2026-10: 16
+  2026-10: 20
