@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-stargazers_count: 10636
+stargazers_count: 10651
 updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: desktop-electron-runtime-44.9.1-fluxer.1
-  published_at: '2026-10-21'
+  tag: fluxer-docs@2026.1023.104031
+  published_at: '2026-10-23'
 commit_history:
   2026-05: 0
   2026-06: 47

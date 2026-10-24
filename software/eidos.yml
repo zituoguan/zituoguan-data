@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 3198
-updated_at: '2026-10-22'
+stargazers_count: 3197
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: lite-v0.26.2
-  published_at: '2026-10-22'
+  tag: lite-v0.27.0
+  published_at: '2026-10-23'
 commit_history:
   2026-05: 111
   2026-06: 17
   2026-07: 750
   2026-08: 333
   2026-09: 278
-  2026-10: 179
+  2026-10: 180
