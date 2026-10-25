@@ -10,12 +10,12 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/chatwoot/chatwoot
-stargazers_count: 38151
+stargazers_count: 38186
 updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: v4.19.0
-  published_at: '2026-10-20'
+  tag: v4.19.1
+  published_at: '2026-10-24'
 commit_history:
   2025-11: 83
   2025-12: 64
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 175
   2026-08: 190
   2026-09: 169
-  2026-10: 106
+  2026-10: 109

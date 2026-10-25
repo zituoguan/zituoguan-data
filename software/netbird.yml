@@ -9,16 +9,16 @@ platforms:
   - Docker
 tags:
   - 虚拟专用网络（VPN）
-stargazers_count: 30175
-updated_at: '2026-10-23'
+stargazers_count: 30188
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: v0.81.0-canary.pr-7407.2
-  published_at: '2026-10-21'
+  tag: v0.81.4
+  published_at: '2026-10-24'
 commit_history:
   2026-05: 74
   2026-06: 106
   2026-07: 137
   2026-08: 123
   2026-09: 126
-  2026-10: 118
+  2026-10: 120

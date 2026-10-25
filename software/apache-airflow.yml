@@ -10,7 +10,7 @@ tags:
   - 自动化
 source_code_url: https://github.com/apache/airflow/
 stargazers_count: 47267
-updated_at: '2026-10-23'
+updated_at: '2026-10-24'
 archived: false
 current_release:
   tag: 3.3.2
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 788
   2026-08: 614
   2026-09: 829
-  2026-10: 820
+  2026-10: 839

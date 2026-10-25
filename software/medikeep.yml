@@ -9,15 +9,15 @@ platforms:
 tags:
   - 健康和健身
 stargazers_count: 547
-updated_at: '2026-10-23'
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: v0.72.0
-  published_at: '2026-10-04'
+  tag: v0.73.0
+  published_at: '2026-10-24'
 commit_history:
   2026-05: 13
   2026-06: 16
   2026-07: 18
   2026-08: 24
   2026-09: 50
-  2026-10: 50
+  2026-10: 54

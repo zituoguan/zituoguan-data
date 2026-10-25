@@ -10,7 +10,7 @@ tags:
   - 相册
 source_code_url: https://github.com/chevereto/chevereto
 stargazers_count: 1002
-updated_at: '2026-10-21'
+updated_at: '2026-10-24'
 archived: false
 current_release:
   tag: 4.5.7
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 1
   2026-08: 3
   2026-09: 3
-  2026-10: 1
+  2026-10: 2
