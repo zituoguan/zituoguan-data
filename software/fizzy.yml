@@ -8,11 +8,11 @@ platforms:
   - Docker
 tags:
   - 通信 - 定制通信系统
-stargazers_count: 8270
-updated_at: '2026-10-24'
+stargazers_count: 8271
+updated_at: '2026-10-25'
 archived: false
 current_release:
-  tag: fizzy@d343090
+  tag: fizzy@683d0da
   published_at: '2026-10-25'
 commit_history:
   2026-05: 23
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 69
   2026-08: 79
   2026-09: 55
-  2026-10: 123
+  2026-10: 136

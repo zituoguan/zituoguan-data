@@ -10,8 +10,8 @@ tags:
   - 食谱管理
 source_code_url: https://github.com/karlomikus/bar-assistant
 demo_url: https://demo.barassistant.app/
-stargazers_count: 1110
-updated_at: '2026-10-24'
+stargazers_count: 1113
+updated_at: '2026-10-25'
 archived: false
 current_release:
   tag: v6.9.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 23
   2026-08: 61
   2026-09: 25
-  2026-10: 12
+  2026-10: 16

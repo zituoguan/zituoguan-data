@@ -10,8 +10,8 @@ tags:
   - 通信 - 视频会议
 source_code_url: https://github.com/miroslavpejic85/mirotalksfu
 demo_url: https://sfu.mirotalk.com/newroom
-stargazers_count: 3135
-updated_at: '2026-10-24'
+stargazers_count: 3138
+updated_at: '2026-10-25'
 archived: false
 commit_history:
   2025-11: 75
@@ -25,4 +25,4 @@ commit_history:
   2026-07: 28
   2026-08: 112
   2026-09: 126
-  2026-10: 174
+  2026-10: 176

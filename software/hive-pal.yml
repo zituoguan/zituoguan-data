@@ -10,8 +10,8 @@ tags:
   - 社区支持农业（CSA）
 source_code_url: https://github.com/martinhrvn/hive-pal
 demo_url: https://hivepal.app
-stargazers_count: 36
-updated_at: '2026-10-24'
+stargazers_count: 37
+updated_at: '2026-10-25'
 archived: false
 current_release:
   tag: v0.20.0
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 38
   2026-08: 3
   2026-09: 29
-  2026-10: 82
+  2026-10: 85
