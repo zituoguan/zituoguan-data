@@ -8,12 +8,12 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/humhub/humhub
-stargazers_count: 6757
-updated_at: '2026-10-24'
+stargazers_count: 6762
+updated_at: '2026-10-26'
 archived: false
 current_release:
-  tag: v1.19.0
-  published_at: '2026-10-12'
+  tag: v1.19.2
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 6
   2025-12: 34
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 19
   2026-08: 62
   2026-09: 83
-  2026-10: 79
+  2026-10: 92

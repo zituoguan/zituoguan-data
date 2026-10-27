@@ -12,7 +12,7 @@ tags:
   - 自动化
 demo_url: https://fredy-demo.orange-coding.net
 stargazers_count: 1596
-updated_at: '2026-10-23'
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: 30.0.0
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 44
   2026-08: 81
   2026-09: 99
-  2026-10: 37
+  2026-10: 38

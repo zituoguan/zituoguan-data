@@ -10,8 +10,8 @@ tags:
   - 分析
 source_code_url: https://github.com/explodingcamera/liwan
 demo_url: https://demo.liwan.dev/p/liwan.dev
-stargazers_count: 217
-updated_at: '2026-10-23'
+stargazers_count: 218
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: liwan-v1.8.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 8
   2026-08: 5
   2026-09: 33
-  2026-10: 17
+  2026-10: 19

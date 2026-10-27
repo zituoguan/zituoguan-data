@@ -8,8 +8,8 @@ platforms:
   - PHP
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 460
-updated_at: '2026-10-23'
+stargazers_count: 461
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: v1.0.0-beta.15
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 214
   2026-08: 120
   2026-09: 50
-  2026-10: 74
+  2026-10: 98

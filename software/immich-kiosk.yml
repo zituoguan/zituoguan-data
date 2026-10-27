@@ -10,8 +10,8 @@ platforms:
 tags:
   - 相册
 related_software: https://github.com/immich-app/immich
-stargazers_count: 1729
-updated_at: '2026-10-24'
+stargazers_count: 1732
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: v0.45.2
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 70
   2026-08: 40
   2026-09: 102
-  2026-10: 64
+  2026-10: 67

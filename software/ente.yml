@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - 相册
-stargazers_count: 29592
-updated_at: '2026-10-25'
+stargazers_count: 29631
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: ente-cli-v0.4.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 1921
   2026-08: 1964
   2026-09: 2155
-  2026-10: 1784
+  2026-10: 1841

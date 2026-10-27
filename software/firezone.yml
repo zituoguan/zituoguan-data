@@ -9,7 +9,7 @@ platforms:
 tags:
   - 虚拟专用网络（VPN）
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 9126
+stargazers_count: 9127
 updated_at: '2026-10-26'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 424
   2026-08: 393
   2026-09: 485
-  2026-10: 332
+  2026-10: 354
