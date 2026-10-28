@@ -9,15 +9,15 @@ platforms:
 tags:
   - 文档管理
 stargazers_count: 2947
-updated_at: '2026-10-26'
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: '@eventcatalog/visualiser@5.2.0'
-  published_at: '2026-10-26'
+  tag: '@eventcatalog/visualiser@5.2.2'
+  published_at: '2026-10-27'
 commit_history:
   2026-05: 107
   2026-06: 50
   2026-07: 71
   2026-08: 81
   2026-09: 67
-  2026-10: 57
+  2026-10: 65

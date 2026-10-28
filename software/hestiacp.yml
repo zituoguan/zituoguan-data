@@ -12,7 +12,7 @@ tags:
 demo_url: https://demo.hestiacp.com:8083/login/
 source_code_url: https://github.com/hestiacp/hestiacp
 stargazers_count: 4551
-updated_at: '2026-10-26'
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: 1.10.5
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 117
   2026-08: 116
   2026-09: 67
-  2026-10: 74
+  2026-10: 90

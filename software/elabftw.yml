@@ -9,8 +9,8 @@ tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/elabftw/elabftw
 demo_url: https://demo.elabftw.net
-stargazers_count: 1466
-updated_at: '2026-10-26'
+stargazers_count: 1467
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: 6.1.0-alpha2
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 110
   2026-08: 156
   2026-09: 76
-  2026-10: 68
+  2026-10: 69

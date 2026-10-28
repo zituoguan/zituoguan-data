@@ -10,8 +10,8 @@ tags:
   - RSS 阅读器
 source_code_url: https://github.com/Athou/commafeed
 demo_url: https://www.commafeed.com/#/app/category/all
-stargazers_count: 3635
-updated_at: '2026-10-26'
+stargazers_count: 3638
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: 7.4.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 120
   2026-08: 134
   2026-09: 80
-  2026-10: 101
+  2026-10: 108

@@ -9,7 +9,7 @@ tags:
   - 通信 - 电子邮件 - 邮件列表和通讯
 source_code_url: https://github.com/mautic/mautic
 stargazers_count: 10854
-updated_at: '2026-10-26'
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: 7.2.2
@@ -25,5 +25,5 @@ commit_history:
   2026-06: 1193
   2026-07: 1552
   2026-08: 619
-  2026-09: 366
-  2026-10: 272
+  2026-09: 380
+  2026-10: 417

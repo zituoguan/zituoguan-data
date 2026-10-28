@@ -9,7 +9,7 @@ platforms:
 tags:
   - 客户关系管理（CRM）
 stargazers_count: 647
-updated_at: '2026-10-26'
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: v3.1.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 57
   2026-08: 26
   2026-09: 42
-  2026-10: 51
+  2026-10: 56
