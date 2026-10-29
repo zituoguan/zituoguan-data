@@ -8,8 +8,8 @@ licenses:
   - GPL-3.0
 tags:
   - 档案和数字保存
-stargazers_count: 2228
-updated_at: '2026-10-25'
+stargazers_count: 2230
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: '2610.1'
@@ -25,4 +25,4 @@ commit_history:
   2026-07: 81
   2026-08: 52
   2026-09: 94
-  2026-10: 37
+  2026-10: 52

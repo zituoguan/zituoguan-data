@@ -8,8 +8,8 @@ platforms:
   - Lua
 tags:
   - RSS 阅读器
-stargazers_count: 30667
-updated_at: '2026-10-27'
+stargazers_count: 30711
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: ota
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 60
   2026-08: 111
   2026-09: 99
-  2026-10: 83
+  2026-10: 86

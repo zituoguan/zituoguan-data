@@ -9,15 +9,15 @@ platforms:
 tags:
   - AI 个人助手
 stargazers_count: 6379
-updated_at: '2026-10-27'
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: v1.1.4-beta.6
-  published_at: '2026-10-23'
+  tag: v1.1.4-beta.7
+  published_at: '2026-10-28'
 commit_history:
   2026-05: 105
   2026-06: 141
   2026-07: 322
   2026-08: 444
   2026-09: 327
-  2026-10: 252
+  2026-10: 256

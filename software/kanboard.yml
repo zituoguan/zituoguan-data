@@ -9,7 +9,7 @@ tags:
   - 任务管理和待办清单
 source_code_url: https://github.com/kanboard/kanboard
 stargazers_count: 9934
-updated_at: '2026-10-24'
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v1.2.56
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 15
   2026-08: 15
   2026-09: 4
-  2026-10: 21
+  2026-10: 26
