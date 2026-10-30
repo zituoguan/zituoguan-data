@@ -9,12 +9,12 @@ tags:
   - 通信 - 电子邮件 - 邮件列表和通讯
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
-stargazers_count: 2257
+stargazers_count: 2259
 updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: 0.30.3
-  published_at: '2026-09-06'
+  tag: 0.40.0
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 57
   2025-12: 20

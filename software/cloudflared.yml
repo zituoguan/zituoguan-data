@@ -8,16 +8,16 @@ platforms:
   - Docker
 tags:
   - 代理
-stargazers_count: 16330
-updated_at: '2026-10-28'
+stargazers_count: 16343
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: 2026.10.5
-  published_at: '2026-10-27'
+  tag: 2026.10.6
+  published_at: '2026-10-29'
 commit_history:
   2026-05: 21
   2026-06: 20
   2026-07: 18
   2026-08: 21
   2026-09: 45
-  2026-10: 31
+  2026-10: 35
