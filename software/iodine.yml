@@ -9,8 +9,8 @@ platforms:
 tags:
   - 代理
 source_code_url: https://github.com/yarrick/iodine
-stargazers_count: 8015
-updated_at: '2026-10-29'
+stargazers_count: 8016
+updated_at: '2026-10-31'
 archived: false
 commit_history:
   2025-11: 0
@@ -24,7 +24,7 @@ commit_history:
   2026-07: 0
   2026-08: 6
   2026-09: 40
-  2026-10: 149
+  2026-10: 173
 current_release:
   tag: v0.9.0
   published_at: '2026-10-25'

@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 笔记工具
-stargazers_count: 69827
-updated_at: '2026-10-29'
+stargazers_count: 69890
+updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: v2.145.0
@@ -20,4 +20,4 @@ commit_history:
   2026-07: 109
   2026-08: 102
   2026-09: 152
-  2026-10: 295
+  2026-10: 299
