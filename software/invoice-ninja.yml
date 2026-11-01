@@ -11,14 +11,13 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/invoiceninja/invoiceninja
 demo_url: https://app.invoiceninja.com/invoices/create
-stargazers_count: 10410
+stargazers_count: 10430
 updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v5.13.52
   published_at: '2026-10-30'
 commit_history:
-  2025-11: 200
   2025-12: 84
   2026-01: 173
   2026-02: 216
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 222
   2026-09: 153
   2026-10: 107
+  2026-11: 0

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 代码编辑器
 source_code_url: https://github.com/geany/geany
-stargazers_count: 3748
+stargazers_count: 3747
 updated_at: '2026-10-19'
 archived: false
 current_release:
@@ -23,3 +23,4 @@ commit_history:
   2026-08: 0
   2026-09: 3
   2026-10: 2
+  2026-11: 0

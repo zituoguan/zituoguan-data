@@ -10,14 +10,13 @@ platforms:
   - deb
 tags:
   - 日历和联系人
-stargazers_count: 30176
+stargazers_count: 30192
 updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v0.167.4
   published_at: '2026-10-26'
 commit_history:
-  2025-11: 1128
   2025-12: 585
   2026-01: 887
   2026-02: 636
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 1594
   2026-08: 1157
   2026-09: 1517
-  2026-10: 2262
+  2026-10: 2263
+  2026-11: 0

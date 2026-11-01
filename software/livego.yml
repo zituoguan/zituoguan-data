@@ -8,7 +8,7 @@ platforms:
   - Go
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 10184
+stargazers_count: 10182
 updated_at: '2024-11-06'
 archived: false
 current_release:
@@ -21,3 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
+  2026-11: 0
