@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - DNS
-stargazers_count: 1865
-updated_at: '2026-10-30'
+stargazers_count: 1869
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v0.9.5
-  published_at: '2026-10-24'
+  tag: v0.9.6
+  published_at: '2026-11-01'
 commit_history:
   2026-05: 26
   2026-06: 15
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 20
   2026-09: 18
   2026-10: 28
-  2026-11: 0
+  2026-11: 4

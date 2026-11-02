@@ -9,11 +9,11 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 stargazers_count: 930
-updated_at: '2026-10-29'
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v1.5.10-canary
-  published_at: '2026-10-29'
+  tag: v1.5.11-canary
+  published_at: '2026-11-01'
 commit_history:
   2026-05: 118
   2026-06: 45
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 15
   2026-09: 0
   2026-10: 96
-  2026-11: 0
+  2026-11: 3
