@@ -8,8 +8,8 @@ platforms:
 tags:
   - 服务发现
 source_code_url: https://github.com/etcd-io/etcd
-stargazers_count: 52439
-updated_at: '2026-10-28'
+stargazers_count: 52440
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: v3.7.3
@@ -21,5 +21,5 @@ commit_history:
   2026-07: 141
   2026-08: 75
   2026-09: 62
-  2026-10: 85
-  2026-11: 0
+  2026-10: 86
+  2026-11: 3

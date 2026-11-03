@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 通信 - 社交网络和论坛
-stargazers_count: 8896
-updated_at: '2026-10-31'
+stargazers_count: 8901
+updated_at: '2026-11-02'
 archived: false
 current_release:
   tag: v4.5.1
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 26
   2026-09: 10
   2026-10: 5
-  2026-11: 0
+  2026-11: 7

@@ -9,7 +9,7 @@ platforms:
 tags:
   - 日志管理
 stargazers_count: 432
-updated_at: '2026-10-12'
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: v1.11.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 11
   2026-09: 19
   2026-10: 10
-  2026-11: 0
+  2026-11: 4
