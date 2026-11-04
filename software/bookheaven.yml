@@ -10,16 +10,16 @@ platforms:
 tags:
   - 文档管理 - 电子书
 stargazers_count: 199
-updated_at: '2026-10-30'
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v1.0.4
-  published_at: '2026-10-30'
+  tag: v1.0.6
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 7
   2026-06: 24
   2026-07: 1
   2026-08: 59
   2026-09: 82
-  2026-10: 36
-  2026-11: 0
+  2026-10: 47
+  2026-11: 8

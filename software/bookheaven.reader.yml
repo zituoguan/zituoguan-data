@@ -8,17 +8,17 @@ platforms:
   - HTML
 tags:
   - RSS 阅读器
-stargazers_count: 32
-updated_at: '2026-10-31'
+stargazers_count: 33
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v2.2.0
-  published_at: '2026-10-31'
+  tag: v2.3.0
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 2
   2026-06: 13
   2026-07: 0
   2026-08: 135
   2026-09: 61
-  2026-10: 33
-  2026-11: 0
+  2026-10: 34
+  2026-11: 21

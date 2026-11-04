@@ -9,11 +9,11 @@ platforms:
 tags:
   - 文档管理
 stargazers_count: 2956
-updated_at: '2026-10-30'
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: '@eventcatalog/visualiser@5.2.3'
-  published_at: '2026-10-30'
+  tag: '@eventcatalog/visualiser@5.2.4'
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 107
   2026-06: 50
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 81
   2026-09: 67
   2026-10: 69
-  2026-11: 0
+  2026-11: 5

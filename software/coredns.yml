@@ -8,7 +8,7 @@ platforms:
 tags:
   - DNS - 服务器
 source_code_url: https://github.com/coredns/coredns
-stargazers_count: 14403
+stargazers_count: 14408
 updated_at: '2026-11-03'
 archived: false
 current_release:
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 81
   2026-09: 82
   2026-10: 75
-  2026-11: 9
+  2026-11: 10
