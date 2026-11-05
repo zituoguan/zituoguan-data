@@ -9,7 +9,7 @@ tags:
   - 自动化
 source_code_url: https://github.com/apache/maven
 stargazers_count: 5372
-updated_at: '2026-11-04'
+updated_at: '2026-11-05'
 archived: false
 current_release:
   tag: maven-3.10.0
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 126
   2026-09: 121
   2026-10: 152
-  2026-11: 10
+  2026-11: 23

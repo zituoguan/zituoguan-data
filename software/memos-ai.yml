@@ -9,17 +9,17 @@ platforms:
   - Docker
 tags:
   - AI 记忆与持久化
-stargazers_count: 12242
-updated_at: '2026-11-02'
+stargazers_count: 12259
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: memos-local-plugin-v2.0.21
-  published_at: '2026-10-29'
+  tag: memos-local-plugin-v2.0.21-beta.1
+  published_at: '2026-11-04'
 commit_history:
   2026-05: 244
   2026-06: 44
   2026-07: 136
   2026-08: 157
   2026-09: 36
-  2026-10: 13
-  2026-11: 2
+  2026-10: 14
+  2026-11: 3
