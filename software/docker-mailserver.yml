@@ -8,12 +8,12 @@ platforms:
 tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/docker-mailserver/docker-mailserver
-stargazers_count: 19721
-updated_at: '2026-11-02'
+stargazers_count: 19725
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v16.0.1
-  published_at: '2026-09-04'
+  tag: v17.0.0
+  published_at: '2026-11-05'
 commit_history:
   2025-12: 8
   2026-01: 5
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 25
   2026-09: 26
   2026-10: 14
-  2026-11: 1
+  2026-11: 7

@@ -9,7 +9,7 @@ tags:
   - 地图和全球定位系统（GPS）
 source_code_url: https://github.com/graphhopper/graphhopper
 stargazers_count: 6755
-updated_at: '2026-11-04'
+updated_at: '2026-11-05'
 archived: false
 current_release:
   tag: '11.1'
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 21
   2026-09: 31
   2026-10: 29
-  2026-11: 4
+  2026-11: 5

@@ -9,10 +9,10 @@ platforms:
 tags:
   - 投票和活动
 stargazers_count: 941
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.4.0
+  tag: v1.4.1
   published_at: '2026-11-05'
 commit_history:
   2026-05: 2
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 2
   2026-09: 0
   2026-10: 21
-  2026-11: 53
+  2026-11: 66

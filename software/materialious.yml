@@ -12,7 +12,7 @@ stargazers_count: 1239
 updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: 1.18.15
+  tag: 1.18.16
   published_at: '2026-11-05'
 commit_history:
   2026-05: 118
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 84
   2026-09: 205
   2026-10: 147
-  2026-11: 57
+  2026-11: 69

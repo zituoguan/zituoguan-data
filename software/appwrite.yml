@@ -8,8 +8,8 @@ platforms:
 tags:
   - 软件开发 - 低代码
 source_code_url: https://github.com/appwrite/appwrite
-stargazers_count: 57859
-updated_at: '2026-11-04'
+stargazers_count: 57871
+updated_at: '2026-11-05'
 archived: false
 current_release:
   tag: 2.7.1
@@ -25,5 +25,5 @@ commit_history:
   2026-07: 1191
   2026-08: 1951
   2026-09: 4134
-  2026-10: 4622
-  2026-11: 802
+  2026-10: 4642
+  2026-11: 1048

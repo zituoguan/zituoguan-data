@@ -8,12 +8,12 @@ platforms:
   - Go
 tags:
   - 版本控制
-stargazers_count: 3697
-updated_at: '2026-10-10'
+stargazers_count: 3698
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.3.9
-  published_at: '2026-10-10'
+  tag: v2.4.0
+  published_at: '2026-11-06'
 commit_history:
   2026-05: 2
   2026-06: 0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 2
   2026-10: 3
-  2026-11: 0
+  2026-11: 3

@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/contao/contao/
 demo_url: https://demo.contao.org/contao
 stargazers_count: 450
-updated_at: '2026-11-04'
+updated_at: '2026-11-05'
 archived: false
 commit_history:
   2025-12: 128
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 101
   2026-09: 231
   2026-10: 159
-  2026-11: 24
+  2026-11: 25

@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 通信 - 社交网络和论坛
-stargazers_count: 3521
-updated_at: '2026-09-11'
+stargazers_count: 3522
+updated_at: '2026-11-05'
 archived: false
 commit_history:
   2026-05: 2
@@ -17,8 +17,8 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 76
-  2026-10: 0
-  2026-11: 0
+  2026-10: 1
+  2026-11: 20
 current_release:
   tag: agent-v0.4.0
   published_at: '2026-09-09'

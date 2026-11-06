@@ -12,8 +12,8 @@ stargazers_count: 3203
 updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: lite-v0.30.1
-  published_at: '2026-11-03'
+  tag: lite-v0.31.1
+  published_at: '2026-11-05'
 commit_history:
   2026-05: 111
   2026-06: 17
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 333
   2026-09: 278
   2026-10: 237
-  2026-11: 38
+  2026-11: 94
