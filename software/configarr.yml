@@ -8,12 +8,12 @@ platforms:
   - TypeScript
 tags:
   - 媒体管理
-stargazers_count: 675
-updated_at: '2026-11-04'
+stargazers_count: 674
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.39.0
-  published_at: '2026-11-03'
+  tag: v1.39.1
+  published_at: '2026-11-06'
 commit_history:
   2026-05: 11
   2026-06: 33
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 22
   2026-09: 57
   2026-10: 57
-  2026-11: 38
+  2026-11: 39

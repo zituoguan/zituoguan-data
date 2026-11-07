@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 2614
-updated_at: '2026-10-26'
+stargazers_count: 2627
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.6.8
-  published_at: '2026-10-26'
+  tag: v1.6.9
+  published_at: '2026-11-06'
 commit_history:
   2026-05: 4
   2026-06: 13
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 3
   2026-09: 6
   2026-10: 5
-  2026-11: 0
+  2026-11: 1

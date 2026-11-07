@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 代理
-stargazers_count: 12
-updated_at: '2026-10-18'
+stargazers_count: 13
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.9.0
-  published_at: '2026-10-16'
+  tag: v1.10.2
+  published_at: '2026-11-06'
 commit_history:
   2026-05: 0
   2026-06: 397
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 31
   2026-09: 113
   2026-10: 72
-  2026-11: 0
+  2026-11: 17

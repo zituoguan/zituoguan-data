@@ -10,8 +10,8 @@ tags:
   - 办公套件
 source_code_url: https://github.com/ether/etherpad
 demo_url: https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60
-stargazers_count: 18619
-updated_at: '2026-11-05'
+stargazers_count: 18621
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v3.3.15
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 84
   2026-09: 105
   2026-10: 128
-  2026-11: 41
+  2026-11: 47

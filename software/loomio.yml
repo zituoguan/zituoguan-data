@@ -9,7 +9,7 @@ tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/loomio/loomio
 stargazers_count: 2625
-updated_at: '2026-11-06'
+updated_at: '2026-11-07'
 archived: false
 current_release:
   tag: v3.14.1
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 371
   2026-09: 598
   2026-10: 441
-  2026-11: 93
+  2026-11: 115

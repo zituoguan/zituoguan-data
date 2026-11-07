@@ -8,8 +8,8 @@ platforms:
   - C#
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 906
-updated_at: '2026-11-05'
+stargazers_count: 907
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: 1.4.1
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 29
   2026-09: 5
   2026-10: 37
-  2026-11: 4
+  2026-11: 5

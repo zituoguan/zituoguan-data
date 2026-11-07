@@ -11,7 +11,7 @@ tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/gerbera/gerbera
 stargazers_count: 1405
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v3.3.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 7
   2026-09: 21
   2026-10: 140
-  2026-11: 14
+  2026-11: 20

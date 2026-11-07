@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - PaaS
-stargazers_count: 38267
+stargazers_count: 38278
 updated_at: '2026-11-06'
 archived: false
 current_release:
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 398
   2026-09: 240
   2026-10: 218
-  2026-11: 41
+  2026-11: 46

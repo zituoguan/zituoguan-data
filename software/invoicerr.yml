@@ -9,7 +9,7 @@ platforms:
 tags:
   - 自动化
 stargazers_count: 732
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v2.0.0-alpha.6
@@ -20,5 +20,5 @@ commit_history:
   2026-07: 152
   2026-08: 210
   2026-09: 845
-  2026-10: 597
-  2026-11: 89
+  2026-10: 599
+  2026-11: 137

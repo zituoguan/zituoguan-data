@@ -8,12 +8,12 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/element-hq/element-web
-stargazers_count: 13640
-updated_at: '2026-11-05'
+stargazers_count: 13641
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.12.34-rc.0
-  published_at: '2026-11-03'
+  tag: v1.12.34-rc.1
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 151
   2026-01: 236
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 225
   2026-09: 257
   2026-10: 214
-  2026-11: 73
+  2026-11: 79

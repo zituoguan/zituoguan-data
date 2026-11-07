@@ -10,7 +10,7 @@ platforms:
   - deb
 tags:
   - Web 服务器
-stargazers_count: 2194
+stargazers_count: 2198
 updated_at: '2026-11-06'
 archived: false
 current_release:
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 596
   2026-09: 217
   2026-10: 174
-  2026-11: 27
+  2026-11: 36
