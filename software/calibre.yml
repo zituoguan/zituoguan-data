@@ -10,8 +10,8 @@ tags:
   - 文档管理 - 电子书
 source_code_url: https://github.com/kovidgoyal/calibre
 demo_url: https://calibre-ebook.com/demo
-stargazers_count: 26369
-updated_at: '2026-11-06'
+stargazers_count: 26378
+updated_at: '2026-11-08'
 archived: false
 current_release:
   tag: v9.18.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 187
   2026-09: 259
   2026-10: 510
-  2026-11: 98
+  2026-11: 100

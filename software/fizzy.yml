@@ -9,11 +9,11 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 stargazers_count: 8287
-updated_at: '2026-11-06'
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: fizzy@d5814f5
-  published_at: '2026-11-06'
+  tag: fizzy@b09bad3
+  published_at: '2026-11-07'
 commit_history:
   2026-05: 23
   2026-06: 21
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 79
   2026-09: 56
   2026-10: 644
-  2026-11: 43
+  2026-11: 47

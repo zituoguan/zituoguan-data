@@ -9,11 +9,11 @@ tags:
   - 维基
 source_code_url: https://github.com/bouncepaw/mycorrhiza/
 stargazers_count: 379
-updated_at: '2026-11-05'
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: v1.15.1
-  published_at: '2024-10-05'
+  tag: v1.16.0
+  published_at: '2026-11-07'
 commit_history:
   2025-12: 0
   2026-01: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 16
-  2026-11: 6
+  2026-11: 18
