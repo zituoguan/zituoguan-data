@@ -9,11 +9,11 @@ tags:
   - 游戏 - 管理工具和控制面板
 source_code_url: https://github.com/GameServerManagers/LinuxGSM
 stargazers_count: 4917
-updated_at: '2026-11-04'
+updated_at: '2026-11-08'
 archived: false
 current_release:
-  tag: v26.5.0
-  published_at: '2026-11-04'
+  tag: v26.6.0
+  published_at: '2026-11-08'
 commit_history:
   2025-12: 0
   2026-01: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 151
-  2026-11: 23
+  2026-11: 56

@@ -10,11 +10,11 @@ tags:
   - 通信 - 电子邮件 - 完整解决方案
 source_code_url: https://github.com/Mailu/Mailu
 stargazers_count: 7608
-updated_at: '2026-11-06'
+updated_at: '2026-11-08'
 archived: false
 current_release:
-  tag: 2024.06.67
-  published_at: '2026-10-23'
+  tag: 2024.06.68
+  published_at: '2026-11-08'
 commit_history:
   2025-12: 4
   2026-01: 4
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 15
   2026-09: 69
   2026-10: 95
-  2026-11: 46
+  2026-11: 66

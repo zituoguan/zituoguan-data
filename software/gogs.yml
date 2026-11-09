@@ -8,8 +8,8 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/gogs/gogs
-stargazers_count: 47922
-updated_at: '2026-11-07'
+stargazers_count: 47923
+updated_at: '2026-11-08'
 archived: false
 current_release:
   tag: latest-commit-build
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 4
   2026-09: 3
   2026-10: 3
-  2026-11: 5
+  2026-11: 7

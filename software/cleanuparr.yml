@@ -8,8 +8,8 @@ platforms:
   - C#
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 2701
-updated_at: '2026-11-07'
+stargazers_count: 2703
+updated_at: '2026-11-08'
 archived: false
 current_release:
   tag: v2.11.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 44
   2026-09: 42
   2026-10: 20
-  2026-11: 30
+  2026-11: 31
