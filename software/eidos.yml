@@ -9,11 +9,11 @@ platforms:
 tags:
   - 版本控制
 stargazers_count: 3203
-updated_at: '2026-11-07'
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: lite-v0.32.0
-  published_at: '2026-11-07'
+  tag: lite-v0.33.0
+  published_at: '2026-11-09'
 commit_history:
   2026-05: 111
   2026-06: 17
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 333
   2026-09: 278
   2026-10: 237
-  2026-11: 132
+  2026-11: 171
