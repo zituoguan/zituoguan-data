@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - 生成式人工智能（GenAI）
-stargazers_count: 1748
-updated_at: '2026-11-05'
+stargazers_count: 1749
+updated_at: '2026-11-10'
 archived: false
 current_release:
   tag: v2.4.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 22
   2026-09: 5
   2026-10: 26
-  2026-11: 6
+  2026-11: 7

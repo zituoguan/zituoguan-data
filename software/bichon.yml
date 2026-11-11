@@ -10,11 +10,11 @@ platforms:
 tags:
   - 档案和数字保存
 stargazers_count: 2078
-updated_at: '2026-11-09'
+updated_at: '2026-11-10'
 archived: false
 current_release:
-  tag: 2.3.2
-  published_at: '2026-11-07'
+  tag: 2.4.0
+  published_at: '2026-11-10'
 commit_history:
   2026-04: 28
   2026-05: 110
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 34
   2026-09: 34
   2026-10: 74
-  2026-11: 31
+  2026-11: 34

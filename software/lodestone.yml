@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 游戏
-stargazers_count: 1314
-updated_at: '2026-11-10'
+stargazers_count: 1312
+updated_at: '2026-11-11'
 archived: false
 current_release:
-  tag: launcher-latest
-  published_at: '2026-11-08'
+  tag: launcher-dev-3898-2a41a88
+  published_at: '2026-11-10'
 commit_history:
   2026-05: 0
   2026-06: 0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 1002
+  2026-11: 1147

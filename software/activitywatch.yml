@@ -8,12 +8,12 @@ platforms:
 tags:
   - 工时记录
 source_code_url: https://github.com/ActivityWatch/activitywatch
-stargazers_count: 19574
+stargazers_count: 19592
 updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: v0.14.1
-  published_at: '2026-10-10'
+  tag: v0.14.2
+  published_at: '2026-11-10'
 commit_history:
   2025-12: 0
   2026-01: 0

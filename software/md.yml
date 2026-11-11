@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 13518
-updated_at: '2026-11-09'
+stargazers_count: 13522
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: '@doocs/md-cli@2.1.4'
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 48
   2026-09: 24
   2026-10: 8
-  2026-11: 4
+  2026-11: 5

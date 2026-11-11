@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/devrsi0n/chirpy
 demo_url: https://chirpy.dev/play
 stargazers_count: 600
-updated_at: '2025-06-30'
+updated_at: '2026-11-10'
 archived: false
 current_release:
   tag: '@chirpy-dev/bootstrapper@0.1.0'
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 0
+  2026-11: 2
