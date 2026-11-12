@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 文档管理
-stargazers_count: 15717
-updated_at: '2026-11-05'
+stargazers_count: 15728
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v2.21.1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 38
   2026-09: 49
   2026-10: 31
-  2026-11: 12
+  2026-11: 22

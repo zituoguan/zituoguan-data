@@ -9,7 +9,7 @@ tags:
   - 协同办公
 source_code_url: https://github.com/EGroupware/egroupware
 stargazers_count: 304
-updated_at: '2026-11-10'
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: 26.10.20261030
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 671
   2026-09: 961
   2026-10: 467
-  2026-11: 99
+  2026-11: 116

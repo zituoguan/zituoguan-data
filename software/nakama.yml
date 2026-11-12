@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 游戏
-stargazers_count: 13704
-updated_at: '2026-11-05'
+stargazers_count: 13707
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: v3.42.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 2
   2026-09: 15
   2026-10: 7
-  2026-11: 15
+  2026-11: 16

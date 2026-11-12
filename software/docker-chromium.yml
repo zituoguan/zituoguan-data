@@ -9,11 +9,11 @@ platforms:
 tags:
   - 容器
 stargazers_count: 413
-updated_at: '2026-11-04'
+updated_at: '2026-11-11'
 archived: false
 current_release:
-  tag: f1bb645d-ls62
-  published_at: '2026-11-04'
+  tag: 7b8e918f-ls63
+  published_at: '2026-11-11'
 commit_history:
   2026-05: 7
   2026-06: 4
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 5
   2026-09: 10
   2026-10: 9
-  2026-11: 1
+  2026-11: 2

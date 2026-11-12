@@ -9,8 +9,8 @@ tags:
   - 工单
 source_code_url: https://github.com/itflow-org/itflow
 demo_url: https://demo.itflow.org
-stargazers_count: 1057
-updated_at: '2026-11-09'
+stargazers_count: 1058
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: v26.11
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 202
   2026-09: 66
   2026-10: 178
-  2026-11: 38
+  2026-11: 51

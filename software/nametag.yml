@@ -9,7 +9,7 @@ platforms:
 tags:
   - 部署自动化
 stargazers_count: 1120
-updated_at: '2026-11-10'
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: v0.67.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 54
   2026-09: 7
   2026-10: 25
-  2026-11: 2
+  2026-11: 3

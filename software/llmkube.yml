@@ -10,8 +10,8 @@ platforms:
   - K8S
 tags:
   - 生成式人工智能（GenAI）
-stargazers_count: 264
-updated_at: '2026-11-10'
+stargazers_count: 266
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v0.10.17
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 192
   2026-09: 128
   2026-10: 200
-  2026-11: 76
+  2026-11: 90

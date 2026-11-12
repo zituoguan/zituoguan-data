@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - 分析
-stargazers_count: 24687
-updated_at: '2026-11-11'
+stargazers_count: 24690
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v2.10.28
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 598
   2026-09: 293
   2026-10: 303
-  2026-11: 141
+  2026-11: 188

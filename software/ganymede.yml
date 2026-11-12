@@ -9,8 +9,8 @@ tags:
   - 档案和数字保存
 source_code_url: https://github.com/Zibbp/ganymede
 depends_3rdparty: true
-stargazers_count: 1025
-updated_at: '2026-11-09'
+stargazers_count: 1026
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v5.0.2
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 61
   2026-09: 136
   2026-10: 102
-  2026-11: 32
+  2026-11: 35

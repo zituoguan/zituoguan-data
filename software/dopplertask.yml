@@ -9,7 +9,7 @@ platforms:
 tags:
   - 任务管理和待办清单
 stargazers_count: 434
-updated_at: '2026-11-10'
+updated_at: '2026-11-11'
 archived: false
 current_release:
   tag: 0.14.7
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 205
+  2026-11: 206
