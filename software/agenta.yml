@@ -9,11 +9,11 @@ platforms:
 tags:
   - 生成式人工智能（GenAI）
 stargazers_count: 4906
-updated_at: '2026-11-11'
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: v0.128.12
-  published_at: '2026-11-11'
+  tag: v0.128.13
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 1308
   2026-01: 1313
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 3209
   2026-09: 4093
   2026-10: 2663
-  2026-11: 1137
+  2026-11: 1154

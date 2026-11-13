@@ -10,7 +10,7 @@ platforms:
 tags:
   - 软件开发 - IDE 和工具
 stargazers_count: 13782
-updated_at: '2026-11-09'
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v0.1.16
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 227
   2026-09: 163
   2026-10: 93
-  2026-11: 10
+  2026-11: 14

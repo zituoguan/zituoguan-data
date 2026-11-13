@@ -8,13 +8,16 @@ platforms:
 tags:
   - 身份管理 - 单点登录（SSO）
 source_code_url: https://github.com/authelia/authelia
-stargazers_count: 28336
-updated_at: '2026-07-20'
+stargazers_count: 29638
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: v4.39.20
-  published_at: '2026-05-26'
+  tag: v4.39.28
+  published_at: '2026-09-17'
 commit_history:
   2026-05: 252
   2026-06: 175
   2026-07: 131
+  2026-09: 336
+  2026-10: 310
+  2026-11: 125

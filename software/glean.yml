@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 版本控制
-stargazers_count: 875
-updated_at: '2026-11-12'
+stargazers_count: 876
+updated_at: '2026-11-13'
 archived: false
 current_release:
   tag: v0.3.0-alpha.6
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 17
   2026-10: 7
-  2026-11: 186
+  2026-11: 198

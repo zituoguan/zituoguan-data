@@ -8,13 +8,16 @@ platforms:
   - Docker
 tags:
   - 企业资源规划（ERP）
-stargazers_count: 11521
-updated_at: '2026-07-20'
+stargazers_count: 12207
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.4.0
-  published_at: '2026-05-13'
+  tag: v1.8.0
+  published_at: '2026-11-04'
 commit_history:
   2026-05: 200
   2026-06: 290
   2026-07: 142
+  2026-09: 181
+  2026-10: 337
+  2026-11: 53

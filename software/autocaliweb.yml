@@ -10,7 +10,7 @@ tags:
   - 文档管理 - 电子书
 stargazers_count: 233
 updated_at: '2026-02-01'
-archived: false
+archived: true
 current_release:
   tag: v0.11.3
   published_at: '2025-12-09'
@@ -18,3 +18,6 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
+  2026-09: 0
+  2026-10: 0
+  2026-11: 0

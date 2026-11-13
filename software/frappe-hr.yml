@@ -10,8 +10,8 @@ platforms:
   - Node.js
 tags:
   - 人力资源管理（HRM）
-stargazers_count: 9048
-updated_at: '2026-11-11'
+stargazers_count: 9052
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v16.53.2
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 124
   2026-09: 170
   2026-10: 237
-  2026-11: 64
+  2026-11: 68

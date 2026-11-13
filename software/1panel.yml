@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 控制面板
-stargazers_count: 37435
-updated_at: '2026-11-11'
+stargazers_count: 37443
+updated_at: '2026-11-12'
 archived: false
 current_release:
   tag: v2.5.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 77
   2026-09: 115
   2026-10: 113
-  2026-11: 99
+  2026-11: 106

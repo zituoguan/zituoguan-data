@@ -8,13 +8,16 @@ platforms:
   - JavaScript
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 1186
-updated_at: '2026-07-09'
+stargazers_count: 1944
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: v1.76.51
-  published_at: '2026-07-07'
+  tag: v2.13.0
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 253
   2026-06: 19
   2026-07: 4
+  2026-09: 161
+  2026-10: 334
+  2026-11: 319

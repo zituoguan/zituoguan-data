@@ -8,13 +8,16 @@ platforms:
 tags:
   - 身份管理 - 单点登录（SSO）
 source_code_url: https://github.com/goauthentik/authentik
-stargazers_count: 22400
-updated_at: '2026-07-20'
+stargazers_count: 26328
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: version/2026.5.5
-  published_at: '2026-07-15'
+  tag: version/2026.8.5
+  published_at: '2026-10-21'
 commit_history:
   2026-05: 413
   2026-06: 530
   2026-07: 359
+  2026-09: 534
+  2026-10: 469
+  2026-11: 229

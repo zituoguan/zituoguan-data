@@ -8,9 +8,9 @@ platforms:
   - Go
 tags:
   - 自动化
-stargazers_count: 1138
+stargazers_count: 1139
 updated_at: '2026-02-18'
-archived: false
+archived: true
 current_release:
   tag: v0.24.9
   published_at: '2026-02-18'
@@ -18,3 +18,6 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
+  2026-09: 0
+  2026-10: 0
+  2026-11: 0

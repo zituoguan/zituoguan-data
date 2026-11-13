@@ -10,11 +10,11 @@ tags:
   - 游戏 - 管理工具和控制面板
 related_software_url: https://github.com/Drop-OSS/drop-app
 stargazers_count: 776
-updated_at: '2026-11-06'
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: v0.4.0-test-flatpak-2
-  published_at: '2026-10-20'
+  tag: v0.4.0-flatpak-test-4
+  published_at: '2026-11-12'
 commit_history:
   2025-12: 0
   2026-01: 20
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 12
   2026-09: 7
   2026-10: 8
-  2026-11: 6
+  2026-11: 7
