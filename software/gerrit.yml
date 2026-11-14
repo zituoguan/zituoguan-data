@@ -9,8 +9,8 @@ platforms:
 tags:
   - 软件开发 - 项目管理
 source_code_url: https://github.com/GerritCodeReview/gerrit
-stargazers_count: 1240
-updated_at: '2026-11-12'
+stargazers_count: 1239
+updated_at: '2026-11-13'
 archived: false
 commit_history:
   2025-12: 125
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 222
   2026-09: 292
   2026-10: 669
-  2026-11: 43
+  2026-11: 52

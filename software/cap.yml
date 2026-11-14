@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 密码管理器
-stargazers_count: 8364
-updated_at: '2026-11-12'
+stargazers_count: 8394
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: widget@0.1.63
-  published_at: '2026-11-12'
+  tag: capjs-core@0.1.17
+  published_at: '2026-11-13'
 commit_history:
   2026-05: 54
   2026-06: 18
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 8
   2026-09: 18
   2026-10: 10
-  2026-11: 38
+  2026-11: 42

@@ -10,7 +10,7 @@ tags:
   - 容器
 source_code_url: https://github.com/m1k1o/neko
 stargazers_count: 22676
-updated_at: '2026-11-12'
+updated_at: '2026-11-13'
 archived: false
 current_release:
   tag: v3.2.0
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 22
   2026-09: 17
   2026-10: 18
-  2026-11: 6
+  2026-11: 7

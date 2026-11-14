@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 文件传输 - 对象存储和文件服务器
-stargazers_count: 10822
-updated_at: '2026-11-12'
+stargazers_count: 10829
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: helm-chart-15.0.2
-  published_at: '2026-11-09'
+  tag: v15.1.0
+  published_at: '2026-11-13'
 commit_history:
   2026-05: 175
   2026-06: 214
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 192
   2026-09: 154
   2026-10: 218
-  2026-11: 157
+  2026-11: 172

@@ -10,12 +10,12 @@ platforms:
 tags:
   - 投票和活动
 demo_url: https://app.formbricks.com
-stargazers_count: 13237
-updated_at: '2026-11-12'
+stargazers_count: 13241
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: 6.2.0-rc.2
-  published_at: '2026-11-12'
+  tag: 6.2.0
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 73
   2026-01: 65
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 230
   2026-09: 234
   2026-10: 243
-  2026-11: 80
+  2026-11: 85

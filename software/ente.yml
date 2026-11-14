@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - 相册
-stargazers_count: 30082
-updated_at: '2026-11-12'
+stargazers_count: 30110
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: ente-cli-v0.4.4
-  published_at: '2026-11-11'
+  tag: photos-v1.3.70
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 1240
   2026-01: 1387
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 1964
   2026-09: 2155
   2026-10: 2242
-  2026-11: 221
+  2026-11: 242

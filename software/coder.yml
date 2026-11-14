@@ -11,8 +11,8 @@ platforms:
 tags:
   - 软件开发 - IDE 和工具
 source_code_url: https://github.com/coder/coder
-stargazers_count: 17372
-updated_at: '2026-11-13'
+stargazers_count: 17378
+updated_at: '2026-11-14'
 archived: false
 current_release:
   tag: v2.39.1
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 606
   2026-09: 680
   2026-10: 725
-  2026-11: 261
+  2026-11: 299
