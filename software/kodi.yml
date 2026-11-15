@@ -9,7 +9,7 @@ platforms:
 tags:
   - 流媒体 - 多媒体流媒体
 source_code_url: https://github.com/xbmc/xbmc
-stargazers_count: 21479
+stargazers_count: 21487
 updated_at: '2026-11-14'
 archived: false
 current_release:
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 336
   2026-08: 630
   2026-09: 652
-  2026-10: 1004
-  2026-11: 353
+  2026-10: 1005
+  2026-11: 384

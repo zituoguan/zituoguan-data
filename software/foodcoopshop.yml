@@ -10,7 +10,7 @@ tags:
   - 社区支持农业（CSA）
 source_code_url: https://github.com/foodcoopshop/foodcoopshop
 stargazers_count: 124
-updated_at: '2026-11-10'
+updated_at: '2026-11-14'
 archived: false
 current_release:
   tag: v4.3.0
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 33
   2026-08: 5
   2026-09: 7
-  2026-10: 22
-  2026-11: 2
+  2026-10: 26
+  2026-11: 30
