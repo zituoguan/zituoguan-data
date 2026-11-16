@@ -9,7 +9,7 @@ tags:
   - 内容管理系统（CMS）
 source_code_url: https://github.com/thomas4019/expressa
 stargazers_count: 452
-updated_at: '2026-11-14'
+updated_at: '2026-11-15'
 archived: false
 current_release:
   tag: 3.0.2
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 9
   2026-09: 10
   2026-10: 0
-  2026-11: 7
+  2026-11: 10

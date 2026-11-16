@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - 流媒体 - 视频流媒体
-stargazers_count: 1245
-updated_at: '2026-11-13'
+stargazers_count: 1249
+updated_at: '2026-11-15'
 archived: false
 current_release:
-  tag: 1.18.26
-  published_at: '2026-11-13'
+  tag: 1.18.27
+  published_at: '2026-11-15'
 commit_history:
   2026-05: 118
   2026-06: 64
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 84
   2026-09: 205
   2026-10: 147
-  2026-11: 256
+  2026-11: 260

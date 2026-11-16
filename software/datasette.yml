@@ -9,12 +9,12 @@ platforms:
 tags:
   - 数据库管理
 source_code_url: https://github.com/simonw/datasette
-stargazers_count: 11569
-updated_at: '2026-11-15'
+stargazers_count: 11576
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: 1.0a42
-  published_at: '2026-11-08'
+  tag: 1.0a43
+  published_at: '2026-11-15'
 commit_history:
   2025-12: 13
   2026-01: 12
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 3
   2026-09: 143
   2026-10: 10
-  2026-11: 122
+  2026-11: 154
