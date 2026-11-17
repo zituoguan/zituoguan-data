@@ -12,11 +12,11 @@ tags:
   - 监控和状态页面
 source_code_url: https://github.com/netxms/netxms
 stargazers_count: 433
-updated_at: '2026-11-15'
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: release-7.0.2
-  published_at: '2026-11-03'
+  tag: release-7.0.3
+  published_at: '2026-11-16'
 commit_history:
   2026-04: 173
   2026-05: 168
@@ -25,4 +25,4 @@ commit_history:
   2026-08: 183
   2026-09: 256
   2026-10: 238
-  2026-11: 175
+  2026-11: 193

@@ -8,12 +8,12 @@ platforms:
 tags:
   - 监控和状态页面
 source_code_url: https://github.com/google/cadvisor
-stargazers_count: 19530
-updated_at: '2026-10-12'
+stargazers_count: 19532
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v0.60.6
-  published_at: '2026-09-18'
+  tag: v0.61.0
+  published_at: '2026-11-16'
 commit_history:
   2026-04: 7
   2026-05: 4
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 0
   2026-09: 1
   2026-10: 2
-  2026-11: 0
+  2026-11: 3

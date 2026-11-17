@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - 自动化
-stargazers_count: 4614
+stargazers_count: 4620
 updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: helm-dagu-2.0.8
-  published_at: '2026-11-15'
+  tag: v2.27.0
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 72
   2026-01: 71
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 184
   2026-09: 175
   2026-10: 362
-  2026-11: 456
+  2026-11: 466

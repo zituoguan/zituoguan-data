@@ -9,7 +9,7 @@ tags:
   - 财务与预算管理
 source_code_url: https://github.com/galette/galette
 stargazers_count: 88
-updated_at: '2026-11-15'
+updated_at: '2026-11-16'
 archived: false
 commit_history:
   2025-12: 59
@@ -23,7 +23,7 @@ commit_history:
   2026-08: 95
   2026-09: 248
   2026-10: 249
-  2026-11: 111
+  2026-11: 122
 current_release:
   tag: nightly
   published_at: '2026-09-06'

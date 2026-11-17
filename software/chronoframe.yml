@@ -11,7 +11,7 @@ tags:
   - 相册
 demo_url: https://lens.bh8.ga/
 stargazers_count: 1987
-updated_at: '2026-11-11'
+updated_at: '2026-11-16'
 archived: false
 current_release:
   tag: v1.2.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 12
   2026-09: 34
   2026-10: 615
-  2026-11: 241
+  2026-11: 242

@@ -8,8 +8,8 @@ platforms:
   - Go
 tags:
   - 日志管理
-stargazers_count: 931
-updated_at: '2026-11-15'
+stargazers_count: 932
+updated_at: '2026-11-16'
 archived: false
 current_release:
   tag: v2.7.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 7
   2026-09: 41
   2026-10: 479
-  2026-11: 149
+  2026-11: 153

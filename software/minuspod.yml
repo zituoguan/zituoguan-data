@@ -18,7 +18,7 @@ commit_history:
   2026-08: 49
   2026-09: 53
   2026-10: 51
-  2026-11: 34
+  2026-11: 37
 current_release:
-  tag: v2.102.4
-  published_at: '2026-11-15'
+  tag: v2.102.6
+  published_at: '2026-11-16'

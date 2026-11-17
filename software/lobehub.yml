@@ -10,12 +10,12 @@ platforms:
 tags:
   - 生成式人工智能（GenAI）
 related_software_url: https://lobehub.com/mcp
-stargazers_count: 85589
-updated_at: '2026-11-16'
+stargazers_count: 85662
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v0.0.0-nightly.pr23071.39649
-  published_at: '2026-11-15'
+  tag: v0.0.0-nightly.pr23101.39711
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 546
   2026-01: 940
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 731
   2026-09: 928
   2026-10: 1320
-  2026-11: 642
+  2026-11: 720

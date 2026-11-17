@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 监控和状态页面
-stargazers_count: 7598
-updated_at: '2026-11-06'
+stargazers_count: 7628
+updated_at: '2026-11-17'
 archived: false
 current_release:
   tag: clamav-1.5.4
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 56
   2026-09: 16
   2026-10: 10
-  2026-11: 1
+  2026-11: 10
