@@ -8,12 +8,12 @@ platforms:
   - TypeScript
 tags:
   - 知识管理
-stargazers_count: 1786
-updated_at: '2026-11-12'
+stargazers_count: 1795
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v0.18.0
-  published_at: '2026-11-05'
+  tag: v0.18.1
+  published_at: '2026-11-17'
 commit_history:
   2026-05: 12
   2026-06: 7
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 23
   2026-09: 21
   2026-10: 26
-  2026-11: 11
+  2026-11: 17

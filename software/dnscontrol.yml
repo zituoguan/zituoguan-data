@@ -9,7 +9,7 @@ platforms:
 tags:
   - DNS - 控制面板与域名管理
 source_code_url: https://github.com/dnscontrol/dnscontrol
-stargazers_count: 4009
+stargazers_count: 4010
 updated_at: '2026-11-17'
 archived: false
 current_release:
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 164
   2026-09: 87
   2026-10: 76
-  2026-11: 36
+  2026-11: 56

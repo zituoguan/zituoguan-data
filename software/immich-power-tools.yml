@@ -8,17 +8,17 @@ platforms:
   - Docker
 tags:
   - 相册
-stargazers_count: 2794
-updated_at: '2026-11-10'
+stargazers_count: 2793
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: v0.25.0
-  published_at: '2026-10-05'
+  tag: v0.26.0
+  published_at: '2026-11-18'
 commit_history:
   2026-05: 8
   2026-06: 1
   2026-07: 29
   2026-08: 2
   2026-09: 12
-  2026-10: 8
-  2026-11: 2
+  2026-10: 17
+  2026-11: 3
