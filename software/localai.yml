@@ -10,12 +10,12 @@ platforms:
 tags:
   - 生成式人工智能（GenAI）
 related_software_url: https://localai.io/gallery.html
-stargazers_count: 50442
-updated_at: '2026-11-18'
+stargazers_count: 50457
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v5.0.0
-  published_at: '2026-11-18'
+  tag: dev-master
+  published_at: '2026-11-15'
 commit_history:
   2025-12: 195
   2026-01: 182
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 379
   2026-09: 586
   2026-10: 503
-  2026-11: 1345
+  2026-11: 1391

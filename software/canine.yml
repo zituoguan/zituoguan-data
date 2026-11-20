@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 自动化
-stargazers_count: 2952
-updated_at: '2026-10-24'
+stargazers_count: 2950
+updated_at: '2026-11-19'
 archived: false
 commit_history:
   2026-05: 40
@@ -18,4 +18,4 @@ commit_history:
   2026-08: 105
   2026-09: 127
   2026-10: 89
-  2026-11: 0
+  2026-11: 4

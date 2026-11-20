@@ -9,8 +9,8 @@ platforms:
 tags:
   - 流媒体 - 音频流媒体
 source_code_url: https://github.com/beetbox/beets
-stargazers_count: 15953
-updated_at: '2026-11-18'
+stargazers_count: 15958
+updated_at: '2026-11-19'
 archived: false
 current_release:
   tag: v2.14.1
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 247
   2026-08: 146
   2026-09: 184
-  2026-10: 144
-  2026-11: 97
+  2026-10: 146
+  2026-11: 119
