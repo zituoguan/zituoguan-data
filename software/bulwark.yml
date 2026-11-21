@@ -8,12 +8,12 @@ platforms:
   - TypeScript
 tags:
   - 通信 - 电子邮件 - 完整解决方案
-stargazers_count: 1512
-updated_at: '2026-11-18'
+stargazers_count: 1517
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: 1.21.2
-  published_at: '2026-11-12'
+  tag: 1.21.3
+  published_at: '2026-11-20'
 commit_history:
   2026-05: 349
   2026-06: 151
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 303
   2026-09: 507
   2026-10: 1867
-  2026-11: 2461
+  2026-11: 2534

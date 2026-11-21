@@ -10,7 +10,7 @@ platforms:
 tags:
   - 财务与预算管理
 stargazers_count: 692
-updated_at: '2026-11-19'
+updated_at: '2026-11-21'
 archived: false
 current_release:
   tag: v1.22.2
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 40
   2026-09: 115
   2026-10: 279
-  2026-11: 122
+  2026-11: 127

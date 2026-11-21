@@ -10,8 +10,8 @@ platforms:
 tags:
   - 视频监控
 source_code_url: https://github.com/blakeblackshear/frigate
-stargazers_count: 37711
-updated_at: '2026-11-19'
+stargazers_count: 37783
+updated_at: '2026-11-20'
 archived: false
 current_release:
   tag: v0.18.3
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 86
   2026-09: 290
   2026-10: 149
-  2026-11: 176
+  2026-11: 178

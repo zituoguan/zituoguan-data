@@ -10,8 +10,8 @@ tags:
   - 通信 - 定制通信系统
 source_code_url: https://github.com/gotify/server
 related_software_url: https://github.com/gotify/android
-stargazers_count: 16224
-updated_at: '2026-11-09'
+stargazers_count: 16226
+updated_at: '2026-11-20'
 archived: false
 current_release:
   tag: v3.1.1
@@ -26,6 +26,6 @@ commit_history:
   2026-06: 34
   2026-07: 43
   2026-08: 26
-  2026-09: 21
+  2026-09: 22
   2026-10: 34
-  2026-11: 7
+  2026-11: 30

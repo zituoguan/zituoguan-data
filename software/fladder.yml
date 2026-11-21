@@ -9,11 +9,11 @@ platforms:
 tags:
   - 流媒体 - 视频流媒体
 stargazers_count: 2741
-updated_at: '2026-11-15'
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v0.12.0
-  published_at: '2026-11-15'
+  tag: v0.12.1
+  published_at: '2026-11-20'
 commit_history:
   2026-05: 35
   2026-06: 22
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 56
   2026-09: 33
   2026-10: 33
-  2026-11: 47
+  2026-11: 66
