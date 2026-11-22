@@ -10,7 +10,7 @@ platforms:
 tags:
   - 企业资源规划（ERP）
 stargazers_count: 872
-updated_at: '2026-11-18'
+updated_at: '2026-11-21'
 archived: false
 current_release:
   tag: v1.9.0
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 298
   2026-09: 129
   2026-10: 12
-  2026-11: 9
+  2026-11: 16

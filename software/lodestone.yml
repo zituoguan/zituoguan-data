@@ -12,7 +12,7 @@ stargazers_count: 1315
 updated_at: '2026-11-21'
 archived: false
 current_release:
-  tag: launcher-dev-4485-d73e2cb
+  tag: launcher-dev-4489-09a619d
   published_at: '2026-11-21'
 commit_history:
   2026-05: 0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 1714
+  2026-11: 1720

@@ -9,7 +9,7 @@ tags:
   - RSS 阅读器
 source_code_url: https://github.com/samuelclay/NewsBlur
 stargazers_count: 7695
-updated_at: '2026-11-20'
+updated_at: '2026-11-21'
 archived: false
 current_release:
   tag: v0.2.2
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 99
   2026-09: 814
   2026-10: 876
-  2026-11: 297
+  2026-11: 298
