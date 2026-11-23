@@ -8,12 +8,12 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/apache/maven
-stargazers_count: 5379
-updated_at: '2026-11-19'
+stargazers_count: 5380
+updated_at: '2026-11-22'
 archived: false
 current_release:
-  tag: maven-3.10.1
-  published_at: '2026-11-15'
+  tag: maven-3.10.2
+  published_at: '2026-11-22'
 commit_history:
   2026-04: 23
   2026-05: 51
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 126
   2026-09: 121
   2026-10: 152
-  2026-11: 127
+  2026-11: 129

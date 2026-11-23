@@ -9,11 +9,11 @@ platforms:
 tags:
   - 通信 - 定制通信系统
 stargazers_count: 10958
-updated_at: '2026-11-22'
+updated_at: '2026-11-23'
 archived: false
 current_release:
-  tag: fluxer-api@2026.1122.1201
-  published_at: '2026-11-22'
+  tag: fluxer-users@2026.1123.3223
+  published_at: '2026-11-23'
 commit_history:
   2026-05: 0
   2026-06: 47
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 692
   2026-09: 587
   2026-10: 1553
-  2026-11: 479
+  2026-11: 493

@@ -8,7 +8,7 @@ platforms:
 tags:
   - 自动化
 source_code_url: https://github.com/activepieces/activepieces
-stargazers_count: 25671
+stargazers_count: 25683
 updated_at: '2026-11-22'
 archived: false
 current_release:
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 309
   2026-09: 392
   2026-10: 587
-  2026-11: 345
+  2026-11: 361

@@ -10,12 +10,12 @@ platforms:
 tags:
   - 维基
 demo_url: https://demo.leafwiki.com
-stargazers_count: 1239
+stargazers_count: 1240
 updated_at: '2026-11-22'
 archived: false
 current_release:
-  tag: v0.14.2
-  published_at: '2026-10-22'
+  tag: v0.15.0
+  published_at: '2026-11-22'
 commit_history:
   2026-04: 87
   2026-05: 95
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 91
   2026-09: 75
   2026-10: 199
-  2026-11: 121
+  2026-11: 175
