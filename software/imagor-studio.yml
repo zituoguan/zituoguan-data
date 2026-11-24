@@ -9,7 +9,7 @@ platforms:
 tags:
   - 相册
 stargazers_count: 231
-updated_at: '2026-11-22'
+updated_at: '2026-11-23'
 archived: false
 current_release:
   tag: v1.2.5
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 4
   2026-09: 1
   2026-10: 0
-  2026-11: 5
+  2026-11: 6

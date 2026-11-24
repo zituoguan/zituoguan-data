@@ -9,12 +9,12 @@ tags:
   - 库存管理
 source_code_url: https://github.com/inventree/InvenTree
 demo_url: https://inventree.org/demo
-stargazers_count: 7891
-updated_at: '2026-11-23'
+stargazers_count: 7900
+updated_at: '2026-11-24'
 archived: false
 current_release:
-  tag: 1.7.3
-  published_at: '2026-11-17'
+  tag: 1.7.4
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 67
   2026-01: 77
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 114
   2026-09: 119
   2026-10: 117
-  2026-11: 121
+  2026-11: 130

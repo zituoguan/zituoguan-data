@@ -9,7 +9,7 @@ tags:
   - 身份管理 - 工具和 Web 界面
 source_code_url: https://github.com/LDAPAccountManager/lam/
 stargazers_count: 497
-updated_at: '2026-11-19'
+updated_at: '2026-11-24'
 archived: false
 current_release:
   tag: '9.7'
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 15
   2026-09: 49
   2026-10: 70
-  2026-11: 34
+  2026-11: 50

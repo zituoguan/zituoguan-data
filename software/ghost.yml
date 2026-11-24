@@ -8,8 +8,8 @@ platforms:
 tags:
   - 博客平台
 source_code_url: https://github.com/TryGhost/Ghost
-stargazers_count: 55882
-updated_at: '2026-11-21'
+stargazers_count: 55892
+updated_at: '2026-11-23'
 archived: false
 current_release:
   tag: v6.78.0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 642
   2026-09: 636
   2026-10: 1115
-  2026-11: 687
+  2026-11: 709
