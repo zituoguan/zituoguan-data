@@ -9,8 +9,8 @@ platforms:
 tags:
   - 相册
 source_code_url: https://github.com/LycheeOrg/Lychee
-stargazers_count: 4335
-updated_at: '2026-11-23'
+stargazers_count: 4336
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: v7.13.1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 92
   2026-09: 102
   2026-10: 88
-  2026-11: 57
+  2026-11: 60

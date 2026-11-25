@@ -9,7 +9,7 @@ platforms:
 tags:
   - 游戏
 stargazers_count: 13769
-updated_at: '2026-11-12'
+updated_at: '2026-11-24'
 archived: false
 current_release:
   tag: v3.42.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 2
   2026-09: 15
   2026-10: 7
-  2026-11: 18
+  2026-11: 26

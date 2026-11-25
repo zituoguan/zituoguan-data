@@ -9,11 +9,11 @@ platforms:
 tags:
   - 通信 - 社交网络和论坛
 source_code_url: https://github.com/misskey-dev/misskey
-stargazers_count: 11399
+stargazers_count: 11400
 updated_at: '2026-11-24'
 archived: false
 current_release:
-  tag: 2026.11.1-rc.3
+  tag: 2026.11.1-rc.4
   published_at: '2026-11-24'
 commit_history:
   2025-12: 110
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 46
   2026-09: 64
   2026-10: 68
-  2026-11: 87
+  2026-11: 90

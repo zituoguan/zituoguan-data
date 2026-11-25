@@ -8,8 +8,8 @@ platforms:
   - TypeScript
 tags:
   - 版本控制
-stargazers_count: 19202
-updated_at: '2026-11-22'
+stargazers_count: 19204
+updated_at: '2026-11-24'
 archived: false
 commit_history:
   2026-05: 44
@@ -18,4 +18,4 @@ commit_history:
   2026-08: 74
   2026-09: 101
   2026-10: 174
-  2026-11: 112
+  2026-11: 113

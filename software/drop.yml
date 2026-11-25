@@ -9,8 +9,8 @@ platforms:
 tags:
   - 游戏 - 管理工具和控制面板
 related_software_url: https://github.com/Drop-OSS/drop-app
-stargazers_count: 781
-updated_at: '2026-11-22'
+stargazers_count: 782
+updated_at: '2026-11-24'
 archived: false
 current_release:
   tag: v0.4.0-flatpak-test-4
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 12
   2026-09: 7
   2026-10: 8
-  2026-11: 10
+  2026-11: 11

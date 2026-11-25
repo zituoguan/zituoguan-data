@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 媒体管理
-stargazers_count: 16408
-updated_at: '2026-11-24'
+stargazers_count: 16413
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: v0.25.34
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 201
   2026-09: 222
   2026-10: 231
-  2026-11: 159
+  2026-11: 164
