@@ -9,8 +9,8 @@ tags:
   - 电子商务
 source_code_url: https://github.com/bagisto/bagisto
 demo_url: https://demo.bagisto.com/
-stargazers_count: 28416
-updated_at: '2026-11-18'
+stargazers_count: 28418
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: v2.5.2
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 212
   2026-09: 195
   2026-10: 198
-  2026-11: 152
+  2026-11: 174

@@ -9,7 +9,7 @@ tags:
   - 制造设备管理
 source_code_url: https://github.com/manyfold3d/manyfold
 stargazers_count: 2264
-updated_at: '2026-11-24'
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: v0.154.4
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 265
   2026-09: 480
   2026-10: 514
-  2026-11: 488
+  2026-11: 500

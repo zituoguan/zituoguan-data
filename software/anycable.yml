@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/anycable/anycable
 demo_url: https://demo.anycable.io
 stargazers_count: 2392
-updated_at: '2026-11-13'
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: v1.6.21
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 8
   2026-09: 9
   2026-10: 23
-  2026-11: 28
+  2026-11: 29

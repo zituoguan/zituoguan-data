@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 文档管理
-stargazers_count: 2979
-updated_at: '2026-11-24'
+stargazers_count: 2980
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: '@eventcatalog/visualiser@5.5.1'
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 81
   2026-09: 67
   2026-10: 69
-  2026-11: 61
+  2026-11: 62

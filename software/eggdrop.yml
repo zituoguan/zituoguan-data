@@ -9,11 +9,11 @@ tags:
   - ChatOps
 source_code_url: https://github.com/eggheads/eggdrop
 stargazers_count: 591
-updated_at: '2026-11-24'
+updated_at: '2026-11-25'
 archived: false
 current_release:
-  tag: v1.10.2
-  published_at: '2026-09-06'
+  tag: v1.10.3rc1
+  published_at: '2026-11-25'
 commit_history:
   2026-04: 14
   2026-05: 30
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 5
   2026-09: 3
   2026-10: 20
-  2026-11: 13
+  2026-11: 18
