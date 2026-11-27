@@ -10,8 +10,8 @@ tags:
   - 预约与日程管理
   - 电子商务
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
-stargazers_count: 4201
-updated_at: '2026-11-25'
+stargazers_count: 4202
+updated_at: '2026-11-26'
 archived: false
 current_release:
   tag: v2.2.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 36
   2026-09: 13
   2026-10: 61
-  2026-11: 15
+  2026-11: 35

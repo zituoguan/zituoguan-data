@@ -9,11 +9,11 @@ tags:
   - 文档管理 - 机构知识库和数字图书馆
 source_code_url: https://github.com/fcrepo/fcrepo
 stargazers_count: 255
-updated_at: '2026-11-25'
+updated_at: '2026-11-26'
 archived: false
 current_release:
-  tag: fcrepo-6.5.2
-  published_at: '2026-07-16'
+  tag: fcrepo-7.1.0
+  published_at: '2026-11-26'
 commit_history:
   2025-12: 4
   2026-01: 16
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 7
   2026-09: 10
   2026-10: 1
-  2026-11: 18
+  2026-11: 26

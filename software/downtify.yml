@@ -9,7 +9,7 @@ platforms:
 tags:
   - 媒体管理
 depends_3rdparty: true
-stargazers_count: 947
+stargazers_count: 950
 updated_at: '2026-11-26'
 archived: false
 current_release:
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 22
   2026-09: 292
   2026-10: 274
-  2026-11: 370
+  2026-11: 387

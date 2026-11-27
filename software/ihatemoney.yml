@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/spiral-project/ihatemoney
 demo_url: https://ihatemoney.org/demo/
 stargazers_count: 1398
-updated_at: '2026-08-07'
+updated_at: '2026-11-26'
 archived: false
 current_release:
   tag: 7.2.1
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 35
   2026-09: 0
   2026-10: 0
-  2026-11: 0
+  2026-11: 1

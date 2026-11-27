@@ -9,12 +9,12 @@ tags:
   - 财务与预算管理
   - 库存管理
 source_code_url: https://github.com/bigcapitalhq/bigcapital
-stargazers_count: 4254
-updated_at: '2026-11-26'
+stargazers_count: 4257
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v0.25.48
-  published_at: '2026-11-21'
+  tag: v0.25.49
+  published_at: '2026-11-26'
 commit_history:
   2025-12: 43
   2026-01: 67
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 251
   2026-09: 185
   2026-10: 137
-  2026-11: 266
+  2026-11: 276
