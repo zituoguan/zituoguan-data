@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - AI 智能体
-stargazers_count: 266450
-updated_at: '2026-11-27'
+stargazers_count: 266623
+updated_at: '2026-11-28'
 archived: false
 current_release:
-  tag: canary.20261125T064800Z-v0.23.4
-  published_at: '2026-11-25'
+  tag: v0.23.5
+  published_at: '2026-11-28'
 commit_history:
   2026-05: 3354
   2026-06: 3686
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 7231
   2026-09: 20527
   2026-10: 13324
-  2026-11: 16403
+  2026-11: 16609

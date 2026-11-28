@@ -8,12 +8,12 @@ platforms:
 tags:
   - 日志管理
 source_code_url: https://github.com/grafana/loki
-stargazers_count: 29260
-updated_at: '2026-11-26'
+stargazers_count: 29269
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v4.0.0-rc.4
-  published_at: '2026-11-20'
+  tag: v4.0.0-rc.6
+  published_at: '2026-11-27'
 commit_history:
   2026-04: 209
   2026-05: 174
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 390
   2026-09: 355
   2026-10: 620
-  2026-11: 389
+  2026-11: 416

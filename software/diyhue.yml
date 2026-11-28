@@ -9,7 +9,7 @@ platforms:
 tags:
   - 物联网（IoT）
 stargazers_count: 1836
-updated_at: '2026-11-26'
+updated_at: '2026-11-27'
 archived: false
 current_release:
   tag: '2022.8'
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 5
   2026-09: 6
   2026-10: 34
-  2026-11: 9
+  2026-11: 10

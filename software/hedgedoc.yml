@@ -10,12 +10,12 @@ tags:
   - 笔记工具
 source_code_url: https://github.com/hedgedoc/hedgedoc
 demo_url: https://demo.hedgedoc.org/
-stargazers_count: 7529
+stargazers_count: 7532
 updated_at: '2026-11-26'
 archived: false
 current_release:
-  tag: 1.12.2
-  published_at: '2026-11-04'
+  tag: 1.12.3
+  published_at: '2026-11-27'
 commit_history:
   2025-12: 135
   2026-01: 75

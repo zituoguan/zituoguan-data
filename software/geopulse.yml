@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - 地图和全球定位系统（GPS）
-stargazers_count: 1506
-updated_at: '2026-11-26'
+stargazers_count: 1508
+updated_at: '2026-11-27'
 archived: false
 current_release:
   tag: v2.4.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 68
   2026-09: 64
   2026-10: 87
-  2026-11: 80
+  2026-11: 89
